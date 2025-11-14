@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:36:13 |
+| Fajr (Dawn) | 05:36:14 |
 | Sunrise | 06:45:11 |
 | Dhuhr (Noon) | 12:21:10 |
 | Medium Coeli | 12:21:10 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°16'40.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°6'47.35" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°39'36.37" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|24°24'59.61" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|12°1'16.24" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|3°12'6.07" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°17'47.53" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|25°16'40.49" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°6'47.54" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°39'36.40" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|24°24'59.59" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|12°1'16.25" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|3°12'6.06" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|14°17'47.10" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°16'40.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°6'47.35" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°39'36.37" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|24°24'59.61" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°1'16.24" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°12'6.07" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|14°17'47.53" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|25°16'40.49" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°6'47.54" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°39'36.40" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|24°24'59.59" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°1'16.25" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°12'6.06" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|14°17'47.10" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'11.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°8'37.60" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°47'50.60" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|21°50'7.16" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°48'21.97" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|5°28'41.04" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|25°8'37.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°47'50.70" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|21°50'7.06" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°48'21.73" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|5°28'41.31" |Scorpio|Akleel|Mars|
 |☾ Moon|Direct|12°38'36.43" |Leo|Zubrah|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'11.14" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'37.34" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°47'50.73" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°50'7.05" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°48'21.75" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|5°28'41.30" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|12°30'30.43" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|25°8'37.60" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°47'50.60" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°50'7.16" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°48'21.97" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|5°28'41.04" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°38'36.43" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Ch'ang-an, Ch'ang-an-hsien, Ch’ang-an, Ch’ang-an-hsien, Hsi Gnan Fu, Hsi-an, Hsi-an-shih, Hsi-ching, Hsi-ching-shih, Hsingan, SIA, Si-Gan-Fu, Sian, Sian', Siana, Sianas, Sianfu, Siano, Siaņa, Siking, Singan, Tay An, Tây An, Xi'an, Xi'an - xi an, Xi'an - 西安, Xi'an Shi, Xian, Xi’an, Xi’an Shi, Xī'ān, si xan, sian si, xi an, xi an shi, Ŝiano, Сиань, شىئەن شەھىرى, ซีอาน, 西安, 西安市, 시안 시

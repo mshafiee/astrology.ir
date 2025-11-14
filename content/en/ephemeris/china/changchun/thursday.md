@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°20'13.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°8'38.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°46'29.62" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|21°48'14.47" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°46'2.01" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|5°29'55.54" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|12°13'33.73" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|25°20'13.91" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°8'38.28" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°46'29.59" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|21°48'14.48" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°46'1.99" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|5°29'55.55" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|12°13'34.48" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°20'13.99" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'38.47" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°46'29.62" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°48'14.47" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°46'2.01" |Scorpio|Qalb|Mars|
-|☿ Mercury|Retrograde|5°29'55.54" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|12°13'33.73" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|25°20'13.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°8'38.28" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°46'29.59" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°48'14.48" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°46'1.99" |Scorpio|Qalb|Mars|
+|☿ Mercury|Retrograde|5°29'55.55" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|12°13'34.48" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: CGQ, Cancuna, Cangcun, Cangcunas, Cangcuno, Cangzcenh, Cchang-cchun, Ch'ang-ch'un-hsien, Ch'ang-ch'un-shih, Chanchun, Chanchun', Changchuen, Changchun, Changchun Shi, Chhong-chhun-su, Chhòng-chhûn-sṳ, Chángchūn, Ch’ang-ch’un-hsien, Ch’ang-ch’un-shih, Csangcsun, Diong-chung, Diòng-chŭng, Hsin-chin, Hsin-ching, Hsinking, K'ua-ch'eng-tzu, Kwan-cheng-tze, K’ua-ch’eng-tzu, Tiong-chhun-chhi, Tiông-chhun-chhī, Truong Xuan, Trường Xuân, cangacuna, changachuna, changchun si, changchwn, jangchun, tshanghtshwn, zhang chun, zhang chun shi, Çangçun, Ĉangĉuno, Čangčun, Čangčunas, Čančuņa, Čchang-čchun, Чангчуен, Чанчун, Чанчунь, Чанчүнь хот, Չանչուն, צאנגצון, تشانغتشون, چانگچون, چاڭچۈن شەھىرى, चांगचून, छांगछुन, ਚਾਂਗਚੁਨ, ചാങ്ചൻ, ချောင်ချွန်းမြို့, 長春, 長春市, 长春, 长春市, 장춘, 창춘 시

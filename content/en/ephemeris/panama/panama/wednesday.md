@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'57.21" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'49.94" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°25'54.87" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°19'41.83" |Scorpio|Qalb|Venus|
-|♀ Venus|Direct|8°10'27.00" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|5°47'58.76" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|6°14'48.35" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|25°8'52.08" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°25'48.15" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°19'26.32" |Scorpio|Qalb|Venus|
+|♀ Venus|Direct|8°10'18.51" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°47'36.72" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°24'23.35" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티

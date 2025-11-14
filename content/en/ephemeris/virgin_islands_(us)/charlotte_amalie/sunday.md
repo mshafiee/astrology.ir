@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°15'35.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°5'52.13" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°19'1.31" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|25°19'27.17" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|13°9'13.26" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|2°9'57.99" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|24°28'57.58" |Virgo|Simak|Mercury|
+|♃ Jupiter|Retrograde|25°5'49.87" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°19'7.08" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|25°19'39.68" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|13°9'19.88" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|2°10'16.95" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|25°11'15.56" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Leo|Moon|Moon|
 |♀ Venus|Saturn|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Mars|Moon|Scorpio|Moon|Mars|
-|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
+|☾ Moon|Sun|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°15'35.82" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°5'49.68" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|9°19'7.05" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|25°19'39.69" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|13°9'19.87" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|2°10'16.97" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|25°11'15.70" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|25°15'35.90" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°5'49.87" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|9°19'7.08" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|25°19'39.68" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°9'19.88" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|2°10'16.95" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|25°11'15.56" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

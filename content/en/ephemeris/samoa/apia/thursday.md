@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'35.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°8'44.69" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°36'8.25" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|21°33'52.51" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|8°28'7.88" |Libra|Ghafr|Moon|
-|☿ Mercury|Retrograde|5°39'16.68" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|9°12'57.13" |Leo|Zubrah|Saturn|
+|♃ Jupiter|Retrograde|25°8'43.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°36'6.05" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|21°33'44.18" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|8°28'2.04" |Libra|Ghafr|Moon|
+|☿ Mercury|Retrograde|5°39'8.13" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|8°11'25.99" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Moon|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|25°8'44.69" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°36'8.25" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|21°33'52.51" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°28'7.88" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|5°39'16.68" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|9°12'57.13" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|8°28'2.04" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°39'8.13" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°11'25.99" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Sun|Mercury|Aquarius|Moon|Mars|
 |☿ Mercury|Mars|Venus|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

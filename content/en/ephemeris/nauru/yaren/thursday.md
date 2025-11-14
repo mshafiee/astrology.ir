@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°20'28.97" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°8'44.82" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°39'11.79" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|21°38'5.54" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|8°33'28.55" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|5°36'19.96" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|10°45'52.52" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|25°8'42.84" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°39'15.71" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|21°38'12.98" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|8°33'31.90" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|5°36'32.45" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|10°9'15.44" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Giaren, INU, Jarehn, Jaren, Jarena, Jarenas, Jareno, Makwa, Moqua, Yaren, Yaren District, Yareni ringkond, Yarèn, dahyt yaryn, iareni, ya lun qu, ya ren, yalen gu, yarana zil'ha, yaren de qu, yaren mavattam, yarn, Γιαρέν, Јарен, Ярен, Ярэн, Յարեն, יארן, ضاحية يارين, یارن, ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ, யாரென் மாவட்டம், ยาเรน, ཡ་རེན།, იარენი, ያሬን, ヤレン地区, 亞倫區, 야렌 구

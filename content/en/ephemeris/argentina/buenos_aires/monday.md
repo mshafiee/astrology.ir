@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 19:38:56 |
 | Maghrib | 19:40:07 |
 | Isha (Night) | 21:00:18 |
-| Sharia Midnight | 23:57:48 |
+| Sharia Midnight | 23:57:47 |
 | Imum Coeli | 00:38:38 |
 {{< /tab >}}
 
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°14'35.40" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|25°4'41.10" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|9°59'33.24" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|26°15'32.37" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|14°18'55.00" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|1°1'23.05" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|5°55'58.69" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|9°59'33.85" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|26°15'34.84" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|14°18'56.86" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|1°1'26.21" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|6°17'34.54" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
