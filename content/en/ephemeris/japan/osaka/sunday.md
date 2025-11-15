@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:42:43 |
 | Sunset | 16:52:47 |
 | Maghrib | 16:53:57 |
-| Isha (Night) | 18:16:10 |
+| Isha (Night) | 18:16:11 |
 | Sharia Midnight | 22:58:46 |
 | Imum Coeli | 23:42:48 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°16'13.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°6'25.37" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°55'36.78" |Scorpio|Qalb|Mars|
-|☉ Sun|Direct|24°47'8.39" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|12°28'51.10" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|2°47'45.98" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|18°40'13.57" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|25°6'25.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°55'36.77" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|24°47'8.29" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|12°28'50.97" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|2°47'45.92" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|18°37'59.38" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°16'13.75" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°6'25.37" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°55'36.78" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|24°47'8.39" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|12°28'51.10" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|2°47'30.40" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|18°18'13.40" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|25°16'13.67" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°6'25.17" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°55'36.76" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|24°47'8.40" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|12°28'51.09" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|2°47'46.00" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|18°40'13.89" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

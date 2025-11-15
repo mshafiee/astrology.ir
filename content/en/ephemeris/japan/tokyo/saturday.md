@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:25:47 |
 | Sunset | 16:34:38 |
 | Maghrib | 16:35:51 |
-| Isha (Night) | 18:01:27 |
+| Isha (Night) | 18:01:28 |
 | Sharia Midnight | 22:37:36 |
 | Imum Coeli | 23:25:52 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°17'29.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°7'23.06" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°11'21.66" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|23°45'45.64" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|11°12'34.70" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|3°51'51.55" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|5°12'41.33" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|25°7'22.70" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°11'27.05" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|23°46'0.29" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|11°12'43.66" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|3°52'11.29" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|6°25'0.69" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°17'29.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°7'22.51" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°11'27.02" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|23°46'0.31" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°12'43.65" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°52'11.31" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|6°25'1.29" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|25°17'29.72" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°7'22.70" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°11'27.05" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|23°46'0.29" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°12'43.66" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°52'11.29" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|6°25'0.69" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:55:08 |
-| Sunrise | 07:11:58 |
+| Sunrise | 07:11:57 |
 | Dhuhr (Noon) | 12:49:21 |
 | Medium Coeli | 12:49:21 |
 | Sunset | 18:26:34 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:08:15 |
-| Sunrise | 07:11:58 |
+| Sunrise | 07:11:57 |
 | Dhuhr (Noon) | 12:49:21 |
 | Medium Coeli | 12:49:21 |
 | Sunset | 18:26:34 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:48:36 |
-| Sunrise | 07:11:58 |
+| Sunrise | 07:11:57 |
 | Dhuhr (Noon) | 12:49:21 |
 | Medium Coeli | 12:49:21 |
 | Sunset | 18:26:34 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:52:57 |
-| Sunrise | 07:11:58 |
+| Sunrise | 07:11:57 |
 | Dhuhr (Noon) | 12:49:21 |
 | Medium Coeli | 12:49:21 |
 | Sunset | 18:26:34 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°13'38.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°3'18.77" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°40'45.50" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|27°12'24.21" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|15°29'41.99" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|29°47'9.08" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|16°31'52.04" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|25°3'19.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°40'47.25" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|27°12'31.28" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|15°29'47.12" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|29°47'18.91" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|17°25'54.96" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Leo|Moon|Moon|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}
