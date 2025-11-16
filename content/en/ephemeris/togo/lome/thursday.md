@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Sun|Servant|07:44:06|08:43:15|Attraction of financial and emotional love|
 |4|Venus|Servant|08:43:16|09:42:24|Creating love, connection and marriage|
 |5|Mercury|Servant|09:42:25|10:41:34|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Moon|Servant|10:41:35|11:40:43|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Moon|Servant|10:41:35|11:40:43|Outer and inner journey|
 |7|Saturn|Servant|11:40:44|12:39:52|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Jupiter|Ruler|12:39:53|13:39:02|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|13:39:03|14:38:11|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°12'48.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°1'49.99" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°21'56.02" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°9'10.43" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|16°40'27.24" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|28°30'34.12" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|26°48'3.44" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|25°1'48.51" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°22'2.82" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°9'28.04" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|16°40'37.67" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|28°30'59.81" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|28°35'14.86" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Mercury|Sun|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Jupiter|Aries|Moon|Moon|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
