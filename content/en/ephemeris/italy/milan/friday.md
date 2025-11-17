@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:09:09 |
 | Sunset | 16:47:42 |
 | Maghrib | 16:50:13 |
-| Isha (Night) | 18:33:11 |
+| Isha (Night) | 18:33:10 |
 | Sharia Midnight | 23:16:44 |
 | Imum Coeli | 00:09:16 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°11'59.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°59'55.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|12°7'20.19" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°11'54.41" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|17°58'17.85" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|27°7'24.20" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°40'29.04" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|24°59'56.26" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|12°7'20.05" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°11'54.21" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|17°58'17.84" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|27°7'23.97" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|10°38'26.82" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

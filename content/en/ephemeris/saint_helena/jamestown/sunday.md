@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:07:40 |
 | Medium Coeli | 12:07:40 |
 | Sunset | 18:33:57 |
-| Maghrib | 18:37:08 |
+| Maghrib | 18:37:09 |
 | Isha (Night) | 19:52:50 |
 | Sharia Midnight | 23:28:14 |
 | Imum Coeli | 00:07:45 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°17'2.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°7'4.39" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°26'43.67" |Scorpio|Akleel|Mars|
-|☉ Sun|Direct|24°7'9.34" |Libra|Jubana|Jupiter|
-|♀ Venus|Direct|11°39'4.44" |Libra|Ghafr|Saturn|
-|☿ Mercury|Retrograde|3°30'50.38" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|10°37'57.46" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|25°17'2.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°7'4.20" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°26'43.64" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|24°7'9.36" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|11°39'4.42" |Libra|Ghafr|Saturn|
+|☿ Mercury|Retrograde|3°30'50.39" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|10°37'57.98" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°17'2.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°7'4.39" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°26'43.67" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|24°7'9.34" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|11°39'4.44" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|3°30'50.38" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|10°37'57.46" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|25°17'2.66" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°7'4.20" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°26'43.64" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|24°7'9.36" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|11°39'4.17" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|3°30'51.85" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|10°20'11.39" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:53:49|06:54:47|Attraction of material wealth, earning and prosperity|
+|1|Jupiter|Ruler|05:53:49|06:54:47|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mars|Servant|06:54:48|07:55:46|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Sun|Servant|07:55:47|08:56:45|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Venus|Servant|08:56:46|09:57:44|The moon is in Scorpio, Not suitable for doing anything.|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°11'54.84" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°59'44.66" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|12°11'44.12" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|29°17'58.89" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°5'50.41" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|26°59'26.83" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°58'6.09" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|24°59'44.24" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|12°11'44.27" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|29°17'58.64" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°5'50.03" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|26°59'26.30" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°59'15.30" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

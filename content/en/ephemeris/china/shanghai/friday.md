@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:58:16 |
+| Fajr (Dawn) | 04:58:15 |
 | Sunrise | 06:26:10 |
 | Dhuhr (Noon) | 11:39:59 |
 | Medium Coeli | 11:39:59 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°11'31.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°58'36.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°36'34.34" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|29°52'12.07" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|18°48'23.52" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|26°14'58.30" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|18°38'5.24" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|25°11'31.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°58'37.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°36'34.06" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|29°52'11.55" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|18°48'23.35" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|26°14'57.66" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|18°33'9.54" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°11'31.18" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°58'36.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|12°36'34.34" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|25°11'31.26" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°58'37.07" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|12°36'34.38" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|29°52'12.07" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°48'23.52" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|18°48'23.54" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|26°14'58.30" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°38'5.24" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|18°38'5.17" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

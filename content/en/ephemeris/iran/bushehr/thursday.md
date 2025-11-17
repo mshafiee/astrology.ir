@@ -225,7 +225,7 @@ Timetable of twelve day and night planetary hours
 |7|Saturn|Servant|11:52:09|12:45:12|Achieving status and power|
 |8|Jupiter|Ruler|12:45:13|13:38:17|Attraction of happiness and fortune|
 |9|Mars|Servant|13:38:18|14:31:22|Reaching status and promotion|
-|10|Sun|Servant|14:31:23|15:24:27|Fulfilling needs|
+|10|Sun|Servant|14:31:23|15:24:27|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|15:24:28|16:17:32|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|16:17:33|17:10:37|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'54.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°1'59.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°17'5.89" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°2'38.26" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|16°32'8.36" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|28°40'9.96" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|27°11'50.18" |Libra|Akleel|Jupiter|
+|♄ Saturn|Retrograde|25°12'53.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°1'59.81" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°17'6.07" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°2'38.48" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|16°32'8.41" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|28°40'10.29" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|27°12'57.67" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,8 +341,8 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|25°12'53.97" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|25°1'59.81" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°17'6.07" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°2'38.48" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|16°32'8.41" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°2'38.25" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|16°32'8.38" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|28°40'9.96" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|27°11'50.41" |Scorpio|Shaulah|Venus|
 

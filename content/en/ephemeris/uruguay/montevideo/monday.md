@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:51:55 |
 | Isha (Night) | 20:46:30 |
 | Sharia Midnight | 23:40:21 |
-| Imum Coeli | 00:29:52 |
+| Imum Coeli | 00:29:53 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 19:32:00 |
 | Isha (Night) | 21:08:15 |
 | Sharia Midnight | 23:34:28 |
-| Imum Coeli | 00:29:52 |
+| Imum Coeli | 00:29:53 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|9°59'16.07" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|26°15'8.63" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|14°18'25.47" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|1°1'53.13" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|5°51'5.63" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|1°1'53.51" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|6°7'11.24" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
