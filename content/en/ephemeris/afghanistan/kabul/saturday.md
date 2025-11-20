@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°11'25.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°58'17.86" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°43'10.93" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|0°1'15.52" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|18°59'41.58" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|26°3'13.47" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|20°9'40.30" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Retrograde|24°58'20.14" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°43'9.75" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|0°1'15.87" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|18°59'42.96" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|26°3'15.34" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|19°49'41.90" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Jupiter|Taurus|Moon|Moon|
 |☿ Mercury|Sun|Venus|Leo|Moon|Moon|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|24°58'18.42" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°43'11.99" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|0°1'19.63" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|18°59'41.58" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|26°3'13.47" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|20°9'40.30" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°59'44.48" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|26°3'19.96" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|20°24'6.61" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

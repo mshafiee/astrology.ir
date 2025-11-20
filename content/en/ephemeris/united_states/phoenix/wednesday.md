@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°12'31.07" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°1'12.17" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°37'15.56" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°30'26.75" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|17°6'43.65" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|28°2'45.00" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|2°37'50.83" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|25°1'12.56" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°37'12.19" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°30'17.38" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|17°6'37.94" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|28°2'31.26" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|1°40'55.31" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Jupiter|Aries|Moon|Moon|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Mars|Moon|Sagittarius|Moon|Mars|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°12'31.07" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°1'11.63" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°37'15.64" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°30'26.49" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|17°6'43.28" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|28°2'44.56" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°36'38.27" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|25°1'12.17" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°37'15.56" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°30'26.75" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|17°6'43.65" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|28°2'45.00" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°37'50.83" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

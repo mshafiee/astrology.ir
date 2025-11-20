@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:08:27 |
+| Fajr (Dawn) | 04:08:26 |
 | Sunrise | 05:59:10 |
 | Dhuhr (Noon) | 13:00:56 |
 | Medium Coeli | 13:00:56 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°13'10.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°2'31.85" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°3'12.60" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|27°43'27.05" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|16°8'18.02" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|29°5'50.33" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|23°10'47.87" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|25°2'32.50" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°3'11.79" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|27°43'25.75" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|16°8'17.54" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|29°5'48.39" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|23°4'49.42" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

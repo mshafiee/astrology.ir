@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:55:38 |
 | Medium Coeli | 11:55:38 |
 | Sunset | 16:40:31 |
-| Maghrib | 16:46:14 |
+| Maghrib | 16:46:13 |
 | Isha (Night) | 18:17:15 |
 | Sharia Midnight | 23:04:45 |
 | Imum Coeli | 23:55:45 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:55:38 |
 | Medium Coeli | 11:55:38 |
 | Sunset | 16:40:31 |
-| Maghrib | 16:46:14 |
+| Maghrib | 16:46:13 |
 | Isha (Night) | 18:05:54 |
 | Sharia Midnight | 23:13:15 |
 | Imum Coeli | 23:55:45 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:55:38 |
 | Medium Coeli | 11:55:38 |
 | Sunset | 16:40:31 |
-| Maghrib | 16:46:14 |
+| Maghrib | 16:46:13 |
 | Isha (Night) | 18:22:54 |
 | Sharia Midnight | 23:04:45 |
 | Imum Coeli | 23:55:45 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°13'41.45" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°3'23.87" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°38'54.14" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|27°9'54.41" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|15°26'32.87" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|29°50'43.12" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°46'41.63" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|25°3'25.58" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°38'47.62" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|27°9'38.13" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°26'23.39" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|29°50'19.40" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|15°11'49.72" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Virgo|Sun|Sun|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
