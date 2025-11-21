@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:15:40 |
+| Fajr (Dawn) | 05:15:41 |
 | Sunrise | 07:30:44 |
 | Dhuhr (Noon) | 11:29:23 |
 | Medium Coeli | 11:29:23 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°12'3.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°0'5.79" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°3'41.17" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|29°6'52.44" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|17°52'2.69" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|27°14'2.81" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|9°38'22.57" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Retrograde|25°0'5.86" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°3'40.76" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|29°6'51.36" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|17°52'2.05" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|27°14'1.22" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|9°31'53.45" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

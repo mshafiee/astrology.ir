@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Moon|Servant|10:49:10|11:52:39|Outer and inner journey|
 |7|Saturn|Servant|11:52:40|12:56:08|Achieving status and power|
 |8|Jupiter|Ruler|12:56:09|13:59:38|Attraction of happiness and fortune|
-|9|Mars|Servant|13:59:39|15:03:08|Reaching status and promotion|
+|9|Mars|Servant|13:59:39|15:03:08|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|15:03:09|16:06:37|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|16:06:38|17:10:07|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|17:10:08|18:13:37|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°12'55.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°2'4.92" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°16'1.43" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°1'4.05" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|16°30'20.72" |Libra|Jubana|Saturn|
-|☿ Mercury|Retrograde|28°41'38.86" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|25°37'14.38" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|25°2'2.38" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°16'7.35" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°1'17.24" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|16°30'27.72" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|28°41'58.14" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|26°54'23.60" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Mars|Venus|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'38.65" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'19.68" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°42'20.02" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°22'41.41" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°40'54.41" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°25'27.60" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°22'45.61" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|25°10'38.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°55'19.69" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°42'19.98" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°22'41.32" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°40'54.36" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°25'27.47" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°22'17.44" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'38.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'19.68" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°42'20.02" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°22'41.41" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°40'54.41" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°25'27.60" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°22'45.61" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°55'20.21" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°42'20.92" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°22'45.03" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°40'56.95" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°25'33.57" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°26'20.68" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

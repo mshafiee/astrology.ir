@@ -220,7 +220,7 @@ Timetable of twelve day and night planetary hours
 |2|Mars|Servant|06:44:57|07:44:05|Destruction of enemies|
 |3|Sun|Servant|07:44:06|08:43:15|Attraction of financial and emotional love|
 |4|Venus|Servant|08:43:16|09:42:24|Creating love, connection and marriage|
-|5|Mercury|Servant|09:42:25|10:41:34|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Mercury|Servant|09:42:25|10:41:34|Indulgence|
 |6|Moon|Servant|10:41:35|11:40:43|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Saturn|Servant|11:40:44|12:39:52|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Jupiter|Ruler|12:39:53|13:39:02|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'48.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°1'48.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°22'2.82" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°9'28.04" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|16°40'37.67" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|25°12'48.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°1'48.32" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°22'2.79" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°9'28.05" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|16°40'37.65" |Libra|Jubana|Saturn|
 |☿ Mercury|Retrograde|28°30'59.81" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|26°48'3.44" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|28°35'14.65" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Sun|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Mercury|Sun|
-|☾ Moon|Venus|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Saturn|Jupiter|Aries|Moon|Moon|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|25°1'48.51" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°22'2.82" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|28°9'28.04" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|16°40'27.24" |Scorpio|Qalb|Sun|
-|☿ Mercury|Retrograde|28°30'34.12" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|26°48'3.44" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|16°40'37.67" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|28°30'59.81" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°35'14.86" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}

@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:50:22 |
 | Sunset | 17:35:06 |
 | Maghrib | 17:36:04 |
-| Isha (Night) | 18:37:25 |
+| Isha (Night) | 18:37:26 |
 | Sharia Midnight | 23:19:21 |
 | Imum Coeli | 23:50:29 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'39.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°1'29.72" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°29'59.00" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°20'24.96" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|16°54'14.72" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|25°12'39.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°1'29.52" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°29'58.97" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°20'24.97" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|16°54'14.70" |Libra|Jubana|Saturn|
 |☿ Mercury|Retrograde|28°16'15.86" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|0°44'8.52" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|0°44'8.33" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'39.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°1'29.72" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°29'59.00" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°20'24.96" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|16°54'14.72" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|25°12'39.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°1'29.52" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°29'58.97" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°20'24.97" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|16°54'14.70" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|28°16'15.86" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°44'8.52" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°44'8.33" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

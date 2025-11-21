@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:06:31 |
 | Dhuhr (Noon) | 12:06:04 |
 | Medium Coeli | 12:06:04 |
-| Sunset | 17:05:19 |
+| Sunset | 17:05:20 |
 | Maghrib | 17:06:33 |
 | Isha (Night) | 18:21:56 |
 | Sharia Midnight | 23:28:03 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 09:58:48|Night duration: 14:02:12|
+|Duration of the day: 09:58:49|Night duration: 14:02:11|
 |Every hour of day duration: 00:49:54|Every hour of night duration: 01:10:11|
 
  
@@ -227,12 +227,12 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|13:45:43|14:35:36|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|14:35:37|15:25:30|Good for any task|
 |11|Mars|Servant|15:25:31|16:15:24|Creating enmity and negative energy|
-|12|Sun|Servant|16:15:25|17:05:18|Heart tenderness|
+|12|Sun|Servant|16:15:25|17:05:19|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|17:05:19|18:15:29|Repelling magic, attracting discharged energy|
+|1|Venus|Ruler|17:05:20|18:15:29|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|18:15:30|19:25:40|Outer and inner journey|
 |3|Moon|Servant|19:25:41|20:35:51|Marriage connection is good|
 |4|Saturn|Servant|20:35:52|21:46:02|Repelling and destroying enemies and discharging enemy energy|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 09:58:48|Night duration: 14:02:12|
+|Duration of the day: 09:58:49|Night duration: 14:02:11|
 |Every hour duration: 01:25:33|Every hour duration: 02:00:19|
 
  
@@ -266,19 +266,19 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Moon|Ruler|07:06:31|08:32:02|
 |Mid-morning|Saturn|Servant|08:32:03|09:57:35|
-|Late morning|Jupiter|Servant|09:57:36|11:23:07|
-|Noon|Mars|Servant|11:23:08|12:48:40|
-|Early afternoon|Sun|Servant|12:48:41|14:14:12|
-|Mid-afternoon|Venus|Servant|14:14:13|15:39:45|
-|Late afternoon|Mercury|Servant|15:39:46|17:05:18|
+|Late morning|Jupiter|Servant|09:57:36|11:23:08|
+|Noon|Mars|Servant|11:23:09|12:48:40|
+|Early afternoon|Sun|Servant|12:48:41|14:14:13|
+|Mid-afternoon|Venus|Servant|14:14:14|15:39:46|
+|Late afternoon|Mercury|Servant|15:39:47|17:05:19|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|17:05:19|19:05:36|
-|Late evening|Mercury|Servant|19:05:37|21:05:55|
-|Midnight|Moon|Servant|21:05:56|23:06:14|
-|Late at night|Saturn|Servant|23:06:15|01:06:33|
+|Evening|Venus|Ruler|17:05:20|19:05:37|
+|Late evening|Mercury|Servant|19:05:38|21:05:56|
+|Midnight|Moon|Servant|21:05:57|23:06:15|
+|Late at night|Saturn|Servant|23:06:16|01:06:33|
 |Rooster song|Jupiter|Servant|01:06:34|03:06:52|
 |False Dawn|Mars|Servant|03:06:53|05:07:11|
 |Dawn|Sun|Servant|05:07:12|07:07:30|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'15.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°53'20.08" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°18'47.04" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|25°10'15.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°53'19.88" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°18'47.01" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|2°12'50.74" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|21°43'12.98" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|23°32'10.04" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|16°14'58.29" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|21°43'12.96" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|23°32'10.05" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|16°14'58.68" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'15.80" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°53'20.08" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°18'47.04" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|25°10'15.71" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°53'19.88" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°18'47.01" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|2°12'50.74" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|21°43'12.98" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|23°32'10.04" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|16°14'58.29" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|21°43'12.96" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|23°32'10.05" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|16°14'58.68" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

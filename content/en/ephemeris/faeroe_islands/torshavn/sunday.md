@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'40.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'27.96" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°39'58.36" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°19'26.48" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°36'53.22" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°29'4.40" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°29'28.40" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°55'28.01" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°39'58.68" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°19'27.42" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°36'53.99" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°29'5.94" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°27'41.45" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Havn, THorshoefn, THunreshaefen, Thori Portus, Thorshavn, Torschavn, Torsgavn, Torshamn, Torshaunas, Torshavn, Torshgavn, Torshkhavn, Torskhaun, Torskhavn, Tourshavna, Touršhavna, Tórshavn, lei shen gang, thosa'una, thxrs hea n, toleuseuhaun, tosuhaun, tuo er si gang, twshhafn, twshhawn, tۆrshawn, Þunreshæfen, Þórshöfn, Τόρσχαβν, Торсгавн, Торсхавн, Торсхаўн, Торшгавн, Торшхавн, Տորսհավն, טורסהאבן, تورشھاون, توشهافن, توشهاون, تۆرشاون, ਥੋਸ਼ਾਊਨ, ทอร์สเฮาน์, ტორსჰავნი, トースハウン, 托爾斯港, 雷神港, 토르스하운

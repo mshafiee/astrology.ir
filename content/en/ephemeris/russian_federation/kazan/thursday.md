@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 15:28:55 |
 | Maghrib | 15:31:14 |
 | Isha (Night) | 17:43:28 |
-| Sharia Midnight | 22:22:17 |
+| Sharia Midnight | 22:22:18 |
 | Imum Coeli | 23:29:15 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'51.21" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|25°1'54.15" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°19'40.89" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|28°6'10.85" |Libra|Akleel|Jupiter|
-|♀ Venus|Direct|16°36'34.23" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|25°12'51.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|25°1'53.96" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°19'40.86" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|28°6'10.87" |Libra|Akleel|Jupiter|
+|♀ Venus|Direct|16°36'34.22" |Libra|Jubana|Saturn|
 |☿ Mercury|Retrograde|28°35'17.44" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|27°39'44.72" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|27°39'44.50" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°12'51.21" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|25°1'54.15" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°19'40.89" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|28°6'10.85" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|16°36'34.23" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|25°12'51.13" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|25°1'53.96" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°19'40.86" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|28°6'10.87" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|16°36'34.22" |Scorpio|Qalb|Sun|
 |☿ Mercury|Retrograde|28°35'17.44" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|27°39'44.72" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|27°39'44.50" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

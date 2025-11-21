@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'41.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'35.09" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°37'50.23" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°16'32.61" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°33'14.87" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°32'32.43" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|5°1'31.51" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|24°55'34.62" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°37'50.60" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°16'32.94" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°33'14.84" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°32'32.49" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°10'36.40" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|13°37'50.60" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|1°16'32.94" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|20°33'14.84" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°32'32.49" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°10'36.40" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|24°32'10.75" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°8'57.89" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Moon|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피
