@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'43.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'42.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°36'0.05" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°13'59.32" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°30'8.61" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°35'13.64" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°45'13.70" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Retrograde|24°55'40.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°36'3.55" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°14'5.90" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°30'11.70" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°35'21.46" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°44'28.17" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'42.97" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'39.98" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°36'3.52" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°14'5.91" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°30'11.68" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°35'21.47" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°44'28.45" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|25°10'43.05" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°55'40.17" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°36'3.55" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°14'5.90" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°30'11.70" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°35'21.46" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°44'28.17" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CKY, Conacri, Conakry, Konakri, Konakrio, Konakris, Konakry, ke na ke li, konakeuli, konakuri, Κόνακρι, Конакри, קונאקרי, コナクリ, 科納克里, 코나크리

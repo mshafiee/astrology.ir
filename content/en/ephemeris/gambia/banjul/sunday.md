@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'42.58" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'38.26" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°36'35.92" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°14'50.48" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°31'7.08" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°34'30.64" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°53'13.66" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|25°10'42.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°55'38.46" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°36'35.95" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°14'50.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°31'7.10" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°34'30.63" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°53'13.38" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'42.67" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°55'38.46" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°36'34.92" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°14'47.64" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°31'5.38" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°34'26.50" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°40'9.15" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|13°36'35.95" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°14'50.47" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°31'7.10" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°34'30.63" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°53'13.38" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BJL, Bandzhul, Bandzul, Bandzula, Bandzulis, Bandżul, Bandžula, Bandžulis, Banjoul, Banjul, Banjulo, Banyul, Banzhul, Banĵulo, Bathurst, Bathurstopolis, Mpanzoul, bajula, ban cul, ban zhu, ban zhu er, banjul, banjula, banjuli, banjuru, banjwl, bngwl, pancul, Μπανζούλ, Банджул, Банжул, Банџул, Банҷул, Բանջուլ, באנזשול, בנגול, بانجول, बंजुल, बाञ्जुल, ਬੰਜੁਲ, பஞ்சுல், บันจูล, བཱན་ཇཱུ་ལ།, ბანჯული, ባንጁል, バンジュール, 班珠尔, 班竹, 반줄

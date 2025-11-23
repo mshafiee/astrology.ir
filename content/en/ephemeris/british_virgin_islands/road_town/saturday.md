@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|25°10'38.39" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|24°55'19.00" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|13°42'43.72" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°23'6.77" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°41'29.47" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°24'43.16" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°12'23.53" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|1°23'16.38" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°41'35.94" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°24'58.30" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°32'21.02" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|25°10'38.39" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°55'19.00" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|13°42'43.72" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°23'6.77" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°41'29.47" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°24'43.16" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°12'23.53" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|1°23'16.38" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°41'35.94" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°24'58.30" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°32'21.02" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

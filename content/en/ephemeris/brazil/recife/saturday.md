@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'41.82" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'34.62" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°37'50.60" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°16'32.94" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°33'14.84" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Retrograde|24°55'35.18" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°37'45.37" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°16'18.15" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°33'5.74" |Scorpio|Qalb|Venus|
 |☿ Mercury|Retrograde|24°32'10.75" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°8'57.89" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|4°8'57.60" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Arrecife, Fernambucum, Mauricea, Mauricéa, Pernambuco, REC, Recife, Rehsifi, Resife, Resifi, Resifė, hesiphi, hesipi, lei xi fei, li si fei, re sifi, recihpi, reshife, resiphe, resipi, risifi, rsyph, rysyf, rysyfy, Ρεσίφε, Ресифе, Ресифи, Ресіфі, Рэсіфі, Ռեսիֆի, רסיפה, ريسيفي, ریسیف, रिसीफ़ी, रेसिफे, রেসিফে, হেসিফি, ரெசிஃபி, เรซีฟี, რესიფი, レシフェ, 李斯腓, 累西腓, 헤시피

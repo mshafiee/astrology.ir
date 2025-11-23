@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'44.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'46.63" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°34'1.66" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|25°10'44.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°55'46.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°34'1.63" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|1°11'17.36" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°26'43.32" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°38'30.06" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°2'52.97" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°26'43.30" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°38'30.07" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°58'20.99" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'44.63" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'45.48" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°34'1.74" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°11'15.70" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°26'41.63" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°38'26.48" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°17'25.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°55'46.63" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°34'1.66" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°11'17.36" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°26'43.32" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°38'30.06" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°2'52.97" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Moon|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BEG, Belehrad, Belgrad, Belgrada, Belgradas, Belgrade, Belgrado, Belgradu, Belgrau, Belgrað, Belgrád, Belgráu, Beligradi, Belogradum, Belohrod, Beograd, Beogradi, Beogrado, Bèlgrade, Bělehrad, Běłohród, Nandorfehervar, Nándorfehérvár, Singidunum, be-ogeuladeu, bei er ge lai de, belgradi, beogurado, blghrad, blgrd, pelkiret, Βελιγράδι, Белград, Београд, Бѣлъ Градъ · Срьбїи, Բելգրադ, בלגרד, بلغراد, بېلگراد, பெல்கிறேட், ბელგრადი, በልግራድ, ベオグラード, 贝尔格莱德, 베오그라드

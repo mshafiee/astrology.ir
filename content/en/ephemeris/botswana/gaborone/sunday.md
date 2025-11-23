@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'47.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°56'0.76" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°29'33.31" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°5'8.10" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°19'4.53" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°45'35.26" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|2°49'14.94" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|25°10'47.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°56'0.57" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°29'33.28" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°5'8.11" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°19'4.51" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°45'35.27" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°49'15.20" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'47.79" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°56'0.76" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°29'33.31" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°5'8.10" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°19'4.53" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°45'35.26" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|2°49'14.94" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°56'0.57" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°29'33.28" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°5'8.11" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°19'4.51" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°45'35.27" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|2°49'15.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GBE, Gabaroneh, Gaberones, Gaberones Village, Gaberono, Gaboron, Gaboronas, Gaborone, Gaboròn, Gaboróne, IGaborone, Nkamporone, Qaborone, gabolone, gaborone, gaboroni, gabwrwn, gbrwn, gebaroni, goborni, haborone, jabwrwn, jia bai long li, jia bo long li, ka bo rone, kaparoni, Γκαμπορόνε, Габаронэ, Габороне, Գաբորոնե, גאבאראן, גאבורון, جابورون, گابورون, گابۆرۆن, گبرون, गॅबारोनी, गोबोर्नी, ਗਾਬੋਰੋਨੀ, காபரோனி, กาโบโรเน, ག་བོ་རོ་ནི།, გაბორონე, ጋበሮኔ, ጋቦሮን, ハボローネ, 嘉柏隆里, 嘉波隆里, 가보로네
