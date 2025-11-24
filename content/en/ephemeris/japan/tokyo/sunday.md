@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|25°10'25.29" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°54'13.71" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|14°2'48.98" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°50'38.78" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|21°15'47.19" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|23°54'27.59" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°52'37.80" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|1°50'53.62" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|21°15'56.12" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|23°54'48.74" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°54'58.11" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Edo, TYO, Tochiu, Tocio, Tokija, Tokijas, Tokio, Tokió, Tokjo, Tokyo, Toquio, Toquio - dong jing, Toquio - 東京, Tòquio, Tókýó, Tóquio, Tōkyō, dokyo, dong jing, dong jing dou, dong-gyeong, tokeiyw, toki'o, tokkiyo, tokyo, twkyw, twqyw, Τόκιο, Токио, Токё, Токіо, Տոկիո, טוקיו, توكيو, توکیو, طوكيو, ܛܘܟܝܘ, ܜܘܟܝܘ, टोक्यो, টোকিও, டோக்கியோ, โตเกียว, ტოკიო, 东京, 東京, 東京都, 도쿄, 동경

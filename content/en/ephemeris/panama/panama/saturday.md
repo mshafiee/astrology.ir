@@ -232,7 +232,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|17:54:43|18:56:19|Related to talismans, amulets and responses|
+|1|Mercury|Ruler|17:54:43|18:56:19|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Moon|Servant|18:56:20|19:57:57|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Saturn|Servant|19:57:58|20:59:35|Vengeful and evil deeds|
 |4|Jupiter|Servant|20:59:36|22:01:12|Dominance, judgment and issuing verdict|

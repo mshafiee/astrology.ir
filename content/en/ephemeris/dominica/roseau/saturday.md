@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'38.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'20.76" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°42'10.70" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°22'30.98" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°40'39.47" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°25'49.40" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|6°23'40.49" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°55'21.03" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°42'10.49" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°22'30.81" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°40'39.51" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°25'49.41" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|6°18'21.32" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

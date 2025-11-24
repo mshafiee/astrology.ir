@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'38.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'19.64" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°42'31.60" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°22'59.71" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°41'15.21" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°25'17.03" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°29'5.52" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|24°55'19.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°42'30.91" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°22'57.46" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°41'13.64" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°25'13.46" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°26'9.63" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: De Balei, El Valle, La-Valo, The Valley, Vali, Valis, Valley, Valli, bare, d wly, deobaelli, dy wyly, hwwʼly, ti velli, vali, wa li, Δε Βάλεϊ, Вали, Валли, Валлі, Валі, הוואלי, د ولی, دی ویلی, தி வேல்லி, เดอะแวลลีย์, ვალი, バレー, 瓦利, 더밸리

@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:11:13 |
 | Isha (Night) | 18:03:18 |
 | Sharia Midnight | 23:10:48 |
-| Imum Coeli | 23:51:10 |
+| Imum Coeli | 23:51:09 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:13:52 |
 | Isha (Night) | 18:03:18 |
 | Sharia Midnight | 23:06:29 |
-| Imum Coeli | 23:51:10 |
+| Imum Coeli | 23:51:09 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'18.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°53'37.46" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°13'39.44" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|24°53'37.47" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°13'39.43" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|2°5'47.93" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|21°34'27.51" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|23°39'18.46" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|14°51'43.46" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Retrograde|23°39'18.47" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|14°51'29.22" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

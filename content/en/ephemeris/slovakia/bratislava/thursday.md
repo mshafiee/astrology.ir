@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:39:14 |
 | Sunset | 16:02:35 |
 | Maghrib | 16:05:37 |
-| Isha (Night) | 17:55:21 |
+| Isha (Night) | 17:55:20 |
 | Sharia Midnight | 22:43:12 |
 | Imum Coeli | 23:39:24 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'29.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°44'55.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°31'42.84" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°15'18.91" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|25°29'53.93" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|21°16'46.28" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|23°5'33.08" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|24°44'55.46" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°31'42.77" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°15'18.63" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|25°29'53.78" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|21°16'45.89" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|23°5'37.39" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'29.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°44'55.26" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|16°31'42.75" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|5°15'18.64" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|25°29'53.76" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|21°16'45.91" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|23°5'37.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Retrograde|25°9'29.46" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°44'55.46" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|16°31'42.77" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|5°15'18.63" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|25°29'53.78" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|21°16'45.89" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|23°5'37.39" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

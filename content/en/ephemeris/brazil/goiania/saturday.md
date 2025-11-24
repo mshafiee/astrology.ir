@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'40.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'30.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°39'11.30" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°18'23.68" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°35'32.89" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°30'25.28" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|5°29'28.68" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|24°55'29.93" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°39'10.53" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°18'20.48" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°35'30.70" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°30'20.03" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°24'21.88" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'40.92" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'30.42" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°39'11.30" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°18'23.68" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°35'32.89" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°30'25.28" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|5°29'28.68" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|24°55'29.93" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°39'10.53" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°18'20.48" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°35'30.70" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°30'20.03" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|5°24'21.88" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ciutat de Goiania, Ciutat de Goiânia, GYN, Goiana, Goiania, Goianá, Goiânia, Gojani, Gojanija, Goyania, Goyaniya, ge ya ni ya, ghwyanya, go'iyaniya, goiania, gwyyanya, ko ya neiy, Гояни, Гояния, Гоянія, Гојанија, גואיאניה, غويانيا, گوئیانیا, গোইয়ানিয়া, โกยาเนีย, გოიანია, ゴイアニア, 戈亚尼亚, 고이아니아

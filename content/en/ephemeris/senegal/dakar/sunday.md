@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'42.47" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'37.74" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°36'45.87" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°15'4.16" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°31'24.09" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°34'15.02" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°55'52.03" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|25°10'42.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°55'37.76" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°36'45.11" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°15'1.47" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°31'22.36" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°34'10.84" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°48'11.04" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'42.47" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'37.74" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°36'45.87" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|1°15'4.16" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°31'24.09" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°34'15.02" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°55'52.03" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|25°10'42.55" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°55'37.93" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°36'45.90" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|1°15'1.47" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|20°31'22.36" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°34'10.84" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|4°48'11.04" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

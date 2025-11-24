@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:45:13 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:02 |
-| Medium Coeli | 13:08:02 |
+| Dhuhr (Noon) | 13:08:01 |
+| Medium Coeli | 13:08:01 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:29:16 |
 | Isha (Night) | 19:20:34 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:36:44 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:02 |
-| Medium Coeli | 13:08:02 |
+| Dhuhr (Noon) | 13:08:01 |
+| Medium Coeli | 13:08:01 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:31:53 |
 | Isha (Night) | 19:20:34 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:35:15 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:02 |
-| Medium Coeli | 13:08:02 |
+| Dhuhr (Noon) | 13:08:01 |
+| Medium Coeli | 13:08:01 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:14:55 |
 | Isha (Night) | 19:35:35 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:32:45 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:02 |
-| Medium Coeli | 13:08:02 |
+| Dhuhr (Noon) | 13:08:01 |
+| Medium Coeli | 13:08:01 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:14:55 |
 | Isha (Night) | 19:44:55 |
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'26.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°41'37.58" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°17'33.66" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°18'8.69" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|26°47'54.15" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Retrograde|24°41'37.60" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°17'33.68" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°18'8.67" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|26°47'54.16" |Libra|Akleel|Jupiter|
 |☿ Mercury|Retrograde|20°54'0.41" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|6°18'53.58" |Aquarius|SaadAlSaud|Venus|
 

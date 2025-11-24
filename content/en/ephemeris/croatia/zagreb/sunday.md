@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'44.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'44.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°34'40.38" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°12'10.62" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°27'49.57" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°37'28.73" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°12'50.24" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|25°10'44.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°55'46.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°34'37.05" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°12'4.51" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°27'46.80" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°37'21.63" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|3°15'51.23" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Moon|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Mars|Venus|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'44.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°55'44.42" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|13°34'40.38" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Retrograde|25°10'44.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°55'44.61" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|13°34'40.41" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|1°12'10.62" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|20°27'49.57" |Scorpio|Qalb|Venus|
-|☿ Mercury|Retrograde|24°37'28.73" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|4°12'50.24" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|20°27'49.59" |Scorpio|Qalb|Venus|
+|☿ Mercury|Retrograde|24°37'21.63" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°15'51.23" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Agram, Andautonia, Lungsod ng Zagreb, Sagrab, Sagreb, Sagwzlwgbouh, Sakreb, Ságrab, ZAG, Zabrag, Zabreg, Zagabbria, Zagabria, Zagavria, Zagrab, Zagrabia, Zagreb, Zagreba, Zagrebas, Zagrebi, Zagrebo, Zagrebs, Zagrep, Zagrev, Zagrzeb, Zagrèb, Zagréb, Zagrėbs, Zagàbria, Zahreb, Zankremp, Zaqreb, Zágráb, Záhreb, Záhřeb, cakirep, jagareba, jageulebeu, jagriba, jhagreba, sa ge lei bu, sa kerb, sagreb, zagaraba, zaghrb, zagrb, zagrebi, zagurebu, zajryb, zghrb, Żagreb, Ζάγκρεμπ, Заграб, Загреб, Զագրեբ, זאגרב, זאגרעב, زاجريب, زاغرب, زاگرب, زاگرێب, زغرب, जग्रिब, झाग्रेब, জাগরেব, ਜ਼ਾਗਰਬ, சாகிரேப், സാഗ്രെബ്, ซาเกร็บ, ཛག་རེབ།, ზაგრები, ዛግሬብ, ザグレブ, 萨格勒布, 薩格勒布, Ꙁагрєбъ, 자그레브

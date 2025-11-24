@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'28.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°39'16.83" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°48'34.93" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|7°0'33.26" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|27°40'36.27" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°45'24.06" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|16°27'52.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|24°39'18.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°48'32.92" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|7°0'31.83" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|27°40'36.56" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°45'27.41" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|14°58'2.71" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
+|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|24°39'16.83" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|17°48'36.53" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|7°0'39.36" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|27°40'36.27" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°45'24.06" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|16°27'52.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|27°40'40.51" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°45'34.31" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|15°29'3.93" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

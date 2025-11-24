@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'38.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°55'21.79" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°41'51.35" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|1°22'4.37" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|20°40'6.39" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|24°26'19.35" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°18'32.03" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Retrograde|24°55'22.80" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°41'45.78" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|1°21'49.37" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|20°39'57.36" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|24°25'57.71" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°10'10.26" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운
