@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:20:49 |
 | Medium Coeli | 12:20:49 |
 | Sunset | 18:05:31 |
-| Maghrib | 18:22:34 |
+| Maghrib | 18:22:35 |
 | Isha (Night) | 19:03:56 |
 | Sharia Midnight | 23:43:47 |
 | Imum Coeli | 00:20:59 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'26.96" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°41'8.39" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°24'5.52" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|6°27'5.61" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|26°59'0.33" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°51'46.92" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|8°14'32.25" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|24°41'9.23" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°24'2.58" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|6°26'58.33" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°58'56.22" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°51'38.45" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|8°7'25.40" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

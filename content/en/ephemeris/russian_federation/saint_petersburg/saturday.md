@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:44:48 |
+| Fajr (Dawn) | 06:44:49 |
 | Sunrise | 09:28:46 |
 | Dhuhr (Noon) | 12:47:05 |
 | Medium Coeli | 12:47:05 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'30.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°38'20.35" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°0'48.75" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|7°17'19.51" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|28°1'24.72" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°43'40.69" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|19°13'54.46" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|25°9'30.87" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°38'20.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°0'48.73" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|7°17'19.54" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|28°1'24.71" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°43'40.73" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|19°13'53.81" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'30.96" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°38'20.35" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°0'48.75" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|7°17'19.51" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|28°1'24.72" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°43'40.69" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|19°13'54.46" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Retrograde|25°9'30.87" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°38'20.15" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°0'48.73" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|7°17'19.54" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|28°1'24.71" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°43'40.73" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|19°13'53.81" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:09:34 |
+| Fajr (Dawn) | 05:09:35 |
 | Sunrise | 06:30:18 |
 | Dhuhr (Noon) | 11:50:41 |
 | Medium Coeli | 11:50:41 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'28.69" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°39'28.38" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°46'6.44" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|6°57'13.80" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|27°36'25.50" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°46'2.51" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|14°44'40.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|24°39'28.70" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°46'6.24" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|6°57'13.72" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|27°36'25.59" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°46'3.00" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|14°34'12.35" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

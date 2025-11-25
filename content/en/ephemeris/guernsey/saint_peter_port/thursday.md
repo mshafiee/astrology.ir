@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 16:17:48 |
 | Isha (Night) | 18:09:06 |
 | Sharia Midnight | 22:55:27 |
-| Imum Coeli | 23:57:59 |
+| Imum Coeli | 23:58:00 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 16:17:48 |
 | Isha (Night) | 18:12:14 |
 | Sharia Midnight | 23:00:09 |
-| Imum Coeli | 23:57:59 |
+| Imum Coeli | 23:58:00 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 16:17:48 |
 | Isha (Night) | 17:47:48 |
 | Sharia Midnight | 22:58:35 |
-| Imum Coeli | 23:57:59 |
+| Imum Coeli | 23:58:00 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'29.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°44'44.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°34'16.96" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|5°18'49.91" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|25°34'16.28" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|21°15'9.18" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|23°49'26.23" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|25°9'29.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°44'44.51" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°34'17.98" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|5°18'52.22" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|25°34'17.47" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|21°15'11.62" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°2'6.65" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

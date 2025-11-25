@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:51:51 |
+| Fajr (Dawn) | 04:51:52 |
 | Sunrise | 06:13:58 |
 | Dhuhr (Noon) | 11:40:57 |
 | Medium Coeli | 11:40:57 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'29.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°39'13.73" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°49'16.88" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|7°1'34.54" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|27°41'49.08" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°45'26.89" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|15°41'11.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|24°39'13.79" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°49'16.84" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|7°1'34.53" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|27°41'49.10" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°45'27.03" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|15°39'5.77" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'29.05" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°39'13.73" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°49'16.88" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|7°1'34.54" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|27°41'49.08" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°45'26.89" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|15°41'11.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|24°39'13.58" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°49'16.82" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|7°1'34.55" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|27°41'49.09" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°45'27.03" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|15°39'5.77" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

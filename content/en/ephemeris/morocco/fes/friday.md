@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:45:13 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:01 |
-| Medium Coeli | 13:08:01 |
+| Dhuhr (Noon) | 13:08:02 |
+| Medium Coeli | 13:08:02 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:29:16 |
 | Isha (Night) | 19:20:34 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:35:15 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:01 |
-| Medium Coeli | 13:08:01 |
+| Dhuhr (Noon) | 13:08:02 |
+| Medium Coeli | 13:08:02 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:14:55 |
 | Isha (Night) | 19:35:35 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:35:15 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:01 |
-| Medium Coeli | 13:08:01 |
+| Dhuhr (Noon) | 13:08:02 |
+| Medium Coeli | 13:08:02 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:14:55 |
 | Isha (Night) | 19:40:34 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:32:45 |
 | Sunrise | 08:04:40 |
-| Dhuhr (Noon) | 13:08:01 |
-| Medium Coeli | 13:08:01 |
+| Dhuhr (Noon) | 13:08:02 |
+| Medium Coeli | 13:08:02 |
 | Sunset | 18:11:09 |
 | Maghrib | 18:14:55 |
 | Isha (Night) | 19:44:55 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'26.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°41'37.60" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°17'33.68" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°18'8.67" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|26°47'54.16" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°54'0.41" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°18'53.58" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|24°41'37.62" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°17'33.61" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°18'8.50" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|26°47'54.07" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°54'0.21" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|6°18'49.24" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
