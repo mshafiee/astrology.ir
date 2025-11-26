@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'39.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°35'9.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°40'37.43" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°11'47.98" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|25°9'39.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°35'9.04" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°40'37.41" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°11'48.01" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|29°9'0.05" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°43'32.37" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|2°29'31.72" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|20°43'32.42" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|1°19'31.26" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'41.17" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°35'9.89" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°40'32.71" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°11'34.50" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°8'51.77" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°43'14.75" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|2°29'31.72" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|25°9'39.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°35'9.04" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°40'37.41" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|8°11'48.01" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°9'0.05" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°43'32.42" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|1°19'31.26" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크

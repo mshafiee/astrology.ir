@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:35:02 |
 | Maghrib | 17:52:35 |
 | Isha (Night) | 18:34:54 |
-| Sharia Midnight | 23:21:27 |
+| Sharia Midnight | 23:21:26 |
 | Imum Coeli | 23:59:31 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'43.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°34'9.99" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°52'32.03" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°28'5.52" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|29°29'12.32" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°45'9.39" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|4°57'41.80" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|25°9'43.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°34'10.11" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°52'32.11" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°28'5.55" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|29°29'12.33" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°45'9.26" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°0'6.58" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'43.32" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°34'9.99" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°52'32.03" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°28'5.52" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°29'12.32" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°45'9.39" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|4°57'41.80" |Aries|Sharatain|Mars|
+|♄ Saturn|Retrograde|25°9'43.40" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°34'10.19" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°52'32.05" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|8°28'5.49" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°29'12.33" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°45'9.35" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|4°57'42.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
