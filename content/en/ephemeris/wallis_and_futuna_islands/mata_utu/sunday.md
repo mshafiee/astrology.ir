@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'47.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°33'7.69" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°5'0.08" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°45'7.62" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|29°50'12.75" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°47'20.15" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|9°15'27.54" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Retrograde|25°9'47.81" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°33'7.89" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°5'0.10" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°45'7.59" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|29°50'21.25" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°47'35.54" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|8°54'15.94" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°5'0.10" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°45'7.59" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°50'21.25" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°47'20.20" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|9°15'26.99" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|20°47'35.54" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|8°54'15.94" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

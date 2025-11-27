@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:37:19 |
 | Maghrib | 17:38:18 |
 | Isha (Night) | 19:08:18 |
-| Sharia Midnight | 23:11:14 |
+| Sharia Midnight | 23:11:13 |
 | Imum Coeli | 23:49:59 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'26.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°41'4.58" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°24'53.89" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|6°28'11.91" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|27°0'22.61" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°51'31.39" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|8°28'42.33" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|25°9'26.99" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°41'4.78" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°24'53.91" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|6°28'11.88" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|27°0'22.62" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°51'31.36" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|8°28'42.82" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'26.91" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°41'4.58" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°24'53.89" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|6°28'11.91" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|25°9'26.99" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°41'4.78" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°24'53.92" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|6°28'11.89" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|27°0'22.61" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°51'31.39" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|8°28'42.33" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|20°51'31.34" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|8°29'10.09" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:17:48 |
 | Medium Coeli | 13:17:48 |
 | Sunset | 18:23:13 |
-| Maghrib | 18:24:24 |
+| Maghrib | 18:24:23 |
 | Isha (Night) | 19:49:17 |
 | Sharia Midnight | 00:30:06 |
 | Imum Coeli | 01:17:58 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:17:48 |
 | Medium Coeli | 13:17:48 |
 | Sunset | 18:23:13 |
-| Maghrib | 18:24:24 |
+| Maghrib | 18:24:23 |
 | Isha (Night) | 19:51:45 |
 | Sharia Midnight | 00:33:48 |
 | Imum Coeli | 01:17:58 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'37.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°47'49.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°49'9.89" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|4°16'58.18" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|24°17'27.13" |Libra|Jubana|Jupiter|
-|☿ Mercury|Retrograde|21°49'5.78" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|10°30'19.37" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|24°47'48.03" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°49'11.29" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|4°17'0.10" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|24°17'27.73" |Libra|Jubana|Jupiter|
+|☿ Mercury|Retrograde|21°49'6.47" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|11°8'28.86" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

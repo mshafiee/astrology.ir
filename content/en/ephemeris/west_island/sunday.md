@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|24°32'13.06" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°15'48.85" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°59'54.06" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|0°8'33.17" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|20°50'3.81" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|13°50'2.65" |Aries|Butain|Sun|
+|♀ Venus|Direct|0°8'41.31" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|20°50'21.17" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|12°19'16.84" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'41.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°34'49.00" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°44'57.45" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°17'35.78" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|29°16'21.99" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°43'43.57" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°40'42.58" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Retrograde|25°9'41.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°34'47.38" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°45'3.32" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°17'51.11" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|29°16'31.15" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°44'2.02" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|2°44'2.35" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'41.08" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°34'47.17" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°45'3.30" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°17'51.14" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|25°9'41.16" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°34'47.38" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°45'3.32" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|8°17'51.11" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°16'31.15" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°44'2.06" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|2°44'1.78" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|20°44'2.02" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|2°44'2.35" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Aemona, Jubaljana, LJU, Laibach, Laiboch, Lioumpliana, Liubliana, Liublianne, Liublijana, Liuibleana, Liúibleána, Ljubljan, Ljubljana, Ljubljana osh, Ljubljanae, Ljubljano, Lubian-a, Lubiana, Lubiane, Lubiann-a, Lubjana, Lublan, Lublana, Lublaň, Lubliano, Lubljana, Luebiana, Lueblaen, Lueblana, Lyoubyana, Lyublyana, Lübiana, Lüblâna, Lüblän, li'ubali'ana, li'ubliyana, liubliana, liyubliyana, liyupliyana, lu bu er ya na, lub li ya na, lyubeullyana, lywblyana, ryuburyana, Ļubļana, Ľubľana, Łubiana, Λιουμπλιάνα, Љубљана, Люблян, Люблянæ, Любляна, Любляна ош, Люблꙗна, Լյուբլյանա, ליובליאנה, ليوبليانا, ليۇبليانا, لیوبلیانا, लियुब्लियाना, লিউব্লিয়ানা, ਲਿਊਬਲਿਆਨਾ, லியுப்லியானா, ลูบลิยานา, ལི་པོ་ཡ་ན།, ლიუბლიანა, ልዩብልያና, リュブリャナ, 卢布尔雅那, 盧布爾雅那, 류블랴나

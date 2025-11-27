@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 10:32:02|Night duration: 13:28:46|
+|Duration of the day: 10:32:02|Night duration: 13:28:45|
 |Every hour of day duration: 00:52:40|Every hour of night duration: 01:07:24|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Venus|Servant|18:27:08|19:34:31|Unfortunate, no task is suitable|
 |3|Mercury|Servant|19:34:32|20:41:55|For overcoming diseases|
 |4|Moon|Servant|20:41:56|21:49:19|For all tasks, extremely auspicious|
-|5|Saturn|Servant|21:49:20|22:56:43|Creating negative energy and disrupting peace|
-|6|Jupiter|Servant|22:56:44|00:04:07|Outer and inner journey|
-|7|Mars|Servant|00:04:08|01:11:30|Attracting love and hearts and fortune|
+|5|Saturn|Servant|21:49:20|22:56:42|Creating negative energy and disrupting peace|
+|6|Jupiter|Servant|22:56:43|00:04:06|Outer and inner journey|
+|7|Mars|Servant|00:04:07|01:11:30|Attracting love and hearts and fortune|
 |8|Sun|Ruler|01:11:31|02:18:54|Being invisible to the people|
-|9|Venus|Servant|02:18:55|03:26:18|Separation, causing enmity|
-|10|Mercury|Servant|03:26:19|04:33:42|Dominating the great ones|
-|11|Moon|Servant|04:33:43|05:41:06|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|05:41:07|06:48:30|Creating evil and hatred|
+|9|Venus|Servant|02:18:55|03:26:17|Separation, causing enmity|
+|10|Mercury|Servant|03:26:18|04:33:41|Dominating the great ones|
+|11|Moon|Servant|04:33:42|05:41:05|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|05:41:06|06:48:29|Creating evil and hatred|
 
  
  
