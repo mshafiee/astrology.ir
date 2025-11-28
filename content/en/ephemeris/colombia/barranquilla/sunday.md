@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:00 |
-| Sunrise | 06:01:41 |
+| Sunrise | 06:01:42 |
 | Dhuhr (Noon) | 11:47:56 |
 | Medium Coeli | 11:47:56 |
 | Sunset | 17:34:06 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:00 |
-| Sunrise | 06:01:41 |
+| Sunrise | 06:01:42 |
 | Dhuhr (Noon) | 11:47:56 |
 | Medium Coeli | 11:47:56 |
 | Sunset | 17:34:06 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'1.90" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°30'17.43" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°38'12.21" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|9°30'29.23" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|0°46'38.15" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|20°57'53.93" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|19°26'41.59" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|25°10'1.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°30'17.22" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°38'12.19" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|9°30'29.26" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|0°46'38.14" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|20°57'53.98" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|19°26'40.97" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

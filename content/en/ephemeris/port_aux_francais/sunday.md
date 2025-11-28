@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:07:47 |
 | Sunset | 20:05:15 |
 | Maghrib | 20:06:55 |
-| Isha (Night) | 22:59:25 |
+| Isha (Night) | 22:59:26 |
 | Sharia Midnight | 22:27:30 |
 | Imum Coeli | 00:07:58 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'52.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°32'12.99" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°16'6.52" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°0'12.20" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|0°9'12.55" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|20°50'12.98" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°12'42.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|24°32'11.74" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°16'10.05" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°0'21.04" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|0°9'17.68" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|20°50'22.73" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°42'31.35" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}

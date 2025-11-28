@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'43.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°34'3.71" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°53'52.03" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°29'53.79" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|29°31'28.15" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°45'20.47" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|5°29'26.91" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|24°34'3.16" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°53'52.95" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°29'55.76" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|29°31'29.13" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°45'22.03" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°34'53.83" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FSP, Saint Pierre, Saint-Pierre, St Pierre, saengpieleu, 생피에르

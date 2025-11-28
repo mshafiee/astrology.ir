@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:24:04 |
 | Isha (Night) | 19:12:30 |
 | Sharia Midnight | 00:15:26 |
-| Imum Coeli | 00:53:00 |
+| Imum Coeli | 00:53:01 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:11:58 |
 | Isha (Night) | 19:26:46 |
 | Sharia Midnight | 00:10:42 |
-| Imum Coeli | 00:53:00 |
+| Imum Coeli | 00:53:01 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:11:58 |
 | Isha (Night) | 19:29:08 |
 | Sharia Midnight | 00:07:09 |
-| Imum Coeli | 00:53:00 |
+| Imum Coeli | 00:53:01 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'45.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°33'40.12" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°58'33.95" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°36'19.89" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°39'26.24" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°46'13.93" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|6°52'37.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|24°33'41.29" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°58'29.29" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|8°36'7.84" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°39'19.13" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°45'59.90" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|7°36'5.39" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}

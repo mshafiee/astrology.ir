@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 16:56:15 |
 | Maghrib | 17:00:03 |
 | Isha (Night) | 18:30:03 |
-| Sharia Midnight | 23:56:07 |
+| Sharia Midnight | 23:56:08 |
 | Imum Coeli | 01:04:37 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'30.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°38'39.90" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°56'36.79" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|7°11'35.66" |Scorpio|Akleel|Mars|
-|♀ Venus|Direct|27°54'16.69" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°44'14.82" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|17°52'46.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|25°9'30.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°38'39.93" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°56'36.46" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|7°11'34.69" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|27°54'16.09" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|20°44'13.51" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|17°56'33.54" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°9'30.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°38'39.93" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°56'36.46" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|7°11'34.69" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|27°54'16.09" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°44'13.51" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|17°56'33.54" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Retrograde|24°38'39.90" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°56'36.79" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|7°11'35.66" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|27°54'16.69" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°44'14.82" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|17°52'46.97" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
