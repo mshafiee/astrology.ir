@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:42:18 |
 | Medium Coeli | 12:42:18 |
 | Sunset | 19:51:17 |
-| Maghrib | 20:12:56 |
+| Maghrib | 20:12:57 |
 | Isha (Night) | 21:09:31 |
 | Sharia Midnight | 23:51:08 |
 | Imum Coeli | 00:42:29 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|19°33'35.13" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|9°24'9.59" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|0°38'48.93" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|20°56'6.48" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|18°4'40.55" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|20°56'6.12" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|18°9'24.26" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

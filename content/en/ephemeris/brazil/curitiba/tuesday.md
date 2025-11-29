@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:50:08 |
 | Sunrise | 05:18:15 |
-| Dhuhr (Noon) | 12:06:37 |
-| Medium Coeli | 12:06:37 |
+| Dhuhr (Noon) | 12:06:38 |
+| Medium Coeli | 12:06:38 |
 | Sunset | 18:55:11 |
 | Maghrib | 19:14:43 |
 | Isha (Night) | 20:03:28 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:48:30 |
 | Sunrise | 05:18:15 |
-| Dhuhr (Noon) | 12:06:37 |
-| Medium Coeli | 12:06:37 |
+| Dhuhr (Noon) | 12:06:38 |
+| Medium Coeli | 12:06:38 |
 | Sunset | 18:55:11 |
 | Maghrib | 19:00:24 |
 | Isha (Night) | 20:19:37 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:04:45 |
 | Sunrise | 05:18:15 |
-| Dhuhr (Noon) | 12:06:37 |
-| Medium Coeli | 12:06:37 |
+| Dhuhr (Noon) | 12:06:38 |
+| Medium Coeli | 12:06:38 |
 | Sunset | 18:55:11 |
 | Maghrib | 19:00:24 |
 | Isha (Night) | 20:08:48 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:40:10 |
 | Sunrise | 05:18:15 |
-| Dhuhr (Noon) | 12:06:37 |
-| Medium Coeli | 12:06:37 |
+| Dhuhr (Noon) | 12:06:38 |
+| Medium Coeli | 12:06:38 |
 | Sunset | 18:55:11 |
 | Maghrib | 19:00:24 |
 | Isha (Night) | 20:22:21 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'53.92" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°22'40.60" |Cancer|Tarf|Moon|
+|♃ Jupiter|Retrograde|24°22'40.21" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|21°2'15.36" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|11°25'10.04" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|3°8'55.57" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|21°46'21.33" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|17°15'23.14" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°25'9.45" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|3°8'55.02" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|21°46'19.65" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°27'33.49" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

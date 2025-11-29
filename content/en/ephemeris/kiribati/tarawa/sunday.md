@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|24°32'57.28" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°7'5.09" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°47'58.68" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°53'53.14" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°48'5.41" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|9°31'24.80" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°53'51.41" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°48'3.49" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|9°5'41.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

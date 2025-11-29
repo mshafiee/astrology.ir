@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:24:58 |
 | Dhuhr (Noon) | 11:58:58 |
 | Medium Coeli | 11:58:58 |
-| Sunset | 17:32:53 |
+| Sunset | 17:32:52 |
 | Maghrib | 17:34:57 |
 | Isha (Night) | 18:37:38 |
 | Sharia Midnight | 23:26:49 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:24:58 |
 | Dhuhr (Noon) | 11:58:58 |
 | Medium Coeli | 11:58:58 |
-| Sunset | 17:32:53 |
+| Sunset | 17:32:52 |
 | Maghrib | 17:34:57 |
 | Isha (Night) | 18:50:55 |
 | Sharia Midnight | 23:20:10 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:07:55|Night duration: 12:52:41|
+|Duration of the day: 11:07:54|Night duration: 12:52:42|
 |Every hour of day duration: 00:55:40|Every hour of night duration: 01:04:23|
 
  
@@ -222,22 +222,22 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|09:11:56|10:07:35|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|10:07:36|11:03:14|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|11:03:15|11:58:54|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|11:58:55|12:54:34|Attracting love and hearts|
-|8|Mars|Ruler|12:54:35|13:50:13|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|13:50:14|14:45:53|Heart tenderness|
-|10|Venus|Servant|14:45:54|15:41:32|Attracting misfortune, no task is suitable|
-|11|Mercury|Servant|15:41:33|16:37:12|Attracting connection and suitors|
-|12|Moon|Servant|16:37:13|17:32:52|Hatred, corruption and creating negative energy for disruption|
+|7|Jupiter|Servant|11:58:55|12:54:33|Attracting love and hearts|
+|8|Mars|Ruler|12:54:34|13:50:13|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|13:50:14|14:45:52|Heart tenderness|
+|10|Venus|Servant|14:45:53|15:41:32|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|15:41:33|16:37:11|Attracting connection and suitors|
+|12|Moon|Servant|16:37:12|17:32:51|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|17:32:53|18:37:15|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|18:37:16|19:41:38|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|19:41:39|20:46:02|Attracting connection and suitors|
-|4|Sun|Servant|20:46:03|21:50:25|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|21:50:26|22:54:49|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|22:54:50|23:59:12|Repelling negative energy of evil eye|
+|1|Saturn|Ruler|17:32:52|18:37:14|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|18:37:15|19:41:38|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|19:41:39|20:46:01|Attracting connection and suitors|
+|4|Sun|Servant|20:46:02|21:50:25|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|21:50:26|22:54:48|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|22:54:49|23:59:12|Repelling negative energy of evil eye|
 |7|Moon|Servant|23:59:13|01:03:35|Attracting love and hearts|
 |8|Saturn|Ruler|01:03:36|02:07:59|Creating corruption, destroying enemies, making enemies sick|
 |9|Jupiter|Servant|02:08:00|03:12:22|Heart tenderness|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:07:55|Night duration: 12:52:41|
+|Duration of the day: 11:07:54|Night duration: 12:52:42|
 |Every hour duration: 01:35:25|Every hour duration: 01:50:23|
 
  
@@ -264,24 +264,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|06:24:58|08:00:22|
-|Mid-morning|Sun|Servant|08:00:23|09:35:47|
-|Late morning|Venus|Servant|09:35:48|11:11:12|
-|Noon|Mercury|Servant|11:11:13|12:46:37|
-|Early afternoon|Moon|Servant|12:46:38|14:22:02|
-|Mid-afternoon|Saturn|Servant|14:22:03|15:57:27|
-|Late afternoon|Jupiter|Servant|15:57:28|17:32:52|
+|Early morning|Mars|Ruler|06:24:58|08:00:21|
+|Mid-morning|Sun|Servant|08:00:22|09:35:46|
+|Late morning|Venus|Servant|09:35:47|11:11:11|
+|Noon|Mercury|Servant|11:11:12|12:46:36|
+|Early afternoon|Moon|Servant|12:46:37|14:22:01|
+|Mid-afternoon|Saturn|Servant|14:22:02|15:57:26|
+|Late afternoon|Jupiter|Servant|15:57:27|17:32:51|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|17:32:53|19:23:15|
-|Late evening|Jupiter|Servant|19:23:16|21:13:38|
-|Midnight|Mars|Servant|21:13:39|23:04:01|
-|Late at night|Sun|Servant|23:04:02|00:54:24|
-|Rooster song|Venus|Servant|00:54:25|02:44:47|
-|False Dawn|Mercury|Servant|02:44:48|04:35:10|
-|Dawn|Moon|Servant|04:35:11|06:25:33|
+|Evening|Saturn|Ruler|17:32:52|19:23:14|
+|Late evening|Jupiter|Servant|19:23:15|21:13:37|
+|Midnight|Mars|Servant|21:13:38|23:04:00|
+|Late at night|Sun|Servant|23:04:01|00:54:23|
+|Rooster song|Venus|Servant|00:54:24|02:44:46|
+|False Dawn|Mercury|Servant|02:44:47|04:35:09|
+|Dawn|Moon|Servant|04:35:10|06:25:33|
 
 {{< /tab >}}
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°45'45.84" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|11°2'40.92" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|2°41'1.22" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|21°34'30.00" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°44'1.98" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|21°34'25.49" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|11°59'55.09" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

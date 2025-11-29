@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:10:47 |
+| Fajr (Dawn) | 03:10:46 |
 | Sunrise | 04:49:26 |
 | Dhuhr (Noon) | 11:39:30 |
 | Medium Coeli | 11:39:30 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'46.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°23'36.55" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|24°23'37.65" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|20°52'3.99" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|11°11'15.00" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°51'40.23" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|21°38'49.86" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|14°24'44.55" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°11'15.88" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°51'41.08" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|21°38'52.80" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|14°1'6.98" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

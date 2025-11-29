@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:43:07 |
-| Sunrise | 08:11:29 |
+| Sunrise | 08:11:28 |
 | Dhuhr (Noon) | 12:54:02 |
 | Medium Coeli | 12:54:02 |
 | Sunset | 17:36:22 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:33:47 |
-| Sunrise | 08:11:29 |
+| Sunrise | 08:11:28 |
 | Dhuhr (Noon) | 12:54:02 |
 | Medium Coeli | 12:54:02 |
 | Sunset | 17:36:22 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:32:09 |
-| Sunrise | 08:11:29 |
+| Sunrise | 08:11:28 |
 | Dhuhr (Noon) | 12:54:02 |
 | Medium Coeli | 12:54:02 |
 | Sunset | 17:36:22 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:23:59 |
-| Sunrise | 08:11:29 |
+| Sunrise | 08:11:28 |
 | Dhuhr (Noon) | 12:54:02 |
 | Medium Coeli | 12:54:02 |
 | Sunset | 17:36:22 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°56'28.13" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|11°17'15.97" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|2°59'7.71" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|21°42'2.84" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|15°30'28.88" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|21°42'2.62" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|15°32'16.13" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

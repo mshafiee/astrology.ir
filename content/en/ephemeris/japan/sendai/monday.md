@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:25:29 |
 | Sunset | 16:16:51 |
 | Maghrib | 16:18:17 |
-| Isha (Night) | 17:49:05 |
+| Isha (Night) | 17:49:04 |
 | Sharia Midnight | 22:34:25 |
 | Imum Coeli | 23:25:40 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'12.01" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°28'34.17" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°57'45.59" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|9°57'10.73" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|1°19'46.00" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|21°6'24.08" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|25°54'12.19" |Aries|Thurayya|Venus|
+|♃ Jupiter|Retrograde|24°28'34.42" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°57'45.52" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|9°57'10.48" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|1°19'45.89" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|21°6'23.84" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|25°54'45.35" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

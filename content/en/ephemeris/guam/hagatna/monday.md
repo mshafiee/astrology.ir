@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|25°10'10.82" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|24°28'45.20" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°55'42.84" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°54'10.35" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|1°16'9.84" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|21°5'10.07" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|26°39'24.26" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°54'23.69" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|1°16'18.04" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|21°5'26.69" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|25°7'47.56" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'10.73" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°28'45.00" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°55'42.83" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|9°54'23.71" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|25°10'10.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°28'45.20" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°55'42.84" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|9°54'23.69" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|1°16'18.04" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|21°5'26.74" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|25°7'46.84" |Aries|Butain|Venus|
+|☿ Mercury|Retrograde|21°5'26.69" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|25°7'47.56" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

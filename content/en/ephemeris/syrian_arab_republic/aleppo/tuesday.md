@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:20:48 |
 | Medium Coeli | 12:20:48 |
 | Sunset | 17:16:40 |
-| Maghrib | 17:20:33 |
+| Maghrib | 17:20:32 |
 | Isha (Night) | 18:46:31 |
 | Sharia Midnight | 23:31:02 |
 | Imum Coeli | 00:20:59 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 12:20:48 |
 | Sunset | 17:16:40 |
 | Maghrib | 17:20:32 |
-| Isha (Night) | 18:50:33 |
+| Isha (Night) | 18:50:32 |
 | Sharia Midnight | 23:33:36 |
 | Imum Coeli | 00:20:59 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|25°10'19.17" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°27'26.46" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|20°10'26.42" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|10°14'29.10" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°41'14.39" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|21°12'51.24" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|0°4'2.29" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|24°27'27.24" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°10'25.65" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|10°14'27.97" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°41'14.00" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|21°12'51.38" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|29°53'17.39" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Venus|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
