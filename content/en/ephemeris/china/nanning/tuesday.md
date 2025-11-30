@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'41.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°24'17.68" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|20°45'12.84" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|11°1'47.98" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°40'7.12" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|21°33'54.13" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|13°17'12.19" |Aries|Butain|Sun|
+|♄ Saturn|Post-Retrograde Shadow|25°10'41.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°24'15.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°45'19.79" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|11°2'5.30" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°40'17.16" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|21°34'12.01" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|11°36'26.97" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Mars|Moon|Sagittarius|Moon|Mars|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Moon|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'41.53" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°10'41.53" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°24'15.09" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|20°45'19.79" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|11°2'5.30" |Sagittarius|NaAaem|Moon|

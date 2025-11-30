@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 10:38:50|Night duration: 13:21:53|
+|Duration of the day: 10:38:50|Night duration: 13:21:52|
 |Every hour duration: 01:31:16|Every hour duration: 01:54:33|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Sun|Ruler|16:58:35|18:53:07|
 |Late evening|Venus|Servant|18:53:08|20:47:40|
 |Midnight|Mercury|Servant|20:47:41|22:42:13|
-|Late at night|Moon|Servant|22:42:14|00:36:47|
-|Rooster song|Saturn|Servant|00:36:48|02:31:20|
-|False Dawn|Jupiter|Servant|02:31:21|04:25:53|
-|Dawn|Mars|Servant|04:25:54|06:20:27|
+|Late at night|Moon|Servant|22:42:14|00:36:46|
+|Rooster song|Saturn|Servant|00:36:47|02:31:19|
+|False Dawn|Jupiter|Servant|02:31:20|04:25:52|
+|Dawn|Mars|Servant|04:25:53|06:20:26|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'43.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°23'57.92" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|20°48'22.15" |Scorpio|Qalb|Venus|
-|☉ Sun|Direct|11°6'13.95" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|2°45'25.67" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|21°36'17.77" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|12°38'40.34" |Aries|Sharatain|Sun|
+|♄ Saturn|Post-Retrograde Shadow|25°10'43.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°23'58.13" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°48'22.16" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|11°6'13.93" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|2°45'25.68" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|21°36'17.73" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°38'41.12" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°10'43.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°23'57.92" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|20°48'22.15" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|11°6'13.95" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|2°45'25.67" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Retrograde|21°36'17.77" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|12°38'40.34" |Taurus|Dabaran|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°10'43.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°23'58.13" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°48'22.16" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|11°6'13.93" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|2°45'25.68" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Retrograde|21°36'17.73" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°38'41.12" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'49.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°9'49.04" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|24°32'53.54" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°7'53.57" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|8°49'3.66" |Scorpio|Qalb|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'49.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°32'53.83" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°7'53.23" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°49'3.06" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°55'15.39" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°48'13.87" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|9°51'53.98" |Aries|Sharatain|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°9'49.04" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°32'53.54" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°7'53.57" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|8°49'3.66" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°55'15.65" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Retrograde|20°48'14.10" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|9°56'40.61" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CBR, Camberra, Canberra, Canberrah, Kamberra, Kambra, Kampera, Kanapera, Kanbera, Kanbero, Kanberr, Kanberra, Kanberrae, Kanberre, Kanbérra, Kham-phi-la, Khâm-phì-là, Kānapera, kaenbeola, kainabara, kainberra, kan pei la, kanabera, kanbra, kanpara, kenabera, kyanabara, kyanabera, kyanbera, kynbra, kʼanbera, qnbrh, Καμπέρα, Канбера, Канберрæ, Канберра, Канберре, Канбєра, Կանբերրա, קאנבערא, קנברה, كانبرا, کانبرا, کانبێرا, کینبرا, कॅनबेरा, कैनबरा, कैन्बेर्रा, क्यानबरा, ক্যানবেরা, ਕੈਨਬਰਾ, କାନବେରା, கான்பரா, കാൻബറ, කැන්බරා, แคนเบอร์รา, ཁན་པེ་ར།, კანბერა, ካንበራ, キャンベラ, 坎培拉, 堪培拉, 캔버라

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'50.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°32'26.54" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°13'9.47" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°56'16.02" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|0°4'11.02" |Scorpio|Akleel|Mars|
-|☿ Mercury|Retrograde|20°49'36.81" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|11°30'35.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|25°9'50.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°32'28.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°13'3.75" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°56'1.08" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|0°4'2.14" |Scorpio|Akleel|Mars|
+|☿ Mercury|Retrograde|20°49'19.25" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|12°36'12.28" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'50.99" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°9'50.99" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°32'26.54" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°13'9.47" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°56'16.02" |Sagittarius|NaAaem|Mercury|

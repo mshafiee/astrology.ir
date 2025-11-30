@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:12:13 |
 | Medium Coeli | 12:12:13 |
 | Sunset | 17:08:57 |
-| Maghrib | 17:28:00 |
+| Maghrib | 17:27:59 |
 | Isha (Night) | 18:20:30 |
 | Sharia Midnight | 23:31:36 |
 | Imum Coeli | 00:12:26 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°11'23.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°11'23.35" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|24°19'11.79" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|21°38'26.31" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°14'28.07" |Scorpio|Qalb|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°11'23.35" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°11'23.35" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°19'11.79" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|21°38'26.31" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|12°14'28.07" |Sagittarius|NaAaem|Moon|

@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:15:43 |
 | Isha (Night) | 18:06:31 |
 | Sharia Midnight | 23:15:09 |
-| Imum Coeli | 23:54:19 |
+| Imum Coeli | 23:54:20 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 16:59:08 |
 | Isha (Night) | 18:21:23 |
 | Sharia Midnight | 23:10:12 |
-| Imum Coeli | 23:54:19 |
+| Imum Coeli | 23:54:20 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 16:59:08 |
 | Isha (Night) | 18:11:29 |
 | Sharia Midnight | 23:17:38 |
-| Imum Coeli | 23:54:19 |
+| Imum Coeli | 23:54:20 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 16:59:08 |
 | Isha (Night) | 18:23:51 |
 | Sharia Midnight | 23:06:31 |
-| Imum Coeli | 23:54:19 |
+| Imum Coeli | 23:54:20 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 16:59:08 |
 | Isha (Night) | 18:26:19 |
 | Sharia Midnight | 23:10:12 |
-| Imum Coeli | 23:54:19 |
+| Imum Coeli | 23:54:20 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°11'23.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°11'23.46" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|24°19'10.90" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|21°38'35.32" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|12°14'40.46" |Scorpio|Qalb|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°11'23.46" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°11'23.46" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°19'10.90" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|21°38'35.32" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|12°14'40.46" |Sagittarius|NaAaem|Moon|

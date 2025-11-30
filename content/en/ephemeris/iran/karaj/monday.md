@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 16:52:01 |
 | Maghrib | 16:57:48 |
 | Isha (Night) | 18:08:54 |
-| Sharia Midnight | 23:16:56 |
+| Sharia Midnight | 23:16:55 |
 | Imum Coeli | 23:55:16 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'55.57" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°9'55.57" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|24°31'30.29" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°24'9.29" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|9°11'17.42" |Scorpio|Qalb|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|25°9'55.57" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°9'55.57" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°31'30.29" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°24'9.29" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|9°11'17.42" |Sagittarius|NaAaem|Mercury|
