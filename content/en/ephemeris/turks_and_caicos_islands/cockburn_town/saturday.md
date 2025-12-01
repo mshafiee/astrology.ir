@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|18°53'48.18" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|8°29'49.49" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|29°31'21.49" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°45'21.97" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|20°45'21.97" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|5°21'54.49" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|25°9'43.83" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°34'3.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°53'48.18" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°29'49.49" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°31'21.49" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°45'21.97" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|5°21'54.49" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|24°34'6.75" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°53'42.93" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|8°29'38.04" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°31'15.35" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|20°45'11.65" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|5°11'16.61" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Cockburn Town, Kobern Taun, Kobern Taunas, Kobern-Taun, Kobərn Taun, Kokburn Taun, Kokburno, Kokmpern Taoun, kakpern nakaram, ke bo en cheng, kh xk beir ntha wn, kobeontaun, kokabarna ta'una, kokkubantaun, kwk brn tawn  bahama, Κόκμπερν Τάουν, Коберн Таун, Коберн-Таун, Коберн-Таўн, Кокбърн Таун, קוקבורן טאון, کاک برن ٹاؤن, کوک برن تاون، باهاما, कॉकबर्न टाउन, காக்பேர்ண் நகரம், ค็อกเบิร์นทาวน์, კოკბერნ-ტაუნი, コックバーンタウン, 科伯恩城, 코번타운

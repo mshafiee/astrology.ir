@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|19°5'24.07" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|8°45'40.19" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|29°51'1.94" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°47'40.66" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|9°48'54.04" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|20°47'40.66" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|9°3'3.81" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°5'24.07" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°45'40.19" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°51'1.94" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°47'40.66" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|20°47'40.66" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|9°3'3.81" |Aries|Sharatain|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

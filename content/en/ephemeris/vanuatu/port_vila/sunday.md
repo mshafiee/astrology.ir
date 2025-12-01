@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|19°6'40.47" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|8°47'24.61" |Scorpio|Qalb|Mars|
 |♀ Venus|Direct|29°53'11.51" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°47'58.52" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|20°47'58.52" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|9°27'3.45" |Pisces|FarghAlMuakhar|Saturn|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Post-Retrograde Shadow|25°9'48.46" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|24°32'59.49" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°6'40.47" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|8°47'24.61" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|29°53'11.51" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°47'58.52" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|9°27'3.45" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°47'15.11" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°53'6.59" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|20°47'50.71" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|9°12'59.57" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bila, Fila, Port Fila, Port Vila, Port-Vila, VLI, Vila, poteubilla, potobira, pwrt wylh, wei la gang, Βίλα, Порт Вила, Порт-Вила, פורט וילה, ፖርት ቪላ, ポートビラ, 維拉港, 포트빌라

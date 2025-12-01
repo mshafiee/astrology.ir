@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°9'49.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°32'46.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°9'11.70" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|8°50'51.71" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|29°57'27.81" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°48'36.37" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|10°11'6.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|25°9'48.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°32'47.86" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°9'10.31" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°50'49.46" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|29°57'26.93" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|20°48'35.88" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|9°46'51.01" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Mercury|Sun|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aquarius|Moon|Mars|
 |♀ Venus|Sun|Mercury|Virgo|Moon|Moon|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°9'11.70" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°50'51.71" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°57'27.81" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°48'36.37" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|20°48'36.37" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|10°11'6.34" |Aries|Sharatain|Sun|
 
 

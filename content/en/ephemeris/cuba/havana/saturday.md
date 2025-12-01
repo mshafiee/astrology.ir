@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|18°55'17.25" |Scorpio|Qalb|Sun|
 |☉ Sun|Direct|8°31'51.19" |Scorpio|Akleel|Mars|
 |♀ Venus|Direct|29°33'52.57" |Libra|Akleel|Jupiter|
-|☿ Mercury|Retrograde|20°45'37.46" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|6°37'12.05" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|20°45'31.88" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|5°35'4.19" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|18°55'17.25" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|8°31'51.19" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|29°33'52.57" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Retrograde|20°45'37.46" |Scorpio|Qalb|Venus|
+|☿ Mercury|Direct|20°45'37.46" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|5°49'58.11" |Aries|Sharatain|Mars|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나
