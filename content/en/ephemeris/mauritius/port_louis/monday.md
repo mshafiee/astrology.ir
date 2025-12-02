@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|25°9'53.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°31'52.99" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°20'7.63" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|9°5'40.48" |Scorpio|Qalb|Mars|
-|♀ Venus|Direct|0°16'1.97" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|20°51'21.96" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|14°29'52.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Retrograde|24°31'50.55" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°20'13.90" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|9°5'55.89" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|0°16'10.72" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|20°51'38.21" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|13°45'56.80" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Jupiter|Mercury|Mercury|Sun|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|25°9'53.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°31'50.55" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°20'13.90" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|9°5'55.89" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|0°16'10.72" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|20°51'38.21" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|13°45'56.80" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|24°31'52.96" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°20'10.40" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|9°5'48.94" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|0°16'7.34" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|20°51'33.64" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|13°23'26.53" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

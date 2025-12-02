@@ -300,19 +300,19 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|25°10'13.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°28'24.65" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°59'58.95" |Scorpio|Qalb|Sun|
-|☉ Sun|Direct|10°0'9.88" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|1°23'34.32" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|21°7'24.66" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|26°42'15.93" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°28'22.10" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|20°0'3.23" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|10°0'19.00" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|1°23'39.07" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|21°7'31.72" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|26°34'16.21" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Saturn|Mars|Venus|Mercury|
 |♃ Jupiter|Saturn|Mars|Saturn|Jupiter|
-|♂ Mars|Jupiter|Jupiter|Jupiter|Jupiter|
+|♂ Mars|Jupiter|Jupiter|Moon|Saturn|
 |☉ Sun|Venus|Venus|Jupiter|Jupiter|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Sun|
@@ -323,11 +323,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Mercury|Venus|Sagittarius|Moon|Mars|
 |♃ Jupiter|Sun|Venus|Pisces|Moon|Jupiter|
-|♂ Mars|Moon|Jupiter|Gemini|Sun|Sun|
+|♂ Mars|Moon|Saturn|Cancer|Sun|Sun|
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°0'3.23" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|10°0'19.00" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|1°23'39.07" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|21°7'31.72" |Scorpio|Qalb|Venus|
+|☿ Mercury|Post-Retrograde Shadow|21°7'31.72" |Scorpio|Qalb|Venus|
 |☾ Moon|Direct|26°34'16.21" |Aries|Thurayya|Venus|
 
 

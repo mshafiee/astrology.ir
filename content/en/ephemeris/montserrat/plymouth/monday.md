@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°21'30.66" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|10°29'36.02" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|1°59'58.83" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|21°19'4.89" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|3°37'42.68" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|21°18'53.10" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|4°57'53.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Pisces|Moon|Mars|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Jupiter|Mars|Gemini|Moon|Moon|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|25°10'25.77" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°26'26.37" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|20°21'30.66" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|10°29'36.02" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|1°59'58.83" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|21°19'4.89" |Scorpio|Qalb|Venus|
-|☾ Moon|Direct|3°37'42.68" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|24°26'25.90" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°21'28.35" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|10°29'28.16" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|1°59'53.57" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|21°18'53.10" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|4°57'53.93" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Cancer|Sun|Sun|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}

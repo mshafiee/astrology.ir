@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:06:16 |
 | Sunset | 20:08:15 |
 | Maghrib | 20:11:55 |
-| Isha (Night) | 21:46:56 |
+| Isha (Night) | 21:46:55 |
 | Sharia Midnight | 00:17:02 |
 | Imum Coeli | 01:06:28 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|24°22'32.21" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|21°3'40.95" |Scorpio|Qalb|Venus|
 |☉ Sun|Direct|11°27'5.84" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|3°11'19.81" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|21°47'23.65" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|18°0'45.29" |Aries|Butain|Sun|
+|♀ Venus|Direct|3°11'16.33" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|21°47'16.23" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|18°49'17.39" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|21°3'40.95" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|11°27'5.84" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|3°11'19.81" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|21°47'23.65" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|21°47'23.65" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|18°0'45.29" |Taurus|Dabaran|Moon|
 
 
