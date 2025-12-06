@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°13'23.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°7'34.10" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°32'8.50" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|25°13'24.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|24°7'34.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°32'5.56" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|14°49'11.64" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|7°21'53.97" |Scorpio|Akleel|Mars|
-|☿ Mercury|Post-Retrograde Shadow|24°16'47.35" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|24°16'47.35" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|8°26'39.02" |Gemini|HanAh|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|25°13'23.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°7'34.10" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°32'8.50" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|14°49'11.64" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|7°21'53.97" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|24°16'47.35" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|8°26'39.02" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|24°7'34.26" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°32'5.56" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|14°49'2.64" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|7°21'48.35" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|24°16'36.35" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|9°5'49.90" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Mars|Mercury|Aquarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}

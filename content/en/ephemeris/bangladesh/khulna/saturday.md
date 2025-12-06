@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°1'45.41" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|14°7'52.97" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|6°30'41.27" |Scorpio|Akleel|Mars|
-|☿ Mercury|Post-Retrograde Shadow|23°40'49.35" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|23°40'49.35" |Libra|Jubana|Jupiter|
 |☾ Moon|Direct|28°9'34.82" |Taurus|HaqAh|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°12'47.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°10'50.09" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°1'38.81" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|14°7'37.58" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|6°30'32.66" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|23°40'36.52" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|0°1'4.37" |Cancer|Nathrah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|25°12'47.15" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°10'46.81" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°1'45.41" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|14°7'52.97" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|6°30'41.27" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|23°40'49.35" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°9'34.82" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Mars|Mars|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Sun|Taurus|Sun|Jupiter|
 |♀ Venus|Mars|Venus|Aquarius|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}

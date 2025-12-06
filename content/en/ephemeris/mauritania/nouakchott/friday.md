@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|25°12'12.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|24°14'4.33" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°29'50.67" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|13°24'28.15" |Scorpio|Qalb|Sun|
-|♀ Venus|Direct|5°36'51.74" |Scorpio|Akleel|Mars|
-|☿ Mercury|Post-Retrograde Shadow|23°5'47.22" |Libra|Jubana|Jupiter|
-|☾ Moon|Direct|17°14'40.70" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|24°14'5.63" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°29'49.29" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|13°24'25.92" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|5°36'50.80" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|23°5'47.09" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|17°31'16.17" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Aries|Moon|Mars|
 |♀ Venus|Sun|Sun|Capricorn|Moon|Mars|
 |☿ Mercury|Mars|Mars|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°12'12.39" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|24°14'4.33" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|22°29'50.67" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|13°24'28.15" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°12'11.94" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|24°14'5.63" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|22°29'49.29" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°24'25.92" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|5°36'51.74" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|23°5'47.22" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|23°5'47.22" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|17°14'40.70" |Gemini|Dhira|Mars|
 
 
