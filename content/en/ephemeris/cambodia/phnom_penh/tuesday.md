@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°16'57.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°16'57.84" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|23°51'0.54" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°58'43.63" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|18°8'10.13" |Scorpio|Qalb|Sun|
 |♀ Venus|Direct|11°28'25.56" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|27°39'17.33" |Libra|Akleel|Jupiter|
-|☾ Moon|Direct|25°7'18.43" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|27°39'17.33" |Libra|Akleel|Jupiter|
+|☾ Moon|Direct|26°7'56.85" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Jupiter|
 |♀ Venus|Mercury|Venus|Jupiter|Jupiter|
 |☿ Mercury|Venus|Mars|Mercury|Sun|
-|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Gemini|Sun|Sun|
 |♀ Venus|Venus|Venus|Pisces|Moon|Mars|
 |☿ Mercury|Sun|Mercury|Virgo|Moon|Moon|
-|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°16'57.84" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°16'57.84" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|23°51'0.54" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|25°58'43.63" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|18°8'10.13" |Sagittarius|Baldah|Moon|
 |♀ Venus|Direct|11°28'25.56" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|27°39'17.33" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|27°39'17.33" |Scorpio|Shaulah|Venus|
 |☾ Moon|Direct|25°7'18.43" |Leo|Sarfrah|Mars|
 
 
