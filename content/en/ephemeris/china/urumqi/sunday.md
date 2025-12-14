@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°23'3.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°23'3.28" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|23°27'47.00" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|29°3'35.85" |Scorpio|Shaulah|Venus|
 |☉ Sun|Direct|22°18'18.43" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|16°38'6.82" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|2°41'44.80" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|17°13'51.81" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|2°41'44.80" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|16°50'14.26" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Jupiter|Jupiter|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Cancer|Sun|Sun|
 |♀ Venus|Mercury|Mars|Taurus|Sun|Sun|
 |☿ Mercury|Mars|Moon|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
+|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°23'3.28" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°23'3.28" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|23°27'47.00" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|29°3'35.85" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|22°18'18.43" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|16°38'6.82" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Post-Retrograde Shadow|2°41'44.80" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|2°41'44.80" |Sagittarius|Shaulah|Mercury|
 |☾ Moon|Direct|17°13'51.81" |Libra|Jubana|Saturn|
 
 
