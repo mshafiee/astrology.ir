@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°33'2.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°55'41.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°53'27.92" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|27°28'5.80" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|23°1'19.05" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°37'43.86" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|17°24'39.97" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|25°33'2.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°55'39.40" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°53'31.30" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|27°28'13.30" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|23°1'23.21" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|9°37'48.23" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|18°1'56.73" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Virgo|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Venus|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Moon|Jupiter|Taurus|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°33'2.27" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°55'41.59" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|25°33'2.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°55'39.40" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|2°53'27.92" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|27°28'5.80" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|23°1'19.05" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°37'43.86" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°37'43.86" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|17°24'39.97" |Sagittarius|Baldah|Moon|
 
 

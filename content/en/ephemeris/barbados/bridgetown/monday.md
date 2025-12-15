@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°27'21.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°27'21.68" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|23°13'16.74" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|0°50'20.43" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|24°42'22.12" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|19°36'8.92" |Scorpio|Qalb|Sun|
-|☿ Mercury|Direct|5°50'49.19" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|14°18'19.06" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|19°36'18.16" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|5°51'2.36" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|15°41'2.99" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Leo|Sun|Sun|
 |♀ Venus|Moon|Jupiter|Gemini|Sun|Sun|
 |☿ Mercury|Sun|Sun|Capricorn|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°27'21.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|23°13'16.51" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|0°50'20.42" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|24°42'22.13" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|19°36'18.14" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|5°51'2.38" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|15°41'3.72" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|25°27'21.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|23°13'16.74" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|0°50'20.43" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|24°42'22.12" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|19°36'18.16" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Post-Retrograde Shadow|5°51'2.36" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|15°41'2.99" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

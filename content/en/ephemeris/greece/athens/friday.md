@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°33'15.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°33'15.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°55'2.63" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|2°57'41.91" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|27°33'49.79" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|23°8'19.84" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°45'36.64" |Scorpio|Qalb|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°45'36.64" |Scorpio|Qalb|Mars|
 |☾ Moon|Direct|19°1'45.97" |Scorpio|Qalb|Sun|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°33'15.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°55'2.63" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°57'41.91" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|27°33'49.79" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|23°8'19.84" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°45'36.64" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|19°1'45.97" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|25°33'15.09" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°55'4.05" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°57'39.63" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|27°33'45.03" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|23°8'17.25" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|9°45'34.42" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|18°40'3.17" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Jupiter|Moon|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

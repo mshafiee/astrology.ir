@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°34'43.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°34'43.45" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°50'41.43" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°27'7.69" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|28°13'24.65" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|23°57'14.10" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|10°40'36.28" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|25°20'16.97" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|10°40'49.54" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|27°0'54.98" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°34'43.45" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°34'43.45" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°50'41.43" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°27'7.69" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|28°13'24.65" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|23°57'14.10" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|10°40'49.54" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Post-Retrograde Shadow|10°40'49.54" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|27°0'54.98" |Sagittarius|Baldah|Saturn|
 
 

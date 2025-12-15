@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°30'51.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°30'51.70" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|23°2'15.71" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|2°8'6.00" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|26°27'6.51" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|21°45'49.99" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|8°13'20.75" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°3'43.63" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°13'20.75" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|5°35'9.94" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°30'51.70" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|23°2'17.90" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°8'2.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|26°26'59.00" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|21°45'45.83" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|8°13'16.36" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|25°30'51.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|23°2'15.71" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°8'6.00" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|26°27'6.51" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|21°45'49.99" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°13'20.75" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|5°35'9.94" |Sagittarius|NaAaem|Mercury|
 
 

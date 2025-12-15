@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°33'17.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°54'59.21" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°58'19.06" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|27°34'32.78" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|23°9'22.95" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|9°46'45.74" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|17°41'28.47" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|25°33'17.16" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°54'55.93" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°58'26.00" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|27°34'50.08" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|23°9'33.00" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|9°46'59.24" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|19°25'53.30" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°33'17.16" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°33'17.16" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°54'55.93" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|2°58'26.00" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|27°34'50.08" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|23°9'33.00" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|9°46'59.24" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|9°46'59.24" |Sagittarius|NaAaem|Mercury|
 |☾ Moon|Direct|19°25'53.30" |Sagittarius|Baldah|Moon|
 
 
