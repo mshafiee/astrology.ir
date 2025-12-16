@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 17:50:35 |
 | Maghrib | 17:56:07 |
 | Isha (Night) | 19:30:25 |
-| Sharia Midnight | 00:22:19 |
+| Sharia Midnight | 00:22:20 |
 | Imum Coeli | 01:12:14 |
 {{< /tab >}}
 
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|27°38'48.04" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|23°14'28.72" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Post-Retrograde Shadow|9°52'31.86" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|19°58'34.69" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|19°58'33.89" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°33'26.00" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°54'29.80" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°1'23.79" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|27°38'48.03" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|23°14'28.69" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|25°33'26.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°54'30.03" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°1'23.81" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|27°38'48.04" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|23°14'28.72" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Post-Retrograde Shadow|9°52'31.86" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|19°58'34.69" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|19°58'33.89" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

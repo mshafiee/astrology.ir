@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|09:28:35|10:04:29|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Jupiter|Servant|10:04:30|10:40:24|Peace among people|
+|2|Jupiter|Servant|10:04:30|10:40:24|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|10:40:25|11:16:19|Vengeful and evil deeds|
 |4|Sun|Servant|11:16:20|11:52:14|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|11:52:15|12:28:09|Auspicious|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°35'20.43" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°48'54.87" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°39'6.82" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|28°29'28.89" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|24°17'8.96" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|11°3'24.02" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|29°43'39.00" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|22°48'54.72" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°39'6.98" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|28°29'29.58" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°17'9.38" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|11°3'24.97" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|29°48'5.77" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

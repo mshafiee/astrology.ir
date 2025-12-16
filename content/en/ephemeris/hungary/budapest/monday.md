@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:39:02 |
 | Medium Coeli | 11:39:02 |
 | Sunset | 15:53:21 |
-| Maghrib | 15:55:28 |
+| Maghrib | 15:55:29 |
 | Isha (Night) | 17:41:05 |
 | Sharia Midnight | 22:42:23 |
 | Imum Coeli | 23:39:16 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:39:02 |
 | Medium Coeli | 11:39:02 |
 | Sunset | 15:53:21 |
-| Maghrib | 15:55:28 |
+| Maghrib | 15:55:29 |
 | Isha (Night) | 17:28:42 |
 | Sharia Midnight | 22:51:39 |
 | Imum Coeli | 23:39:16 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:39:02 |
 | Medium Coeli | 11:39:02 |
 | Sunset | 15:53:21 |
-| Maghrib | 15:55:28 |
+| Maghrib | 15:55:29 |
 | Isha (Night) | 17:44:09 |
 | Sharia Midnight | 22:37:48 |
 | Imum Coeli | 23:39:16 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 11:39:02 |
 | Medium Coeli | 11:39:02 |
 | Sunset | 15:53:21 |
-| Maghrib | 15:55:28 |
+| Maghrib | 15:55:29 |
 | Isha (Night) | 17:47:13 |
 | Sharia Midnight | 22:42:23 |
 | Imum Coeli | 23:39:16 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°25'10.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|23°20'31.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°57'51.00" |Scorpio|Shaulah|Venus|
-|☉ Sun|Direct|23°31'32.50" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|18°8'44.97" |Scorpio|Qalb|Sun|
-|☿ Mercury|Post-Retrograde Shadow|4°16'58.07" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|1°50'47.56" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|25°25'10.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|23°20'30.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°57'51.96" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|23°31'34.27" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|18°8'45.83" |Scorpio|Qalb|Sun|
+|☿ Mercury|Post-Retrograde Shadow|4°16'58.42" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|1°38'2.57" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

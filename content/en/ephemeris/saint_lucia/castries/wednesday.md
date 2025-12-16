@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:39:36 |
 | Maghrib | 17:54:52 |
 | Isha (Night) | 18:39:20 |
-| Sharia Midnight | 23:26:15 |
+| Sharia Midnight | 23:26:16 |
 | Imum Coeli | 00:00:32 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°31'29.00" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|23°0'20.90" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°21'17.69" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|26°44'52.41" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|22°7'47.23" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°37'47.32" |Scorpio|Qalb|Mars|
-|☾ Moon|Direct|9°37'2.63" |Scorpio|Qalb|Mars|
+|♄ Saturn|Direct|25°31'29.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|23°0'20.98" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°21'17.62" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|26°44'52.29" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|22°7'47.17" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°37'47.34" |Scorpio|Qalb|Mars|
+|☾ Moon|Direct|9°37'11.84" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
