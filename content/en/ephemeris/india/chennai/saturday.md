@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|06:25:30|07:22:18|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Jupiter|Servant|07:22:19|08:19:07|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|08:19:08|09:15:57|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Sun|Servant|09:15:58|10:12:46|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Sun|Servant|09:15:58|10:12:46|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|10:12:47|11:09:36|Auspicious|
 |6|Mercury|Servant|11:09:37|12:06:25|Writing, swapping and making promises|
 |7|Moon|Servant|12:06:26|13:03:14|Not suitable for any task|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'5.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°49'37.10" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°34'18.45" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|28°23'3.48" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|24°9'9.65" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|25°35'5.43" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°49'37.34" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°34'18.46" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|28°23'3.49" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|24°9'9.68" |Scorpio|Shaulah|Venus|
 |☿ Mercury|Post-Retrograde Shadow|10°54'20.59" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|28°54'0.04" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|28°53'59.41" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'5.34" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°49'37.10" |Cancer|Tarf|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°35'5.43" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°49'37.34" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°34'18.46" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|28°23'3.49" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|24°9'9.68" |Sagittarius|Baldah|Saturn|

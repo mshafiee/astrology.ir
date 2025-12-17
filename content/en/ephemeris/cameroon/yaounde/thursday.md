@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°31'1.50" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°31'1.50" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|23°1'45.32" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°11'31.26" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|26°31'39.71" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|21°51'33.31" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°19'43.08" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|6°31'24.96" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|2°11'35.38" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|26°31'48.81" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|21°51'38.29" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°19'48.13" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°5'1.23" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°31'1.50" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°31'1.50" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|23°1'45.32" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|2°11'35.38" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°31'48.81" |Sagittarius|Baldah|Saturn|

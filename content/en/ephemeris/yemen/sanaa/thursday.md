@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°30'51.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|23°2'15.31" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°8'7.50" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|26°27'8.86" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|21°45'52.34" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°13'9.88" |Scorpio|Akleel|Mars|
-|☾ Moon|Direct|4°26'47.61" |Scorpio|Akleel|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°30'51.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|23°2'15.46" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°8'7.31" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|26°27'8.55" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|21°45'52.14" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°13'23.27" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|6°7'59.40" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Moon|Saturn|
 |☿ Mercury|Venus|Venus|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Virgo|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Cancer|Sun|Sun|
 |☿ Mercury|Sun|Mercury|Aquarius|Moon|Mars|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°30'51.74" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°30'51.74" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|23°2'15.31" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|2°8'7.50" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|26°27'8.86" |Sagittarius|Baldah|Saturn|

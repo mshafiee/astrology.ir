@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|07:59:02|08:45:30|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Saturn|Ruler|07:59:02|08:45:30|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|08:45:31|09:32:00|Peace among people|
 |3|Mars|Servant|09:32:01|10:18:30|Vengeful and evil deeds|
 |4|Sun|Servant|10:18:31|11:05:00|Dominance, judgment and issuing verdict|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'23.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°48'45.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°40'5.39" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|28°30'48.63" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|24°18'46.05" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°5'14.51" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°12'31.12" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|25°35'23.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°48'46.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°40'4.88" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|28°30'47.90" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|24°18'45.74" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|11°5'14.82" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|0°8'14.17" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'23.34" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°35'23.34" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°48'45.84" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°40'5.39" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|28°30'48.63" |Sagittarius|Baldah|Saturn|

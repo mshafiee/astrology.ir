@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:37:28 |
 | Dhuhr (Noon) | 12:14:27 |
 | Medium Coeli | 12:14:27 |
-| Sunset | 17:51:26 |
+| Sunset | 17:51:25 |
 | Maghrib | 18:06:50 |
 | Isha (Night) | 18:51:32 |
-| Sharia Midnight | 23:40:13 |
+| Sharia Midnight | 23:40:12 |
 | Imum Coeli | 00:14:42 |
 {{< /tab >}}
 
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:37:28 |
 | Dhuhr (Noon) | 12:14:27 |
 | Medium Coeli | 12:14:27 |
-| Sunset | 17:51:26 |
+| Sunset | 17:51:25 |
 | Maghrib | 18:09:05 |
 | Isha (Night) | 18:51:32 |
 | Sharia Midnight | 23:36:27 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:37:28 |
 | Dhuhr (Noon) | 12:14:27 |
 | Medium Coeli | 12:14:27 |
-| Sunset | 17:51:26 |
+| Sunset | 17:51:25 |
 | Maghrib | 17:53:42 |
 | Isha (Night) | 19:04:50 |
-| Sharia Midnight | 23:35:48 |
+| Sharia Midnight | 23:35:47 |
 | Imum Coeli | 00:14:42 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:37:28 |
 | Dhuhr (Noon) | 12:14:27 |
 | Medium Coeli | 12:14:27 |
-| Sunset | 17:51:26 |
+| Sunset | 17:51:25 |
 | Maghrib | 17:53:42 |
 | Isha (Night) | 19:09:15 |
-| Sharia Midnight | 23:35:48 |
+| Sharia Midnight | 23:35:47 |
 | Imum Coeli | 00:14:42 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:37:28 |
 | Dhuhr (Noon) | 12:14:27 |
 | Medium Coeli | 12:14:27 |
-| Sunset | 17:51:26 |
+| Sunset | 17:51:25 |
 | Maghrib | 17:53:42 |
 | Isha (Night) | 19:23:42 |
 | Sharia Midnight | 23:34:41 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:13:58|Night duration: 12:46:33|
+|Duration of the day: 11:13:57|Night duration: 12:46:34|
 |Every hour of day duration: 00:56:10|Every hour of night duration: 01:03:53|
 
  
@@ -220,27 +220,27 @@ Timetable of twelve day and night planetary hours
 |2|Jupiter|Servant|07:33:37|08:29:46|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|08:29:47|09:25:56|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|09:25:57|10:22:06|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Venus|Servant|10:22:07|11:18:16|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|11:18:17|12:14:26|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Moon|Servant|12:14:27|13:10:35|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Venus|Servant|10:22:07|11:18:15|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mercury|Servant|11:18:16|12:14:25|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Moon|Servant|12:14:26|13:10:35|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Saturn|Ruler|13:10:36|14:06:45|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Jupiter|Servant|14:06:46|15:02:55|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Mars|Servant|15:02:56|15:59:05|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Sun|Servant|15:59:06|16:55:15|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Venus|Servant|16:55:16|17:51:25|For gaining dignity|
+|9|Jupiter|Servant|14:06:46|15:02:54|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Mars|Servant|15:02:55|15:59:04|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Sun|Servant|15:59:05|16:55:14|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Venus|Servant|16:55:15|17:51:24|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|17:51:26|18:55:17|Related to talismans, amulets and responses|
-|2|Moon|Servant|18:55:18|19:59:10|Peace among people|
-|3|Saturn|Servant|19:59:11|21:03:03|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:03:04|22:06:56|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:06:57|23:10:48|Auspicious|
+|1|Mercury|Ruler|17:51:25|18:55:16|Related to talismans, amulets and responses|
+|2|Moon|Servant|18:55:17|19:59:09|Peace among people|
+|3|Saturn|Servant|19:59:10|21:03:02|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:03:03|22:06:55|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:06:56|23:10:48|Auspicious|
 |6|Sun|Servant|23:10:49|00:14:41|Writing, swapping and making promises|
-|7|Venus|Servant|00:14:42|01:18:34|Not suitable for any task|
-|8|Mercury|Ruler|01:18:35|02:22:27|Destruction of enemies|
-|9|Moon|Servant|02:22:28|03:26:19|All good deeds|
+|7|Venus|Servant|00:14:42|01:18:33|Not suitable for any task|
+|8|Mercury|Ruler|01:18:34|02:22:26|Destruction of enemies|
+|9|Moon|Servant|02:22:27|03:26:19|All good deeds|
 |10|Saturn|Servant|03:26:20|04:30:12|Doing evil deeds|
 |11|Jupiter|Servant|04:30:13|05:34:05|Acceptance of reconciliation between couples|
 |12|Mars|Servant|05:34:06|06:37:58|For gaining dignity|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°37'2.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°37'2.14" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°44'1.08" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°11'39.87" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|29°13'14.39" |Scorpio|Shaulah|Venus|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°37'2.14" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°37'2.14" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°44'1.08" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|4°11'39.87" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|29°13'14.39" |Sagittarius|Baldah|Saturn|

@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:14:30 |
-| Sunrise | 07:47:22 |
+| Sunrise | 07:47:23 |
 | Dhuhr (Noon) | 12:36:19 |
 | Medium Coeli | 12:36:19 |
 | Sunset | 17:25:15 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:12:56 |
-| Sunrise | 07:47:22 |
+| Sunrise | 07:47:23 |
 | Dhuhr (Noon) | 12:36:19 |
 | Medium Coeli | 12:36:19 |
 | Sunset | 17:25:15 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:05:08 |
-| Sunrise | 07:47:22 |
+| Sunrise | 07:47:23 |
 | Dhuhr (Noon) | 12:36:19 |
 | Medium Coeli | 12:36:19 |
 | Sunset | 17:25:15 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 09:37:53|Night duration: 14:22:39|
+|Duration of the day: 09:37:52|Night duration: 14:22:39|
 |Every hour of day duration: 00:48:09|Every hour of night duration: 01:11:53|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|07:47:22|08:35:30|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|08:35:31|09:23:39|Peace among people|
-|3|Mars|Servant|09:23:40|10:11:49|Vengeful and evil deeds|
-|4|Sun|Servant|10:11:50|10:59:58|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:59:59|11:48:08|Auspicious|
-|6|Mercury|Servant|11:48:09|12:36:17|Writing, swapping and making promises|
-|7|Moon|Servant|12:36:18|13:24:26|Not suitable for any task|
-|8|Saturn|Ruler|13:24:27|14:12:36|Destruction of enemies|
-|9|Jupiter|Servant|14:12:37|15:00:45|All good deeds|
-|10|Mars|Servant|15:00:46|15:48:55|Doing evil deeds|
+|1|Saturn|Ruler|07:47:23|08:35:31|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|08:35:32|09:23:40|Peace among people|
+|3|Mars|Servant|09:23:41|10:11:50|Vengeful and evil deeds|
+|4|Sun|Servant|10:11:51|10:59:59|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|11:00:00|11:48:08|Auspicious|
+|6|Mercury|Servant|11:48:09|12:36:18|Writing, swapping and making promises|
+|7|Moon|Servant|12:36:19|13:24:27|Not suitable for any task|
+|8|Saturn|Ruler|13:24:28|14:12:36|Destruction of enemies|
+|9|Jupiter|Servant|14:12:37|15:00:46|All good deeds|
+|10|Mars|Servant|15:00:47|15:48:55|Doing evil deeds|
 |11|Sun|Servant|15:48:56|16:37:04|Acceptance of reconciliation between couples|
 |12|Venus|Servant|16:37:05|17:25:14|For gaining dignity|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'27.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°48'31.85" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°41'37.13" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|28°32'52.08" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|24°21'18.36" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°8'7.59" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|0°39'16.53" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|25°35'28.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°48'32.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°41'37.18" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|28°32'52.13" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|24°21'18.45" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Post-Retrograde Shadow|11°8'7.65" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|0°39'16.41" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'27.96" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°48'31.85" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°41'37.13" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|28°32'52.08" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|24°21'18.36" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|11°8'7.59" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|0°39'16.53" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|25°35'28.04" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°48'32.09" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°41'37.18" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|28°32'52.13" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°21'18.45" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|11°8'7.65" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|0°39'16.41" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
