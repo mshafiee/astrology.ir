@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:01:05 |
+| Fajr (Dawn) | 07:01:06 |
 | Sunrise | 09:26:20 |
 | Dhuhr (Noon) | 13:08:22 |
 | Medium Coeli | 13:08:22 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°40'32.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°40'32.04" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°34'14.12" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°15'47.36" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|0°39'15.74" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|26°57'32.22" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|14°7'10.31" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|14°7'10.31" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|25°33'8.63" |Sagittarius|Baldah|Saturn|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°40'32.04" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°40'32.04" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°34'14.12" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°15'47.36" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|0°39'15.74" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|26°57'32.22" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|14°7'10.31" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|14°7'10.31" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|25°33'8.63" |Capricorn|SaadAlBula|Sun|
 
 

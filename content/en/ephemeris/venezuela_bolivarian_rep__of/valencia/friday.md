@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:29:18 |
 | Medium Coeli | 12:29:18 |
 | Sunset | 18:15:21 |
-| Maghrib | 18:18:40 |
+| Maghrib | 18:18:41 |
 | Isha (Night) | 19:29:47 |
 | Sharia Midnight | 23:47:58 |
 | Imum Coeli | 00:29:33 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:29:18 |
 | Medium Coeli | 12:29:18 |
 | Sunset | 18:15:21 |
-| Maghrib | 18:18:40 |
-| Isha (Night) | 19:48:40 |
+| Maghrib | 18:18:41 |
+| Isha (Night) | 19:48:41 |
 | Sharia Midnight | 23:50:09 |
 | Imum Coeli | 00:29:33 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°36'2.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°36'2.97" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°46'50.64" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°52'53.31" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|28°48'1.41" |Scorpio|Shaulah|Venus|
 |♀ Venus|Direct|24°40'1.05" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°29'24.60" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|11°29'24.60" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|3°50'12.33" |Sagittarius|Shaulah|Mercury|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°36'2.97" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°36'2.97" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°46'50.64" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°52'53.31" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|28°48'1.41" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|24°40'1.05" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|11°29'24.60" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|11°29'24.60" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|3°50'12.33" |Capricorn|SaadAlDhabib|Jupiter|
 
 

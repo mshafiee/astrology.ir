@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°37'58.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°41'20.99" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°29'18.73" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|29°36'53.90" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|25°40'28.40" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|12°38'28.54" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°3'45.09" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|25°37'58.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°41'21.23" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°29'18.75" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|29°36'53.92" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|25°40'28.43" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|12°38'28.55" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°3'44.85" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°37'58.81" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°41'20.99" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°29'18.73" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|29°36'53.90" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°40'28.40" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|12°38'28.54" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|13°3'45.09" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|25°37'58.90" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°41'21.23" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°29'18.75" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|29°36'53.92" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°40'28.43" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°38'28.55" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|13°3'44.85" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

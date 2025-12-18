@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:32:15 |
 | Dhuhr (Noon) | 11:48:06 |
 | Medium Coeli | 11:48:06 |
-| Sunset | 18:03:55 |
+| Sunset | 18:03:56 |
 | Maghrib | 18:08:05 |
 | Isha (Night) | 19:21:46 |
-| Sharia Midnight | 23:09:25 |
+| Sharia Midnight | 23:09:26 |
 | Imum Coeli | 23:48:20 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:32:15 |
 | Dhuhr (Noon) | 11:48:06 |
 | Medium Coeli | 11:48:06 |
-| Sunset | 18:03:55 |
+| Sunset | 18:03:56 |
 | Maghrib | 18:08:05 |
 | Isha (Night) | 19:38:05 |
 | Sharia Midnight | 23:08:17 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°42'16.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°42'16.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°29'28.64" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°46'24.92" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|1°20'21.61" |Sagittarius|Shaulah|Mercury|
 |♀ Venus|Direct|27°48'16.18" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|15°5'55.78" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|15°5'55.78" |Scorpio|Qalb|Sun|
 |☾ Moon|Direct|4°12'37.37" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°42'16.10" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°42'16.10" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°29'28.64" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°46'24.92" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|1°20'21.61" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|27°48'16.18" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|15°5'55.78" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|15°5'55.78" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|4°12'37.37" |Aquarius|SaadAlSaud|Venus|
 
 

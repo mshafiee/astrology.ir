@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°41'8.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°32'36.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°26'32.70" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|0°53'36.05" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|27°15'23.21" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|14°27'48.66" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|27°11'9.56" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|25°41'8.54" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°32'32.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°26'39.47" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|0°53'52.24" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|27°15'32.47" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|14°27'59.78" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|28°51'54.48" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Virgo|Sun|Sun|
 |☿ Mercury|Mercury|Mars|Aries|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Libra|Moon|Mercury|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°41'8.54" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°41'8.54" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°32'32.77" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°26'39.47" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|0°53'52.24" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|27°15'32.47" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|14°27'59.78" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|14°27'59.78" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|28°51'54.48" |Capricorn|SaadAlSaud|Sun|
 
 

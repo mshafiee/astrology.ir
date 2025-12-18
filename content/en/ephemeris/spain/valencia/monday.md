@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°40'37.54" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°33'58.43" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°17'27.18" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|0°41'30.61" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|27°0'17.47" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|14°10'21.43" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|26°11'48.72" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|25°40'37.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°33'58.19" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°17'27.17" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|0°41'22.83" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|27°0'12.78" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|14°10'13.97" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|25°47'21.31" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°40'37.54" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°40'37.54" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°33'58.43" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°17'27.18" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|0°41'30.61" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|27°0'17.47" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|14°10'21.43" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|14°10'21.43" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|26°11'48.72" |Capricorn|SaadAlSaud|Sun|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°37'59.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°37'59.05" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°41'19.55" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|4°29'25.92" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|29°37'5.81" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|25°40'39.95" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Post-Retrograde Shadow|12°38'42.23" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|13°34'0.45" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|25°40'29.94" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|12°38'29.04" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°52'11.03" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Saturn|Mercury|Moon|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Virgo|Sun|Sun|
 |☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°37'59.05" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°37'59.05" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°41'19.55" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|4°29'25.92" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|29°37'5.81" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|25°40'39.95" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Post-Retrograde Shadow|12°38'42.23" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|12°38'42.23" |Sagittarius|NaAaem|Moon|
 |☾ Moon|Direct|13°34'0.45" |Capricorn|SaadAlBula|Mars|
 
 
