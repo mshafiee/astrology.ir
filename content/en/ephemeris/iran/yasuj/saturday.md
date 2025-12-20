@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'20.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°48'54.77" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°39'4.72" |Sagittarius|Shaulah|Mercury|
-|☉ Sun|Direct|28°29'27.59" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|24°17'5.20" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|11°3'19.80" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|29°59'59.34" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Post-Retrograde Shadow|25°35'20.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°48'54.91" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°39'4.63" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|28°29'27.51" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|24°17'5.19" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|11°3'20.28" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|0°2'19.74" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Saturn|Mercury|Moon|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Saturn|Saturn|Leo|Sun|Sun|
 |☿ Mercury|Venus|Venus|Pisces|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°35'20.17" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°35'20.17" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°48'54.77" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°39'4.72" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|28°29'27.59" |Sagittarius|Baldah|Saturn|

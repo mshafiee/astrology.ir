@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°38'20.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°40'19.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°36'2.67" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|29°45'57.57" |Scorpio|Shaulah|Venus|
-|♀ Venus|Direct|25°51'38.31" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|12°51'17.27" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|15°9'29.86" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°38'20.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°40'22.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°35'56.82" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|29°45'42.98" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|25°51'29.96" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|12°51'6.51" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|13°40'42.72" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Moon|Saturn|
 |♀ Venus|Saturn|Mercury|Moon|Saturn|
 |☿ Mercury|Mercury|Venus|Jupiter|Jupiter|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Libra|Sun|Sun|
 |♀ Venus|Jupiter|Saturn|Virgo|Sun|Sun|
 |☿ Mercury|Venus|Venus|Aries|Moon|Mars|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°38'20.55" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°38'20.55" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°40'19.51" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|4°36'2.67" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|29°45'57.57" |Sagittarius|Baldah|Saturn|
