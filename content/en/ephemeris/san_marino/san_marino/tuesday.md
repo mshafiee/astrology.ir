@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°43'10.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°27'6.94" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°1'48.67" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|1°40'51.86" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|28°13'47.54" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|15°35'34.32" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|6°52'50.29" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|25°43'10.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°27'3.78" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°1'54.56" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|1°41'6.06" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|28°13'55.76" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|15°35'44.56" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|8°9'22.00" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Mercury|Mars|Taurus|Sun|Sun|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°43'10.01" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°43'10.01" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°27'3.78" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°1'54.56" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|1°41'6.06" |Capricorn|SaadAlDhabib|Jupiter|

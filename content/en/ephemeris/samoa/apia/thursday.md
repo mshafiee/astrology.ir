@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°49'54.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°49'54.21" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°9'25.12" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°52'49.29" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|4°9'34.82" |Sagittarius|Shaulah|Mercury|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°49'54.21" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°49'54.21" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°9'25.12" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°52'43.09" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|4°9'19.55" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|1°17'11.38" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°10'28.24" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|7°59'25.66" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|7°52'49.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°9'34.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°17'20.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°10'38.97" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|8°52'59.16" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

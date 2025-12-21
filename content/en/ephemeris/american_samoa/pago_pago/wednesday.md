@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°49'53.81" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°9'29.82" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°52'33.61" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|4°9'6.84" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|1°16'55.58" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|19°10'9.39" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|8°4'34.08" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|25°49'53.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°9'26.67" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°52'39.69" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|4°9'21.98" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|1°17'4.26" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|19°10'20.27" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|8°50'15.75" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°49'53.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°9'29.82" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°52'33.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|4°9'6.84" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|1°16'55.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°10'9.39" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|8°4'34.08" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|25°49'53.60" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°9'26.42" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°52'39.68" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°9'21.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°17'4.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°10'20.26" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|8°50'15.87" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

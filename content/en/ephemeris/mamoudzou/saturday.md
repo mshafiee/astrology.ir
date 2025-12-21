@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|05:30:02|06:34:27|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Jupiter|Servant|06:34:28|07:38:54|Peace among people|
+|2|Jupiter|Servant|06:34:28|07:38:54|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|07:38:55|08:43:20|Vengeful and evil deeds|
 |4|Sun|Servant|08:43:21|09:47:47|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|09:47:48|10:52:13|Auspicious|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°35'14.60" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°35'14.60" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°49'10.71" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°37'17.50" |Sagittarius|Shaulah|Mercury|
 |☉ Sun|Direct|28°27'4.06" |Scorpio|Shaulah|Venus|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°35'14.60" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°35'14.60" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°49'10.71" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|3°37'17.50" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|28°27'4.06" |Sagittarius|Baldah|Saturn|

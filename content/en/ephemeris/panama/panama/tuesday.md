@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°46'25.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|25°46'25.26" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°18'24.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°56'40.42" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|2°54'28.01" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|29°44'32.42" |Scorpio|Shaulah|Venus|
-|☿ Mercury|Direct|17°21'32.72" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|23°19'27.05" |Capricorn|SaadAlBula|Sun|
+|♂ Mars|Direct|6°56'34.18" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|2°54'13.33" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|29°44'24.01" |Scorpio|Shaulah|Venus|
+|☿ Mercury|Direct|17°21'22.97" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|21°55'20.53" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Saturn|Saturn|Moon|Saturn|
 |☿ Mercury|Mercury|Jupiter|Jupiter|Jupiter|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Libra|Sun|Sun|
 |☿ Mercury|Moon|Jupiter|Taurus|Sun|Sun|
-|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°46'25.26" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°46'25.26" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°18'24.88" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°56'40.42" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|2°54'28.01" |Capricorn|SaadAlDhabib|Jupiter|

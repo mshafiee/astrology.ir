@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°50'6.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°8'53.39" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°56'7.31" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|25°50'6.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°8'53.13" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°56'7.30" |Sagittarius|NaAaem|Mercury|
 |☉ Sun|Direct|4°13'58.92" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|1°22'44.04" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|19°17'2.23" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|8°40'6.41" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|1°22'47.33" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|19°17'4.97" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|9°44'50.48" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|25°50'6.82" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|25°50'6.82" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°8'53.39" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°56'7.31" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|4°13'58.92" |Capricorn|SaadAlDhabib|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: SYD, Sanctus Dionysius, Sedniejos, Sek-na, Sidnef, Sidnei, Sidnej, Sidneja, Sidnejo, Sidnejus, Sidney, Sidneý, Sidni, Sidnéy, Sidnėjus, Sit-ni, Sit-nì, Syd, Sydneium, Sydney, Sydney City, Sék-nà̤, Sídney, Sîdney, Sėdniejos, citni, shidoni, sidani, sideuni, sidnei, sidni, sidniy, sydny, xi ni, xue li, Σίδνεϋ, Сиднеи, Сидней, Сиднеј, Сидни, Сідней, Сідні, Սիդնեյ, סידני, سيدنى, سيدني, سڈنی, سیدنی, ܣܝܕܢܝ, सिडनी, सिड्नी, सिद्नी, সিডনি, ਸਿਡਨੀ, સીડની, சிட்னி, సిడ్నీ, ಸಿಡ್ನಿ, സിഡ്നി, සිඩ්නි, ซิดนีย์, སིད་ནེ།, ဆစ်ဒနီမြို့, სიდნეი, ሲድኒ, ស៊ីដនីយ៏, シドニー, 悉尼, 雪梨, 시드니
