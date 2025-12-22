@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°50'21.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°8'16.68" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°59'47.31" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|4°18'46.81" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|1°28'51.24" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|19°24'12.97" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°46'37.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|7°59'52.73" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|4°19'0.87" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|1°28'59.42" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|19°24'24.19" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°51'33.09" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°59'52.73" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|4°19'0.87" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|1°28'59.42" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°24'24.19" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|10°51'33.09" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|19°24'13.82" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|9°40'14.54" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Agadna, Agana, Agana -1998, Agania, Aganija, Aganja, Agano, Agaña, Aguana, Akashi, Akashi - JP renamed WW2, Ankana, City of Ignacio de Agana, City of Saint Ignacio de Agana, Ciudad de San Ignacio de Agana, Hagadna, Hagatna, Hagåtña, Haqatna, Jagatna, Khagatna, San Ignacio de Agana *, Ville d'Agana, Vjoska Agan'ja, a jia ni ya, akatna, ha katya, hagania, hagasnya, hagatna, hagatnya, haghatnya, hegatn'ya, Αγκάνα, Вёска Аганья, Хагатна, Хагатња, Հագատնա, هاغاتنيا, هاگاتنا, هاگاتنیا, हेगात्न्या, அகாத்ன, ฮากาตญา, ჰაგატნა, ハガニア, 阿加尼亚, 하갓냐

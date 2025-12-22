@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°48'52.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°12'5.81" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°36'15.70" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|3°47'21.50" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|0°49'58.88" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|18°38'23.24" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|4°21'54.46" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°12'5.69" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°36'16.78" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|3°47'24.87" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|0°50'0.94" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|18°38'26.88" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°58'44.65" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|3°47'24.87" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|0°50'0.94" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|18°38'26.88" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|4°21'54.46" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°58'44.65" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로

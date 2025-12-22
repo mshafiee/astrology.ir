@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°48'39.70" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°12'36.58" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°33'1.89" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|3°43'5.63" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|0°44'38.64" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|18°32'7.65" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|3°13'39.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|22°12'37.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°32'58.37" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|3°42'56.08" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|0°44'32.97" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|18°31'59.13" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|3°26'42.30" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°48'39.70" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°12'36.58" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°33'1.89" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|3°43'5.63" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°44'38.64" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|18°32'7.65" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|3°13'39.31" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|22°12'37.82" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°32'58.37" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|3°42'56.08" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|0°44'32.97" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|18°31'59.13" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|3°26'42.30" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

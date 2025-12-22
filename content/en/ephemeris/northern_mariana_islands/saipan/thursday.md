@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°50'21.00" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°8'16.93" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°59'51.24" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|4°18'58.84" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|1°28'56.96" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°24'21.28" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|10°50'56.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|7°59'46.25" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°18'47.15" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°28'50.32" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°24'13.90" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|9°45'56.88" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Saturn|Sun|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Mercury|Saturn|Mars|Mercury|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: SPN, Saipan, Sajpan, saipan, Сайпан, 사이판

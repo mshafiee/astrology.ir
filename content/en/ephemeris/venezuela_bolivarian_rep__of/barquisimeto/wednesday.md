@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°49'10.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°11'17.86" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°41'9.40" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|3°53'58.93" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°58'3.93" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|18°47'56.03" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|5°37'38.63" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Retrograde|22°11'21.58" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°41'2.27" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|3°53'41.35" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|0°57'53.79" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|18°47'43.27" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|4°41'35.95" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Aquarius|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Mercury|Mercury|Cancer|Moon|Mercury|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

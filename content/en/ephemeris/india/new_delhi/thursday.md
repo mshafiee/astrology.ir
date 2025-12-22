@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|25°48'4.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°14'5.92" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°23'41.16" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|3°30'35.52" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|0°29'11.42" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|18°13'56.00" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|1°10'41.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|22°14'6.30" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°23'41.24" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|3°30'36.36" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|0°29'12.03" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|18°13'57.77" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|0°42'27.90" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Dellium Novum, Dilli, Dillí, N'ju-Deli, Neo Delchi, Neu-Delhi, Nev Deli, New Delhi, New Dilli, Nju Delkhi, Nov-Delhio, Nova Delhi, Nova Deli, Nova Deli - na'i dilli, Nova Deli - नई दिल्ली, Nova-Delhi, Nove Dilli, Nové Dillí, Nueba Deli, Nueva Delhi, Nuova Delhi, Nyja Deli, Nyu Deli, Nòva Delhi, Nýja Delí, Yeni Delhi, dlhy aljdydt, na'i dilli, naya dilli, niu-deli, niwde li, nyudelli, nyuderi, nyw dlhy, nywdlhy, putu tilli, xin de li, Νέο Δελχί, Њу Делхи, Нев Дели, Нью-Дели, Նյու Դելի, ניו דלהי, دلهي الجديدة, نيودلهي, नई दिल्ली, নয়া দিল্লী, புது தில்லி, นิวเดลี, ནེའུ་དིལ་ལིའི, ნიუ-დელი, ኒው ዴሊ, ニューデリー, 新德里, 뉴델리
