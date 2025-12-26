@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°50'42.16" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°7'24.29" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°5'19.43" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|4°26'13.11" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|1°37'58.90" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|19°34'59.37" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|12°56'5.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|25°50'42.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°7'23.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°5'21.61" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|4°26'19.43" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|1°38'2.68" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|19°35'5.62" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|12°18'49.58" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Capricorn|Sun|Jupiter|
 |♀ Venus|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Jupiter|Gemini|Sun|Sun|
-|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°50'42.16" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°7'23.76" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°5'21.62" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|4°26'19.44" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|1°38'2.71" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°35'5.63" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|12°18'49.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|25°50'42.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°7'23.50" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°5'21.61" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°26'19.43" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°38'2.68" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°35'5.62" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|12°18'49.58" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BJS, Bac Kinh, Baek-ging, Baekging, Behehzhin, Beijing, Beijing Shi, Beising, Beixin, Beixín, Bejdzing, Bejdżing, Bejing, Beyjing, Beȝcinȝ, Báe̤k-gĭng, Béising, Bắc Kinh, Pechin, Pechino, Pechinu, Pechinum, Pecinum, Pei-ching, Pei-ching-shih, Pei-p'ing, Pei-p'ing-shih, Peken, Pekin, Pekin', Pekina, Pekinas, Peking, Pekini, Pekino, Pekín, Pekîn, Peping, Pequim, Pequin, Pequín, Pet-kin, Pet-kîn, Peycing, Pikkin, Pèquin, Pékin, Péqùin, Péycing, be'ijim, be'ijina, be'ijinga, bei jing, bei jing shi, beidjin, beijing, bijiga, bijing, bijinga, bkyn, buggyeong, byjng, bykyn, byyg'yng, byyzsyng, pakking, peyjin, pkn, Πεκίνο, Бейжің, Бээжин, Бәәҗң балһсн, Пекин, Пекинг, Пекін, Пекінґ, Պեկին, בייג'ינג, בייזשינג, بكين, بيكين, بیجنگ, بېجینګ, بېيجىڭ, بېيجىڭ شەھىرى, پکن, پێکەن, ބީޖިންގ, बीजिंग, बेइजिङ, বেইজিং, ਬੀਜਿੰਗ, બેઇજિંગ, பெய்ஜிங், బీజింగ్, ಬೀಜಿಂಗ್, ബെയ്‌ജിങ്ങ്‌, බෙයිජිං, ปักกิ่ง, པེ་ཅིང་གྲོང་ཁྱེར།, ပေကျင်းမြို့, პეკინი, ቤዪጂንግ, ប៉េកាំង, 北京, 北京市, 베이징, 북경

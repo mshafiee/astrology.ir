@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°50'15.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|25°50'15.04" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|22°8'32.04" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°58'17.73" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|4°16'54.00" |Sagittarius|Shaulah|Mercury|
-|♀ Venus|Direct|1°26'22.54" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|19°21'19.02" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°25'25.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|7°58'12.32" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|4°16'39.84" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|1°26'14.32" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|19°21'7.63" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°22'58.68" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°50'15.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|22°8'32.04" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°58'17.73" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|4°16'54.00" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|1°26'22.54" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|19°21'19.02" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|10°25'25.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Post-Retrograde Shadow|25°50'15.04" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|22°8'34.39" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°58'12.32" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°16'39.84" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|1°26'14.32" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|19°21'7.63" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|10°22'58.68" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: POM, Po Moresbi, Port Moresby, Port Moresmpi, Port Morsbi, Port Morsbis, Port-Moresbo, Port-Morsbi, Portmorsbi, Portus Moresbiensis, Pot Mosbi, Puerto Moresby, Pò Moresbi, bwrt mwrsby, mo er ci bi gang, mo er zi bi gang, phxrt mxr sbi, porata moraisabi, porta moresbi, poteumoleujeubi, potomoresubi, pwrt mwrsby, Πορτ Μόρεσμπι, Порт Морсби, Порт-Морсби, Порт-Морсбі, Պորտ Մորսբի, פורט מורסבי, بورت مورسبي, صوبہ پورٹ مورسبائی, مورېسبى پورتى, پورت مورسبی, پورٹ مورسبی, پۆرت مۆرسبی, पोर्ट मॉरेस्बी, पोर्ट मोरेस्बी, ਪੋਰਟ ਮੋਰੈਸਬੀ, พอร์ตมอร์สบี, པོ་རོ་ཊི་མོ་རེ་སི་བི།, პორტ-მორზბი, ፖርት ሞርስቢ, ポートモレスビー, 莫尔兹比港, 포트모르즈비

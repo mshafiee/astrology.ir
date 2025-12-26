@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°50'35.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|22°7'44.97" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°3'25.23" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|4°23'37.14" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|1°34'52.08" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|19°31'20.10" |Scorpio|Qalb|Sun|
-|☾ Moon|Direct|10°59'46.40" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|25°50'35.09" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|22°7'41.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°3'32.10" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|4°23'53.86" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|1°35'1.72" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|19°31'31.94" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|11°51'56.28" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°50'35.09" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°50'35.09" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|22°7'41.26" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|8°3'32.10" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|4°23'53.86" |Capricorn|SaadAlDhabib|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub> |<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시
