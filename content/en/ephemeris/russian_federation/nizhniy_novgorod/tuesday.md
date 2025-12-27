@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:06:32 |
 | Medium Coeli | 12:06:32 |
 | Sunset | 15:35:52 |
-| Maghrib | 15:39:54 |
+| Maghrib | 15:39:53 |
 | Isha (Night) | 17:53:11 |
 | Sharia Midnight | 22:54:16 |
 | Imum Coeli | 00:06:47 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:06:32 |
 | Medium Coeli | 12:06:32 |
 | Sunset | 15:35:52 |
-| Maghrib | 15:39:54 |
+| Maghrib | 15:39:53 |
 | Isha (Night) | 17:38:03 |
 | Sharia Midnight | 23:05:34 |
 | Imum Coeli | 00:06:47 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:06:32 |
 | Medium Coeli | 12:06:32 |
 | Sunset | 15:35:52 |
-| Maghrib | 15:39:54 |
+| Maghrib | 15:39:53 |
 | Isha (Night) | 17:56:56 |
 | Sharia Midnight | 22:48:42 |
 | Imum Coeli | 00:06:47 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:06:32 |
 | Medium Coeli | 12:06:32 |
 | Sunset | 15:35:52 |
-| Maghrib | 15:39:54 |
+| Maghrib | 15:39:53 |
 | Isha (Night) | 18:00:40 |
 | Sharia Midnight | 22:54:16 |
 | Imum Coeli | 00:06:47 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:06:32 |
 | Medium Coeli | 12:06:32 |
 | Sunset | 15:35:52 |
-| Maghrib | 15:39:54 |
-| Isha (Night) | 17:09:54 |
+| Maghrib | 15:39:53 |
+| Isha (Night) | 17:09:53 |
 | Sharia Midnight | 22:52:24 |
 | Imum Coeli | 00:06:47 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°4'0.18" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°4'0.18" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|21°35'11.32" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°20'11.28" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|8°46'13.93" |Sagittarius|NaAaem|Mercury|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°4'0.18" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°4'0.18" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|21°35'11.32" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°20'11.28" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|8°46'13.93" |Capricorn|SaadAlDhabib|Jupiter|

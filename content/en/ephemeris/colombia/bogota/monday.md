@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°4'45.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°4'45.58" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|21°33'25.00" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°30'37.74" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|9°0'10.57" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|7°16'16.39" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|26°18'45.71" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|13°20'8.22" |Aries|Butain|Sun|
+|☉ Sun|Direct|9°0'10.58" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|7°16'16.40" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|26°18'45.77" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|13°18'29.45" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mars|Mercury|Aquarius|Sun|Jupiter|
 |☿ Mercury|Jupiter|Saturn|Virgo|Sun|Sun|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°4'45.50" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|21°33'24.73" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°30'37.73" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|26°4'45.58" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|21°33'25.00" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°30'37.74" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|9°0'10.57" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|7°16'16.37" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|26°18'45.72" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|13°20'8.24" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|7°16'16.39" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|26°18'45.71" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|13°20'8.22" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
