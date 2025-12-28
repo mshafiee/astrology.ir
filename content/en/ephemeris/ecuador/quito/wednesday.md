@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°11'41.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°11'41.02" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|21°17'45.20" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°2'48.55" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|11°2'41.56" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|9°47'42.86" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|29°21'56.88" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|14°19'1.06" |Taurus|Dabaran|Moon|
+|♂ Mars|Direct|13°2'53.10" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|11°2'53.31" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|9°47'49.58" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|29°22'5.82" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°50'49.19" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°11'41.02" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°11'41.02" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|21°17'45.20" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|13°2'53.10" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|11°2'53.31" |Capricorn|SaadAlDhabib|Mars|

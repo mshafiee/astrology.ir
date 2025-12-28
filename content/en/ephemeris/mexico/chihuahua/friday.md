@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:29:44 |
 | Sunrise | 07:55:37 |
-| Dhuhr (Noon) | 13:05:10 |
-| Medium Coeli | 13:05:10 |
+| Dhuhr (Noon) | 13:05:09 |
+| Medium Coeli | 13:05:09 |
 | Sunset | 18:14:45 |
 | Maghrib | 18:20:04 |
 | Isha (Night) | 19:35:51 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:29:44 |
 | Sunrise | 07:55:37 |
-| Dhuhr (Noon) | 13:05:10 |
-| Medium Coeli | 13:05:10 |
+| Dhuhr (Noon) | 13:05:09 |
+| Medium Coeli | 13:05:09 |
 | Sunset | 18:14:45 |
 | Maghrib | 18:20:04 |
 | Isha (Night) | 19:40:37 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°55'29.80" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°55'26.66" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°18'31.62" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|6°4'3.93" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|25°55'29.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°55'26.74" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°18'31.57" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|6°4'3.91" |Sagittarius|NaAaem|Mercury|
 |♀ Venus|Direct|3°38'46.04" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|21°58'14.96" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|3°26'55.92" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|21°58'15.10" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|3°21'1.58" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°55'29.80" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°55'29.80" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|21°55'26.74" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°18'31.57" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|6°4'3.91" |Capricorn|SaadAlDhabib|Jupiter|

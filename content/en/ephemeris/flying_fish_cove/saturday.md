@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°56'36.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°52'45.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°35'1.29" |Sagittarius|NaAaem|Mercury|
-|☉ Sun|Direct|6°26'1.16" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|4°5'59.03" |Sagittarius|Shaulah|Mercury|
-|☿ Mercury|Direct|22°30'41.41" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|7°20'11.31" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|25°56'36.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°52'42.66" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°35'5.73" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|6°26'11.35" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|4°6'4.80" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|22°30'47.34" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°12'14.17" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Jupiter|Moon|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Jupiter|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Aquarius|Sun|Jupiter|
 |♀ Venus|Jupiter|Venus|Capricorn|Sun|Jupiter|
 |☿ Mercury|Saturn|Saturn|Leo|Sun|Sun|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|25°56'36.90" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|25°56'36.90" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|21°52'42.66" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°35'5.73" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|6°26'11.35" |Capricorn|SaadAlDhabib|Jupiter|
