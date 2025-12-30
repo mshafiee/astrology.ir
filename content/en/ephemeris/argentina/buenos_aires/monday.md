@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|26°4'25.88" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°34'11.08" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°26'6.99" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|21°34'10.97" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°26'6.89" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|8°54'9.31" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|7°8'51.55" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|26°9'50.37" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|11°37'34.94" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|7°8'51.23" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|26°9'49.44" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|12°0'37.99" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Moon|
 |♀ Venus|Jupiter|Jupiter|Jupiter|Moon|
 |☿ Mercury|Saturn|Mercury|Moon|Saturn|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Post-Retrograde Shadow|26°4'25.88" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|21°34'11.08" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°26'6.99" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|8°54'9.77" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|7°8'51.55" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|26°9'50.37" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|21°34'10.97" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°26'6.89" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|8°54'9.31" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|7°8'51.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|26°9'49.44" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|11°37'34.94" |Taurus|Dabaran|Moon|
 
 
