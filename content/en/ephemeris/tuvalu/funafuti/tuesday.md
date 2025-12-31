@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°5'42.14" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°31'14.36" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°43'25.84" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|9°17'7.54" |Sagittarius|NaAaem|Mercury|
-|♀ Venus|Direct|7°37'19.80" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|26°44'7.76" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|18°43'50.08" |Aries|Butain|Sun|
+|♄ Saturn|Post-Retrograde Shadow|26°5'42.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°31'14.63" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°43'30.09" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|9°17'18.72" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|7°37'26.21" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|26°44'16.58" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|17°22'56.60" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Jupiter|
 |♀ Venus|Mars|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Virgo|Sun|Sun|
-|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|9°17'18.72" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|7°37'26.21" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|26°44'16.58" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°43'49.97" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°22'56.60" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Aries|Moon|Saturn|
 |♀ Venus|Jupiter|Jupiter|Aries|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Libra|Moon|Mercury|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Mercury|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}

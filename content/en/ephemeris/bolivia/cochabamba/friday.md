@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:33:00 |
+| Fajr (Dawn) | 04:32:59 |
 | Sunrise | 05:54:59 |
 | Dhuhr (Noon) | 12:28:44 |
 | Medium Coeli | 12:28:44 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°18'44.99" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°2'22.29" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°32'26.74" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|13°1'48.39" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|12°14'41.20" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°18'45.07" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°2'22.57" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°32'26.75" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|13°1'48.41" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|12°14'41.22" |Sagittarius|NaAaem|Moon|
 |☿ Mercury|Direct|2°21'8.18" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|11°58'25.15" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°58'25.24" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°18'44.99" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|21°2'22.29" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°32'26.74" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|13°1'48.39" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°14'41.20" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°18'45.07" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|21°2'22.57" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°32'26.75" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|13°1'48.41" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°14'41.22" |Capricorn|SaadAlDhabib|Mars|
 |☿ Mercury|Direct|2°21'8.18" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°58'25.15" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°58'25.24" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
