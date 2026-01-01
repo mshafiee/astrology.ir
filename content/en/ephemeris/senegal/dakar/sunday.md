@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:14:44 |
 | Sunset | 18:53:40 |
 | Maghrib | 18:54:40 |
-| Isha (Night) | 20:06:25 |
+| Isha (Night) | 20:06:26 |
 | Sharia Midnight | 00:36:22 |
 | Imum Coeli | 01:14:57 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°22'8.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°22'8.80" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°55'10.63" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|15°14'4.01" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|13°57'0.06" |Sagittarius|NaAaem|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°22'8.80" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°22'8.80" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°55'10.63" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|15°14'4.01" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|13°57'0.06" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|13°22'48.52" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|3°44'38.66" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|25°49'30.13" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|13°22'50.96" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|3°44'41.88" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|25°22'14.97" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Moon|Saturn|
 |♀ Venus|Sun|Venus|Gemini|Moon|Saturn|
 |☿ Mercury|Saturn|Saturn|Aquarius|Moon|Saturn|
-|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

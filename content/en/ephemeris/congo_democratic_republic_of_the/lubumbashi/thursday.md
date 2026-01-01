@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°10'35.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°20'14.12" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°48'34.66" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|10°43'44.52" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|9°24'21.88" |Sagittarius|NaAaem|Mercury|
-|☿ Mercury|Direct|28°53'36.68" |Scorpio|Shaulah|Venus|
-|☾ Moon|Direct|10°3'30.51" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|26°10'35.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°20'10.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°48'41.35" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|10°44'1.20" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|9°24'31.49" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Direct|28°53'48.88" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|8°15'12.04" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mars|Mercury|
 |♀ Venus|Jupiter|Venus|Jupiter|Moon|
 |☿ Mercury|Saturn|Saturn|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Moon|Aries|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Libra|Sun|Sun|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°10'35.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°10'35.67" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|21°20'10.61" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°48'41.35" |Capricorn|SaadAlDhabib|Mars|
 |☉ Sun|Direct|10°44'1.20" |Capricorn|SaadAlDhabib|Mars|

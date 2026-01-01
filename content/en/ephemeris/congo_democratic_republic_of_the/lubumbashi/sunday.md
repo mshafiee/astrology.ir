@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:29:45 |
+| Fajr (Dawn) | 04:29:44 |
 | Sunrise | 05:51:31 |
 | Dhuhr (Noon) | 12:14:59 |
 | Medium Coeli | 12:14:59 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°21'33.39" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°21'33.32" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°56'25.46" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|15°6'53.16" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|13°47'29.13" |Sagittarius|NaAaem|Moon|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°21'33.39" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°21'33.39" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°56'25.46" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|15°6'53.16" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|13°47'29.13" |Capricorn|SaadAlBula|Mars|
