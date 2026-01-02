@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:22:27 |
 | Medium Coeli | 12:22:27 |
 | Sunset | 18:54:53 |
-| Maghrib | 18:59:21 |
+| Maghrib | 18:59:22 |
 | Isha (Night) | 20:12:04 |
 | Sharia Midnight | 23:41:41 |
 | Imum Coeli | 00:22:40 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:22:27 |
 | Medium Coeli | 12:22:27 |
 | Sunset | 18:54:53 |
-| Maghrib | 18:59:22 |
+| Maghrib | 18:59:21 |
 | Isha (Night) | 20:02:24 |
 | Sharia Midnight | 23:48:57 |
 | Imum Coeli | 00:22:40 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:22:27 |
 | Medium Coeli | 12:22:27 |
 | Sunset | 18:54:53 |
-| Maghrib | 18:59:22 |
+| Maghrib | 18:59:21 |
 | Isha (Night) | 20:16:57 |
 | Sharia Midnight | 23:41:41 |
 | Imum Coeli | 00:22:40 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°30'8.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°38'43.49" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°48'46.02" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|16°2'26.51" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|15°57'44.43" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|6°55'41.79" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|24°32'56.88" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|26°30'7.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°38'43.32" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°48'45.65" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|16°2'25.71" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|15°57'43.94" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|6°55'41.31" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|24°40'17.28" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

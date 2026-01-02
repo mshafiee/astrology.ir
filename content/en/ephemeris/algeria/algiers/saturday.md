@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:44:09 |
 | Maghrib | 17:46:13 |
 | Isha (Night) | 19:16:13 |
-| Sharia Midnight | 00:04:12 |
+| Sharia Midnight | 00:04:11 |
 | Imum Coeli | 00:52:21 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°18'17.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°3'21.06" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|26°18'17.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°3'20.78" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°26'49.27" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|12°54'19.51" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|12°5'28.45" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|2°9'51.87" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|10°25'57.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|12°54'19.50" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|12°5'28.42" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|2°9'51.86" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|10°25'56.99" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°18'17.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|21°3'21.06" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|26°18'17.86" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|21°3'20.78" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|14°26'49.27" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|12°54'19.51" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°5'28.45" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|2°9'51.87" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°25'57.10" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|12°54'19.50" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°5'28.42" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|2°9'51.86" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|10°25'56.99" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:54 |
-| Sunrise | 05:58:53 |
+| Sunrise | 05:58:52 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:55:45 |
-| Sunrise | 05:58:53 |
+| Sunrise | 05:58:52 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:35:58 |
-| Sunrise | 05:58:53 |
+| Sunrise | 05:58:52 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:23 |
-| Sunrise | 05:58:53 |
+| Sunrise | 05:58:52 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:13:19|Night duration: 11:47:08|
+|Duration of the day: 12:13:20|Night duration: 11:47:08|
 |Every hour of day duration: 01:01:07|Every hour of night duration: 00:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:58:53|06:59:58|Creating corruption, hatred and enmity|
-|2|Sun|Servant|06:59:59|08:01:05|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:01:06|09:02:11|Attracting connection and suitors|
-|4|Mercury|Servant|09:02:12|10:03:18|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:03:19|11:04:24|Attracting misfortune, no task is suitable|
+|1|Mars|Ruler|05:58:52|06:59:57|Creating corruption, hatred and enmity|
+|2|Sun|Servant|06:59:58|08:01:04|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:01:05|09:02:11|Attracting connection and suitors|
+|4|Mercury|Servant|09:02:12|10:03:17|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:03:18|11:04:24|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|11:04:25|12:05:31|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:05:32|13:06:38|Attracting love and hearts|
-|8|Mars|Ruler|13:06:39|14:07:44|Creating corruption, destroying enemies, making enemies sick|
+|7|Jupiter|Servant|12:05:32|13:06:37|Attracting love and hearts|
+|8|Mars|Ruler|13:06:38|14:07:44|Creating corruption, destroying enemies, making enemies sick|
 |9|Sun|Servant|14:07:45|15:08:51|Heart tenderness|
 |10|Venus|Servant|15:08:52|16:09:57|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|16:09:58|17:11:04|Attracting connection and suitors|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°29'19.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°40'21.05" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°39'24.67" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|15°50'3.57" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|15°42'27.03" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|6°36'46.48" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°49'25.05" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|26°29'19.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°40'21.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°39'24.68" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|15°50'3.59" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|15°42'27.06" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|6°36'46.49" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°49'24.45" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°29'19.69" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°40'21.05" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|16°39'24.67" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|15°50'3.57" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|15°42'27.06" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|6°36'46.49" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|21°49'24.45" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|26°29'19.77" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°40'21.33" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|16°39'24.71" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|15°50'3.64" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|15°42'27.11" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|6°36'46.55" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|21°49'24.90" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:13:22|Night duration: 11:47:06|
+|Duration of the day: 12:13:22|Night duration: 11:47:05|
 |Every hour of day duration: 01:01:07|Every hour of night duration: 00:58:55|
 
  
@@ -233,17 +233,17 @@ Timetable of twelve day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|18:11:47|19:10:41|Repelling magic, attracting discharged energy|
-|2|Mercury|Servant|19:10:42|20:09:37|Outer and inner journey|
-|3|Moon|Servant|20:09:38|21:08:32|Marriage connection is good|
-|4|Saturn|Servant|21:08:33|22:07:28|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:07:29|23:06:23|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:06:24|00:05:19|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:05:20|01:04:14|Making promises|
-|8|Venus|Ruler|01:04:15|02:03:10|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:03:11|03:02:05|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:02:06|04:01:01|Good for any task|
-|11|Saturn|Servant|04:01:02|04:59:56|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:59:57|05:58:52|Heart tenderness|
+|2|Mercury|Servant|19:10:42|20:09:36|Outer and inner journey|
+|3|Moon|Servant|20:09:37|21:08:32|Marriage connection is good|
+|4|Saturn|Servant|21:08:33|22:07:27|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:07:28|23:06:23|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:06:24|00:05:18|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:05:19|01:04:13|Making promises|
+|8|Venus|Ruler|01:04:14|02:03:09|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:03:10|03:02:04|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:02:05|04:01:00|Good for any task|
+|11|Saturn|Servant|04:01:01|04:59:55|Creating enmity and negative energy|
+|12|Jupiter|Servant|04:59:56|05:58:51|Heart tenderness|
 
  
  
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|20°48'23.28" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|15°53'13.99" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|14°48'54.61" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|14°26'56.58" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|5°3'32.59" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°38'32.85" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|14°26'55.45" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|5°3'31.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|7°58'43.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

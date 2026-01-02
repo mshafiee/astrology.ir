@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:17:47 |
+| Fajr (Dawn) | 05:17:46 |
 | Sunrise | 06:21:40 |
 | Dhuhr (Noon) | 12:02:14 |
 | Medium Coeli | 12:02:14 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|16°55'32.72" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|16°11'24.50" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|16°8'49.06" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|7°9'25.19" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|26°43'27.41" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|7°9'17.12" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|27°2'48.77" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Mars|Mercury|
 |♀ Venus|Venus|Mercury|Mars|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°30'43.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°37'35.53" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|16°55'26.90" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|16°11'9.93" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|16°8'40.74" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|7°9'14.59" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|27°34'7.52" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|26°30'43.11" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°37'32.42" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|16°55'32.71" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|16°11'24.48" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|16°8'49.03" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|7°9'25.19" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|26°43'28.22" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Sun|Venus|
 |♀ Venus|Sun|Venus|Cancer|Sun|Venus|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
