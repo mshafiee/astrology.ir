@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°18'33.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°18'33.19" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|21°2'48.53" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°29'58.41" |Sagittarius|NaAaem|Moon|
 |☉ Sun|Direct|12°58'29.29" |Sagittarius|NaAaem|Moon|
 |♀ Venus|Direct|12°10'38.55" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|2°16'11.26" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|11°44'38.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|2°16'8.25" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|12°9'17.75" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mercury|
 |♀ Venus|Venus|Venus|Mars|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Jupiter|Moon|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°18'33.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|21°2'48.53" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°29'58.41" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|12°58'29.29" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°10'38.55" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|2°16'11.26" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°44'38.19" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Post-Retrograde Shadow|26°18'33.75" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|21°2'49.00" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°29'57.18" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|12°58'25.89" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|12°10'36.62" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|2°16'8.25" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|12°9'17.64" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:14:37 |
 | Medium Coeli | 12:14:37 |
 | Sunset | 16:23:48 |
-| Maghrib | 16:25:28 |
+| Maghrib | 16:25:29 |
 | Isha (Night) | 18:15:48 |
 | Sharia Midnight | 23:15:33 |
 | Imum Coeli | 00:14:51 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:14:37 |
 | Medium Coeli | 12:14:37 |
 | Sunset | 16:23:48 |
-| Maghrib | 16:25:28 |
+| Maghrib | 16:25:29 |
 | Isha (Night) | 18:18:59 |
 | Sharia Midnight | 23:10:49 |
 | Imum Coeli | 00:14:51 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:14:37 |
 | Medium Coeli | 12:14:37 |
 | Sunset | 16:23:48 |
-| Maghrib | 16:25:28 |
-| Isha (Night) | 17:55:28 |
+| Maghrib | 16:25:29 |
+| Isha (Night) | 17:55:29 |
 | Sharia Midnight | 23:13:58 |
 | Imum Coeli | 00:14:51 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°18'27.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|21°2'59.53" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°28'54.08" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|12°57'4.25" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|12°8'53.08" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|2°14'2.23" |Sagittarius|Shaulah|Mercury|
-|☾ Moon|Direct|11°19'9.26" |Gemini|HanAh|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°18'28.06" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|21°2'59.80" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°28'54.09" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|12°57'4.26" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|12°8'53.11" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|2°14'2.24" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|11°19'9.36" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°18'27.98" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|21°2'59.53" |Cancer|Tarf|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°18'28.06" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|21°2'59.80" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|14°28'54.08" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|12°57'4.25" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|12°8'53.11" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|2°14'2.24" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|11°19'9.36" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|12°8'53.08" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|2°14'2.23" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|11°19'9.26" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

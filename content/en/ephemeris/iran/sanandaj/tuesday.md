@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 09:52:22|Night duration: 14:07:38|
+|Duration of the day: 09:52:23|Night duration: 14:07:37|
 |Every hour of day duration: 00:49:22|Every hour of night duration: 01:10:38|
 
  
@@ -222,22 +222,22 @@ Timetable of twelve day and night planetary hours
 |4|Mercury|Servant|09:59:45|10:49:06|Attracting material wealth, earnings and business prosperity|
 |5|Moon|Servant|10:49:07|11:38:28|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|11:38:29|12:27:50|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:27:51|13:17:11|Attracting love and hearts|
-|8|Mars|Ruler|13:17:12|14:06:33|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|14:06:34|14:55:55|Heart tenderness|
-|10|Venus|Servant|14:55:56|15:45:17|Attracting misfortune, no task is suitable|
-|11|Mercury|Servant|15:45:18|16:34:39|Attracting connection and suitors|
-|12|Moon|Servant|16:34:40|17:24:01|Hatred, corruption and creating negative energy for disruption|
+|7|Jupiter|Servant|12:27:51|13:17:12|Attracting love and hearts|
+|8|Mars|Ruler|13:17:13|14:06:34|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|14:06:35|14:55:56|Heart tenderness|
+|10|Venus|Servant|14:55:57|15:45:18|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|15:45:19|16:34:40|Attracting connection and suitors|
+|12|Moon|Servant|16:34:41|17:24:02|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|17:24:02|18:34:39|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|18:34:40|19:45:17|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|19:45:18|20:55:55|Attracting connection and suitors|
-|4|Sun|Servant|20:55:56|22:06:33|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|22:06:34|23:17:11|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|23:17:12|00:27:50|Repelling negative energy of evil eye|
+|1|Saturn|Ruler|17:24:03|18:34:40|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|18:34:41|19:45:18|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|19:45:19|20:55:56|Attracting connection and suitors|
+|4|Sun|Servant|20:55:57|22:06:34|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|22:06:35|23:17:12|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|23:17:13|00:27:50|Repelling negative energy of evil eye|
 |7|Moon|Servant|00:27:51|01:38:28|Attracting love and hearts|
 |8|Saturn|Ruler|01:38:29|02:49:06|Creating corruption, destroying enemies, making enemies sick|
 |9|Jupiter|Servant|02:49:07|03:59:44|Heart tenderness|
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 09:52:22|Night duration: 14:07:38|
-|Every hour duration: 01:24:37|Every hour duration: 02:01:05|
+|Duration of the day: 09:52:23|Night duration: 14:07:37|
+|Every hour duration: 01:24:38|Every hour duration: 02:01:05|
 
  
  
@@ -265,21 +265,21 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mars|Ruler|07:31:40|08:56:16|
-|Mid-morning|Sun|Servant|08:56:17|10:20:53|
-|Late morning|Venus|Servant|10:20:54|11:45:31|
-|Noon|Mercury|Servant|11:45:32|13:10:08|
-|Early afternoon|Moon|Servant|13:10:09|14:34:46|
-|Mid-afternoon|Saturn|Servant|14:34:47|15:59:23|
-|Late afternoon|Jupiter|Servant|15:59:24|17:24:01|
+|Mid-morning|Sun|Servant|08:56:17|10:20:54|
+|Late morning|Venus|Servant|10:20:55|11:45:31|
+|Noon|Mercury|Servant|11:45:32|13:10:09|
+|Early afternoon|Moon|Servant|13:10:10|14:34:46|
+|Mid-afternoon|Saturn|Servant|14:34:47|15:59:24|
+|Late afternoon|Jupiter|Servant|15:59:25|17:24:02|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Saturn|Ruler|17:24:02|19:25:06|
-|Late evening|Jupiter|Servant|19:25:07|21:26:11|
-|Midnight|Mars|Servant|21:26:12|23:27:17|
-|Late at night|Sun|Servant|23:27:18|01:28:22|
-|Rooster song|Venus|Servant|01:28:23|03:29:28|
+|Evening|Saturn|Ruler|17:24:03|19:25:07|
+|Late evening|Jupiter|Servant|19:25:08|21:26:12|
+|Midnight|Mars|Servant|21:26:13|23:27:17|
+|Late at night|Sun|Servant|23:27:18|01:28:23|
+|Rooster song|Venus|Servant|01:28:24|03:29:28|
 |False Dawn|Mercury|Servant|03:29:29|05:30:33|
 |Dawn|Moon|Servant|05:30:34|07:31:39|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°29'20.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°40'20.63" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°39'29.24" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|15°50'8.49" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|15°42'34.63" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|6°36'55.68" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°57'0.47" |Cancer|Tarf|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°29'20.23" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°40'20.95" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°39'29.01" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|15°50'8.00" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|15°42'34.34" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|6°36'55.49" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|22°4'57.94" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°29'20.23" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°29'20.23" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°40'20.91" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|16°39'29.09" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|15°50'8.21" |Capricorn|SaadAlBula|Mars|
