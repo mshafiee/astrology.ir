@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:24:41 |
 | Maghrib | 18:25:39 |
 | Isha (Night) | 19:35:36 |
-| Sharia Midnight | 23:50:00 |
+| Sharia Midnight | 23:50:01 |
 | Imum Coeli | 00:27:38 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°33'35.66" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°33'35.66" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°31'47.26" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°28'32.61" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|16°55'3.93" |Sagittarius|NaAaem|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°33'35.66" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°31'47.26" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°28'32.61" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|16°55'3.93" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|17°2'43.09" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|8°16'18.07" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|6°26'0.25" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|26°33'35.59" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°31'46.97" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°28'32.60" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|16°55'3.91" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|17°2'43.05" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|8°16'18.06" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|6°26'1.39" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

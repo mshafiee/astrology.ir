@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:43:54 |
-| Sunrise | 05:58:52 |
+| Sunrise | 05:58:53 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:42:35 |
-| Sunrise | 05:58:52 |
+| Sunrise | 05:58:53 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:35:58 |
-| Sunrise | 05:58:52 |
+| Sunrise | 05:58:53 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:42:35 |
-| Sunrise | 05:58:52 |
+| Sunrise | 05:58:53 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:40:23 |
-| Sunrise | 05:58:52 |
+| Sunrise | 05:58:53 |
 | Dhuhr (Noon) | 12:05:33 |
 | Medium Coeli | 12:05:33 |
 | Sunset | 18:12:12 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:13:20|Night duration: 11:47:08|
+|Duration of the day: 12:13:19|Night duration: 11:47:08|
 |Every hour duration: 01:44:46|Every hour duration: 01:41:01|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:58:52|07:43:36|
-|Mid-morning|Sun|Servant|07:43:37|09:28:22|
-|Late morning|Venus|Servant|09:28:23|11:13:08|
-|Noon|Mercury|Servant|11:13:09|12:57:53|
-|Early afternoon|Moon|Servant|12:57:54|14:42:39|
+|Early morning|Mars|Ruler|05:58:53|07:43:37|
+|Mid-morning|Sun|Servant|07:43:38|09:28:23|
+|Late morning|Venus|Servant|09:28:24|11:13:08|
+|Noon|Mercury|Servant|11:13:09|12:57:54|
+|Early afternoon|Moon|Servant|12:57:55|14:42:39|
 |Mid-afternoon|Saturn|Servant|14:42:40|16:27:25|
 |Late afternoon|Jupiter|Servant|16:27:26|18:12:11|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°29'19.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°40'21.05" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°39'24.67" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|15°50'3.57" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|15°42'27.03" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|6°36'46.48" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|21°49'25.05" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|26°29'19.77" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°40'21.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°39'24.71" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|15°50'3.64" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|15°42'27.11" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|6°36'46.55" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|21°49'24.90" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°29'19.69" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°40'21.05" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|16°39'24.67" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|15°50'3.57" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|15°42'27.03" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|6°36'46.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|21°49'25.05" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|26°29'19.77" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°40'21.33" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|16°39'24.71" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|15°50'3.64" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|15°42'27.11" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|6°36'46.55" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|21°49'24.90" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°33'11.15" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°33'11.15" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°32'36.33" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°23'52.53" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|16°48'52.86" |Sagittarius|NaAaem|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°33'11.15" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°33'11.15" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°32'36.33" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°23'52.53" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|16°48'52.86" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|16°55'5.80" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|8°6'49.95" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|5°10'6.61" |Virgo|Awwa|Sun|
+|♂ Mars|Direct|17°23'52.52" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|16°48'52.84" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|16°55'5.79" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|8°6'49.93" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|5°10'13.89" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

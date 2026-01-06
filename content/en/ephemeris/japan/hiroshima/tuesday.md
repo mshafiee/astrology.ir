@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:16:07 |
 | Isha (Night) | 18:40:21 |
 | Sharia Midnight | 23:30:46 |
-| Imum Coeli | 00:16:04 |
+| Imum Coeli | 00:16:05 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:16:07 |
 | Isha (Night) | 18:30:14 |
 | Sharia Midnight | 23:38:20 |
-| Imum Coeli | 00:16:04 |
+| Imum Coeli | 00:16:05 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:16:07 |
 | Isha (Night) | 18:42:52 |
 | Sharia Midnight | 23:27:01 |
-| Imum Coeli | 00:16:04 |
+| Imum Coeli | 00:16:05 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°32'22.67" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°32'22.67" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°34'13.33" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°14'37.52" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|16°36'38.25" |Sagittarius|NaAaem|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°32'22.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°32'22.67" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°34'13.33" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|17°14'37.52" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|16°36'38.25" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|16°39'59.42" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|7°48'4.19" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°30'57.74" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|7°48'4.57" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°32'1.18" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

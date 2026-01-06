@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:33:09 |
+| Fajr (Dawn) | 05:33:10 |
 | Sunrise | 06:42:16 |
 | Dhuhr (Noon) | 12:16:48 |
 | Medium Coeli | 12:16:48 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°34'28.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°30'2.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°38'33.94" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|17°8'18.79" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|17°19'4.96" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|26°34'28.58" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°30'2.36" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°38'33.95" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|17°8'18.81" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|17°19'4.99" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|8°36'38.82" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|9°23'44.55" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|9°23'43.37" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°34'28.50" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°30'2.07" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°38'33.94" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°8'18.79" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|17°19'4.96" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|26°34'28.58" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°30'2.36" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°38'33.95" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°8'18.81" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|17°19'4.99" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|8°36'38.82" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|9°23'44.55" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|9°23'43.37" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

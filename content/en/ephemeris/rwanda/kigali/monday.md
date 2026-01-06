@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:13:22|Night duration: 11:47:05|
+|Duration of the day: 12:13:22|Night duration: 11:47:06|
 |Every hour duration: 01:44:46|Every hour duration: 01:41:01|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Venus|Ruler|18:11:47|19:52:46|
 |Late evening|Mercury|Servant|19:52:47|21:33:47|
 |Midnight|Moon|Servant|21:33:48|23:14:48|
-|Late at night|Saturn|Servant|23:14:49|00:55:48|
-|Rooster song|Jupiter|Servant|00:55:49|02:36:49|
-|False Dawn|Mars|Servant|02:36:50|04:17:50|
-|Dawn|Sun|Servant|04:17:51|05:58:51|
+|Late at night|Saturn|Servant|23:14:49|00:55:49|
+|Rooster song|Jupiter|Servant|00:55:50|02:36:50|
+|False Dawn|Mars|Servant|02:36:51|04:17:51|
+|Dawn|Sun|Servant|04:17:52|05:58:52|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°25'24.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°48'23.00" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°53'13.98" |Sagittarius|NaAaem|Moon|
-|☉ Sun|Direct|14°48'54.59" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|14°26'56.54" |Sagittarius|NaAaem|Moon|
-|☿ Mercury|Direct|5°3'32.58" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|7°58'43.21" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|26°25'24.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°48'24.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°53'12.30" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|14°48'50.45" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|14°26'54.20" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|5°3'29.93" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|8°9'19.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°25'24.45" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°25'24.45" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°48'23.28" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|15°53'13.99" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|14°48'54.61" |Capricorn|SaadAlBula|Mars|
