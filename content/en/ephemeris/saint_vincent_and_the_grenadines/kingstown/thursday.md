@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'45.76" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°42'45.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°13'56.11" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°10'41.82" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|19°10'2.62" |Sagittarius|Baldah|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'45.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°13'56.11" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°10'41.82" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°10'2.62" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°49'22.30" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|11°44'22.59" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|5°13'47.26" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°42'45.76" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°13'56.86" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°10'40.52" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°9'59.42" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°49'20.46" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|11°44'20.51" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|5°26'58.79" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

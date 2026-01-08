@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:02:15 |
 | Isha (Night) | 19:49:08 |
 | Sharia Midnight | 23:19:07 |
-| Imum Coeli | 00:01:19 |
+| Imum Coeli | 00:01:18 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:44:42 |
 | Isha (Night) | 20:04:31 |
 | Sharia Midnight | 23:18:20 |
-| Imum Coeli | 00:01:19 |
+| Imum Coeli | 00:01:18 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:44:42 |
 | Isha (Night) | 19:54:13 |
 | Sharia Midnight | 23:26:05 |
-| Imum Coeli | 00:01:19 |
+| Imum Coeli | 00:01:18 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:44:42 |
 | Isha (Night) | 20:07:07 |
 | Sharia Midnight | 23:14:23 |
-| Imum Coeli | 00:01:19 |
+| Imum Coeli | 00:01:18 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:44:42 |
 | Isha (Night) | 20:14:42 |
 | Sharia Midnight | 23:17:02 |
-| Imum Coeli | 00:01:19 |
+| Imum Coeli | 00:01:18 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'9.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°44'9.08" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°11'17.77" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°25'47.48" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°29'58.26" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|20°13'58.22" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°15'15.55" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|9°19'16.65" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|19°29'57.17" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|20°13'57.62" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°15'14.62" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|9°7'31.88" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'9.08" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°44'9.08" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°11'17.77" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°25'47.48" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°29'58.26" |Capricorn|SaadAlBula|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'54.24" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°44'54.24" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°9'52.80" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°33'55.15" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|19°40'40.71" |Sagittarius|Baldah|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'54.24" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°9'53.46" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°33'54.21" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°40'38.74" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°27'11.63" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|12°31'53.55" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|12°15'8.97" |Libra|Ghafr|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|26°44'54.24" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°9'52.80" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°33'55.15" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°40'31.03" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|20°27'7.17" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|12°31'48.33" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|12°29'11.54" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

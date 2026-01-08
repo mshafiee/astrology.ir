@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'54.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°9'56.28" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°33'47.78" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°40'24.15" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|20°27'2.32" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°31'41.76" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|11°52'28.38" |Virgo|Awwa|Venus|
+|♄ Saturn|Post-Retrograde Shadow|26°44'54.15" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°9'52.47" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°33'54.98" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|19°40'41.68" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|20°27'12.44" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°31'53.76" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|11°30'35.84" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'54.15" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°44'54.15" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°9'52.47" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°33'54.98" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°40'24.15" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°27'2.32" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|12°31'41.76" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|11°52'28.38" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|19°40'41.68" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|20°27'12.44" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|12°31'53.76" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|11°30'35.84" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: BWN, Banda Seri, Bandar Seri Begauan, Bandar Seri Begavan, Bandar Seri Begavanas, Bandar Seri Begawan, Bandar Sery Begawan, Bandar-Seri-Begavan, Bandar-Seri-Begavano, Bandar-Sery-Begavan, Bandarseribegavana, Brunei, Brunei Town, Bruni, Mpantar Seri Mpenkaban, badara seri begavana, ban dar se ribe ka wan, bandaleuseulibeugawan, bandar seri bagevan, bandar-seri-begavani, bandara seri bega'oyana, bandara seri begavana, bandara sri bagavana, bandarusuribugawan, bndr sry bgawan, bndr sry bkawan, bndr sry bygwan, pantar ceri pekavan, si li ba jia wan, si li ba jia wan shi, sry bgawan, Μπαντάρ Σερί Μπεγκαβάν, Бандар Сери Бегаван, Бандар-Сери-Бегаван, Бандар-Серы-Бегаван, Бандар-Сері-Бегаван, Բանդար Սերի Բեգավան, בנדר סרי בגוואן, باندار سەرى بەگاۋان, بندر سري بكاوان, بندر سری بگاوان, بندر سری بیگوان, بەندەر سێری بێگاوان, سری بگاوان, बंदर स्री बगवान, बन्दर सेरी बेगवान, बन्दर सेरी बेगावान, বন্দর সেরি বেগাওয়ান, ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ, பண்டர் செரி பெகாவான், ಬಂದರ್ ಸೆರಿ ಬಗೆವನ್, ബന്ദർ സെരി ബെഗവൻ, บันดาร์เสรีเบกาวัน, སི་རི་པེ་ཀ་མཚོ་ཁུགས་གྲོང་ཁྱེར།, ဘန်ဒါဆရီဘဂါဝမ်မြို့, ბანდარ-სერი-ბეგავანი, ባንዳር ሰሪ ቤጋዋን, バンダルスリブガワン, 斯里巴加湾市, 斯里巴加灣, 斯里巴加灣市, 반다르스리브가완

@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:54:23 |
 | Sunset | 18:47:56 |
 | Maghrib | 18:49:03 |
-| Isha (Night) | 20:17:24 |
+| Isha (Night) | 20:17:23 |
 | Sharia Midnight | 23:04:09 |
 | Imum Coeli | 23:54:36 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°40'2.53" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°19'9.35" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°40'50.88" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|18°30'37.63" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|19°0'42.58" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°40'2.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°19'9.06" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°40'50.87" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|18°30'37.61" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|19°0'42.55" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|10°43'24.87" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|27°1'40.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|27°1'40.81" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°40'2.53" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°19'9.35" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°40'50.88" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|18°30'37.63" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°0'42.58" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°40'2.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°19'9.06" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°40'50.87" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|18°30'37.61" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°0'42.55" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|10°43'24.87" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|27°1'40.08" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|27°1'40.81" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

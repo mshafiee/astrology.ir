@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'8.00" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°42'8.00" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°15'8.20" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°3'49.57" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°0'50.39" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|19°38'5.94" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|11°30'13.71" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|2°46'17.51" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|19°0'58.35" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|19°38'10.34" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|11°30'19.86" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°21'9.02" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'8.00" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°42'8.00" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°15'8.20" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°3'49.57" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°0'58.35" |Capricorn|SaadAlBula|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: BKO, Bamaco - Bamako, Bamakas, Bamako, Bamaku, Bamakó, Bamakɔ, Bammaco, Bammako, Bàmakɔ, Mpamako, ba ma ke, bamako, bamakw, bmqw, Μπαμάκο, Бамако, Բամակո, במקו, باماكو, باماکو, ባማኮ, バマコ, 巴馬科, 바마코

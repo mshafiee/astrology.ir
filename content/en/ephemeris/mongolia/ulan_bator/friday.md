@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°41'1.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°41'1.92" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°17'15.66" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|18°51'43.90" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|18°44'58.28" |Sagittarius|Baldah|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°41'1.92" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°17'15.66" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°51'43.90" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|18°44'58.28" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°18'27.65" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|11°5'38.03" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|0°10'10.18" |Libra|Ghafr|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°41'1.92" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°17'16.46" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°51'42.29" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|18°44'54.83" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°18'25.46" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|11°5'36.30" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|1°4'7.54" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Da Hueryee, Da Hüryee, Da Khure, Da-Kure, K'u-lun, Orgoo, Oulan Mpator, Oulan-Bator, Ourga, ULN, Ula Bator, Ulaan Baatar, Ulaan Baatar Hoto, Ulaanbaatar, Ulaanbaataro, Ulaanbaator, Ulaanbaator hota, Ulaanbaatur, Ulan Bator, Ulan Bator Hoto, Ulan Batoras, Ulan Batur, Ulan-Bator, Ulan-Bator Khoto, Ulanbatar, Ulanbator, Ulanbátar, Ulán Bator, Ulán Bátor, Ulánbátar, Ulánbátor, Ulã Bator, Uranbatoru, Urga, Uruga, Ułan Bator, awlan batwr, ulanabatara, ullanbataleu, ullanbatoleu, uranbatoru, wu lan ba tuo, xulanbatxr, Örgöö, Úlan Bator, Ουλάν Μπατόρ, Улаанбаатар, Улан Батор, Улан-Батор, אולן בטור, أولان باتور, اولان‌باتور, उलानबातर, อูลานบาตอร์, ཝུ་ལན་བ་ཐུར, ኡላዓን ባዓታር, ウランバートル, 乌兰巴托, 울란바타르, 울란바토르

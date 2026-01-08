@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'15.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°42'15.05" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°14'56.02" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°5'4.56" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°2'24.82" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|19°40'7.54" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|11°32'47.27" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|4°8'26.27" |Virgo|Sarfrah|Sun|
+|☉ Sun|Direct|19°2'34.48" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|19°40'13.11" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|11°32'53.95" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|3°52'33.84" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'15.05" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°42'15.05" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°14'56.02" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°5'4.56" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°2'34.48" |Capricorn|SaadAlBula|Mars|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'11.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°44'11.68" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°11'12.76" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°26'9.35" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°30'20.44" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|20°14'35.27" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°16'3.14" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|10°15'46.78" |Virgo|Awwa|Venus|
+|♂ Mars|Direct|19°26'15.68" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|19°30'35.58" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|20°14'44.11" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°16'13.19" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|9°26'32.54" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Mars|Mercury|
 |♀ Venus|Mercury|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Venus|Mars|Mercury|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Cancer|Moon|Mercury|
 |♀ Venus|Mercury|Venus|Leo|Moon|Mercury|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'11.68" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°44'11.68" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°11'12.76" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°26'15.68" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|19°30'35.58" |Capricorn|SaadAlBula|Mars|

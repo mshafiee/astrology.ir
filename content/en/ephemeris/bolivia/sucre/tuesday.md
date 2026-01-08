@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:26:57 |
 | Sunset | 19:02:57 |
 | Maghrib | 19:21:59 |
-| Isha (Night) | 20:07:29 |
+| Isha (Night) | 20:07:28 |
 | Sharia Midnight | 23:45:47 |
 | Imum Coeli | 00:27:10 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°34'19.91" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°30'19.46" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°36'55.79" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|17°6'9.33" |Sagittarius|NaAaem|Moon|
-|♀ Venus|Direct|17°16'24.72" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°34'19.84" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°30'19.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°36'55.78" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|17°6'9.31" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|17°16'24.69" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|8°33'19.49" |Sagittarius|NaAaem|Mercury|
-|☾ Moon|Direct|8°52'38.64" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|8°52'39.82" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°34'19.91" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°30'19.46" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|17°36'55.79" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|17°6'9.33" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|17°16'24.72" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°34'19.84" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°30'19.17" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|17°36'55.78" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|17°6'9.31" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|17°16'24.69" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|8°33'19.49" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°52'38.64" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|8°52'39.82" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

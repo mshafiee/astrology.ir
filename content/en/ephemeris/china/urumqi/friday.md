@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:12:15 |
 | Isha (Night) | 18:12:04 |
 | Sharia Midnight | 23:30:04 |
-| Imum Coeli | 00:16:48 |
+| Imum Coeli | 00:16:47 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:15:20 |
 | Isha (Night) | 18:12:04 |
 | Sharia Midnight | 23:25:12 |
-| Imum Coeli | 00:16:48 |
+| Imum Coeli | 00:16:47 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 16:57:05 |
 | Isha (Night) | 18:29:21 |
 | Sharia Midnight | 23:24:21 |
-| Imum Coeli | 00:16:48 |
+| Imum Coeli | 00:16:47 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 16:57:05 |
 | Isha (Night) | 18:35:04 |
 | Sharia Midnight | 23:24:21 |
-| Imum Coeli | 00:16:48 |
+| Imum Coeli | 00:16:47 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°41'12.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°41'12.86" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°16'54.52" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|18°53'44.26" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|18°47'37.52" |Sagittarius|Baldah|Moon|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°41'12.86" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°41'12.86" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°16'54.52" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|18°53'44.26" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|18°47'37.52" |Capricorn|SaadAlBula|Mars|

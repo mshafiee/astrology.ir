@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'47.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°10'5.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°32'39.38" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°39'1.87" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|20°25'9.28" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Post-Retrograde Shadow|26°44'47.08" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°10'5.40" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°32'39.37" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|19°39'1.85" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|20°25'9.25" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|12°29'18.91" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|11°10'19.22" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|11°10'19.16" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°44'47.15" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°10'5.70" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°32'39.38" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°39'1.87" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°25'9.28" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Post-Retrograde Shadow|26°44'47.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°10'5.40" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°32'39.37" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°39'1.85" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|20°25'9.25" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|12°29'18.91" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|11°10'19.22" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|11°10'19.16" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

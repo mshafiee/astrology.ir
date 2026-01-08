@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'49.79" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Post-Retrograde Shadow|26°42'49.79" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°13'48.51" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|19°11'25.61" |Sagittarius|Baldah|Moon|
 |☉ Sun|Direct|19°11'0.25" |Sagittarius|Baldah|Moon|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°42'49.79" |Pisces|Rescha|Mars|
+|♄ Saturn|Post-Retrograde Shadow|26°42'49.79" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°13'48.51" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|19°11'25.61" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°10'43.41" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°50'23.97" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|11°45'40.61" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|5°57'2.07" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|19°11'0.25" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°50'33.70" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|11°45'52.17" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|5°26'17.99" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운
