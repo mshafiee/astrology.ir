@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:45:21 |
+| Fajr (Dawn) | 05:45:20 |
 | Sunrise | 07:02:50 |
 | Dhuhr (Noon) | 12:09:36 |
 | Medium Coeli | 12:09:36 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°41'16.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°16'47.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°54'23.16" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|18°48'29.65" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|19°22'47.11" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|26°41'16.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°16'47.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°54'23.15" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|18°48'29.63" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|19°22'47.08" |Sagittarius|Baldah|Moon|
 |☿ Mercury|Direct|11°11'2.94" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|0°49'11.01" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|0°49'11.53" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°41'16.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°16'47.47" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|18°54'23.16" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|18°48'29.65" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°22'47.11" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|26°41'16.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°16'47.18" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|18°54'23.15" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|18°48'29.63" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°22'47.08" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|11°11'2.94" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|0°49'11.01" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|0°49'11.53" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

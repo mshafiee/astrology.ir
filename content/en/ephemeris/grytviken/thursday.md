@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°41'59.40" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°41'59.40" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°15'25.43" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°2'14.48" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|18°58'51.43" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|19°35'35.71" |Sagittarius|Baldah|Moon|
-|☿ Mercury|Direct|11°27'6.13" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|3°1'0.81" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|19°2'13.65" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|18°58'48.97" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|19°35'34.45" |Sagittarius|Baldah|Moon|
+|☿ Mercury|Direct|11°27'3.84" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|2°18'55.29" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Cancer|Moon|Mercury|
 |♀ Venus|Mercury|Mercury|Cancer|Moon|Mercury|
 |☿ Mercury|Sun|Moon|Aries|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°41'59.40" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°15'25.43" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°2'14.48" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|18°58'51.43" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°35'35.71" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|26°41'59.33" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°15'25.13" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°2'14.47" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|18°58'51.41" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°35'35.68" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|11°27'6.13" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|3°1'0.81" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°1'1.20" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

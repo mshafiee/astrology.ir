@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:01:44 |
 | Maghrib | 17:25:08 |
 | Isha (Night) | 18:19:40 |
-| Sharia Midnight | 23:29:23 |
+| Sharia Midnight | 23:29:24 |
 | Imum Coeli | 00:18:47 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°59'41.14" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°59'41.14" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|19°42'53.57" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°8'39.57" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|23°4'35.83" |Sagittarius|Baldah|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°59'41.14" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°42'53.34" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°8'39.44" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°4'35.51" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|24°38'57.15" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|17°50'53.45" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|21°55'39.96" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|26°59'41.14" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°42'53.57" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°8'39.57" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°4'35.83" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|24°38'57.37" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|17°50'53.62" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|21°53'21.23" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

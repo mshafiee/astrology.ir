@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°55'21.87" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°50'38.19" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°24'12.31" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|22°6'2.42" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|23°26'42.87" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|16°18'49.64" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|9°28'31.97" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|26°55'21.03" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°50'36.84" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°24'14.75" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|22°6'8.62" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|23°26'46.20" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|16°18'54.46" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|10°33'4.90" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Sun|Venus|
 |♀ Venus|Saturn|Saturn|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Mars|Mercury|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Leo|Moon|Mercury|
 |♀ Venus|Moon|Mars|Virgo|Moon|Mercury|
 |☿ Mercury|Venus|Sun|Gemini|Moon|Mercury|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°55'21.03" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°55'21.03" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|19°50'36.84" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|21°24'14.75" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|22°6'8.62" |Capricorn|SaadAlBula|Sun|

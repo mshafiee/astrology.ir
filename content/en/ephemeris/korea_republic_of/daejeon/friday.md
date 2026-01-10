@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°44'55.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°9'49.53" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°34'13.97" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°41'5.48" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|20°27'43.57" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|26°44'55.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°9'49.23" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°34'13.96" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|19°41'5.47" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|20°27'43.55" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|12°32'32.97" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|11°38'15.39" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|11°37'12.36" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°44'55.98" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°9'49.53" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°34'13.97" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°41'5.48" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°27'43.57" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|12°32'32.97" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|11°38'15.39" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|26°44'55.91" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°9'49.23" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°34'13.96" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°41'5.46" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|20°27'43.54" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|12°32'32.98" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|11°38'15.30" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시

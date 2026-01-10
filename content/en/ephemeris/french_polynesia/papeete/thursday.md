@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°43'39.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°12'14.11" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°20'25.09" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°22'52.81" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|20°5'12.85" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|26°43'39.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|20°12'13.81" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°20'25.08" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|19°22'52.79" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|20°5'12.82" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|12°4'15.66" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|7°51'43.07" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|7°51'43.18" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°43'39.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°12'14.11" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|19°20'25.09" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|19°22'52.81" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|20°5'12.85" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|12°4'15.66" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|7°51'43.07" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|26°43'39.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°12'13.81" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|19°20'25.08" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|19°22'36.25" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|20°5'3.44" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|12°4'3.91" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|7°47'4.09" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square|<sub>□ Square</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

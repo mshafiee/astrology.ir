@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:14:07 |
 | Sunset | 17:31:53 |
 | Maghrib | 17:50:53 |
-| Isha (Night) | 18:36:09 |
+| Isha (Night) | 18:36:08 |
 | Sharia Midnight | 23:33:27 |
 | Imum Coeli | 00:14:18 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°49'45.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|26°49'46.09" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|20°0'47.82" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|20°25'53.01" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|20°49'13.84" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|21°51'49.87" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|14°18'34.27" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|25°23'50.54" |Virgo|Simak|Mercury|
+|♂ Mars|Direct|20°25'52.98" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|20°49'13.69" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|21°51'49.82" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|14°18'34.08" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|25°15'50.11" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Post-Retrograde Shadow|26°49'46.02" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|26°49'46.02" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|20°0'47.83" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|20°25'52.98" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|20°49'13.73" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|21°51'49.83" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|21°51'49.80" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|14°18'34.15" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|25°19'40.64" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|25°19'40.14" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
