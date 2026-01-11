@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:33:53 |
+| Fajr (Dawn) | 06:33:52 |
 | Sunrise | 07:56:18 |
 | Dhuhr (Noon) | 13:16:30 |
 | Medium Coeli | 13:16:30 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:33:53 |
+| Fajr (Dawn) | 06:33:52 |
 | Sunrise | 07:56:18 |
 | Dhuhr (Noon) | 13:16:30 |
 | Medium Coeli | 13:16:30 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°22'58.91" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|20°45'24.31" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|21°47'6.50" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|14°12'35.01" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|24°31'24.44" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°12'36.12" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|24°33'52.46" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°49'29.57" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|20°1'18.20" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|20°22'58.91" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|20°45'24.31" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|21°47'6.50" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|26°49'29.50" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|20°1'17.90" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°22'58.90" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|20°45'24.29" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|21°47'6.47" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|14°12'36.12" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|24°33'52.46" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°33'51.97" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

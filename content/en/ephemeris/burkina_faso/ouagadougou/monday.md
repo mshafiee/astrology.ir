@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:07:57 |
+| Fajr (Dawn) | 05:07:56 |
 | Sunrise | 06:30:29 |
 | Dhuhr (Noon) | 12:14:25 |
 | Medium Coeli | 12:14:25 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°55'8.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°50'59.46" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°22'4.59" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|22°3'17.38" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|23°23'14.54" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|26°55'8.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°50'59.16" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°22'4.58" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|22°3'17.36" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|23°23'14.51" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|16°14'25.39" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|10°0'5.96" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|10°0'5.44" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|26°55'8.43" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°50'59.46" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°22'4.59" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|22°3'17.38" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|23°23'14.54" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|26°55'8.36" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°50'59.16" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°22'4.58" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|22°3'17.36" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|23°23'14.51" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|16°14'25.39" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|10°0'5.96" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°0'5.44" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

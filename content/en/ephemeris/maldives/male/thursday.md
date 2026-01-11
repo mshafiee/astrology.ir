@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:15:16 |
 | Sunset | 18:12:42 |
 | Maghrib | 18:27:15 |
-| Isha (Night) | 19:10:08 |
+| Isha (Night) | 19:10:09 |
 | Sharia Midnight | 23:42:26 |
 | Imum Coeli | 00:15:27 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:15:16 |
 | Sunset | 18:12:42 |
 | Maghrib | 18:29:24 |
-| Isha (Night) | 19:10:08 |
+| Isha (Night) | 19:10:09 |
 | Sharia Midnight | 23:38:48 |
 | Imum Coeli | 00:15:27 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°7'56.94" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°28'33.25" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°31'23.35" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|24°53'25.52" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|26°53'15.34" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|20°43'11.45" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|13°24'34.06" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|19°28'34.73" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°31'20.20" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|24°53'18.12" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|26°53'10.76" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|20°43'6.69" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|13°27'0.75" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

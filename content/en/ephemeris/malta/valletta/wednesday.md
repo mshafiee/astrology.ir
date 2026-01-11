@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°4'13.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°34'57.81" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°54'21.36" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|24°4'43.17" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°53'9.77" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°4'13.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°34'57.50" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°54'21.35" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|24°4'43.15" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°53'9.74" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|19°25'54.32" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|3°40'4.24" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|3°40'3.77" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°4'13.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°34'57.81" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°54'21.36" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|24°4'43.17" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°53'9.77" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°25'54.32" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|3°40'4.24" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|27°4'13.12" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°34'57.50" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°54'21.35" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|24°4'43.15" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°53'10.99" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|19°25'55.92" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|3°56'54.88" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타

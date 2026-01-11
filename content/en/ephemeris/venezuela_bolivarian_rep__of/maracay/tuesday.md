@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:36:01 |
-| Sunrise | 06:51:33 |
+| Sunrise | 06:51:34 |
 | Dhuhr (Noon) | 12:39:06 |
 | Medium Coeli | 12:39:06 |
 | Sunset | 18:26:42 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:48:57 |
-| Sunrise | 06:51:33 |
+| Sunrise | 06:51:34 |
 | Dhuhr (Noon) | 12:39:06 |
 | Medium Coeli | 12:39:06 |
 | Sunset | 18:26:42 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:33:52 |
-| Sunrise | 06:51:33 |
+| Sunrise | 06:51:34 |
 | Dhuhr (Noon) | 12:39:06 |
 | Medium Coeli | 12:39:06 |
 | Sunset | 18:26:42 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:35:09|Night duration: 12:25:05|
+|Duration of the day: 11:35:08|Night duration: 12:25:05|
 |Every hour of day duration: 00:57:56|Every hour of night duration: 01:02:05|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|06:51:33|07:49:27|Creating corruption, hatred and enmity|
-|2|Sun|Servant|07:49:28|08:47:23|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:47:24|09:45:19|Attracting connection and suitors|
-|4|Mercury|Servant|09:45:20|10:43:15|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:43:16|11:41:10|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:41:11|12:39:06|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:39:07|13:37:02|Attracting love and hearts|
+|1|Mars|Ruler|06:51:34|07:49:28|Creating corruption, hatred and enmity|
+|2|Sun|Servant|07:49:29|08:47:24|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:47:25|09:45:20|Attracting connection and suitors|
+|4|Mercury|Servant|09:45:21|10:43:15|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:43:16|11:41:11|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:41:12|12:39:07|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|12:39:08|13:37:02|Attracting love and hearts|
 |8|Mars|Ruler|13:37:03|14:34:58|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|14:34:59|15:32:53|Heart tenderness|
-|10|Venus|Servant|15:32:54|16:30:49|Attracting misfortune, no task is suitable|
+|9|Sun|Servant|14:34:59|15:32:54|Heart tenderness|
+|10|Venus|Servant|15:32:55|16:30:49|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|16:30:50|17:28:45|Attracting connection and suitors|
 |12|Moon|Servant|17:28:46|18:26:41|Hatred, corruption and creating negative energy for disruption|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|19°33'23.03" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|23°3'25.02" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|24°16'39.18" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|26°7'52.02" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°44'47.20" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|6°9'55.45" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|26°7'52.01" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|19°44'47.19" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|6°9'37.53" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

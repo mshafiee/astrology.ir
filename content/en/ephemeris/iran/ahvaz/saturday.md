@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:22:42 |
 | Sunset | 17:30:43 |
 | Maghrib | 17:31:53 |
-| Isha (Night) | 18:52:42 |
+| Isha (Night) | 18:52:41 |
 | Sharia Midnight | 23:39:24 |
 | Imum Coeli | 00:22:54 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|26°45'50.25" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|20°8'7.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|19°43'58.91" |Sagittarius|Baldah|Moon|
-|☉ Sun|Direct|19°53'57.61" |Sagittarius|Baldah|Moon|
-|♀ Venus|Direct|20°43'36.39" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|12°52'31.59" |Sagittarius|NaAaem|Moon|
-|☾ Moon|Direct|14°14'14.37" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|20°8'7.25" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|19°43'58.80" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|19°53'57.37" |Sagittarius|Baldah|Moon|
+|♀ Venus|Direct|20°43'36.24" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|12°52'31.45" |Sagittarius|NaAaem|Moon|
+|☾ Moon|Direct|14°16'48.28" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

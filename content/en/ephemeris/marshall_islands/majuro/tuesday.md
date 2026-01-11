@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°2'1.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°38'45.85" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°32'23.47" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°2'1.71" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°38'45.54" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°32'23.46" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|23°35'50.99" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|25°17'29.85" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|18°40'10.82" |Sagittarius|Baldah|Moon|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|27°2'1.78" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|19°38'45.85" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|22°32'23.47" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°35'36.44" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°17'21.66" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|18°40'0.55" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|26°52'5.99" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|23°35'50.99" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°17'29.85" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|18°40'10.82" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|28°10'18.29" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Saturn|Mars|Mercury|Jupiter|
 |☿ Mercury|Venus|Jupiter|Venus|Mars|
-|☾ Moon|Saturn|Mercury|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Mercury|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}

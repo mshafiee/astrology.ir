@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:44:54 |
 | Sunset | 18:16:21 |
 | Maghrib | 18:21:03 |
-| Isha (Night) | 19:33:13 |
+| Isha (Night) | 19:33:14 |
 | Sharia Midnight | 00:02:10 |
 | Imum Coeli | 00:45:05 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°0'57.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°40'39.32" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°21'30.68" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|23°21'31.54" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|24°59'49.78" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|18°17'34.30" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|25°20'30.40" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|19°40'39.21" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°21'30.88" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|23°21'32.02" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°59'50.07" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|18°17'34.61" |Sagittarius|Baldah|Moon|
+|☾ Moon|Direct|25°19'19.07" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

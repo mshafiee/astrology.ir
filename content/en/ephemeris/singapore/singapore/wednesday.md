@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:13:31 |
 | Sunset | 19:15:23 |
 | Maghrib | 19:16:20 |
-| Isha (Night) | 20:25:50 |
+| Isha (Night) | 20:25:49 |
 | Sharia Midnight | 00:36:20 |
 | Imum Coeli | 01:13:42 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°7'32.23" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°29'17.55" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°27'15.55" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|24°47'55.64" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|26°46'34.04" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|20°34'35.52" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|12°12'51.85" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|19°29'15.34" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°27'19.49" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|24°48'5.07" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|26°46'39.70" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|20°34'41.68" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°21'57.34" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
