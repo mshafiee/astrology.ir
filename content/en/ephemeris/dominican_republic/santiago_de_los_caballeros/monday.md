@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:00:45 |
+| Fajr (Dawn) | 06:00:44 |
 | Sunrise | 07:19:13 |
 | Dhuhr (Noon) | 12:51:09 |
 | Medium Coeli | 12:51:09 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°0'35.28" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°41'17.65" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°17'49.52" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|23°16'40.74" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|24°53'50.51" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°0'35.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°41'17.34" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°17'49.51" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|23°16'40.72" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|24°53'50.48" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|18°9'54.83" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|24°22'25.90" |Libra|Jubana|Jupiter|
+|☾ Moon|Direct|24°22'25.40" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°0'35.28" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°41'17.65" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°17'49.52" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|23°16'40.74" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|24°53'50.51" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|27°0'35.21" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°41'17.34" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°17'49.51" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|23°16'40.72" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|24°53'50.48" |Capricorn|SaadAlBula|Sun|
 |☿ Mercury|Direct|18°9'54.83" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|24°22'25.90" |Scorpio|Shaulah|Venus|
+|☾ Moon|Direct|24°22'25.40" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

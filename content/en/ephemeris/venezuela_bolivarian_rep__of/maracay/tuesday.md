@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:33 |
-| Sunrise | 06:51:33 |
+| Sunrise | 06:51:34 |
 | Dhuhr (Noon) | 12:39:06 |
 | Medium Coeli | 12:39:06 |
 | Sunset | 18:26:42 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:35:09|Night duration: 12:25:05|
+|Duration of the day: 11:35:08|Night duration: 12:25:05|
 |Every hour duration: 01:39:18|Every hour duration: 01:46:26|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|06:51:33|08:30:50|
-|Mid-morning|Sun|Servant|08:30:51|10:10:08|
-|Late morning|Venus|Servant|10:10:09|11:49:27|
-|Noon|Mercury|Servant|11:49:28|13:28:45|
-|Early afternoon|Moon|Servant|13:28:46|15:08:04|
+|Early morning|Mars|Ruler|06:51:34|08:30:51|
+|Mid-morning|Sun|Servant|08:30:52|10:10:09|
+|Late morning|Venus|Servant|10:10:10|11:49:27|
+|Noon|Mercury|Servant|11:49:28|13:28:46|
+|Early afternoon|Moon|Servant|13:28:47|15:08:04|
 |Mid-afternoon|Saturn|Servant|15:08:05|16:47:22|
 |Late afternoon|Jupiter|Servant|16:47:23|18:26:41|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°5'7.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°33'23.03" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°3'25.02" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|24°16'39.18" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|26°7'52.01" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°5'7.62" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°33'23.34" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°3'25.03" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|24°16'39.20" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|26°7'52.04" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|19°44'47.19" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|6°9'37.53" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|6°9'37.97" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°5'7.55" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°33'23.03" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°3'25.02" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|24°16'39.18" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|26°7'52.01" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|27°5'7.62" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°33'23.34" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°3'25.03" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|24°16'39.20" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|26°7'52.04" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|19°44'47.19" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|6°9'37.53" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°9'37.97" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

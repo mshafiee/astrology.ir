@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Moon|Ruler|01:08:32|02:12:25|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Saturn|Servant|02:12:26|03:16:19|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|03:16:20|04:20:13|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Mars|Servant|04:20:14|05:24:07|Attraction of love and hearts|
+|11|Mars|Servant|04:20:14|05:24:07|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Sun|Servant|05:24:08|06:28:02|Attracting misfortune, not suitable for any task|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°14'57.39" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°16'51.87" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°39'31.23" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|26°22'49.84" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|28°43'44.21" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|23°6'7.25" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|29°48'52.25" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|27°14'56.75" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°16'49.62" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°39'35.05" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|26°22'59.27" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|28°43'49.32" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|23°6'13.99" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|1°4'15.06" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Libra|Moon|Mercury|
 |♀ Venus|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |☿ Mercury|Moon|Venus|Virgo|Moon|Mercury|
-|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
+|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
