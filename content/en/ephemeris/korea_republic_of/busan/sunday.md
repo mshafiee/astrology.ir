@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:07:23|Night duration: 13:52:15|
+|Duration of the day: 10:07:23|Night duration: 13:52:16|
 |Every hour of day duration: 00:50:37|Every hour of night duration: 01:09:21|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|17:37:59|18:47:19|Love and attraction of capital|
 |2|Mars|Servant|18:47:20|19:56:40|Unfortunate, no task is suitable|
-|3|Sun|Servant|19:56:41|21:06:01|Operations of tenderness and attraction of love|
-|4|Venus|Servant|21:06:02|22:15:23|Unfortunate and repelling goodness|
+|3|Sun|Servant|19:56:41|21:06:02|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:06:03|22:15:23|Unfortunate and repelling goodness|
 |5|Mercury|Servant|22:15:24|23:24:44|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:24:45|00:34:05|Suitable for all good deeds|
-|7|Saturn|Servant|00:34:06|01:43:26|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:43:27|02:52:48|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|02:52:49|04:02:09|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|04:02:10|05:11:30|Attracting happiness, solving financial problems|
-|11|Venus|Servant|05:11:31|06:20:51|Performing promises|
-|12|Mercury|Servant|06:20:52|07:30:13|Finding the fugitive and discovering the thief|
+|6|Moon|Servant|23:24:45|00:34:06|Suitable for all good deeds|
+|7|Saturn|Servant|00:34:07|01:43:27|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:43:28|02:52:48|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:52:49|04:02:10|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|04:02:11|05:11:31|Attracting happiness, solving financial problems|
+|11|Venus|Servant|05:11:32|06:20:52|Performing promises|
+|12|Mercury|Servant|06:20:53|07:30:14|Finding the fugitive and discovering the thief|
 
  
  

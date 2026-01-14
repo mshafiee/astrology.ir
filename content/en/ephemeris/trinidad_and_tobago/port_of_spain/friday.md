@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|06:28:26|07:26:19|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:26:20|08:24:14|Attracting auspiciousness|
+|2|Mercury|Servant|07:26:20|08:24:14|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|08:24:15|09:22:09|Attracting misfortune, no task is suitable|
 |4|Saturn|Servant|09:22:10|10:20:03|Unfortunate hour|
 |5|Jupiter|Servant|10:20:04|11:17:58|Achieving position and status and attracting job fortune|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°19'24.66" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°9'34.02" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|25°22'13.80" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|27°18'52.38" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|29°52'54.82" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|24°36'12.27" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|11°30'48.96" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|19°9'31.55" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|25°22'18.16" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|27°19'2.72" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|29°53'1.04" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|24°36'19.31" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|12°20'14.38" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Mars|Mars|Sun|Venus|
 |☿ Mercury|Saturn|Saturn|Sun|Venus|
-|☾ Moon|Jupiter|Venus|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

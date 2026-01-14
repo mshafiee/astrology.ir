@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Moon|Servant|09:38:20|10:28:06|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|10:28:07|11:17:54|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Jupiter|Servant|11:17:55|12:07:41|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mars|Servant|12:07:42|12:57:29|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mars|Servant|12:07:42|12:57:29|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|12:57:30|13:47:17|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|13:47:18|14:37:04|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:37:05|15:26:52|Causing separation and homelessness|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°13'50.53" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|19°18'39.61" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°28'54.82" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|26°8'57.16" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|28°26'32.12" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|22°43'47.87" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|27°54'26.06" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|24°28'55.37" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|26°8'58.54" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|28°26'32.87" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|22°43'48.84" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|28°6'1.33" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°4'34.31" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°34'21.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°57'52.39" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|24°9'19.74" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°58'52.49" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°4'34.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°34'21.58" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°57'52.40" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|24°9'19.76" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°58'52.52" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|19°33'14.42" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|4°26'34.28" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°26'34.74" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°4'34.31" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°34'21.28" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°57'52.39" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|24°9'19.74" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°58'52.49" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|27°4'34.37" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°34'21.58" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°57'52.40" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|24°9'19.76" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°58'52.52" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|19°33'14.42" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|4°26'34.28" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|4°26'34.74" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: GCI, Saint Peter Port, Saint Pierre Port, Saint-Pierre-Port, Sanktapetrurbo, Sejnt Pitur Port, Sent Piter Port, Sent Piter Portas, Sent-Pitehr-Port, Sent-Piter-Port, Sentpiterporta, Sentpīterporta, St Peter Port, St. Peter Port, san bytr bwrt, seinteupiteopoteu, sent pi texr phxrt, sheng bi de gang, sn ptr pwrt, snt pytr pwrt, Сейнт Питър Порт, Сент Питер Порт, Сент-Питер-Порт, Сент-Пітер-Порт, Сент-Пітэр-Порт, סנט פיטר פורט, سان بيتر بورت, سن پتر پورت, سینٹ پیٹر پورٹ, เซนต์ปีเตอร์พอร์ต, სენტ-პიტერ-პორტი, セント・ピーター・ポート, 圣彼得港, 세인트피터포트

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°4'26.67" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°34'34.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|22°56'36.47" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|24°7'40.42" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|25°56'49.17" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°4'26.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°34'34.56" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|22°56'36.48" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|24°7'40.44" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|25°56'49.20" |Sagittarius|Baldah|Saturn|
 |☿ Mercury|Direct|19°30'36.03" |Sagittarius|Baldah|Moon|
-|☾ Moon|Direct|4°11'12.60" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|4°11'13.06" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°4'26.67" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°34'34.25" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°56'36.47" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|24°7'40.42" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|25°56'49.17" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|19°30'36.03" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|4°11'12.60" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|27°4'26.74" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°34'34.56" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°56'31.33" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|24°7'28.20" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|25°56'42.00" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|19°30'27.69" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|3°37'55.95" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ALV, Ando-la-Vyey, Andora, Andora la Vela, Andora la Velja, Andora lja Vehl'ja, Andoro Malnova, Andorra, Andorra Tuan, Andorra a Vella, Andorra la Biella, Andorra la Vella, Andorra la Vielha, Andorra-a-Velha, Andorra-la-Vel'ja, Andorra-la-Vielye, Andorre-la-Vieille, Andò-la-Vyèy, Andòrra la Vièlha, an dao er cheng, andolalabeya, andwra la fyla, Ανδόρρα, Андора ла Веля, Андора ла Веља, Андора ля Вэлья, Андорра-ла-Велья, אנדורה לה וולה, أندورا لا فيلا, አንዶራ ላ ቬላ, アンドラ・ラ・ヴェリャ, 安道爾城, 안도라라베야
