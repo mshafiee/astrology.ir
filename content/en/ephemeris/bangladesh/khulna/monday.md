@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:25:57 |
-| Sunrise | 06:44:06 |
+| Sunrise | 06:44:07 |
 | Dhuhr (Noon) | 12:12:22 |
 | Medium Coeli | 12:12:22 |
 | Sunset | 17:40:48 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:24:36 |
-| Sunrise | 06:44:06 |
+| Sunrise | 06:44:07 |
 | Dhuhr (Noon) | 12:12:22 |
 | Medium Coeli | 12:12:22 |
 | Sunset | 17:40:48 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°27'19.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°56'55.87" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|26°36'36.67" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|28°56'26.69" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|1°53'16.20" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|27°13'58.07" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|2°1'16.43" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|18°56'59.16" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|26°36'30.77" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|28°56'12.53" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|1°53'7.80" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|27°13'48.32" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°33'55.77" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

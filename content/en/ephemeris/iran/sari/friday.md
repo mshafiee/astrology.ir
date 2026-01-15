@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:36:34 |
+| Fajr (Dawn) | 05:36:35 |
 | Sunrise | 07:08:28 |
 | Dhuhr (Noon) | 12:07:26 |
 | Medium Coeli | 12:07:26 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:36:34 |
+| Fajr (Dawn) | 05:36:35 |
 | Sunrise | 07:08:28 |
 | Dhuhr (Noon) | 12:07:26 |
 | Medium Coeli | 12:07:26 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°13'10.39" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|19°19'46.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°22'26.85" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|26°0'28.39" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|28°16'3.17" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|22°30'12.32" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°24'8.39" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|24°22'26.88" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|26°0'28.47" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|28°16'3.21" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|22°30'12.38" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|26°25'1.42" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

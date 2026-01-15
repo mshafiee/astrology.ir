@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°6'30.18" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|19°31'1.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°17'5.53" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|24°34'38.16" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|26°30'3.54" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|20°13'19.17" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|9°43'57.94" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|23°17'0.75" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|24°34'26.28" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|26°29'56.97" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|20°13'10.74" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|8°23'35.42" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Moon|Sun|Scorpio|Sun|Venus|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Venus|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

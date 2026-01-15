@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:12:00|Night duration: 13:47:43|
+|Duration of the day: 10:12:00|Night duration: 13:47:42|
 |Every hour of day duration: 00:51:00|Every hour of night duration: 01:08:59|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Jupiter|Servant|20:50:52|21:59:50|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|21:59:51|23:08:48|Auspicious|
 |6|Sun|Servant|23:08:49|00:17:47|Writing, swapping and making promises|
-|7|Venus|Servant|00:17:48|01:26:46|Not suitable for any task|
-|8|Mercury|Ruler|01:26:47|02:35:44|Destruction of enemies|
-|9|Moon|Servant|02:35:45|03:44:43|All good deeds|
-|10|Saturn|Servant|03:44:44|04:53:41|Doing evil deeds|
-|11|Jupiter|Servant|04:53:42|06:02:40|Acceptance of reconciliation between couples|
-|12|Mars|Servant|06:02:41|07:11:39|For gaining dignity|
+|7|Venus|Servant|00:17:48|01:26:45|Not suitable for any task|
+|8|Mercury|Ruler|01:26:46|02:35:44|Destruction of enemies|
+|9|Moon|Servant|02:35:45|03:44:42|All good deeds|
+|10|Saturn|Servant|03:44:43|04:53:41|Doing evil deeds|
+|11|Jupiter|Servant|04:53:42|06:02:39|Acceptance of reconciliation between couples|
+|12|Mars|Servant|06:02:40|07:11:38|For gaining dignity|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:12:00|Night duration: 13:47:43|
+|Duration of the day: 10:12:00|Night duration: 13:47:42|
 |Every hour duration: 01:27:26|Every hour duration: 01:58:15|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|17:23:57|19:22:10|
 |Late evening|Moon|Servant|19:22:11|21:20:25|
-|Midnight|Saturn|Servant|21:20:26|23:18:40|
-|Late at night|Jupiter|Servant|23:18:41|01:16:54|
-|Rooster song|Mars|Servant|01:16:55|03:15:09|
-|False Dawn|Sun|Servant|03:15:10|05:13:24|
-|Dawn|Venus|Servant|05:13:25|07:11:39|
+|Midnight|Saturn|Servant|21:20:26|23:18:39|
+|Late at night|Jupiter|Servant|23:18:40|01:16:54|
+|Rooster song|Mars|Servant|01:16:55|03:15:08|
+|False Dawn|Sun|Servant|03:15:09|05:13:23|
+|Dawn|Venus|Servant|05:13:24|07:11:38|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°17'43.40" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°12'16.49" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|25°6'13.21" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|26°57'55.81" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|29°26'58.52" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|24°2'21.95" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°53'26.10" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|27°17'43.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°12'16.18" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|25°6'13.20" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|26°57'55.79" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|29°26'58.49" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|24°2'21.94" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°53'26.90" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
