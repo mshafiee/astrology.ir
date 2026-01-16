@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:44:34 |
-| Sunrise | 07:11:39 |
+| Sunrise | 07:11:40 |
 | Dhuhr (Noon) | 12:18:09 |
 | Medium Coeli | 12:18:09 |
 | Sunset | 17:24:54 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:57:57 |
-| Sunrise | 07:11:39 |
+| Sunrise | 07:11:40 |
 | Dhuhr (Noon) | 12:18:09 |
 | Medium Coeli | 12:18:09 |
 | Sunset | 17:24:54 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:35:42 |
-| Sunrise | 07:11:39 |
+| Sunrise | 07:11:40 |
 | Dhuhr (Noon) | 12:18:09 |
 | Medium Coeli | 12:18:09 |
 | Sunset | 17:24:54 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:43:05 |
-| Sunrise | 07:11:40 |
+| Sunrise | 07:11:39 |
 | Dhuhr (Noon) | 12:18:09 |
 | Medium Coeli | 12:18:09 |
 | Sunset | 17:24:54 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 10:13:15|Night duration: 13:46:26|
+|Duration of the day: 10:13:14|Night duration: 13:46:26|
 |Every hour of day duration: 00:51:06|Every hour of night duration: 01:08:52|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|07:11:39|08:02:44|Love and attraction of capital|
-|2|Venus|Servant|08:02:45|08:53:50|Unfortunate, no task is suitable|
-|3|Mercury|Servant|08:53:51|09:44:56|Operations of tenderness and attraction of love|
-|4|Moon|Servant|09:44:57|10:36:03|Unfortunate and repelling goodness|
+|1|Sun|Ruler|07:11:40|08:02:45|Love and attraction of capital|
+|2|Venus|Servant|08:02:46|08:53:51|Unfortunate, no task is suitable|
+|3|Mercury|Servant|08:53:52|09:44:57|Operations of tenderness and attraction of love|
+|4|Moon|Servant|09:44:58|10:36:03|Unfortunate and repelling goodness|
 |5|Saturn|Servant|10:36:04|11:27:09|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:27:10|12:18:15|Suitable for all good deeds|
-|7|Mars|Servant|12:18:16|13:09:21|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:09:22|14:00:28|Extremely auspicious and attracts happiness|
+|6|Jupiter|Servant|11:27:10|12:18:16|Suitable for all good deeds|
+|7|Mars|Servant|12:18:17|13:09:22|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:09:23|14:00:28|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:00:29|14:51:34|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|14:51:35|15:42:40|Attracting happiness, solving financial problems|
 |11|Moon|Servant|15:42:41|16:33:46|Performing promises|

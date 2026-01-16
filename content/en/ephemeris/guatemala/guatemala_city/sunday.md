@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 17:53:44 |
 | Maghrib | 17:58:21 |
 | Isha (Night) | 19:05:52 |
-| Sharia Midnight | 23:34:24 |
+| Sharia Midnight | 23:34:25 |
 | Imum Coeli | 00:12:40 |
 {{< /tab >}}
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|18°53'4.05" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|26°59'31.87" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|29°26'28.18" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|2°30'19.89" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|28°2'43.40" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|7°17'22.33" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|2°30'12.41" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|28°2'41.64" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|6°55'16.28" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

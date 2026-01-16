@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°49'59.16" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|25°17'51.53" |Sagittarius|Baldah|Saturn|
 |♀ Venus|Direct|27°23'25.18" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|21°22'6.34" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°11'52.86" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|21°22'6.35" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|18°12'8.62" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

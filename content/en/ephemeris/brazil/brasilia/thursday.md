@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:52:27 |
 | Dhuhr (Noon) | 12:21:09 |
 | Medium Coeli | 12:21:09 |
-| Sunset | 18:49:43 |
+| Sunset | 18:49:42 |
 | Maghrib | 19:05:21 |
 | Isha (Night) | 19:51:16 |
 | Sharia Midnight | 23:45:55 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:57:16|Night duration: 11:03:20|
+|Duration of the day: 12:57:15|Night duration: 11:03:21|
 |Every hour duration: 01:51:02|Every hour duration: 01:34:46|
 
  
@@ -267,18 +267,18 @@ Timetable of septet day and night planetary hours
 |Early morning|Jupiter|Ruler|05:52:27|07:43:28|
 |Mid-morning|Mars|Servant|07:43:29|09:34:30|
 |Late morning|Sun|Servant|09:34:31|11:25:32|
-|Noon|Venus|Servant|11:25:33|13:16:35|
-|Early afternoon|Mercury|Servant|13:16:36|15:07:37|
-|Mid-afternoon|Moon|Servant|15:07:38|16:58:39|
-|Late afternoon|Saturn|Servant|16:58:40|18:49:42|
+|Noon|Venus|Servant|11:25:33|13:16:34|
+|Early afternoon|Mercury|Servant|13:16:35|15:07:36|
+|Mid-afternoon|Moon|Servant|15:07:37|16:58:38|
+|Late afternoon|Saturn|Servant|16:58:39|18:49:41|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Moon|Ruler|18:49:43|20:24:27|
-|Late evening|Saturn|Servant|20:24:28|21:59:13|
-|Midnight|Jupiter|Servant|21:59:14|23:33:59|
-|Late at night|Mars|Servant|23:34:00|01:08:44|
+|Evening|Moon|Ruler|18:49:42|20:24:26|
+|Late evening|Saturn|Servant|20:24:27|21:59:12|
+|Midnight|Jupiter|Servant|21:59:13|23:33:58|
+|Late at night|Mars|Servant|23:33:59|01:08:44|
 |Rooster song|Sun|Servant|01:08:45|02:43:30|
 |False Dawn|Venus|Servant|02:43:31|04:18:16|
 |Dawn|Mercury|Servant|04:18:17|05:53:02|

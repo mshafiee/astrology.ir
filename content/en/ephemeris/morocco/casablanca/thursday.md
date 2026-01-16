@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:10:55|Night duration: 13:48:51|
+|Duration of the day: 10:10:55|Night duration: 13:48:50|
 |Every hour duration: 01:27:16|Every hour duration: 01:58:24|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Moon|Ruler|18:45:25|20:43:48|
 |Late evening|Saturn|Servant|20:43:49|22:42:12|
-|Midnight|Jupiter|Servant|22:42:13|00:40:37|
-|Late at night|Mars|Servant|00:40:38|02:39:01|
-|Rooster song|Sun|Servant|02:39:02|04:37:26|
-|False Dawn|Venus|Servant|04:37:27|06:35:50|
-|Dawn|Mercury|Servant|06:35:51|08:34:15|
+|Midnight|Jupiter|Servant|22:42:13|00:40:36|
+|Late at night|Mars|Servant|00:40:37|02:39:01|
+|Rooster song|Sun|Servant|02:39:02|04:37:25|
+|False Dawn|Venus|Servant|04:37:26|06:35:49|
+|Dawn|Mercury|Servant|06:35:50|08:34:14|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°9'11.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°26'27.85" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|23°43'32.43" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|25°9'22.41" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|27°12'58.15" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|21°8'36.97" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°21'42.96" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|27°9'11.01" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°26'27.54" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|23°43'32.42" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|25°9'22.39" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|27°12'58.12" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|21°8'37.08" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°45'15.30" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Libra|Moon|Mercury|
 |♀ Venus|Saturn|Jupiter|Libra|Moon|Mercury|
 |☿ Mercury|Mercury|Venus|Leo|Moon|Mercury|
-|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
