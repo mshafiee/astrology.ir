@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:57:53 |
 | Sunset | 18:28:30 |
 | Maghrib | 18:29:29 |
-| Isha (Night) | 19:44:11 |
+| Isha (Night) | 19:44:10 |
 | Sharia Midnight | 23:17:53 |
 | Imum Coeli | 23:58:02 |
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°41'22.17" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°35'40.13" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|28°44'22.29" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|1°43'32.28" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|5°19'43.04" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|1°47'56.89" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|18°35'36.85" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|28°44'27.83" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|1°43'45.72" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|5°19'50.38" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|1°48'6.14" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|6°17'30.48" |Pisces|FarghAlMuakhar|Saturn|
 
 

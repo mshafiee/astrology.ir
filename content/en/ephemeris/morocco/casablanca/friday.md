@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 07:05:50 |
-| Sunrise | 08:34:15 |
+| Sunrise | 08:34:16 |
 | Dhuhr (Noon) | 13:40:11 |
 | Medium Coeli | 13:40:11 |
 | Sunset | 18:46:21 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 07:20:42 |
-| Sunrise | 08:34:16 |
+| Sunrise | 08:34:15 |
 | Dhuhr (Noon) | 13:40:11 |
 | Medium Coeli | 13:40:11 |
 | Sunset | 18:46:21 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:12:05|Night duration: 13:47:39|
+|Duration of the day: 10:12:06|Night duration: 13:47:39|
 |Every hour of day duration: 00:51:00|Every hour of night duration: 01:08:58|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|08:34:16|09:25:15|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mercury|Servant|09:25:16|10:16:15|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Moon|Servant|10:16:16|11:07:16|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Saturn|Servant|11:07:17|11:58:16|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Jupiter|Servant|11:58:17|12:49:17|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mars|Servant|12:49:18|13:40:17|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Venus|Ruler|08:34:15|09:25:14|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mercury|Servant|09:25:15|10:16:15|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Moon|Servant|10:16:16|11:07:15|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Saturn|Servant|11:07:16|11:58:16|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Jupiter|Servant|11:58:17|12:49:16|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mars|Servant|12:49:17|13:40:17|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Sun|Servant|13:40:18|14:31:17|Promotion and attracting wealth|
 |8|Venus|Ruler|14:31:18|15:22:18|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|15:22:19|16:13:18|Causing separation and homelessness|
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:12:05|Night duration: 13:47:39|
-|Every hour duration: 01:27:26|Every hour duration: 01:58:14|
+|Duration of the day: 10:12:06|Night duration: 13:47:39|
+|Every hour duration: 01:27:27|Every hour duration: 01:58:14|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Venus|Ruler|08:34:16|10:01:41|
-|Mid-morning|Mercury|Servant|10:01:42|11:29:07|
-|Late morning|Moon|Servant|11:29:08|12:56:34|
-|Noon|Saturn|Servant|12:56:35|14:24:00|
-|Early afternoon|Jupiter|Servant|14:24:01|15:51:27|
-|Mid-afternoon|Mars|Servant|15:51:28|17:18:53|
+|Early morning|Venus|Ruler|08:34:15|10:01:40|
+|Mid-morning|Mercury|Servant|10:01:41|11:29:07|
+|Late morning|Moon|Servant|11:29:08|12:56:33|
+|Noon|Saturn|Servant|12:56:34|14:24:00|
+|Early afternoon|Jupiter|Servant|14:24:01|15:51:26|
+|Mid-afternoon|Mars|Servant|15:51:27|17:18:53|
 |Late afternoon|Sun|Servant|17:18:54|18:46:20|
 
  
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°13'57.66" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°18'27.76" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|24°30'4.30" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|26°10'29.27" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|28°28'24.44" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|22°46'14.04" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|28°44'0.54" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|19°18'27.45" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|24°30'4.29" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|26°10'29.24" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|28°28'24.41" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|22°46'14.03" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|28°44'0.88" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

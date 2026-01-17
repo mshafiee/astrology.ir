@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:08:18 |
+| Fajr (Dawn) | 05:08:17 |
 | Sunrise | 06:22:57 |
 | Dhuhr (Noon) | 12:16:34 |
 | Medium Coeli | 12:16:34 |
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°8'37.35" |Capricorn|SaadAlSaud|Sun|
 |♀ Venus|Direct|29°40'8.89" |Capricorn|SaadAlSaud|Sun|
 |☿ Mercury|Direct|24°19'31.99" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|10°15'49.95" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|10°15'49.05" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

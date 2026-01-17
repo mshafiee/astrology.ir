@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:30:58 |
 | Isha (Night) | 19:22:46 |
 | Sharia Midnight | 00:26:02 |
-| Imum Coeli | 01:12:56 |
+| Imum Coeli | 01:12:55 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:41:57 |
+| Fajr (Dawn) | 06:41:56 |
 | Sunrise | 08:16:58 |
 | Dhuhr (Noon) | 13:12:47 |
 | Medium Coeli | 13:12:47 |
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:38:44 |
 | Sharia Midnight | 00:25:14 |
-| Imum Coeli | 01:12:56 |
+| Imum Coeli | 01:12:55 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:28:06 |
 | Sharia Midnight | 00:33:11 |
-| Imum Coeli | 01:12:56 |
+| Imum Coeli | 01:12:55 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:41:22 |
 | Sharia Midnight | 00:21:17 |
-| Imum Coeli | 01:12:56 |
+| Imum Coeli | 01:12:55 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:41:57 |
+| Fajr (Dawn) | 06:41:56 |
 | Sunrise | 08:16:58 |
 | Dhuhr (Noon) | 13:12:47 |
 | Medium Coeli | 13:12:47 |
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:44:01 |
 | Sharia Midnight | 00:25:14 |
-| Imum Coeli | 01:12:56 |
+| Imum Coeli | 01:12:55 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}

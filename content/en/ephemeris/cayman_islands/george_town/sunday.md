@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°29'42.03" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|18°53'14.12" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|26°58'29.84" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|29°25'1.93" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|2°28'40.92" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|28°0'39.73" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°58'7.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♂ Mars|Direct|26°58'34.19" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|29°25'12.48" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|2°28'46.64" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|28°0'47.07" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°58'8.91" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Sun|Venus|
 |♀ Venus|Mercury|Venus|Saturn|Sun|
 |☿ Mercury|Mars|Mars|Sun|Venus|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Scorpio|Moon|Mercury|
 |♀ Venus|Saturn|Saturn|Capricorn|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°29'41.97" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|18°53'13.80" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|26°58'34.18" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|29°25'12.45" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|2°28'46.61" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|28°0'39.75" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|6°58'6.90" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|26°58'34.19" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|29°25'12.48" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|2°28'46.64" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|28°0'47.09" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|7°58'8.01" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Mercury|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Moon|Mercury|Sagittarius|Sun|Venus|
-|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mars|Ruler|18:45:58|19:43:06|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|19:43:07|20:40:16|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Venus|Servant|20:40:17|21:37:26|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Venus|Servant|20:40:17|21:37:26|Attracting misfortune, no task is suitable|
 |4|Mercury|Servant|21:37:27|22:34:36|Unfortunate hour|
 |5|Moon|Servant|22:34:37|23:31:46|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|23:31:47|00:28:56|Creating attraction and acceptance among dignitaries|
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|19°13'35.50" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|24°58'28.50" |Sagittarius|Baldah|Saturn|
 |☉ Sun|Direct|26°47'47.37" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|29°14'25.58" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|23°46'1.35" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|6°7'35.25" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|29°14'25.39" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|23°46'1.24" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|6°10'6.24" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

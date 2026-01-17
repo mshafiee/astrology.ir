@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Mercury|Servant|13:34:25|14:27:54|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Moon|Servant|14:27:55|15:21:23|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|15:21:24|16:14:53|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Jupiter|Servant|16:14:54|17:08:23|Suitable for asking for a need|
+|12|Jupiter|Servant|16:14:54|17:08:23|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°13'8.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|19°19'50.00" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|24°22'4.09" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|25°59'59.13" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|28°15'26.18" |Sagittarius|Baldah|Saturn|
-|☿ Mercury|Direct|22°29'24.31" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|26°25'32.79" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|27°13'7.95" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|19°19'49.69" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|24°22'4.08" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|25°59'59.10" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|28°15'26.14" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|22°29'24.30" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|26°25'33.02" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°13'8.01" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°19'50.00" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|24°22'4.09" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|25°59'59.13" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|28°15'26.18" |Capricorn|SaadAlSaud|Sun|
-|☿ Mercury|Direct|22°29'24.31" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|26°25'32.79" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|27°13'7.95" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°19'49.69" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|24°22'4.08" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|25°59'59.10" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|28°15'26.14" |Capricorn|SaadAlSaud|Sun|
+|☿ Mercury|Direct|22°29'24.30" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|26°25'33.02" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
