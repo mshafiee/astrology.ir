@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 09:41:34|Night duration: 14:17:54|
-|Every hour of day duration: 00:48:28|Every hour of night duration: 01:11:29|
+|Every hour of day duration: 00:48:28|Every hour of night duration: 01:11:30|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°23'45.09" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|19°2'34.43" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|26°3'15.45" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|28°12'43.33" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|0°59'18.92" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|26°3'3.95" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|22°53'3.72" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|27°23'45.03" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|19°2'34.11" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|26°3'15.44" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|28°12'43.30" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|0°59'18.89" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|26°3'3.93" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|22°53'4.92" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

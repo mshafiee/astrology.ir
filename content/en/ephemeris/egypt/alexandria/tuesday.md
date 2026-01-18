@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:33:54 |
+| Fajr (Dawn) | 05:33:55 |
 | Sunrise | 06:58:02 |
 | Dhuhr (Noon) | 12:11:18 |
 | Medium Coeli | 12:11:18 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°33'17.41" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°47'43.44" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°31'29.53" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|0°8'17.89" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°21'59.55" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|29°11'11.15" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°46'24.95" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|18°47'43.43" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|27°31'29.56" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|0°8'17.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|3°21'59.60" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|29°11'11.20" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°47'13.53" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

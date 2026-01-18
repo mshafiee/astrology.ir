@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:27:18 |
+| Fajr (Dawn) | 05:27:17 |
 | Sunrise | 06:46:44 |
 | Dhuhr (Noon) | 12:22:46 |
 | Medium Coeli | 12:22:46 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°29'26.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°53'38.64" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|26°56'8.14" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|29°22'1.27" |Sagittarius|Baldah|Saturn|
-|♀ Venus|Direct|2°24'50.51" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|27°55'35.37" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|7°19'20.85" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|27°29'26.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|18°53'38.32" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|26°56'8.13" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|29°22'1.24" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|2°24'50.47" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|27°55'35.34" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|7°19'21.78" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°29'26.19" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°53'38.64" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|26°56'8.14" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|29°22'1.27" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|2°24'50.51" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|27°55'35.37" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|7°19'20.85" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|27°29'26.13" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|18°53'38.53" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|26°56'8.33" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|29°22'1.75" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|2°24'50.72" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|27°55'35.67" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|7°22'7.51" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

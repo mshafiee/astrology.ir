@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 10:32:28|Night duration: 13:27:11|
+|Duration of the day: 10:32:28|Night duration: 13:27:12|
 |Every hour of day duration: 00:52:42|Every hour of night duration: 01:07:16|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|17:27:11|18:34:25|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|18:34:26|19:41:41|Destruction of enemies|
-|3|Jupiter|Servant|19:41:42|20:48:57|Attraction of financial and emotional love|
-|4|Mars|Servant|20:48:58|21:56:13|Creating love, connection and marriage|
-|5|Sun|Servant|21:56:14|23:03:29|Indulgence|
-|6|Venus|Servant|23:03:30|00:10:45|Outer and inner journey|
-|7|Mercury|Servant|00:10:46|01:18:01|Achieving status and power|
-|8|Moon|Ruler|01:18:02|02:25:17|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:25:18|03:32:33|Reaching status and promotion|
-|10|Jupiter|Servant|03:32:34|04:39:49|Fulfilling needs|
-|11|Mars|Servant|04:39:50|05:47:05|Attraction of love and hearts|
-|12|Sun|Servant|05:47:06|06:54:21|Attracting misfortune, not suitable for any task|
+|1|Moon|Ruler|17:27:11|18:34:26|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|18:34:27|19:41:42|Destruction of enemies|
+|3|Jupiter|Servant|19:41:43|20:48:58|Attraction of financial and emotional love|
+|4|Mars|Servant|20:48:59|21:56:14|Creating love, connection and marriage|
+|5|Sun|Servant|21:56:15|23:03:30|Indulgence|
+|6|Venus|Servant|23:03:31|00:10:46|Outer and inner journey|
+|7|Mercury|Servant|00:10:47|01:18:02|Achieving status and power|
+|8|Moon|Ruler|01:18:03|02:25:18|Attraction of happiness and fortune|
+|9|Saturn|Servant|02:25:19|03:32:34|Reaching status and promotion|
+|10|Jupiter|Servant|03:32:35|04:39:50|Fulfilling needs|
+|11|Mars|Servant|04:39:51|05:47:06|Attraction of love and hearts|
+|12|Sun|Servant|05:47:07|06:54:22|Attracting misfortune, not suitable for any task|
 
  
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°47'36.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°26'33.30" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|29°39'50.21" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|2°56'5.21" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|6°49'11.04" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|3°48'1.10" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|22°20'45.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|18°26'33.74" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|29°39'49.39" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|2°56'3.20" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|6°49'9.88" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|3°47'59.70" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|22°11'11.41" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°33'15.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°47'45.55" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°31'14.85" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|0°7'58.74" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°21'35.81" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|29°10'39.70" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°43'13.66" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|27°33'15.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|18°47'45.87" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|27°31'14.87" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|0°7'58.77" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|3°21'35.84" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|29°10'39.72" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°43'13.15" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°33'15.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°47'45.55" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°31'14.85" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|0°7'58.74" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|3°21'35.81" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|29°10'39.70" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|16°43'13.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|27°33'15.80" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|18°47'45.87" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°31'14.87" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|0°7'58.77" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|3°21'35.84" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|29°10'39.72" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|16°43'13.15" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

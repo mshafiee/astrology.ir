@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:46:49 |
 | Sunrise | 07:35:04 |
-| Dhuhr (Noon) | 12:07:03 |
-| Medium Coeli | 12:07:03 |
+| Dhuhr (Noon) | 12:07:04 |
+| Medium Coeli | 12:07:04 |
 | Sunset | 16:39:26 |
 | Maghrib | 16:40:55 |
 | Isha (Night) | 18:27:43 |

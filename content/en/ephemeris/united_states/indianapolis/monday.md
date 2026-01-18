@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:55:24 |
 | Sunset | 17:49:14 |
 | Maghrib | 17:52:23 |
-| Isha (Night) | 19:22:27 |
+| Isha (Night) | 19:22:26 |
 | Sharia Midnight | 00:03:29 |
 | Imum Coeli | 00:55:33 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°35'0.62" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°45'6.90" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°47'9.18" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|0°28'47.00" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°47'17.86" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|29°44'45.81" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|20°56'26.87" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|18°45'6.67" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|27°47'9.03" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|0°28'46.64" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|3°47'17.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|29°44'45.56" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|20°56'34.54" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°35'0.62" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°45'6.62" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°47'9.10" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|0°28'46.82" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|3°47'17.76" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|29°44'45.68" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|20°56'12.47" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|18°45'6.90" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°47'9.18" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|0°28'47.00" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|3°47'17.86" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|29°44'45.56" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|20°56'34.54" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

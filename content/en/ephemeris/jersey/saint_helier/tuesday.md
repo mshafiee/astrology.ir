@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:50:08 |
+| Fajr (Dawn) | 05:50:09 |
 | Sunrise | 07:53:20 |
 | Dhuhr (Noon) | 12:19:25 |
 | Medium Coeli | 12:19:25 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°33'54.73" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°46'47.10" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°37'9.44" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|0°15'41.55" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°31'9.01" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|29°23'19.93" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|18°4'6.10" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|18°46'49.91" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|27°37'4.53" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|0°15'29.72" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|3°31'2.21" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|29°23'11.72" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|16°53'21.20" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Moon|Saturn|
 |♀ Venus|Saturn|Saturn|Aquarius|Moon|Saturn|
 |☿ Mercury|Saturn|Jupiter|Scorpio|Moon|Mercury|
-|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
