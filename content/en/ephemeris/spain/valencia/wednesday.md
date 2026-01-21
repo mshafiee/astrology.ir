@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:28:10 |
 | Isha (Night) | 19:22:46 |
 | Sharia Midnight | 00:30:31 |
-| Imum Coeli | 01:12:55 |
+| Imum Coeli | 01:12:56 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:38:44 |
 | Sharia Midnight | 00:25:14 |
-| Imum Coeli | 01:12:55 |
+| Imum Coeli | 01:12:56 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:28:06 |
 | Sharia Midnight | 00:33:11 |
-| Imum Coeli | 01:12:55 |
+| Imum Coeli | 01:12:56 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:44:01 |
 | Sharia Midnight | 00:25:14 |
-| Imum Coeli | 01:12:55 |
+| Imum Coeli | 01:12:56 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:10:14 |
 | Isha (Night) | 19:40:14 |
 | Sharia Midnight | 00:23:55 |
-| Imum Coeli | 01:12:55 |
+| Imum Coeli | 01:12:56 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|18°39'12.75" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|28°22'40.85" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|1°15'15.28" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|4°44'40.70" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|1°1'8.39" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|0°42'52.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|4°44'37.22" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|1°1'3.75" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°29'11.57" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

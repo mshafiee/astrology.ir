@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 10:33:54|Night duration: 13:25:49|
-|Every hour of day duration: 00:52:49|Every hour of night duration: 01:07:09|
+|Every hour of day duration: 00:52:50|Every hour of night duration: 01:07:09|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°33'1.27" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|18°48'8.02" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°29'2.16" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|0°5'5.13" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°18'1.40" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|29°5'55.49" |Sagittarius|Baldah|Saturn|
-|☾ Moon|Direct|16°7'33.64" |Capricorn|SaadAlBula|Mars|
+|♂ Mars|Direct|27°29'1.01" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|0°5'2.30" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|3°17'59.87" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|29°5'53.54" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|15°53'4.76" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

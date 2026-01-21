@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 16:35:12 |
 | Maghrib | 16:37:03 |
 | Isha (Night) | 18:23:14 |
-| Sharia Midnight | 23:34:45 |
+| Sharia Midnight | 23:34:44 |
 | Imum Coeli | 00:29:04 |
 {{< /tab >}}
 
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°34'1.08" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°46'37.61" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|27°38'6.55" |Sagittarius|Baldah|Saturn|
-|☉ Sun|Direct|0°16'56.68" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|3°32'42.34" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|27°34'1.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|18°46'37.29" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|27°38'7.13" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|0°16'56.65" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|3°32'42.31" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|29°25'23.79" |Sagittarius|Baldah|Saturn|
 |☾ Moon|Direct|18°14'52.67" |Capricorn|SaadAlBula|Mars|
 
