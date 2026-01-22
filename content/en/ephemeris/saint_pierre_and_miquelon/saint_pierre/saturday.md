@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 09:18:48|Night duration: 14:40:12|
+|Duration of the day: 09:18:47|Night duration: 14:40:12|
 |Every hour of day duration: 00:46:34|Every hour of night duration: 01:13:21|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|08:17:38|09:04:11|Related to talismans, amulets and responses|
+|1|Saturn|Ruler|08:17:39|09:04:11|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|09:04:12|09:50:45|Peace among people|
 |3|Mars|Servant|09:50:46|10:37:19|Vengeful and evil deeds|
 |4|Sun|Servant|10:37:20|11:23:53|Dominance, judgment and issuing verdict|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 09:18:48|Night duration: 14:40:12|
+|Duration of the day: 09:18:47|Night duration: 14:40:12|
 |Every hour duration: 01:19:50|Every hour duration: 02:05:45|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|08:17:38|09:37:26|
-|Mid-morning|Jupiter|Servant|09:37:27|10:57:16|
-|Late morning|Mars|Servant|10:57:17|12:17:06|
-|Noon|Sun|Servant|12:17:07|13:36:55|
-|Early afternoon|Venus|Servant|13:36:56|14:56:45|
+|Early morning|Saturn|Ruler|08:17:39|09:37:27|
+|Mid-morning|Jupiter|Servant|09:37:28|10:57:17|
+|Late morning|Mars|Servant|10:57:18|12:17:06|
+|Noon|Sun|Servant|12:17:07|13:36:56|
+|Early afternoon|Venus|Servant|13:36:57|14:56:45|
 |Mid-afternoon|Mercury|Servant|14:56:46|16:16:35|
 |Late afternoon|Moon|Servant|16:16:36|17:36:25|
 

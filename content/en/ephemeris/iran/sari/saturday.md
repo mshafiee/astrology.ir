@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:09:47 |
 | Sunset | 17:15:01 |
 | Maghrib | 17:16:14 |
-| Isha (Night) | 18:40:42 |
+| Isha (Night) | 18:40:43 |
 | Sharia Midnight | 23:24:21 |
 | Imum Coeli | 00:09:54 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°54'0.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°17'31.64" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°35'42.37" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|4°9'0.18" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|8°19'15.15" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|5°49'44.31" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|8°12'4.80" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|27°54'0.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|18°17'31.66" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°35'42.34" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°9'0.10" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|8°19'15.11" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|5°49'44.26" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°12'39.05" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|27°54'0.68" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°17'31.64" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|0°35'42.37" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|4°9'0.18" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°19'15.15" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°49'44.31" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|18°17'31.66" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|0°35'42.34" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|4°9'0.10" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°19'15.11" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°49'44.26" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|8°12'4.80" |Aries|Sharatain|Mars|
 
 

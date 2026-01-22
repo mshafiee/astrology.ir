@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:28:08|Night duration: 12:31:49|
+|Duration of the day: 11:28:08|Night duration: 12:31:50|
 |Every hour of day duration: 00:57:21|Every hour of night duration: 01:02:39|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Saturn|Servant|20:05:33|21:08:11|Vengeful and evil deeds|
 |4|Jupiter|Servant|21:08:12|22:10:50|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|22:10:51|23:13:29|Auspicious|
-|6|Sun|Servant|23:13:30|00:16:08|Writing, swapping and making promises|
-|7|Venus|Servant|00:16:09|01:18:47|Not suitable for any task|
-|8|Mercury|Ruler|01:18:48|02:21:26|Destruction of enemies|
-|9|Moon|Servant|02:21:27|03:24:05|All good deeds|
-|10|Saturn|Servant|03:24:06|04:26:44|Doing evil deeds|
-|11|Jupiter|Servant|04:26:45|05:29:23|Acceptance of reconciliation between couples|
-|12|Mars|Servant|05:29:24|06:32:03|For gaining dignity|
+|6|Sun|Servant|23:13:30|00:16:09|Writing, swapping and making promises|
+|7|Venus|Servant|00:16:10|01:18:48|Not suitable for any task|
+|8|Mercury|Ruler|01:18:49|02:21:27|Destruction of enemies|
+|9|Moon|Servant|02:21:28|03:24:06|All good deeds|
+|10|Saturn|Servant|03:24:07|04:26:45|Doing evil deeds|
+|11|Jupiter|Servant|04:26:46|05:29:24|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:29:25|06:32:03|For gaining dignity|
 
  
  
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°1'1.82" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°7'54.08" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°36'4.52" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°27'44.14" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|9°56'29.22" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|8°2'4.68" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|25°42'39.07" |Aries|Butain|Venus|
+|♃ Jupiter|Retrograde|18°7'55.11" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°36'3.19" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°27'40.84" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|9°56'27.32" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|8°2'2.33" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|25°34'39.73" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:39:26 |
+| Fajr (Dawn) | 06:39:25 |
 | Sunrise | 07:55:06 |
 | Dhuhr (Noon) | 12:59:42 |
 | Medium Coeli | 12:59:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°54'45.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°16'29.05" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|0°42'12.64" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|4°17'29.28" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|8°29'44.01" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|27°54'45.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|18°16'28.71" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|0°42'12.63" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|4°17'29.26" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|8°29'43.98" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|6°3'57.42" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|10°4'15.49" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|10°4'15.18" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°54'45.74" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°16'29.05" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|0°42'12.64" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|4°17'29.28" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°29'44.01" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|27°54'45.68" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|18°16'28.71" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|0°42'12.63" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|4°17'29.26" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°29'43.98" |Aquarius|SaadAlSaud|Venus|
 |☿ Mercury|Direct|6°3'57.42" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|10°4'15.49" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|10°4'15.18" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

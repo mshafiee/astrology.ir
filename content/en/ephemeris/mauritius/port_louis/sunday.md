@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:22:15 |
 | Medium Coeli | 12:22:15 |
 | Sunset | 18:55:08 |
-| Maghrib | 18:56:08 |
+| Maghrib | 18:56:09 |
 | Isha (Night) | 20:11:44 |
 | Sharia Midnight | 23:41:44 |
 | Imum Coeli | 00:22:22 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:22:15 |
 | Medium Coeli | 12:22:15 |
 | Sunset | 18:55:08 |
-| Maghrib | 18:56:08 |
+| Maghrib | 18:56:09 |
 | Isha (Night) | 20:14:10 |
 | Sharia Midnight | 23:38:04 |
 | Imum Coeli | 00:22:22 |
@@ -302,7 +302,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|27°59'2.59" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|18°10'35.72" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|1°19'5.06" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°5'18.63" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°5'35.96" |Capricorn|SaadAlDhabib|Jupiter|
 |♀ Venus|Direct|9°28'57.55" |Capricorn|SaadAlDhabib|Jupiter|
 |☿ Mercury|Direct|7°24'32.14" |Capricorn|SaadAlDhabib|Jupiter|
 |☾ Moon|Direct|20°3'13.20" |Pisces|Rescha|Mars|
