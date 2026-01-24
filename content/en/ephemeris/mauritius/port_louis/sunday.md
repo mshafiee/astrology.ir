@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:22:15 |
 | Medium Coeli | 12:22:15 |
 | Sunset | 18:55:08 |
-| Maghrib | 18:56:09 |
+| Maghrib | 18:56:08 |
 | Isha (Night) | 20:02:07 |
 | Sharia Midnight | 23:48:59 |
 | Imum Coeli | 00:22:22 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:22:15 |
 | Medium Coeli | 12:22:15 |
 | Sunset | 18:55:08 |
-| Maghrib | 18:56:09 |
+| Maghrib | 18:56:08 |
 | Isha (Night) | 20:16:35 |
 | Sharia Midnight | 23:41:44 |
 | Imum Coeli | 00:22:22 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|18°10'35.72" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|1°19'5.06" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|5°5'35.96" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|9°28'57.55" |Capricorn|SaadAlDhabib|Jupiter|
-|☿ Mercury|Direct|7°24'32.14" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|20°3'13.20" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°29'7.65" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Direct|7°24'44.41" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|20°50'6.45" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

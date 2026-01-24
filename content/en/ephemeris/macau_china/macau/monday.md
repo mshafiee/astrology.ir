@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:04:37|Night duration: 12:55:09|
+|Duration of the day: 11:04:37|Night duration: 12:55:08|
 |Every hour of day duration: 00:55:23|Every hour of night duration: 01:04:36|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|18:10:40|19:15:14|Repelling magic, attracting discharged energy|
 |2|Mercury|Servant|19:15:15|20:19:50|Outer and inner journey|
 |3|Moon|Servant|20:19:51|21:24:26|Marriage connection is good|
-|4|Saturn|Servant|21:24:27|22:29:02|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|22:29:03|23:33:37|Answering needs, attracting love and wealth|
+|4|Saturn|Servant|21:24:27|22:29:01|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|22:29:02|23:33:37|Answering needs, attracting love and wealth|
 |6|Mars|Servant|23:33:38|00:38:13|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:38:14|01:42:49|Making promises|
-|8|Venus|Ruler|01:42:50|02:47:25|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:47:26|03:52:00|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:52:01|04:56:36|Good for any task|
-|11|Saturn|Servant|04:56:37|06:01:12|Creating enmity and negative energy|
-|12|Jupiter|Servant|06:01:13|07:05:48|Heart tenderness|
+|7|Sun|Servant|00:38:14|01:42:48|Making promises|
+|8|Venus|Ruler|01:42:49|02:47:24|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:47:25|03:52:00|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:52:01|04:56:35|Good for any task|
+|11|Saturn|Servant|04:56:36|06:01:11|Creating enmity and negative energy|
+|12|Jupiter|Servant|06:01:12|07:05:47|Heart tenderness|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:04:37|Night duration: 12:55:09|
+|Duration of the day: 11:04:37|Night duration: 12:55:08|
 |Every hour duration: 01:34:57|Every hour duration: 01:50:44|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Saturn|Servant|23:42:52|01:33:35|
 |Rooster song|Jupiter|Servant|01:33:36|03:24:19|
 |False Dawn|Mars|Servant|03:24:20|05:15:03|
-|Dawn|Sun|Servant|05:15:04|07:05:48|
+|Dawn|Sun|Servant|05:15:04|07:05:47|
 
 {{< /tab >}}
 

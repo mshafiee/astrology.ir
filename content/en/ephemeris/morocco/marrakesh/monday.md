@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 07:12:32 |
+| Fajr (Dawn) | 07:12:31 |
 | Sunrise | 08:28:17 |
 | Dhuhr (Noon) | 13:44:31 |
 | Medium Coeli | 13:44:31 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°5'50.43" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°1'29.51" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|2°16'54.71" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|6°20'55.41" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|11°2'13.06" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|9°32'5.23" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|7°46'21.16" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|18°1'30.42" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|2°16'54.34" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|6°20'54.82" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|11°2'13.15" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|9°32'5.14" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|8°34'30.85" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Pisces|Moon|Saturn|
 |♀ Venus|Mars|Mars|Taurus|Moon|Saturn|
 |☿ Mercury|Mars|Jupiter|Aries|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}

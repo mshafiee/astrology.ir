@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:48:50 |
-| Sunrise | 07:05:49 |
+| Sunrise | 07:05:48 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:47:30 |
-| Sunrise | 07:05:49 |
+| Sunrise | 07:05:48 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:00:50 |
-| Sunrise | 07:05:48 |
+| Sunrise | 07:05:49 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:47:30 |
-| Sunrise | 07:05:48 |
+| Sunrise | 07:05:49 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:05:32|Night duration: 12:54:12|
+|Duration of the day: 11:05:31|Night duration: 12:54:12|
 |Every hour of day duration: 00:55:28|Every hour of night duration: 01:04:31|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|07:05:48|08:01:14|Creating corruption, hatred and enmity|
-|2|Sun|Servant|08:01:15|08:56:42|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:56:43|09:52:10|Attracting connection and suitors|
-|4|Mercury|Servant|09:52:11|10:47:37|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:47:38|11:43:05|Attracting misfortune, no task is suitable|
+|1|Mars|Ruler|07:05:49|08:01:15|Creating corruption, hatred and enmity|
+|2|Sun|Servant|08:01:16|08:56:43|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:56:44|09:52:10|Attracting connection and suitors|
+|4|Mercury|Servant|09:52:11|10:47:38|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:47:39|11:43:05|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|11:43:06|12:38:33|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|12:38:34|13:34:00|Attracting love and hearts|
-|8|Mars|Ruler|13:34:01|14:29:28|Creating corruption, destroying enemies, making enemies sick|
+|7|Jupiter|Servant|12:38:34|13:34:01|Attracting love and hearts|
+|8|Mars|Ruler|13:34:02|14:29:28|Creating corruption, destroying enemies, making enemies sick|
 |9|Sun|Servant|14:29:29|15:24:56|Heart tenderness|
 |10|Venus|Servant|15:24:57|16:20:23|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|16:20:24|17:15:51|Attracting connection and suitors|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°15'5.35" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°49'33.48" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°34'16.12" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|28°15'5.30" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°49'33.14" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|3°34'16.11" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|8°1'36.31" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|13°6'37.18" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|13°6'37.16" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|12°23'35.96" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|0°59'2.66" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°59'2.92" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°15'5.35" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°49'33.48" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°34'16.12" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°15'5.30" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°49'33.14" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°34'16.11" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|8°1'36.31" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|13°6'37.18" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|13°6'37.16" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|12°23'35.96" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°59'2.66" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°59'2.92" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

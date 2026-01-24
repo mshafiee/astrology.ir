@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 10:46:53|Night duration: 13:12:49|
-|Every hour duration: 01:32:25|Every hour duration: 01:53:16|
+|Duration of the day: 10:46:53|Night duration: 13:12:48|
+|Every hour duration: 01:32:25|Every hour duration: 01:53:15|
 
  
  
@@ -276,12 +276,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|18:02:25|19:55:39|
-|Late evening|Moon|Servant|19:55:40|21:48:55|
-|Midnight|Saturn|Servant|21:48:56|23:42:10|
-|Late at night|Jupiter|Servant|23:42:11|01:35:26|
-|Rooster song|Mars|Servant|01:35:27|03:28:41|
-|False Dawn|Sun|Servant|03:28:42|05:21:57|
-|Dawn|Venus|Servant|05:21:58|07:15:13|
+|Late evening|Moon|Servant|19:55:40|21:48:54|
+|Midnight|Saturn|Servant|21:48:55|23:42:10|
+|Late at night|Jupiter|Servant|23:42:11|01:35:25|
+|Rooster song|Mars|Servant|01:35:26|03:28:41|
+|False Dawn|Sun|Servant|03:28:42|05:21:56|
+|Dawn|Venus|Servant|05:21:57|07:15:12|
 
 {{< /tab >}}
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|27°53'36.14" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°18'5.48" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|0°32'10.01" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|4°4'24.04" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|8°13'32.82" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|5°42'0.01" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|7°21'38.18" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|27°53'36.08" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|18°18'5.27" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|0°32'9.70" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|4°4'23.27" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|8°13'32.32" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|5°41'59.46" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°14'20.14" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
