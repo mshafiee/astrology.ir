@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:56:23 |
-| Sunrise | 07:05:48 |
+| Sunrise | 07:05:49 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:48:50 |
-| Sunrise | 07:05:48 |
+| Sunrise | 07:05:49 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:47:30 |
-| Sunrise | 07:05:48 |
+| Sunrise | 07:05:49 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:45:17 |
-| Sunrise | 07:05:48 |
+| Sunrise | 07:05:49 |
 | Dhuhr (Noon) | 12:38:28 |
 | Medium Coeli | 12:38:28 |
 | Sunset | 18:11:20 |
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:05:32|Night duration: 12:54:12|
-|Every hour duration: 01:35:05|Every hour duration: 01:50:36|
+|Duration of the day: 11:05:31|Night duration: 12:54:12|
+|Every hour duration: 01:35:04|Every hour duration: 01:50:36|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|07:05:48|08:40:51|
-|Mid-morning|Sun|Servant|08:40:52|10:15:56|
-|Late morning|Venus|Servant|10:15:57|11:51:00|
-|Noon|Mercury|Servant|11:51:01|13:26:05|
-|Early afternoon|Moon|Servant|13:26:06|15:01:09|
-|Mid-afternoon|Saturn|Servant|15:01:10|16:36:14|
+|Early morning|Mars|Ruler|07:05:49|08:40:52|
+|Mid-morning|Sun|Servant|08:40:53|10:15:56|
+|Late morning|Venus|Servant|10:15:57|11:51:01|
+|Noon|Mercury|Servant|11:51:02|13:26:05|
+|Early afternoon|Moon|Servant|13:26:06|15:01:10|
+|Mid-afternoon|Saturn|Servant|15:01:11|16:36:14|
 |Late afternoon|Jupiter|Servant|16:36:15|18:11:19|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°15'5.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°49'33.14" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|3°34'16.11" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|8°1'36.31" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|13°6'37.16" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|12°23'35.96" |Capricorn|SaadAlDhabib|Mars|
-|☾ Moon|Direct|0°59'2.92" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|28°15'5.35" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°49'34.81" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|3°34'13.01" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|8°1'28.59" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|13°6'32.22" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|12°23'29.96" |Capricorn|SaadAlDhabib|Mars|
+|☾ Moon|Direct|0°28'46.48" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°15'5.30" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°49'33.14" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°34'16.11" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°15'5.35" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°49'33.48" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°34'16.12" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|8°1'36.31" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|13°6'37.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|13°6'37.18" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|12°23'35.96" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°59'2.92" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°59'2.66" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

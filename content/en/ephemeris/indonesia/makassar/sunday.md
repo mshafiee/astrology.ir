@@ -53,12 +53,12 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:50:19 |
-| Sunrise | 06:03:33 |
+| Sunrise | 06:03:34 |
 | Dhuhr (Noon) | 12:14:29 |
 | Medium Coeli | 12:14:29 |
 | Sunset | 18:25:21 |
 | Maghrib | 18:41:54 |
-| Isha (Night) | 19:22:34 |
+| Isha (Night) | 19:22:33 |
 | Sharia Midnight | 23:38:03 |
 | Imum Coeli | 00:14:36 |
 {{< /tab >}}
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:49:01 |
-| Sunrise | 06:03:33 |
+| Sunrise | 06:03:34 |
 | Dhuhr (Noon) | 12:14:29 |
 | Medium Coeli | 12:14:29 |
 | Sunset | 18:25:21 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:49:01 |
-| Sunrise | 06:03:33 |
+| Sunrise | 06:03:34 |
 | Dhuhr (Noon) | 12:14:29 |
 | Medium Coeli | 12:14:29 |
 | Sunset | 18:25:21 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°3'40.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|18°4'21.32" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|1°58'34.41" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|5°57'3.40" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|10°32'42.02" |Capricorn|SaadAlDhabib|Mars|
-|☿ Mercury|Direct|8°51'36.76" |Capricorn|SaadAlDhabib|Jupiter|
-|☾ Moon|Direct|2°6'44.73" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|18°4'21.68" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|1°58'34.54" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|5°57'3.75" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|10°32'42.38" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|8°51'37.10" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|2°21'22.19" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°3'40.41" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|18°4'21.34" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°58'34.53" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|5°57'3.74" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|10°32'42.35" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|28°3'40.46" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|18°4'21.68" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°58'34.54" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|5°57'3.75" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°32'42.38" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|8°51'37.10" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|2°21'21.72" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|2°21'22.19" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
