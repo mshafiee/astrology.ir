@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°27'44.49" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°34'4.19" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°17'48.67" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|10°16'6.58" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°52'56.62" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|17°34'2.13" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°17'51.74" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|10°16'13.73" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|15°53'0.17" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|16°15'7.46" |Capricorn|SaadAlBula|Mars|
 |☾ Moon|Direct|3°45'51.05" |Gemini|HaqAh|Jupiter|
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°27'44.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°34'2.13" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°17'51.74" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°16'13.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°53'0.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°15'11.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°34'4.19" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°17'48.67" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°16'6.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°52'56.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°15'7.46" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|3°45'51.05" |Cancer|Nathrah|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:53:31 |
+| Fajr (Dawn) | 05:53:30 |
 | Sunrise | 08:04:16 |
 | Dhuhr (Noon) | 12:00:48 |
 | Medium Coeli | 12:00:48 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°22'40.84" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°40'9.12" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|4°36'42.57" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|9°22'43.67" |Capricorn|SaadAlDhabib|Jupiter|
-|♀ Venus|Direct|14°46'56.66" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|14°42'58.46" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|20°28'46.89" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Retrograde|17°40'8.25" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|4°36'44.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|9°22'48.23" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|14°46'59.67" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|14°43'2.21" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|20°42'29.03" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°22'40.84" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°40'9.12" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|4°36'42.57" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|9°22'43.67" |Aquarius|SaadAlAkhbia|Venus|
-|♀ Venus|Direct|14°46'56.66" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|28°22'40.80" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°40'8.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|4°36'42.56" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|9°22'43.66" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|14°46'56.64" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|14°42'58.46" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°28'46.89" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|20°28'47.95" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

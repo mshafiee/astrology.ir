@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°28'9.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°33'33.39" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°21'11.47" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|28°28'9.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°33'33.04" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°21'11.46" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|10°20'31.03" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°58'21.06" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°22'41.22" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|4°0'50.10" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°58'21.04" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°22'41.23" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|4°0'51.33" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°28'9.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°33'33.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°21'11.47" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°28'9.17" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°33'33.04" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°21'11.46" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°20'31.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°58'21.06" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°22'41.22" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°0'50.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°58'21.04" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°22'41.23" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|4°0'51.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Escopia, Escópia, SKP, Scopia, Scupi, Shkup, Shkupi, Skop'e, Skope, Skopeia, Skopia, Skopie, Skopiye, Skopje, Skopjo, Skopjė, Skople, Skoplie, Skoplje, Skopye, Szkopje, UEskuep, Uskub, Usküb, askwbyt, askwpyh, s ko peiy, sakopi'e, seukope, si ke pu li, skopje, skopye, skwbyh, sqwpyh, sukopie, Üsküp, Σκόπια, Скоп'е, Скоп'є, Скопе, Скопие, Скопье, Скопје, Скопље, Съкопиѥ, Սկոպյե, סקאפיע, סקופיה, إسكوبية, اسکوپیه, اسکوپیہ, سكوبيه, سكوپليې, سکوپ جے, स्कोप्ये, ਸਕੋਪੀਏ, ஸ்கோப்ஜே, สโกเปีย, སི་ཀོཔ་ཇི།, სკოპიე, ስኮፕዬ, スコピエ, 斯科普里, 스코페

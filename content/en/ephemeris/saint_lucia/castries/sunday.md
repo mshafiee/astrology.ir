@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:25:30 |
-| Sunrise | 06:32:05 |
+| Sunrise | 06:32:04 |
 | Dhuhr (Noon) | 12:16:21 |
 | Medium Coeli | 12:16:21 |
 | Sunset | 18:00:45 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:16:56 |
-| Sunrise | 06:32:05 |
+| Sunrise | 06:32:04 |
 | Dhuhr (Noon) | 12:16:21 |
 | Medium Coeli | 12:16:21 |
 | Sunset | 18:00:45 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:48 |
-| Sunrise | 06:32:05 |
+| Sunrise | 06:32:04 |
 | Dhuhr (Noon) | 12:16:21 |
 | Medium Coeli | 12:16:21 |
 | Sunset | 18:00:45 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:10:31 |
-| Sunrise | 06:32:05 |
+| Sunrise | 06:32:04 |
 | Dhuhr (Noon) | 12:16:21 |
 | Medium Coeli | 12:16:21 |
 | Sunset | 18:00:45 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:16:56 |
-| Sunrise | 06:32:05 |
+| Sunrise | 06:32:04 |
 | Dhuhr (Noon) | 12:16:21 |
 | Medium Coeli | 12:16:21 |
 | Sunset | 18:00:45 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:14:48 |
-| Sunrise | 06:32:05 |
+| Sunrise | 06:32:04 |
 | Dhuhr (Noon) | 12:16:21 |
 | Medium Coeli | 12:16:21 |
 | Sunset | 18:00:45 |
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|2°22'53.99" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|6°28'44.11" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|11°11'51.00" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|9°45'18.64" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|9°32'15.09" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|9°45'18.46" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|9°29'39.63" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

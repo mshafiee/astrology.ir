@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°27'58.22" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°33'45.79" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°19'42.84" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|10°18'37.97" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°55'58.47" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°19'21.39" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|3°10'0.13" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|17°33'45.95" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°19'42.77" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|10°18'37.91" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|15°55'58.58" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°19'21.52" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|3°19'11.08" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FIH, Kincasa, Kinchasa, Kinchassa, Kinsas, Kinsasa, Kinsaso, Kinshasa, Kinshase, Kinsjasa, Kinszasa, Kinsásá, Kinxasa, Kinŝaso, Kinşasa, Kinšas, Kinšasa, Kînşasa, Leopoldstad, Leopoldville, Léopoldville, Quinxassa, jin sha sa, jin xia sha, kin cha sa, kinasasa, kinsaca, kinsasa, kinshasa, kinsyasa, knshasa, kynshasa, Κινσάσα, Киншаса, Киншасе, Кіншаса, Կինշասա, קינשאזע, קינשאסה, كينشاسا, کنشاسا, کنشاسہ, کینشاسا, किन्शासा, কিনশাসা, ਕਿਨਸ਼ਾਸਾ, கின்ஷாசா, കിൻഷസ, กินชาซา, ཀིན་ཤ་ས།, ကင်ရှာဆာမြို့, კინშასა, ኪንሻሳ, キンシャサ, 金夏沙, 金沙薩, 킨샤사

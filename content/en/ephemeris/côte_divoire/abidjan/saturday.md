@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°34'9.98" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|17°26'30.14" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°9'34.00" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|11°23'19.40" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|17°15'57.56" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|18°11'29.66" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|18°32'58.36" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°9'33.98" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|11°23'19.33" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|17°15'57.50" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|18°11'29.58" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|18°32'42.83" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°34'9.98" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|17°26'30.14" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°9'34.00" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°23'14.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|17°15'55.02" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|18°11'26.44" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|19°2'1.25" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°9'33.98" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°23'19.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|17°15'57.50" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|18°11'29.58" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|18°32'42.83" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Mercury|Moon|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Mercury|Mars|Moon|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
