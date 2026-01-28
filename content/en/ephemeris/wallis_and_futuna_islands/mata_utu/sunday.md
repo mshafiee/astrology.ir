@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°42'48.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°16'46.57" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°18'7.62" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|28°42'47.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°16'46.22" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°18'7.61" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|12°52'5.31" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°5'53.21" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°46'16.61" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|11°8'51.69" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|19°5'53.19" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°46'16.60" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|11°8'51.75" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°42'48.42" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°16'43.42" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°18'14.20" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°42'48.38" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°16'43.07" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°18'14.19" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°52'21.38" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°6'2.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°46'28.94" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|9°24'40.20" |Leo|Zubrah|Saturn|
+|♀ Venus|Direct|19°6'2.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°46'28.93" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|9°24'40.28" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

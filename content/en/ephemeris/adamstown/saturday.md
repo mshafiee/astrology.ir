@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°41'58.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°17'38.79" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°11'40.78" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°43'51.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°55'32.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°31'39.81" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|7°26'43.57" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|17°17'41.67" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°11'35.56" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°43'39.13" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°55'25.36" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°31'30.87" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|8°48'59.35" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
+|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Adams Town, Adamstaun, Adamstaunas, Adamstauno, Adamstaŭno, Adamstown, Antamstaoun, adamusutaun, admztawn, admztwn  pytkrn ayslnd, aedeomseutaun, atamstavun, ya dang si dui, Άνταμσταουν, Адамстаун, Адамстаўн, אדמסטאון, آدمزتاون, ادمزتون، پیتکرن ایسلند, ایڈمز ٹاؤن، جزائر پٹکیرن, ॲडम्सटाउन, ஆடம்ஸ்டவுன், แอดัมส์ทาวน์, ადამსტაუნი, アダムスタウン, 亚当斯敦, 애덤스타운

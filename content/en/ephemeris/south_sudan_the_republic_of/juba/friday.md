@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|5°17'58.51" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|10°16'22.34" |Capricorn|SaadAlDhabib|Mars|
 |♀ Venus|Direct|15°53'11.06" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°15'27.21" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|2°40'5.91" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|16°15'23.69" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|2°40'22.23" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바

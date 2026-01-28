@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°28'7.94" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|17°33'34.26" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°21'1.44" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|10°20'19.93" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°58'4.63" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°22'15.58" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|4°11'34.44" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|5°20'59.82" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|10°20'15.90" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|15°58'2.25" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°22'14.93" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|3°52'5.01" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°28'7.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°33'33.91" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°21'1.43" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°20'19.93" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°58'4.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°22'17.92" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°35'11.39" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|28°28'7.94" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°33'34.68" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°20'59.82" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°20'15.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°58'2.23" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°22'14.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°52'6.24" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Salazar, San Tomas, San Tome, San Tomé, San Tomė, San-Tameh, San-Tome, Santo Tome, Santo Tomé, Santome, Sao Thome, Sao Tome, Sao Tomee, Sao Tomé, Sao-Tomeo, Soeo Tome, Svaety Tomas, Svätý Tomáš, Sào Thomé, São Tomé, Söo Tomé, TMS, Urbs Sancti Thomae, cavo tome, sa'o tome, sangtume, santome, savea team, saw twmy, saywtwmh, sea tu me, sheng duo mei, Σάο Τομέ, Сан-Тамэ, Сан-Томе, Сао Томе, Սան Տոմե, סאו טומה, ساؤ ٹومے, سائوتومه, ساو تومي, ساو تۆمێ, ساو ٹومے, साओ टोमे, সাও টোমে, ਸਾਓ ਤੋਮੇ, சாவோ தொமே, സാവോ ടോം, เซาตูเม, སའོ་ཊོ་མེ།, სან-ტომე, ሳን ቶሜ, サントメ, 圣多美, 聖多美, 상투메

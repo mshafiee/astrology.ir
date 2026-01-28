@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°39'33.03" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°20'21.69" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°52'28.19" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°18'57.66" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°24'45.04" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°48'16.06" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°36'58.13" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|17°20'25.43" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°52'21.47" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°18'41.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°24'36.02" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°48'4.64" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°23'47.82" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bakwanga, MJM, Mbuji-Mayi, Mbuy Mayi, Mbuzhi-Maji, Мбужи-Майи

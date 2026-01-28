@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'54.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°18'49.78" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°3'15.48" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°32'49.61" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°41'58.99" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°12'33.57" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|5°46'3.78" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|28°40'54.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°18'50.13" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°3'15.49" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°32'47.77" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°41'58.01" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°12'32.33" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|5°59'0.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'54.68" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°18'49.78" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°3'15.48" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°40'54.72" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°18'50.13" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°3'15.49" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°32'56.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°41'58.99" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°12'33.57" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|5°46'4.03" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°42'2.65" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°12'38.21" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|4°55'52.20" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:09:12 |
-| Sunrise | 06:29:11 |
+| Sunrise | 06:29:10 |
 | Dhuhr (Noon) | 12:19:30 |
 | Medium Coeli | 12:19:30 |
 | Sunset | 18:09:55 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:13:25 |
-| Sunrise | 06:29:11 |
+| Sunrise | 06:29:10 |
 | Dhuhr (Noon) | 12:19:30 |
 | Medium Coeli | 12:19:30 |
 | Sunset | 18:09:55 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Retrograde|17°18'41.81" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|7°4'14.43" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|12°34'12.65" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°43'32.99" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°14'46.19" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|6°14'8.10" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°43'37.09" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°14'51.35" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|5°17'12.78" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Saturn|Mercury|Jupiter|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

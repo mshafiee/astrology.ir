@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|12°54'57.31" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|19°9'15.93" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|20°51'1.36" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|10°35'57.25" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|10°3'45.07" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'3.65" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°16'26.19" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°20'14.68" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°43'3.69" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°16'26.54" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°20'14.69" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°54'57.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°9'15.91" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°9'15.93" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|20°51'1.36" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|10°3'45.13" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°3'45.07" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Juzhnaja Tarava, South Tarawa, Sued-Tarawa, Süd-Tarawa, TRW, Tarawa, Tarawa Sud, Tarawa do Sul, Tarawa-Sud, Zuid-Tarawa, namtalawa, sauseutalawa, talawa, Южная Тарава, דרום טאראווה, 남타라와, 사우스타라와, 타라와

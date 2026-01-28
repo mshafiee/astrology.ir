@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°39'58.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°19'53.30" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°55'50.56" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°23'17.27" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°30'9.08" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|19°55'53.00" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|3°4'30.76" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|17°19'52.68" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°55'52.69" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°23'22.80" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°30'12.84" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|19°55'57.87" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|2°38'19.73" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°39'58.78" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'52.34" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°55'52.68" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°23'17.27" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°30'9.08" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°55'53.01" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°4'30.41" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°39'58.82" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°19'52.68" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°55'52.69" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°23'22.80" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°30'12.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°55'57.87" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°38'19.73" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Ceymstaun, Dzeimstauna, Dzeimstaunas, Dzejmstaun, Dzhehjmstaun, Dzhejmstaun, Džeimstauna, Džeimstaunas, HLE, Iacobopolis, Jamestauno, Jamestown, Tzeimstaoun, Zhejmstaun, cems thawn, jeimseutaun, jemsata'una, jemstavun, jemuzutaun, jyms tawn, jymz ٹawn  synٹ ہlyna, jymztawn  synt hlyna, zhan mu si dui, Ĵamestaŭno, Τζέιμσταουν, Џејмстаун, Джеймстаун, Джэймстаўн, Жеймстаун, גיימסטאון, דזשיימסטאן, جيمس تاون, جیمز ٹاون، سینٹ ہلینا, جیمزتاون، سینت هلینا, جیمزٹاؤن, جەیمستاون, जेम्सटाउन, ஜேம்ஸ்டவுன், เจมส์ทาวน์, ჯეიმზტაუნი, ジェームズタウン, 詹姆斯敦, 제임스타운

@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|17°19'28.88" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|6°58'39.35" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°26'58.21" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°34'37.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°2'11.12" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°13'21.78" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°34'40.05" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°2'14.49" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|3°37'39.33" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

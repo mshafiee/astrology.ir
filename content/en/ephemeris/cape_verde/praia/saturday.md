@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°40'25.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'23.13" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°59'26.77" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°27'59.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°35'56.77" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°4'2.70" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°7'43.65" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|17°19'22.43" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°59'27.46" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°27'57.20" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°35'54.69" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°3'59.93" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|4°5'40.19" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아

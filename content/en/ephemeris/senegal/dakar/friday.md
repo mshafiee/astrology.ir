@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°28'35.78" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°33'1.35" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°24'46.42" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|28°28'35.73" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°33'1.00" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°24'46.41" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|10°25'11.56" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|16°4'5.76" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|16°4'5.75" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|16°30'43.39" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|4°49'34.63" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|4°49'35.84" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°28'35.73" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°33'1.00" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°24'46.41" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°28'35.78" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°33'1.35" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°24'46.42" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°25'11.56" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°4'5.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°30'43.39" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°49'35.84" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°4'3.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°30'40.17" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°41'11.84" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Leo|Moon|Mars|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

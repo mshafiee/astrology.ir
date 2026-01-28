@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°39'42.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°20'10.82" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°53'42.27" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|28°39'42.37" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°20'11.17" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°53'42.28" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|12°20'33.73" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°26'43.78" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|18°26'43.80" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|19°51'3.36" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|1°59'5.58" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°59'5.21" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°39'42.33" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°20'10.82" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°53'42.27" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°39'42.37" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°20'11.17" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°53'42.28" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°20'33.73" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°26'43.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°26'43.80" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|19°51'3.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°59'5.58" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°59'5.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: LAD, Loanda, Louanda, Louanta, Luand, Luanda, Luandae, Luando, Lwanda, Lúanda, Saint Paul de Loanda, Sao Paolo de Loanda, Sao Paulo da Assuncao de Luanda, Sao Paulo de Loanda, Sao Paulo de Luanda, St Paul de Loanda, São Paolo de Loanda, São Paulo da Assunção de Luanda, São Paulo de Loanda, São Paulo de Luanda, lu'anda, luanda, luo an da, luvanta, luxanda, luyanda, lwanda, ruanda, Λουάντα, Луандæ, Луанда, Լուանդա, לואנדה, לואנדע, لوآندا, لواندا, لونڈا, लुआंडा, लुआण्डा, লুয়ান্ডা, ਲੁਆਂਦਾ, லுவாண்டா, ลูอันดา, ལའུན་ཌ།, ლუანდა, ሏንዳ, ルアンダ, 罗安达, 루안다

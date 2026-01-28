@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°39'57.93" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|17°19'54.10" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°55'44.77" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°23'8.90" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°30'0.38" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|19°55'40.89" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|3°22'10.19" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°55'45.63" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°23'11.18" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°30'1.95" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|19°55'42.94" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|3°11'46.62" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Mercury|Leo|Sun|Venus|
-|☾ Moon|Moon|Sun|Leo|Moon|Moon|
+|☾ Moon|Moon|Moon|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°39'57.97" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|28°39'57.93" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|17°19'54.10" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|6°55'45.63" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°23'11.18" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°30'1.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°55'42.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°11'46.62" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°30'0.38" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°55'40.89" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°22'10.19" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BUD, Boedapes, Boedapest, Boudapes, Boudapeste, Boudapès, Budaipeist, Budapescht, Budapeshha, Budapesht, Budapesht osh, Budapest, Budapesta, Budapestas, Budapeste, Budapesti, Budapestinum, Budapesto, Budapeszt, Budapeŝto, Budapeşt, Budapeşte, Budapešt, Budapešta, Budapeštas, Budapešť, Budapèst, Budapésht, Budimpeshta, Budimpesta, Budimpešta, Bùdapest, Bùdapeszt, Búdaipeist, Búdapest, bu da pei si, budapaisata, budapeseuteu, budapesrr, budapest, budapesta, budapesuto, bwdabst, bwdabyst, bwdapst, bwdpst, putapest, Βουδαπέστη, Будапешт, Будапешт ош, Будапеща, Будимпешта, Բուդապեշտ, בודאפעשט, בודפשט, بودابست, بودابيست, بوداپست, بوداپێست, بوډاپسټ, बुडापेस्ट, बुदापेस्त, বুদাপেস্ট, ਬੁਦਾਪੈਸਤ, બુડાપેસ્ટ, ବୁଦାପେଷ୍ଟ, புடாபெஸ்ட், ಬುಡಾಪೆಸ್ಟ್, ബുഡാപെസ്റ്റ്, บูดาเปสต์, བུ་ད་ཕེ་སིད།, ဗူးဒပက်မြို့, ბუდაპეშტი, ቡዳፔስት, ブダペスト, 布达佩斯, 부다페스트

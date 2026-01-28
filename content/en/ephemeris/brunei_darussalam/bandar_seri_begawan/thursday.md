@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°26'24.80" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|28°26'24.84" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|17°35'37.29" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|5°7'6.38" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|10°2'15.62" |Capricorn|SaadAlDhabib|Mars|

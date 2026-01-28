@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°40'20.79" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°19'28.27" |Gemini|Dhira|Mars|
+|♃ Jupiter|Retrograde|17°19'28.62" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|6°58'46.57" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°27'6.30" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°34'51.85" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°2'31.32" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|3°58'4.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°27'6.31" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°34'51.87" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°2'31.33" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|3°58'4.54" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'20.75" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'28.27" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|28°40'20.79" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°19'28.62" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|6°58'46.57" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°27'6.30" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°34'51.85" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°2'31.32" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|3°58'4.85" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°27'6.31" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°34'51.87" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°2'31.33" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|3°58'4.54" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Felicitas Julia, Felicitas Julia Olissipo, LIS, Liospoin, Liospóin, Lisabon, Lisabona, Lisboa, Lisbon, Lisbona, Lisbonne, Lisbono, Lisbonum, Lisimba, Lisimbã, Lissabon, Lisszabon, Lizboa, Lizbon, Lizbona, Olisipo, Olissipo, li si ben, lisabana, lisaboni, lisbana, lisbxn, liseubon, lshbwnt, lysabwn, lysbwn, risubon, Λισαβώνα, Лисабон, Лиссабон, Лісабон, Լիսբոնա, ליסבון, لشبونة, لىسابون, لیسبون, ܠܫܒܘܢܐ, लिस्बन, লিসবন, ลิสบอน, ལ་ས་བན།, ལི་སི་བཱོན།, ლისაბონი, ሊዝቦን, リスボン, 里斯本, 리스본
