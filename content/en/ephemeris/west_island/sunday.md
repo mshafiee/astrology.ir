@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°44'15.22" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°15'7.55" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°29'38.45" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|13°7'7.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°24'19.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°12'15.90" |Aquarius|SaadAlAkhbia|Moon|
+|♄ Saturn|Direct|28°44'15.26" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°15'10.66" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°29'32.84" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|13°6'54.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°24'12.28" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|21°12'7.19" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|12°50'46.65" |Leo|Zubrah|Jupiter|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: weseuteu seom, 웨스트 섬

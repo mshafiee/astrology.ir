@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°39'51.60" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°20'0.83" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|28°39'51.55" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°20'0.48" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|6°54'55.42" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|12°22'8.40" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°28'41.06" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|18°28'41.04" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|19°53'48.58" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|2°23'18.70" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°23'19.06" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°39'51.60" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°20'0.83" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|28°39'51.55" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°20'0.48" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|6°54'55.42" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°22'8.40" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°28'41.06" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°53'48.58" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°23'18.70" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°28'39.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°53'46.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°53'27.74" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}

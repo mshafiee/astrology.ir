@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°29'17.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°32'11.65" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|28°29'17.70" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°32'11.31" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|5°30'25.36" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|10°32'31.55" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|16°13'9.69" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|16°13'9.67" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|16°43'24.90" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|6°33'44.53" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|6°33'45.73" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°29'17.75" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°32'11.65" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|28°29'17.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°32'11.31" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|5°30'25.36" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°32'31.55" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°13'9.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|16°13'9.67" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|16°43'24.90" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°33'44.53" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|6°33'45.73" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Castries, Kastri, Kastrijs, Kastris, Kastrizo, Kastry, Kastrys, Port Castries, ka si te li, kaeseuteuliseu, kasatarisa, kastris, kastrys, kasutorizu, kestrijha, qstryz, Κάστρις, Кастри, Кастрийс, Кастрис, Кастры, Кастрі, קסטריז, كاستريس, کاستریس, कॅस्ट्रीझ, ਕਾਸਤਰੀਸ, காஸ்ட்ரீஸ், แคสตรีส์, ཁ་སི་ཐྲིས།, კასტრი, ካስትሪስ, カストリーズ, 卡斯特里, 캐스트리스

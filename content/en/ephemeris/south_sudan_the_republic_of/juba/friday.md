@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°27'45.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°34'1.18" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|28°27'45.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°34'0.83" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|5°17'58.51" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|10°16'22.34" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°53'11.06" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°15'23.69" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|2°40'22.23" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°53'11.04" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°15'27.21" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|2°40'7.14" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°27'45.33" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°34'1.18" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|28°27'45.28" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°34'0.83" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|5°17'58.51" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°16'22.34" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°53'11.06" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°15'27.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°40'5.91" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|10°16'22.72" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°53'11.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°15'27.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°41'47.46" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Djouba, Dschuba, Dzhuba, Goba, JUB, Juba, Uula, g'wbh, juba, jwba, Джуба, ג'ובה, جوبا, 주바

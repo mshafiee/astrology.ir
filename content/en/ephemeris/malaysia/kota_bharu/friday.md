@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°32'26.49" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°28'30.16" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°55'44.56" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°5'23.33" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°53'47.11" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|17°40'21.73" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|14°18'18.29" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|17°28'30.69" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°55'42.91" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°5'19.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|16°53'44.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|17°40'18.08" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|14°20'44.40" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bharu, KBR, Khota Baharu, Khota Bahru, Ko-ta-hap-lu-su, Kota Baharu, Kota Bahru, Kota Baru, Kota Bharu, Kota-Baru, Kô-tá-ha̍p-lû-sṳ, ge da ba lu, kotabalu, kotabaru, kwta bharw, Кота Бару, Кота-Бару, كوتا بهارو, โกตาบารู, コタバル, 哥打巴鲁, 코타바루

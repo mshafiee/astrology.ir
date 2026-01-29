@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°42'54.52" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°16'36.66" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°19'2.36" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°53'23.76" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°7'20.01" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°48'17.82" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|9°39'37.85" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|28°42'54.48" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°16'36.31" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°19'2.35" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°53'23.75" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°7'19.99" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°48'17.81" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|9°39'37.92" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°42'54.52" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°16'36.66" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°19'2.36" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°53'23.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°7'20.01" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°48'17.82" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|9°39'37.85" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|28°42'54.48" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°16'36.31" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°19'2.35" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°53'23.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°7'13.48" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°48'9.56" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|11°4'32.37" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Moon|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티
