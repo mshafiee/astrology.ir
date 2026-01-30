@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°27'47.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|17°33'58.41" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°18'15.49" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|10°16'40.90" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°53'38.17" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°16'5.89" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|2°48'6.78" |Gemini|HaqAh|Jupiter|
+|♂ Mars|Direct|5°18'18.09" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|10°16'47.40" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|15°53'42.54" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°16'11.30" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|2°50'16.70" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

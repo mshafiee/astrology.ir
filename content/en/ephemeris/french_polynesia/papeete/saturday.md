@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°42'20.61" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°17'14.28" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°14'34.65" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°47'36.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°0'11.01" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°38'12.71" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|10°11'22.15" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|17°17'18.29" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°14'27.60" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°47'20.15" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°0'1.73" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°38'0.93" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|10°11'22.05" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: PPT, Pape'ete, Papeehte, Papeehteh, Papeete, Papeetė, Papeiti, Papete, Pape’ete, Papiete, Papiti, Vaiete, babyty, pa pe xe te, pa pi ti, papeete, papete, papiti, papyth, Παπεέτε, Папеете, Папете, Папеэте, Папеэтэ, Պապեետե, بابيتي, پاپیته, پاپیٹی, पापीती, ปาเปเอเต, პაპეეტე, パペーテ, 帕皮提, 파페에테

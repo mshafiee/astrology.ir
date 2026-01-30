@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°41'4.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°18'40.16" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°4'32.58" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°34'33.55" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°44'7.22" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°15'34.28" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|6°7'18.19" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|17°18'38.99" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°4'34.91" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°34'38.97" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°44'9.96" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°15'37.71" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|5°26'45.16" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Saturn|Mercury|Jupiter|
-|☾ Moon|Mars|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Mars|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°41'4.72" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°18'38.64" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°4'34.90" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°34'38.96" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°44'9.94" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|28°41'4.76" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°18'38.99" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°4'34.91" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°34'38.97" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°44'9.96" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|20°15'37.71" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|5°26'45.39" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|5°26'45.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Plimouth, Plimut, Plimutas, Plimuto, Plymouth, Plymouth pa Montserrat, Plymouth på Montserrat, blymwth, peullimeoseu, phli math, plymwt, pu li mao si, purimasu, Πλίμουθ, Плимут, Плимът, Плімут, פלימות, بليموث, پلایماؤت، مانٹسریٹ, پلی‌موث، مونتسرات, พลิมัท, პლიმუთი, プリマス, 普利茅斯, 플리머스

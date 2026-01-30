@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|17°18'22.08" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|7°6'32.31" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°37'11.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°47'18.12" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°20'3.00" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|6°3'8.61" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°47'13.16" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°19'56.70" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|7°8'23.27" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴

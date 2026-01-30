@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°27'13.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°34'38.22" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°13'44.34" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|28°27'13.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°34'38.56" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°13'44.35" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|10°10'52.60" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°46'19.67" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°5'52.32" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|1°23'43.78" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|15°46'23.10" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°5'56.61" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|1°19'7.30" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°27'13.89" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°34'38.22" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°13'44.34" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°27'13.94" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°34'38.56" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°13'44.35" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|10°10'52.60" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°46'23.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°46'23.10" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|16°5'56.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°19'8.52" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°19'7.30" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: RUN, Saint-Denis, Saint-Denis (Reunion), Saint-Denis (Réunion), Saint-Denis de la Reunion, Saint-Denis de la Réunion, Sen-Deni, St. Denis, saengdeuni, snt dnys, Сен-Дени, סנט דניס, サン・ドゥニ, 생드니

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°39'48.01" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°20'5.06" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°54'26.76" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|17°20'5.41" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°54'26.77" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°21'29.59" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°27'55.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°52'44.53" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°38'22.02" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°27'55.42" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°52'44.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°38'21.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ATH, Afina, Afini, Afiny, An Aithin, Ateena, Atehny, Aten, Atena, Atenai, Atenas, Atenas - Athena, Atenas - Αθήνα, Atene, Atenes, Ateni, Ateno, Atenoj, Ateny, Athen, Athena, Athenae, Athenai, Athene, Athenes, Athens, Atheny, Athina, Athinai, Athinia, Athènes, Athén, Athénes, Athény, Athína, Athínai, Atina, Atény, Atēnas, Atėnai, Aþena, Kota Athena, Lungsod ng Athina, Lungsod ng Athína, atene, atene si, ateni, athensa, athyna, atn, etens, xethens, ya dian, Αθήνα, Αθήναι, Αθηνα, Αθηναι, Атина, Атэны, Афины, Афіни, Аѳины, Աթենք, אתונה, آتن, أثينا, ئافېنا, ܐܬܝܢܐ, अथेन्स, ஏதென்ஸ், เอเธนส์, ათენი, Ἀθῆναι, アテネ, 雅典, 아테네, 아테네 시
