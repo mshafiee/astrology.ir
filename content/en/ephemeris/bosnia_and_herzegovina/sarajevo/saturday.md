@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 09:50:54|Night duration: 14:08:00|
-|Every hour of day duration: 00:49:14|Every hour of night duration: 01:10:40|
+|Every hour of day duration: 00:49:15|Every hour of night duration: 01:10:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°34'3.01" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°26'38.45" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°8'38.28" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|11°22'5.20" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|17°14'28.52" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|28°34'3.05" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°26'38.80" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°8'38.29" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|11°22'5.21" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|17°14'28.54" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|18°9'24.94" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|18°41'50.43" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|18°41'49.51" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°34'3.01" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°26'38.45" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°8'38.28" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|11°22'5.20" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|17°14'28.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|28°34'3.05" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°26'38.80" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°8'38.29" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|11°22'5.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|17°14'28.54" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|18°9'24.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|18°41'50.43" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|18°41'49.51" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

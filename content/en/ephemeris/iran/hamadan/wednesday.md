@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°57'22.62" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|28°57'22.60" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|17°1'8.64" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|9°11'56.89" |Aquarius|SaadAlAkhbia|Venus|
 |☉ Sun|Direct|15°19'32.57" |Aquarius|SaadAlAkhbia|Mercury|

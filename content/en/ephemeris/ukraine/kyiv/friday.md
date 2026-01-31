@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°28'5.93" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°33'37.52" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°20'44.76" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°19'55.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°57'38.31" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°21'41.53" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°59'49.40" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|17°33'37.60" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°20'44.67" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°19'55.57" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°57'38.25" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°21'41.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|4°3'3.80" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프

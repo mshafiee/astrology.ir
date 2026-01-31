@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°40'19.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°19'29.23" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°58'39.36" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°26'58.22" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°34'40.07" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°2'14.50" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|17°19'30.46" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°58'37.26" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°26'53.24" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°34'37.40" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°2'11.12" |Capricorn|SaadAlBula|Sun|
 |☾ Moon|Direct|3°37'39.02" |Cancer|Nathrah|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°40'19.86" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'30.46" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°58'37.26" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°26'53.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°34'37.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°2'11.12" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°13'21.78" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|17°19'29.23" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°58'39.36" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°26'58.22" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°34'40.07" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°2'14.50" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|3°37'39.02" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

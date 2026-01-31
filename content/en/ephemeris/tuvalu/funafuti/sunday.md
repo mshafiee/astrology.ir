@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|7°19'2.36" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|12°53'23.76" |Capricorn|SaadAlBula|Mars|
 |♀ Venus|Direct|19°7'20.01" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°48'17.82" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|9°39'37.85" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°48'5.58" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|11°24'28.14" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Saturn|Venus|Mars|
 |☿ Mercury|Venus|Saturn|Mercury|Jupiter|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Venus|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°42'54.52" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°16'39.85" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°18'57.11" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°53'11.42" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°7'13.48" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°48'9.56" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|11°4'32.37" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|17°16'39.94" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°18'55.72" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°53'7.65" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°7'10.45" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°48'5.58" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|11°24'28.14" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°39'58.78" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'56.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°55'46.72" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°23'8.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°30'5.37" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°55'48.44" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°17'45.84" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|17°19'52.79" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°55'52.38" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°23'22.08" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°30'12.38" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°55'57.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°42'42.41" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

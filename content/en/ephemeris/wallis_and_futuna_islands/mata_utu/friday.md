@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°30'59.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°30'13.17" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°44'11.21" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|10°50'16.43" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|16°35'15.72" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|17°14'24.22" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|11°59'0.24" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|28°31'1.04" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°30'9.92" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°44'17.81" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|10°50'32.52" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|16°35'25.33" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|17°14'36.30" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|10°43'9.26" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°31'1.04" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°30'9.92" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°44'17.81" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°50'32.52" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|16°35'25.33" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|17°14'36.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°43'9.26" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Retrograde|17°30'12.82" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°44'11.20" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°50'16.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|16°35'15.70" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|17°14'24.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°59'1.40" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

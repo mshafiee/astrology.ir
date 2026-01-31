@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°27'4.59" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°34'50.32" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|5°12'28.00" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|10°9'12.74" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|15°44'21.11" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|16°3'6.10" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|1°24'8.01" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|17°34'49.75" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|5°12'28.61" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|10°9'14.03" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|15°44'21.54" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|16°3'6.66" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|1°24'9.22" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°27'4.59" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°34'49.75" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°12'28.61" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|10°9'14.03" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|15°44'21.54" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|16°3'6.66" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°58'15.94" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|28°27'4.54" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°34'50.32" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°12'28.00" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|10°9'12.74" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|15°44'21.11" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°3'6.10" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|1°24'9.22" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MLE, Maale, Male, Malé, Malė, ma lei, ma lu, male, malle, mare, Μαλέ, Мале, מאלה, މާލެ, माले, মালে, மாலே, มาเล, มาเล่, マレ, 瑪律, 馬累, 말레
