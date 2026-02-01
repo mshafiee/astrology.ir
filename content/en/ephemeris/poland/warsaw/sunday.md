@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°39'59.54" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'52.81" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°55'58.02" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°23'26.87" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°30'21.87" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°56'11.04" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°20'39.95" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Retrograde|17°19'52.20" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°55'57.61" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°23'25.64" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°30'20.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°56'9.24" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°17'13.37" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Barsobia, Varsa, Varsava, Varsavia, Varsavja, Varshava, Varshavae, Varsja, Varsjá, Varso, Varsova, Varsovia, Varsovia - Warszawa, Varsovie, Varsovio, Varssavi, Varsuva, Varsòvia, Varsó, Varsóvia, Varşova, Varšava, Varšuva, Varșovia, Vársá, WAW, Warsaw, Warsawa, Warschau, Warskou, Warszaw, Warszawa, Waršawa, baleusyaba, hua sha, varshava, vorso, warsw, warushawa, wrsh, wrshw, wrsw, wxrsx, Βαρσοβία, Варшавæ, Варшава, Վարշավա, ווארשע, ורשה, װאַרשע, وارسو, ورشو, ۋارشاۋا, ܘܪܣܘ, वॉर्सो, วอร์ซอ, ვარშავა, ዋርሶው, ワルシャワ, 华沙, 華沙, 바르샤바

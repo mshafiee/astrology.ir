@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°40'1.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°19'50.12" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°56'10.37" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°23'43.07" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°30'40.83" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|19°56'37.74" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|3°9'18.83" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Retrograde|17°19'50.77" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°56'10.65" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°23'43.99" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°30'41.98" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|19°56'39.25" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|3°13'42.13" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'1.07" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'50.47" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°56'10.38" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°23'43.07" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°30'40.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°56'37.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°9'18.48" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°40'1.12" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°19'50.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°56'10.65" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°23'43.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°30'41.98" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°56'39.25" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°13'42.13" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

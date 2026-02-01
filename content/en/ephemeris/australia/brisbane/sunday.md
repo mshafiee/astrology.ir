@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:20:03 |
 | Dhuhr (Noon) | 12:01:22 |
 | Medium Coeli | 12:01:22 |
-| Sunset | 18:42:18 |
+| Sunset | 18:42:19 |
 | Maghrib | 18:43:23 |
 | Isha (Night) | 20:03:52 |
 | Sharia Midnight | 23:18:10 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:20:03 |
 | Dhuhr (Noon) | 12:01:22 |
 | Medium Coeli | 12:01:22 |
-| Sunset | 18:42:18 |
+| Sunset | 18:42:19 |
 | Maghrib | 18:43:23 |
 | Isha (Night) | 20:09:07 |
 | Sharia Midnight | 23:18:10 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:22:16|Night duration: 10:38:32|
+|Duration of the day: 13:22:15|Night duration: 10:38:33|
 |Every hour of day duration: 01:06:51|Every hour of night duration: 00:53:13|
 
  
@@ -218,30 +218,30 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|05:20:03|06:26:53|Love and attraction of capital|
 |2|Venus|Servant|06:26:54|07:33:44|Unfortunate, no task is suitable|
-|3|Mercury|Servant|07:33:45|08:40:36|Operations of tenderness and attraction of love|
-|4|Moon|Servant|08:40:37|09:47:27|Unfortunate and repelling goodness|
+|3|Mercury|Servant|07:33:45|08:40:35|Operations of tenderness and attraction of love|
+|4|Moon|Servant|08:40:36|09:47:27|Unfortunate and repelling goodness|
 |5|Saturn|Servant|09:47:28|10:54:18|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|10:54:19|12:01:10|Suitable for all good deeds|
-|7|Mars|Servant|12:01:11|13:08:01|No task is suitable, causes misfortune|
-|8|Sun|Ruler|13:08:02|14:14:52|Extremely auspicious and attracts happiness|
-|9|Venus|Servant|14:14:53|15:21:44|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Mercury|Servant|15:21:45|16:28:35|Attracting happiness, solving financial problems|
-|11|Moon|Servant|16:28:36|17:35:26|Performing promises|
-|12|Saturn|Servant|17:35:27|18:42:18|Finding the fugitive and discovering the thief|
+|6|Jupiter|Servant|10:54:19|12:01:09|Suitable for all good deeds|
+|7|Mars|Servant|12:01:10|13:08:00|No task is suitable, causes misfortune|
+|8|Sun|Ruler|13:08:01|14:14:52|Extremely auspicious and attracts happiness|
+|9|Venus|Servant|14:14:53|15:21:43|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Mercury|Servant|15:21:44|16:28:34|Attracting happiness, solving financial problems|
+|11|Moon|Servant|16:28:35|17:35:25|Performing promises|
+|12|Saturn|Servant|17:35:26|18:42:17|Finding the fugitive and discovering the thief|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|18:42:19|19:35:30|Love and attraction of capital|
-|2|Mars|Servant|19:35:31|20:28:43|Unfortunate, no task is suitable|
-|3|Sun|Servant|20:28:44|21:21:56|Operations of tenderness and attraction of love|
-|4|Venus|Servant|21:21:57|22:15:08|Unfortunate and repelling goodness|
-|5|Mercury|Servant|22:15:09|23:08:21|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:08:22|00:01:34|Suitable for all good deeds|
-|7|Saturn|Servant|00:01:35|00:54:46|No task is suitable, causes misfortune|
+|1|Jupiter|Ruler|18:42:18|19:35:29|Love and attraction of capital|
+|2|Mars|Servant|19:35:30|20:28:42|Unfortunate, no task is suitable|
+|3|Sun|Servant|20:28:43|21:21:55|Operations of tenderness and attraction of love|
+|4|Venus|Servant|21:21:56|22:15:08|Unfortunate and repelling goodness|
+|5|Mercury|Servant|22:15:09|23:08:20|Separation, vengeful and hostile deeds|
+|6|Moon|Servant|23:08:21|00:01:33|Suitable for all good deeds|
+|7|Saturn|Servant|00:01:34|00:54:46|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|00:54:47|01:47:59|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|01:48:00|02:41:12|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|02:41:13|03:34:24|Attracting happiness, solving financial problems|
+|9|Mars|Servant|01:48:00|02:41:11|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|02:41:12|03:34:24|Attracting happiness, solving financial problems|
 |11|Venus|Servant|03:34:25|04:27:37|Performing promises|
 |12|Mercury|Servant|04:27:38|05:20:50|Finding the fugitive and discovering the thief|
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:22:16|Night duration: 10:38:32|
-|Every hour duration: 01:54:37|Every hour duration: 01:31:13|
+|Duration of the day: 13:22:15|Night duration: 10:38:33|
+|Every hour duration: 01:54:36|Every hour duration: 01:31:13|
 
  
  
@@ -265,20 +265,20 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Sun|Ruler|05:20:03|07:14:38|
-|Mid-morning|Venus|Servant|07:14:39|09:09:15|
-|Late morning|Mercury|Servant|09:09:16|11:03:51|
-|Noon|Moon|Servant|11:03:52|12:58:28|
-|Early afternoon|Saturn|Servant|12:58:29|14:53:04|
-|Mid-afternoon|Jupiter|Servant|14:53:05|16:47:41|
-|Late afternoon|Mars|Servant|16:47:42|18:42:18|
+|Mid-morning|Venus|Servant|07:14:39|09:09:14|
+|Late morning|Mercury|Servant|09:09:15|11:03:51|
+|Noon|Moon|Servant|11:03:52|12:58:27|
+|Early afternoon|Saturn|Servant|12:58:28|14:53:04|
+|Mid-afternoon|Jupiter|Servant|14:53:05|16:47:40|
+|Late afternoon|Mars|Servant|16:47:41|18:42:17|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Jupiter|Ruler|18:42:19|20:13:31|
-|Late evening|Mars|Servant|20:13:32|21:44:44|
-|Midnight|Sun|Servant|21:44:45|23:15:57|
-|Late at night|Venus|Servant|23:15:58|00:47:10|
+|Evening|Jupiter|Ruler|18:42:18|20:13:30|
+|Late evening|Mars|Servant|20:13:31|21:44:43|
+|Midnight|Sun|Servant|21:44:44|23:15:56|
+|Late at night|Venus|Servant|23:15:57|00:47:10|
 |Rooster song|Mercury|Servant|00:47:11|02:18:23|
 |False Dawn|Moon|Servant|02:18:24|03:49:36|
 |Dawn|Saturn|Servant|03:49:37|05:20:50|

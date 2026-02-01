@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'35.05" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°19'11.65" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°0'40.13" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°29'35.28" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°37'53.56" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°6'47.12" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|4°6'57.47" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|28°40'35.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°19'12.00" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°0'40.14" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°29'35.29" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°37'53.58" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°6'47.13" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|4°6'57.19" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'35.05" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'11.65" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°0'40.13" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°29'35.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°37'53.56" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°6'47.12" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°6'57.47" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°40'35.10" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°19'12.00" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°0'40.14" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°29'35.29" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°37'53.58" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°6'47.13" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|4°6'57.19" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Ceara, Ceará, FOR, Fartaleza, Fortalaetia, Fortaleza, Fortaleza Nova de Braganca, Fortaleza Nova de Bragança, Fortaleza de Nova Braganca, Fortaleza de Nova Bragança, Fortalezae, Fortalezo, f xr tale sa, forutareza, fu ta lei sa, fwrtalyza, fwrtalza, phartalija, phortaleja, phortalejha, poleutalleja, pwrtlzh, Φορταλέζα, Фарталеза, Форталезæ, Форталеза, פורטלזה, فورتالزا, فورتاليزا, फोर्तालेझा, ফর্তালিজা, ফোর্টালেজা, ฟอร์ตาเลซา, ფორტალეზა, フォルタレザ, 福塔雷萨, 福塔雷薩, 포르탈레자

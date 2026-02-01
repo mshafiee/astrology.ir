@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|28°40'38.51" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|17°19'8.20" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|7°1'7.19" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°30'2.58" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°38'32.83" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°7'43.04" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|5°11'9.92" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|12°30'10.39" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°38'36.96" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°7'48.28" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|4°14'51.70" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Venus|
-|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°40'38.51" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'8.20" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°1'7.19" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°30'10.39" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°38'36.96" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|17°19'7.86" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°1'7.18" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°30'10.38" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°38'36.95" |Aquarius|SaadAlAkhbia|Mercury|
 |☿ Mercury|Direct|20°7'48.28" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°14'51.70" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°14'51.98" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰

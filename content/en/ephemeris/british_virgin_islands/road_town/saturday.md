@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°41'7.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|28°41'7.65" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|17°18'35.38" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|7°4'58.09" |Capricorn|SaadAlDhabib|Jupiter|
 |☉ Sun|Direct|12°35'8.95" |Capricorn|SaadAlDhabib|Mars|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°41'7.65" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|17°18'35.38" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°4'58.09" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°35'8.95" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°44'47.12" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°16'30.82" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|5°36'19.65" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|7°4'54.84" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°35'1.50" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°44'43.47" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°16'25.56" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|6°31'16.66" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Moon|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

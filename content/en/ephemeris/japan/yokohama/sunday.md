@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'48.37" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°15'37.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°26'7.15" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|13°2'32.50" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°18'40.94" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|21°4'18.79" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|12°11'20.52" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Direct|28°43'48.42" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°15'40.90" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°26'1.36" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|13°2'18.79" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°18'33.29" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|21°4'9.07" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|13°42'9.36" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Venus|Saturn|Venus|Mars|
 |☿ Mercury|Venus|Saturn|Mercury|Jupiter|
-|☾ Moon|Venus|Jupiter|Mars|Moon|
+|☾ Moon|Mercury|Mercury|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Gemini|Moon|Saturn|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Venus|
-|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Mars|Mars|Sagittarius|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'48.37" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°15'37.25" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°26'7.15" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|13°2'32.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°18'41.03" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°4'18.89" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|12°9'53.59" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|28°43'48.42" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°15'37.60" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°26'7.16" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|13°2'32.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°18'40.96" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|21°4'18.80" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|12°11'20.52" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Iokogama, Jokohama, Jokohamo, Jokokhama, YOK, Yokohama, Yokohama-shi, Yokohamashi, heng bang, heng bang shi, heng bin shi, yoa koa ha ma, yokohama, yokohama si, yokohamashi, ywkwhama, ywqwhmh, Јокохама, Иокогама, יוקוהמה, يوكوهاما, โยะโกะฮะมะ, იოკოჰამა, よこはま, よこはまし, ヨコハマ, ヨコハマシ, 横浜, 横浜市, 横滨市, 요코하마 시

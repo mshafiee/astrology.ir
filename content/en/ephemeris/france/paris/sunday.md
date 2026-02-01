@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'15.36" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'34.95" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°58'3.49" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°26'9.76" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°33'42.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°0'54.31" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|3°55'9.00" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°40'14.74" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°19'34.30" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°58'3.94" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°26'10.59" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°33'42.85" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°0'54.14" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|3°40'18.25" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Baariis, Bahliz, Ile-de-France, Lungsod ng Paris, Lutece, Lutetia, Lutetia Parisorum, Lutèce, PAR, Pa-ri, Paarys, Palika, Paname, Pantruche, Paraeis, Paras, Pari, Paries, Parigge, Pariggi, Parighji, Parigi, Pariis, Pariisi, Pariizu, Pariižu, Parij, Parijs, Paris, Parisi, Parixe, Pariz, Parize, Parizh, Parizh osh, Parizh', Parizo, Parizs, Pariž, Parys, Paryz, Paryzh, Paryzius, Paryż, Paryžius, Paräis, París, Paríž, Parîs, Parĩ, Parī, Parīze, Paříž, Páras, Párizs, Ville-Lumiere, Ville-Lumière, ba li, barys, pairisa, pali, pari, paris, parys, paryzh, perisa, pryz, pyaris, pyarisa, pyrs, Île-de-France, Παρίσι, Париж, Париж ош, Парижь, Париз, Парис, Парыж, Паріж, Փարիզ, פאריז, פריז, باريس, پارىژ, پاريس, پاریس, پیرس, ܦܐܪܝܣ, पॅरिस, पेरिस, पैरिस, প্যারিস, ਪੈਰਿਸ, પૅરિસ, பாரிஸ், పారిస్, ಪ್ಯಾರಿಸ್, പാരിസ്, ปารีส, ཕ་རི།, ပါရီမြို့, პარიზი, ፓሪስ, ប៉ារីស, パリ, 巴黎, 파리

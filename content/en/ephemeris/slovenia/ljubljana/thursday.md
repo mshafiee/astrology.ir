@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°4'9.82" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°54'18.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°4'0.46" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|16°26'45.51" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|23°31'26.17" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|27°1'26.86" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|28°39'27.51" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|16°54'15.91" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°4'5.41" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|16°26'56.99" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|23°31'32.51" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|27°1'35.03" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|27°59'6.47" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|29°4'9.82" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|16°54'15.91" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|10°4'5.41" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|16°26'56.99" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|23°31'32.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°1'35.03" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|27°59'6.47" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|16°26'45.71" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|23°31'25.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°1'26.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|28°54'25.50" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Mars|Jupiter|Venus|Mercury|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
