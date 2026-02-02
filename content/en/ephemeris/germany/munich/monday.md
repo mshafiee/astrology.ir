@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:14:48 |
 | Maghrib | 17:40:15 |
 | Isha (Night) | 18:39:12 |
-| Sharia Midnight | 23:33:44 |
+| Sharia Midnight | 23:33:43 |
 | Imum Coeli | 00:27:24 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°46'2.76" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°13'10.51" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|28°46'2.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°13'10.16" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|7°43'43.83" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|13°25'20.49" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°46'54.01" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|21°44'8.89" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|17°40'32.60" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|13°25'20.48" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°46'53.99" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|21°44'8.88" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|17°40'32.44" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°46'2.76" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°13'10.51" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|28°46'2.72" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°13'10.16" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|7°43'43.83" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|13°25'20.49" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°46'54.01" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°44'8.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|17°40'32.60" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|13°25'20.48" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°46'53.99" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|21°44'8.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|17°40'32.44" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

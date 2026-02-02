@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|28°38'45.63" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°21'15.30" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°46'11.83" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°10'49.28" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°14'41.79" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|19°34'6.50" |Capricorn|SaadAlBula|Mars|
-|☾ Moon|Direct|29°49'12.23" |Gemini|Dhira|Sun|
+|♃ Jupiter|Retrograde|17°21'15.19" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°46'11.25" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°10'47.85" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°14'40.90" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|19°34'5.38" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|29°57'22.56" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°38'45.63" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°21'15.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°46'11.83" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°10'49.28" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°14'41.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|19°33'58.49" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°46'36.42" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|28°38'45.59" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°21'14.95" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°46'11.82" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°10'49.27" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°14'41.77" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°34'6.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|29°49'12.70" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Moon|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BLR, Ban'nkalor, Bangalor, Bangalora, Bangalore, Bangalore - bengaluru, Bangalore - ಬೆಂಗಳೂರು, Bangalore City, Bangalur, Bangaluri, Bangalúr, Bengalour, Bengaluras, Bengaluro, Bengaluru, Bengalurus, Bengalúru, Bengalūras, Bengalūru, baeng-geollo, bagalaura, ban jia luo er, bang kha l xr, bang-galloleu, bangalaura, bangalora, bangalura, bangaroru, beng-gallulu, bengalora, bengaluru, benguluru, bnghalwr, bnglwr, bynglwr, penkalur, Μπανγκαλόρ, Бангалор, Бенгалуру, Бенґалуру, בנגלור, بنغالور, بنگلور, بینگلور, बंगलौर, बंगळूर, बेङ्गलूरु, बेङ्गलोर, बेङ्गळूरु, বাঙ্গালোর, বেঙ্গালুরু, ਬੰਗਲੌਰ, બેંગલોર, ବେଙ୍ଗାଳୁରୁ, பெங்களூர், బెంగుళూరు, ಬೆಂಗಳೂರು, ബെംഗളൂരു, බැංගලෝර්, บังคาลอร์, ဘန်ဂလိုမြို့, ბენგალურუ, バンガロール, 班加罗尔, 班加羅爾, 방갈로르, 뱅걸로, 벵갈루루

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'37.90" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°19'8.98" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°1'4.19" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°30'5.75" |Capricorn|SaadAlDhabib|Mars|
-|♀ Venus|Direct|18°38'32.40" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°7'42.00" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|4°25'51.10" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|28°40'37.86" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°19'9.73" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°1'1.86" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°29'59.89" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|18°38'29.04" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°7'37.69" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|5°4'47.94" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -324,10 +324,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Moon|Mercury|Capricorn|Moon|Mars|
 |♃ Jupiter|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 |♂ Mars|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☉ Sun|Mars|Mars|Gemini|Moon|Saturn|
+|☉ Sun|Mars|Mars|Taurus|Moon|Saturn|
 |♀ Venus|Venus|Mercury|Leo|Sun|Venus|
 |☿ Mercury|Venus|Moon|Virgo|Sun|Venus|
-|☾ Moon|Saturn|Sun|Leo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°40'37.90" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°19'10.08" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|28°40'37.86" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°19'9.73" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|7°1'1.86" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°29'59.90" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|18°38'29.05" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°7'37.70" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|5°4'47.66" |Leo|Jabhah|Saturn|
+|☉ Sun|Direct|12°29'59.89" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°38'29.04" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°7'37.69" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|5°4'47.94" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Havn, THorshoefn, THunreshaefen, Thori Portus, Thorshavn, Torschavn, Torsgavn, Torshamn, Torshaunas, Torshavn, Torshgavn, Torshkhavn, Torskhaun, Torskhavn, Tourshavna, Touršhavna, Tórshavn, lei shen gang, thosa'una, thxrs hea n, toleuseuhaun, tosuhaun, tuo er si gang, twshhafn, twshhawn, tۆrshawn, Þunreshæfen, Þórshöfn, Τόρσχαβν, Торсгавн, Торсхавн, Торсхаўн, Торшгавн, Торшхавн, Տորսհավն, טורסהאבן, تورشھاون, توشهافن, توشهاون, تۆرشاون, ਥੋਸ਼ਾਊਨ, ทอร์สเฮาน์, ტორსჰავნი, トースハウン, 托爾斯港, 雷神港, 토르스하운

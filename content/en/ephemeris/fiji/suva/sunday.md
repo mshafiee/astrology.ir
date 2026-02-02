@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°42'52.15" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°16'39.30" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|7°18'43.61" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°52'59.50" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°6'49.97" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|28°42'52.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°16'38.95" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|7°18'43.60" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°52'59.49" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°6'49.95" |Capricorn|SaadAlBula|Mars|
 |☿ Mercury|Direct|20°47'35.44" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|9°33'34.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|9°33'34.55" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°42'52.15" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°16'39.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°18'43.61" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|12°52'59.50" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|19°6'49.97" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°47'35.44" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|9°33'34.48" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|28°42'52.10" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°16'38.95" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°18'43.60" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|12°52'51.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|19°6'44.91" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|20°47'28.87" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|10°21'41.55" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Mercury|Moon|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Venus|Jupiter|Virgo|Moon|Mars|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: SUV, Souba, Souva, Sufa, Suv, Suva, Suva City, Suvae, Suvo, Suwa, cuva, su wa, suba, subha, suva, suwa, swbh, swfa, swwa, Σούβα, Сувæ, Сува, Սուվա, סובה, سوفا, سووا, सुवा, সুভা, ਸੂਵਾ, சுவா, ซูวา, སུ་ཝ།, სუვა, ሱቫ, スバ, 蘇瓦, 수바

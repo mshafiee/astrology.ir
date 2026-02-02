@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:20:03 |
 | Dhuhr (Noon) | 12:01:22 |
 | Medium Coeli | 12:01:22 |
-| Sunset | 18:42:18 |
+| Sunset | 18:42:19 |
 | Maghrib | 18:58:39 |
 | Isha (Night) | 19:48:21 |
 | Sharia Midnight | 23:23:24 |
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:20:03 |
 | Dhuhr (Noon) | 12:01:22 |
 | Medium Coeli | 12:01:22 |
-| Sunset | 18:42:18 |
+| Sunset | 18:42:19 |
 | Maghrib | 19:01:04 |
 | Isha (Night) | 19:48:21 |
-| Sharia Midnight | 23:18:57 |
+| Sharia Midnight | 23:18:58 |
 | Imum Coeli | 00:01:26 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:20:03 |
 | Dhuhr (Noon) | 12:01:22 |
 | Medium Coeli | 12:01:22 |
-| Sunset | 18:42:19 |
+| Sunset | 18:42:18 |
 | Maghrib | 18:43:23 |
 | Isha (Night) | 20:03:52 |
 | Sharia Midnight | 23:18:10 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'13.93" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|17°16'15.23" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|28°43'13.89" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|17°16'14.88" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|7°21'35.46" |Capricorn|SaadAlDhabib|Jupiter|
-|☉ Sun|Direct|12°56'42.08" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|19°11'25.38" |Capricorn|SaadAlBula|Mars|
-|☿ Mercury|Direct|20°54'3.99" |Capricorn|SaadAlBula|Sun|
-|☾ Moon|Direct|10°26'47.29" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|12°56'42.07" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|19°11'25.36" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|20°54'3.98" |Capricorn|SaadAlBula|Sun|
+|☾ Moon|Direct|10°26'47.34" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°43'13.93" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|28°43'13.89" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|17°16'15.23" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|7°21'35.46" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|12°56'42.08" |Aquarius|SaadAlAkhbia|Mercury|
