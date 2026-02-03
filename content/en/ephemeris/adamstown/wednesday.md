@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°6'13.42" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°52'12.28" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°19'49.49" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|16°47'19.48" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|23°56'41.60" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|27°37'3.27" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|1°54'57.60" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|29°6'13.45" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|16°52'12.63" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°19'49.50" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|16°47'19.49" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|23°56'41.63" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|27°37'3.29" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|1°54'57.50" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°6'13.42" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|16°52'12.28" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°19'49.49" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|16°47'19.48" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|23°56'41.60" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°37'3.27" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|1°54'57.60" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|29°6'13.45" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|16°52'12.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°19'49.50" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|16°47'19.49" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|23°56'41.63" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°37'3.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°54'57.50" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:53:50 |
+| Fajr (Dawn) | 05:53:49 |
 | Sunrise | 07:41:05 |
 | Dhuhr (Noon) | 12:44:21 |
 | Medium Coeli | 12:44:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°10'26.32" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°48'8.88" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°51'47.91" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|17°28'31.84" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|24°47'49.73" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|28°49'3.80" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|11°11'32.71" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|29°10'26.29" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Retrograde|16°48'6.35" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°51'51.60" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|17°28'40.42" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|24°47'54.31" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|28°49'9.73" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|10°57'34.53" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°10'26.32" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|16°48'6.70" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°51'51.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|17°28'40.43" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°47'54.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|28°49'9.75" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|10°57'34.26" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|29°10'26.29" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|16°48'6.35" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°51'51.60" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|17°28'40.42" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°47'54.31" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|28°49'9.73" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°57'34.53" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

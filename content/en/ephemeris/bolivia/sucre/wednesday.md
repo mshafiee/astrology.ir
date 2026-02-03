@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°5'9.12" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°53'18.58" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°11'34.55" |Capricorn|SaadAlDhabib|Mars|
-|☉ Sun|Direct|16°36'35.55" |Capricorn|SaadAlBula|Mars|
-|♀ Venus|Direct|23°43'31.67" |Capricorn|SaadAlBula|Sun|
-|☿ Mercury|Direct|27°18'29.99" |Capricorn|SaadAlSaud|Sun|
-|☾ Moon|Direct|0°5'2.70" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|16°53'16.22" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°11'38.62" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|16°36'45.17" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|23°43'36.78" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Direct|27°18'36.56" |Capricorn|SaadAlSaud|Sun|
+|☾ Moon|Direct|29°39'0.31" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Mercury|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Sun|Venus|
 |♀ Venus|Mercury|Sun|Libra|Sun|Venus|
 |☿ Mercury|Moon|Mercury|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -342,8 +342,8 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|16°53'16.22" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|10°11'38.62" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|16°36'45.17" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|23°43'36.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|27°18'36.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|23°43'31.67" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|27°18'29.99" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|0°5'2.70" |Libra|Ghafr|Moon|
 
 

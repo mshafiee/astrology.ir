@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:14:31 |
 | Isha (Night) | 19:04:00 |
 | Sharia Midnight | 23:59:29 |
-| Imum Coeli | 00:38:06 |
+| Imum Coeli | 00:38:07 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:02:11 |
 | Isha (Night) | 19:08:53 |
 | Sharia Midnight | 00:01:55 |
-| Imum Coeli | 00:38:06 |
+| Imum Coeli | 00:38:07 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:02:11 |
 | Isha (Night) | 19:21:03 |
 | Sharia Midnight | 23:51:00 |
-| Imum Coeli | 00:38:07 |
+| Imum Coeli | 00:38:06 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:02:11 |
 | Isha (Night) | 19:23:29 |
 | Sharia Midnight | 23:54:38 |
-| Imum Coeli | 00:38:06 |
+| Imum Coeli | 00:38:07 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|28°51'20.58" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|17°7'27.43" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°25'9.84" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|28°51'20.62" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|17°7'27.78" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°25'9.85" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|14°19'0.41" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|20°53'15.11" |Aquarius|SaadAlAkhbia|Moon|
-|☿ Mercury|Direct|23°17'53.86" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|29°41'38.81" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|20°53'15.13" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Direct|23°17'53.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|29°38'4.66" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
