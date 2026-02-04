@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 13:30:45 |
 | Medium Coeli | 13:30:45 |
 | Sunset | 20:13:39 |
-| Maghrib | 20:33:10 |
+| Maghrib | 20:33:11 |
 | Isha (Night) | 21:22:13 |
 | Sharia Midnight | 00:46:40 |
 | Imum Coeli | 01:30:46 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°17'29.66" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|16°41'25.08" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°45'5.19" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|18°37'25.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°12'55.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Direct|0°48'20.18" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|24°55'19.80" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|16°41'25.44" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°45'5.25" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|18°37'25.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°12'56.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|0°48'20.41" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|24°52'5.94" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
