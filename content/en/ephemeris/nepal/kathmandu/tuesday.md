@@ -223,7 +223,7 @@ Timetable of twelve day and night planetary hours
 |5|Moon|Servant|10:27:05|11:22:32|Attracting misfortune, no task is suitable|
 |6|Saturn|Servant|11:22:33|12:18:01|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|12:18:02|13:13:30|Attracting love and hearts|
-|8|Mars|Ruler|13:13:31|14:08:58|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Mars|Ruler|13:13:31|14:08:58|Creating corruption, destroying enemies, making enemies sick|
 |9|Sun|Servant|14:08:59|15:04:27|Heart tenderness|
 |10|Venus|Servant|15:04:28|15:59:55|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mercury|Servant|15:59:56|16:55:24|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|29°34'11.44" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|29°34'11.47" |Aquarius|FarghAlMuqaddam|Moon|
 |♃ Jupiter|Retrograde|16°26'37.39" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|13°49'8.11" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|21°17'22.29" |Capricorn|SaadAlBula|Sun|

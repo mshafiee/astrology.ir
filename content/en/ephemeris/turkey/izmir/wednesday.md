@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 06:36:10 |
 | Sunrise | 08:06:38 |
-| Dhuhr (Noon) | 13:25:36 |
-| Medium Coeli | 13:25:36 |
+| Dhuhr (Noon) | 13:25:37 |
+| Medium Coeli | 13:25:37 |
 | Sunset | 18:45:05 |
 | Maghrib | 18:47:07 |
 | Isha (Night) | 20:10:30 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°41'43.93" |Pisces|Rescha|Mars|
 |♃ Jupiter|Retrograde|16°20'23.40" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|14°44'20.45" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|22°28'27.46" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|0°58'55.25" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|7°19'10.05" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|10°53'44.79" |Sagittarius|NaAaem|Moon|
+|♂ Mars|Direct|14°44'20.57" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°28'27.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|0°58'55.40" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|7°19'10.25" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|10°55'5.89" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

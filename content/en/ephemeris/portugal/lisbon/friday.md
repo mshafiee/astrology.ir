@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
 |Duration of the day: 10:26:42|Night duration: 13:32:16|
-|Every hour of day duration: 00:52:14|Every hour of night duration: 01:07:41|
+|Every hour of day duration: 00:52:13|Every hour of night duration: 01:07:41|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
