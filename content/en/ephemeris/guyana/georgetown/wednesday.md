@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°49'36.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°14'9.85" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|15°41'27.35" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|23°41'58.67" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|2°29'54.58" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|9°17'59.13" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|25°48'14.95" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|16°14'9.93" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|15°41'27.70" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|23°41'59.74" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|2°29'55.44" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|9°18'0.60" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|25°38'43.73" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Sun|Venus|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°41'27.70" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|23°41'59.74" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|2°29'55.44" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|9°17'59.13" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|25°48'14.95" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|9°18'0.60" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|25°38'43.73" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}

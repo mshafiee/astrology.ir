@@ -1,6 +1,6 @@
 ---
-date: 2026-02-07T00:00:00+01:00
-lastmod: 2026-02-07T00:00:00+01:00
+date: 2026-02-14T00:00:00+01:00
+lastmod: 2026-02-14T00:00:00+01:00
 title: Longyearbyen Saturday
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Saturday, 07 Feb 2026
+description: 🗓 Saturday, 14 Feb 2026
 
 toc: false
 ---
@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:46:12 |
+| Fajr (Dawn) | 05:02:03 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:12:45 |
+| Fajr (Dawn) | 04:27:00 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:06:45 |
+| Fajr (Dawn) | 04:20:36 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:05:44 |
+| Fajr (Dawn) | 05:22:00 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:36:12 |
+| Fajr (Dawn) | 03:47:08 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:06:45 |
+| Fajr (Dawn) | 04:20:36 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:56:42 |
+| Fajr (Dawn) | 04:09:44 |
 | Sunrise | Circumpolar Angle |
 | Dhuhr (Noon) | 11:48:59 |
 | Medium Coeli | 11:48:59 |
@@ -210,8 +210,8 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour of day duration: 00:00:00|Every hour of night duration: 213503:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|00:00:00|23:59:59|Related to talismans, amulets and responses|
-|2|Moon|Servant|00:00:00|23:59:59|Peace among people|
-|3|Saturn|Servant|00:00:00|23:59:59|Vengeful and evil deeds|
-|4|Jupiter|Servant|00:00:00|23:59:59|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|00:00:00|23:59:59|Auspicious|
-|6|Sun|Servant|00:00:00|23:59:59|Writing, swapping and making promises|
-|7|Venus|Servant|00:00:00|23:59:59|Not suitable for any task|
-|8|Mercury|Ruler|00:00:00|23:59:59|Destruction of enemies|
-|9|Moon|Servant|00:00:00|23:59:59|All good deeds|
-|10|Saturn|Servant|00:00:00|23:59:59|Doing evil deeds|
-|11|Jupiter|Servant|00:00:00|23:59:59|Acceptance of reconciliation between couples|
-|12|Mars|Servant|00:00:00|23:59:59|For gaining dignity|
+|1|Mercury|Ruler|00:00:00|23:58:55|Related to talismans, amulets and responses|
+|2|Moon|Servant|23:58:56|23:57:51|Peace among people|
+|3|Saturn|Servant|23:57:52|23:56:48|Vengeful and evil deeds|
+|4|Jupiter|Servant|23:56:49|23:55:44|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|23:55:45|23:54:41|Auspicious|
+|6|Sun|Servant|23:54:42|23:53:37|Writing, swapping and making promises|
+|7|Venus|Servant|23:53:38|23:52:33|Not suitable for any task|
+|8|Mercury|Ruler|23:52:34|23:51:30|Destruction of enemies|
+|9|Moon|Servant|23:51:31|23:50:26|All good deeds|
+|10|Saturn|Servant|23:50:27|23:49:23|Doing evil deeds|
+|11|Jupiter|Servant|23:49:24|23:48:19|Acceptance of reconciliation between couples|
+|12|Mars|Servant|23:48:20|23:47:15|For gaining dignity|
 
  
  
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour duration: 00:00:00|Every hour duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour duration: 00:00:00|Every hour duration: 366006:49:37|
 
  
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|00:00:00|23:59:59|
-|Late evening|Moon|Servant|00:00:00|23:59:59|
-|Midnight|Saturn|Servant|00:00:00|23:59:59|
-|Late at night|Jupiter|Servant|00:00:00|23:59:59|
-|Rooster song|Mars|Servant|00:00:00|23:59:59|
-|False Dawn|Sun|Servant|00:00:00|23:59:59|
-|Dawn|Venus|Servant|00:00:00|23:59:59|
+|Evening|Mercury|Ruler|00:00:00|06:49:35|
+|Late evening|Moon|Servant|06:49:36|13:39:12|
+|Midnight|Saturn|Servant|13:39:13|20:28:49|
+|Late at night|Jupiter|Servant|20:28:50|03:18:25|
+|Rooster song|Mars|Servant|03:18:26|10:08:02|
+|False Dawn|Sun|Servant|10:08:03|16:57:39|
+|Dawn|Venus|Servant|16:57:40|23:47:15|
 
 {{< /tab >}}
 
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♃ Jupiter**|<sub>△ Trine|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub> |<sub> |<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>△ Trine|<sub>△ Trine|<sub> </sub>|
+|<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
