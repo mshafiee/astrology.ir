@@ -232,7 +232,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|18:38:02|19:38:35|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Saturn|Ruler|18:38:02|19:38:35|Creating corruption, hatred and enmity|
 |2|Jupiter|Servant|19:38:36|20:39:09|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Mars|Servant|20:39:10|21:39:44|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Sun|Servant|21:39:45|22:40:18|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°39'12.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°22'27.82" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°25'53.06" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|22°4'36.97" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|0°29'29.92" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|6°40'0.46" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|6°43'14.44" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Retrograde|16°22'25.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°25'58.25" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|22°4'49.99" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|0°29'38.11" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|6°40'12.54" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|6°20'15.26" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Virgo|Sun|Venus|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Aries|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
