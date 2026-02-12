@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:24:41 |
+| Fajr (Dawn) | 04:24:40 |
 | Sunrise | 05:42:02 |
 | Dhuhr (Noon) | 11:58:59 |
 | Medium Coeli | 11:58:59 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|16°15'56.74" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|24°26'21.22" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|3°24'50.30" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|10°27'48.88" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|10°27'48.88" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|4°36'23.69" |Sagittarius|NaAaem|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°54'23.25" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|16°10'33.78" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°15'53.99" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|24°26'15.34" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|3°24'47.74" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|10°27'45.83" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|3°35'3.90" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|16°10'31.75" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°15'56.74" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|24°26'21.22" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|3°24'50.30" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|10°27'48.88" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°36'23.69" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Sun|Aries|Moon|Jupiter|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Aquarius|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

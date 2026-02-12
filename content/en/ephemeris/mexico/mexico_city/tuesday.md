@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°43'53.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°18'41.36" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|15°0'2.54" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|22°48'37.74" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|1°23'58.47" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°52'14.64" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|13°53'50.59" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|16°18'38.67" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|15°0'6.51" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|22°48'46.49" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|1°24'2.68" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|7°52'19.97" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|15°0'19.26" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Libra|Sun|Venus|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°0'6.51" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|22°48'46.49" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|1°24'2.68" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|7°52'19.97" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°52'19.97" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|15°0'19.26" |Sagittarius|NaAaem|Moon|
 
 

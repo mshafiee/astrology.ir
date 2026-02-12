@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:44:07 |
 | Medium Coeli | 12:44:07 |
 | Sunset | 18:39:17 |
-| Maghrib | 18:55:35 |
+| Maghrib | 18:55:34 |
 | Isha (Night) | 19:34:52 |
 | Sharia Midnight | 00:08:39 |
 | Imum Coeli | 00:44:06 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°7'17.82" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|25°32'21.16" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|4°46'34.76" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|12°8'30.66" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|12°8'30.66" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|17°57'18.81" |Sagittarius|Baldah|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°7'17.82" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|25°32'21.16" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|4°46'34.76" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|12°8'30.66" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°8'30.66" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|17°57'18.81" |Capricorn|SaadAlBula|Mars|
 
 

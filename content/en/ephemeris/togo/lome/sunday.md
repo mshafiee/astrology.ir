@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°8'17.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|16°0'34.35" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°55'13.72" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|26°33'55.56" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|6°2'50.24" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|13°38'24.25" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°42'37.50" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|16°0'37.76" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°55'8.07" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|26°33'42.93" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|6°2'43.81" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|13°38'15.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|29°9'2.50" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°55'13.72" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|26°33'55.56" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|6°2'50.24" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|13°38'24.25" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|13°38'24.25" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|0°42'37.50" |Aquarius|SaadAlSaud|Venus|
 
 

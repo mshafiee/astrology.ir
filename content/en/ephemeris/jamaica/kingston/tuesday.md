@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°57'6.73" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|22°44'55.15" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|1°19'16.18" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|7°46'2.97" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|7°46'2.97" |Aquarius|SaadAlSaud|Venus|
 |☾ Moon|Direct|14°14'54.75" |Scorpio|Qalb|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°43'29.14" |Pisces|Rescha|Mars|
-|♃ Jupiter|Retrograde|16°18'58.40" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|14°57'1.10" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|22°44'42.09" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|1°19'9.16" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|7°45'53.35" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|13°19'34.35" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|16°19'0.57" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°57'1.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|22°44'41.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|1°19'7.69" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|7°45'50.42" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|14°16'32.77" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mars|Scorpio|Moon|Mars|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}

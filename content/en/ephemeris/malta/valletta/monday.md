@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°14'51.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°56'11.08" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°41'39.93" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|27°33'31.01" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|7°16'41.25" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|15°1'4.62" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°57'27.42" |Capricorn|SaadAlBula|Mars|
+|♃ Jupiter|Retrograde|15°56'13.99" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°41'34.15" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|27°33'17.57" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|7°16'33.77" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|15°0'53.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°31'45.19" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Jupiter|Jupiter|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|18°41'39.93" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|27°33'31.01" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|7°16'41.25" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|15°1'4.62" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|15°1'4.62" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|12°57'27.42" |Aquarius|SaadAlAkhbia|Mercury|
 
 

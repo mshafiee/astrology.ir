@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°2'48.40" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|16°4'23.77" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°16'12.82" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|25°43'48.42" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|5°0'46.12" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|12°25'33.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°16'50.17" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|0°2'47.71" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|16°4'27.21" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°16'6.13" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|25°43'32.81" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|5°0'37.51" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|12°25'20.56" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|18°46'9.80" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Aries|Sun|Saturn|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°16'12.82" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|25°43'48.42" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|5°0'46.12" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|12°25'33.17" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|12°25'33.17" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|20°16'50.17" |Capricorn|SaadAlBula|Sun|
 
 

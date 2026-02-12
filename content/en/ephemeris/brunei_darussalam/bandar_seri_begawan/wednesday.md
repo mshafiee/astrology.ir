@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°46'27.68" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°16'36.66" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|15°18'43.33" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|23°12'44.38" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|1°53'42.04" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|8°31'8.59" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|19°48'55.01" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Retrograde|16°16'37.76" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|15°18'39.47" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|23°12'34.44" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|1°53'35.56" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|8°30'58.63" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|20°4'10.30" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Libra|Sun|Venus|
 |♀ Venus|Saturn|Venus|Aquarius|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°18'43.33" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|23°12'44.38" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|1°53'42.04" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Direct|8°31'8.59" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|8°31'8.59" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|19°48'55.01" |Sagittarius|Baldah|Moon|
 
 
