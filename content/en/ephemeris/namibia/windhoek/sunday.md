@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°7'52.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|16°0'51.38" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°52'16.60" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|26°30'8.53" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|5°58'8.47" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|13°32'59.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°0'0.33" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|16°0'55.07" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°52'9.74" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|26°29'52.70" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|5°57'59.97" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|13°32'47.40" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|28°15'18.28" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°52'16.60" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|26°30'8.53" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|5°58'8.47" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|13°32'59.84" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|13°32'59.84" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|0°0'0.33" |Aquarius|SaadAlSaud|Venus|
 
 

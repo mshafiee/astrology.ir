@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°21'48.05" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°51'45.43" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|19°30'23.40" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|28°36'1.76" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°34'8.21" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|16°22'28.44" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|26°20'49.21" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Retrograde|15°51'47.59" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|19°30'18.42" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|28°35'49.90" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|8°34'1.22" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|16°22'17.08" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°6'35.98" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°30'23.40" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|28°36'1.76" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|8°34'8.21" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|16°22'28.44" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°22'28.44" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|26°20'49.21" |Aquarius|FarghAlMuqaddam|Moon|
 
 

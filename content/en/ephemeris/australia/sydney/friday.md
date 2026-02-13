@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|29°58'42.75" |Aquarius|FarghAlMuqaddam|Moon|
-|♃ Jupiter|Retrograde|16°7'20.24" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°46'58.21" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|25°6'14.16" |Capricorn|SaadAlBula|Sun|
-|♀ Venus|Direct|4°14'13.71" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|11°29'9.32" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°40'36.52" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Retrograde|16°7'23.80" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°46'51.86" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|25°5'59.57" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|4°14'6.01" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|11°28'58.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°6'23.60" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Saturn|Mars|Pisces|Sun|Saturn|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Aries|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|16°46'58.21" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|25°6'14.16" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|4°14'13.71" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|11°29'9.32" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|11°29'9.32" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|12°40'36.52" |Capricorn|SaadAlDhabib|Mars|
 
 

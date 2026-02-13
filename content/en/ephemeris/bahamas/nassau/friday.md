@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°3'11.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|16°4'7.77" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°18'55.48" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|25°47'16.85" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|5°5'5.04" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|12°30'42.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°53'47.67" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Retrograde|16°4'10.70" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°18'49.98" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|25°47'4.11" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|5°4'58.13" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Direct|12°30'32.28" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|19°34'58.43" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Mercury|Jupiter|
 |♀ Venus|Mercury|Saturn|Saturn|Saturn|
 |☿ Mercury|Venus|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Saturn|Sun|Venus|
+|☾ Moon|Mercury|Saturn|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Scorpio|Sun|Venus|
 |♀ Venus|Jupiter|Mars|Aries|Sun|Saturn|
 |☿ Mercury|Mars|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Mercury|Venus|Leo|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°18'55.48" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|25°47'16.85" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|5°5'5.04" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|12°30'42.30" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|12°30'42.30" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|20°53'47.67" |Capricorn|SaadAlBula|Sun|
 
 
