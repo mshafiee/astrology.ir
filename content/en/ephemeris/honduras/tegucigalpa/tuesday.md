@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°30'9.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°46'44.47" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°28'36.75" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|29°50'34.51" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|10°6'38.81" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|17°51'25.18" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|11°17'10.21" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Retrograde|15°46'42.10" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°28'43.09" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|29°50'49.98" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|10°6'48.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|17°51'41.13" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|12°58'49.90" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Mercury|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°28'43.09" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|29°50'49.98" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|10°6'48.15" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|17°51'41.13" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|17°51'41.13" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|12°58'49.90" |Pisces|FarghAlMuakhar|Jupiter|
 
 

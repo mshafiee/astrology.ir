@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°28'23.30" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°47'45.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°16'23.47" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|29°35'0.02" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|9°47'13.68" |Aquarius|SaadAlAkhbia|Venus|
-|☿ Mercury|Direct|17°33'37.06" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|9°3'22.40" |Aquarius|SaadAlAkhbia|Venus|
+|♂ Mars|Direct|20°16'20.36" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|29°34'53.46" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|9°47'10.56" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|17°33'32.63" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|8°26'38.95" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Mars|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°16'23.47" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|29°35'0.02" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|9°47'13.68" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|17°33'37.06" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|9°3'22.40" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|17°33'37.06" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|8°26'38.95" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Sun|Mercury|Gemini|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}

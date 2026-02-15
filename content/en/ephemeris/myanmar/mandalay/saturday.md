@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:17:25 |
 | Isha (Night) | 19:01:17 |
 | Sharia Midnight | 23:45:51 |
-| Imum Coeli | 00:19:46 |
+| Imum Coeli | 00:19:45 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:19:37 |
 | Isha (Night) | 19:01:17 |
 | Sharia Midnight | 23:42:09 |
-| Imum Coeli | 00:19:46 |
+| Imum Coeli | 00:19:45 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:03:47 |
 | Isha (Night) | 19:05:38 |
 | Sharia Midnight | 23:48:01 |
-| Imum Coeli | 00:19:46 |
+| Imum Coeli | 00:19:45 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|16°56'5.46" |Capricorn|SaadAlBula|Mars|
 |☉ Sun|Direct|25°17'56.57" |Capricorn|SaadAlBula|Sun|
 |♀ Venus|Direct|4°28'44.82" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|11°46'53.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|11°46'53.84" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|14°55'0.78" |Sagittarius|NaAaem|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|16°56'5.46" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|25°17'56.57" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|4°28'44.82" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|11°46'53.84" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|11°46'53.84" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|14°55'0.78" |Capricorn|SaadAlBula|Mars|
 
 

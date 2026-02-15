@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°14'46.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°56'14.71" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°41'2.13" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|27°32'42.10" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|7°15'41.22" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|14°59'59.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°42'3.54" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|0°14'46.49" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°56'14.36" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°41'2.12" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|27°32'42.09" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|7°15'37.91" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|14°59'54.71" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°44'18.63" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Jupiter|Jupiter|Aries|Sun|Saturn|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Mars|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|18°41'2.13" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|27°32'42.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|7°15'41.22" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|14°59'59.07" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|14°59'59.07" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|12°42'3.54" |Aquarius|SaadAlAkhbia|Mercury|
 
 
