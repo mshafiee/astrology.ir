@@ -1,6 +1,6 @@
 ---
-date: 2026-02-14T00:00:00+04:00
-lastmod: 2026-02-14T00:00:00+04:00
+date: 2026-02-21T00:00:00+04:00
+lastmod: 2026-02-21T00:00:00+04:00
 title: Victoria Saturday
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Saturday, 14 Feb 2026
+description: 🗓 Saturday, 21 Feb 2026
 
 toc: false
 ---
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
-|♎ Libra|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
-|♏ Scorpio|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
+|♐ Sagittarius|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -335,12 +335,12 @@ Position of planets based on tropical calculations at sunrise
 
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|<sub>**♃ Jupiter**|<sub>△ Trine|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub> |<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub> |<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>△ Trine|<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>☍ Opposition|<sub> |<sub> |<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**♂ Mars**|<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

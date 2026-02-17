@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:08:40 |
 | Sunrise | 06:38:31 |
-| Dhuhr (Noon) | 12:14:04 |
-| Medium Coeli | 12:14:04 |
+| Dhuhr (Noon) | 12:14:05 |
+| Medium Coeli | 12:14:05 |
 | Sunset | 17:50:03 |
 | Maghrib | 17:51:08 |
 | Isha (Night) | 19:10:32 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:15:45 |
 | Sunrise | 06:38:31 |
-| Dhuhr (Noon) | 12:14:04 |
-| Medium Coeli | 12:14:04 |
+| Dhuhr (Noon) | 12:14:05 |
+| Medium Coeli | 12:14:05 |
 | Sunset | 17:50:03 |
 | Maghrib | 17:51:08 |
 | Isha (Night) | 19:12:54 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:13:23 |
 | Sunrise | 06:38:31 |
-| Dhuhr (Noon) | 12:14:04 |
-| Medium Coeli | 12:14:04 |
+| Dhuhr (Noon) | 12:14:05 |
+| Medium Coeli | 12:14:05 |
 | Sunset | 17:50:03 |
 | Maghrib | 17:51:08 |
 | Isha (Night) | 19:21:08 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°59'8.18" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|0°29'47.73" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|10°55'6.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°34'13.36" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|18°34'13.36" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|21°26'31.86" |Aquarius|FarghAlMuqaddam|Moon|
 
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°44'10.94" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|20°59'8.18" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|0°29'47.73" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|10°55'6.79" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|18°34'13.36" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|21°26'31.86" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|10°55'6.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|18°34'13.43" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|21°26'59.39" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
