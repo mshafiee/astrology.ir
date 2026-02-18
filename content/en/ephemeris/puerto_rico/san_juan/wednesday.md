@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°36'35.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°43'3.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°13'14.77" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|0°47'50.59" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|11°17'32.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|18°52'58.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°17'6.02" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|0°36'34.94" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°43'4.92" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°13'11.94" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|0°47'44.06" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|11°17'28.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|18°52'52.07" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|24°41'6.43" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Venus|Mercury|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|21°13'17.43" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|0°47'56.36" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|11°17'35.12" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|18°53'2.15" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|18°53'2.15" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|25°38'54.75" |Pisces|Rescha|Mars|
 
 

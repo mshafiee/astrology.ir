@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°33'16.54" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°47'5.70" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|14°59'42.49" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°20'53.08" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°20'53.08" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|6°28'44.92" |Aries|Sharatain|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°33'16.54" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|3°47'5.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°59'42.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°20'53.08" |Pisces|Rescha|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|21°20'53.08" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|6°28'44.92" |Taurus|Thurayya|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: PBM, Paramaribas, Paramaribo, Paramaribô, Paramarimpo, Paramaryba, Paramaríbó, ba la ma li bo, baramarybw, pa la ma li bo, pa rama ri bo, palamalibo, paramaribo, paramaripo, paramarybw, prmrybw, Παραμαρίμπο, Парамарибо, Парамарыба, Парамарібо, Պարամարիբո, פאראמאריבא, פרמריבו, باراماريبو, پاراماریبو, पारामरिबो, पारामारिबो, ਪਾਰਾਮਾਰੀਬੋ, પારામારિબો, பரமாரிபோ, ปารามารีโบ, པེ་ར་མེ་རི་བོ།, პარამარიბო, ፓራማሪቦ, パラマリボ, 巴拉馬利波, 帕拉马里博, 파라마리보

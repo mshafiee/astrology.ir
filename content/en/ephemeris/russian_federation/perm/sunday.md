@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°55'7.55" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°33'28.01" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°20'33.54" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°30'47.05" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°39'32.99" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°10'26.98" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|2°23'32.03" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|23°20'32.81" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°30'45.66" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°39'32.53" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°10'26.39" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|2°33'39.27" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°55'7.55" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'28.65" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°20'32.81" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°30'45.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°39'32.53" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°10'26.39" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°33'39.27" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°33'28.01" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°20'33.54" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°30'47.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°39'32.99" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°10'26.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°23'32.03" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름

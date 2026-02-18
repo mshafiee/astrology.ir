@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°35'14.48" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°49'36.34" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|15°2'49.55" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°22'25.40" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°22'25.40" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|7°2'34.83" |Aries|Sharatain|Mars|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|0°57'16.95" |Aries|Sharatain|Mars|
 |♃ Jupiter|Retrograde|15°32'26.20" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|23°35'14.48" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°49'36.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|15°2'49.55" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°22'25.40" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°2'34.83" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°49'19.98" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|15°2'40.16" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°22'7.81" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°14'34.72" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Virgo|Sun|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

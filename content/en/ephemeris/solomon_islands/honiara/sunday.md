@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°51'56.65" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|4°10'58.08" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|15°29'18.62" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°34'54.69" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°34'54.69" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|12°0'25.19" |Aries|Sharatain|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°59'44.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°31'19.03" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°51'51.85" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°10'45.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|15°29'10.50" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°34'38.48" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°42'25.59" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|15°31'18.02" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°51'56.65" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°10'58.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|15°29'18.62" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°34'54.69" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°0'25.19" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

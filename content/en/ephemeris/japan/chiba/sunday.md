@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°55'39.72" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|4°15'41.40" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|15°35'12.62" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°37'28.76" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°37'28.76" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|12°57'19.04" |Aries|Butain|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°55'39.72" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|4°15'41.40" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|15°35'12.62" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°37'28.76" |Pisces|Rescha|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|21°37'28.76" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|12°57'19.04" |Taurus|Dabaran|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

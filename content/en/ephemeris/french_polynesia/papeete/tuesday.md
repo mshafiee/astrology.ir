@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°31'12.79" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°46'5.11" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°35'55.46" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|29°59'57.10" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|10°18'15.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|18°1'54.34" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|13°25'41.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|20°36'1.96" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|0°0'13.18" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°18'25.10" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|18°2'11.29" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|15°12'51.74" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -313,7 +313,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Venus|Venus|Jupiter|Venus|
 |♃ Jupiter|Venus|Venus|Venus|Mars|
 |♂ Mars|Venus|Saturn|Mercury|Jupiter|
-|☉ Sun|Mars|Mars|Mercury|Jupiter|
+|☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Venus|Mercury|Mercury|Moon|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
 |☾ Moon|Jupiter|Venus|Mercury|Moon|
@@ -324,10 +324,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♃ Jupiter|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♂ Mars|Venus|Moon|Virgo|Sun|Venus|
-|☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
+|☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°36'1.96" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|0°0'13.18" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|10°18'25.10" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|18°2'11.29" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|18°2'11.29" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|15°12'51.74" |Pisces|FarghAlMuakhar|Jupiter|
 
 

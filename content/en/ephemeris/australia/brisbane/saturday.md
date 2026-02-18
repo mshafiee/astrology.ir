@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°52'51.48" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'34.91" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°4'58.11" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°10'46.11" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°14'49.45" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°56'44.71" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|26°51'45.35" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|0°52'51.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°34'32.60" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°5'4.92" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°11'2.82" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°14'59.51" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|20°57'3.67" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|28°15'13.21" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mars|Saturn|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°5'4.92" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|3°11'2.82" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°14'59.51" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|20°57'3.67" |Pisces|Rescha|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|20°57'3.67" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|28°15'13.21" |Aries|Thurayya|Venus|
 
 

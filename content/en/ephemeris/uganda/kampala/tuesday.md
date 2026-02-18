@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°21'5.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°52'11.64" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|19°25'24.07" |Capricorn|SaadAlBula|Mars|
-|☉ Sun|Direct|28°29'39.51" |Capricorn|SaadAlSaud|Sun|
-|♀ Venus|Direct|8°26'12.23" |Aquarius|SaadAlSaud|Venus|
-|☿ Mercury|Direct|16°14'25.69" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°20'11.28" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Retrograde|15°52'15.18" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|19°25'17.52" |Capricorn|SaadAlBula|Mars|
+|☉ Sun|Direct|28°29'24.55" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|8°26'4.24" |Aquarius|SaadAlSaud|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|16°14'13.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|23°41'16.88" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mercury|Jupiter|
 |♀ Venus|Venus|Mercury|Saturn|Saturn|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Sun|Venus|
 |♀ Venus|Jupiter|Jupiter|Taurus|Sun|Saturn|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°25'24.07" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|28°29'39.51" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|8°26'12.23" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Direct|16°14'25.69" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|16°14'25.69" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|25°20'11.28" |Aquarius|FarghAlMuqaddam|Moon|
 
 

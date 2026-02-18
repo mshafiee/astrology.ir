@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°25'7.75" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°36'40.59" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|14°46'47.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°14'19.28" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°4'19.72" |Aries|Sharatain|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|21°14'3.77" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|3°17'19.88" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -340,10 +340,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°55'47.84" |Aries|Sharatain|Mars|
 |♃ Jupiter|Retrograde|15°33'8.09" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°25'7.75" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°36'40.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|23°25'1.59" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°36'26.08" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°46'39.04" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°14'3.77" |Pisces|Rescha|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|21°14'3.77" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°17'19.88" |Taurus|Thurayya|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°48'51.80" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°36'31.76" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°37'45.46" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|2°36'2.83" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|13°31'38.94" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|20°30'55.48" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|19°48'35.52" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|0°48'51.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°36'31.56" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°37'46.20" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|2°36'4.70" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|13°31'40.12" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|20°30'57.71" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|20°0'50.20" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
+|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°37'46.20" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|2°36'4.70" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|13°31'40.12" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|20°30'57.71" |Pisces|Rescha|Mars|
+|☿ Mercury|Pre-Retrograde Shadow|20°30'57.71" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|20°0'50.20" |Aries|Butain|Venus|
 
 

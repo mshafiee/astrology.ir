@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°18'37.55" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°28'20.34" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|14°36'28.72" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°8'51.63" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|21°8'51.63" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|2°0'48.42" |Aries|Sharatain|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°54'50.56" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'35.65" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°18'37.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°28'20.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°36'28.72" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°8'51.63" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°0'48.42" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°33'37.37" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°18'32.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°28'7.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°36'20.76" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°8'36.42" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°53'10.60" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Gerat, HEA, Herat, Herāt, Hérat, Kherat, Shahr-e Herat, Shahr-e Herāt, he la te, herato, hrat, Герат, Херат, هراة, هرات, ヘラート, 赫拉特

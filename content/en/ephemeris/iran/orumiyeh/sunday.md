@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°55'11.31" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'25.46" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°20'59.10" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°31'21.18" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°40'13.25" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°10'50.67" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|2°41'11.36" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°55'11.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°33'25.81" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°20'59.11" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°31'21.17" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°40'13.27" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°10'50.64" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|2°41'11.72" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°55'11.31" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'25.46" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°20'59.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°31'21.18" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°40'13.25" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°10'50.67" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°41'11.36" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°55'11.33" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'25.81" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°20'59.11" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°31'21.17" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°40'13.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°10'50.64" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°41'11.72" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: OMH, Orumiyeh, Orūmīyeh, Ourmia, Reza'iyeh, Rezaeyeh, Rezaiyye, Rezâiyye, Rezā’īyeh, Rizaiyeh, Rizāiyeh, Urmia, Urmija, Urmiya, Urmiye, Urmía, Urumija, Urumiyeh, Urūmiyeh, arwmyh, arwmyt, shhrstan arwmyh, Úrmia, Ûrmiye, Урмия, Урумия, אורמיה, أرومية, ارومیه, ارومیّه, شهرستان ارومیه, ܐܘܪܡܝܐ

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:06:02 |
+| Fajr (Dawn) | 06:06:01 |
 | Sunrise | 07:54:31 |
 | Dhuhr (Noon) | 13:06:21 |
 | Medium Coeli | 13:06:21 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°51'42.82" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|0°20'16.11" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|10°43'19.76" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|18°24'5.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|18°24'5.49" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|19°5'53.50" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°51'42.82" |Aquarius|SaadAlAkhbia|Moon|
 |☉ Sun|Direct|0°20'16.11" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|10°43'19.76" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|18°24'5.49" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|18°24'5.49" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|19°5'53.50" |Pisces|Rescha|Jupiter|
 
 

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°55'1.65" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'30.04" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|0°55'1.66" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°33'30.39" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|23°19'53.25" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°29'57.02" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°38'28.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Direct|21°9'55.42" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|2°22'6.66" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°38'28.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°9'55.39" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|2°22'7.01" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°55'1.65" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'30.04" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°19'53.22" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°29'56.95" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°38'28.80" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Direct|21°9'55.38" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°22'47.10" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°55'1.66" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'30.39" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°19'53.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°29'57.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°38'28.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°9'55.39" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°22'7.01" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: SRY, Sari, Sari i Iran, Saris, Sariyo, Sarí, Sarî, Shahr-i-Tajan, Shari-i-Tajan, Sori, Szari, Szári, Sárí, Sārī, sa li shi, sali, sari, sary, sary  ayran, Σάρι, Сари, Сарі, Сорӣ, Սարի, سارى, ساري, ساری, ساری، ایران, सारी, სარი, サーリー, 薩里市, 사리
