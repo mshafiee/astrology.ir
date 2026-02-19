@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°33'50.60" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|2°31'3.04" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|13°25'26.36" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|20°26'58.73" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°51'6.03" |Aries|Butain|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|20°26'58.61" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|18°49'57.81" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°41'59.54" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°40'4.90" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°50'34.84" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|1°35'42.07" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|12°16'46.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|19°39'22.98" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°28'35.48" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|0°41'59.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°40'4.56" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°50'34.86" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|1°35'42.17" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|12°16'46.86" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|19°39'23.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|6°30'3.14" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°41'59.54" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°40'4.90" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°50'34.84" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|1°35'42.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|12°16'46.79" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|19°39'22.98" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|6°28'35.48" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°41'59.52" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°40'4.56" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°50'34.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|1°35'42.17" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|12°16'46.86" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|19°39'23.18" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|6°30'3.14" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

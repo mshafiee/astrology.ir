@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°57'8.24" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°32'29.96" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°34'15.29" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°48'20.50" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|15°1'15.72" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°21'38.80" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|6°43'59.28" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°57'8.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°32'30.31" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°34'15.30" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°48'20.49" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|15°1'15.73" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°21'38.77" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|6°43'59.80" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°57'8.24" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°32'29.96" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°34'15.29" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°48'20.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|15°1'15.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°21'38.77" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°43'59.80" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°57'8.25" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°32'31.09" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°34'10.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°48'8.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|15°1'7.77" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°21'23.16" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°25'34.50" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Virgo|Sun|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스

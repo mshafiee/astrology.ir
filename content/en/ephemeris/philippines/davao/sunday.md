@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°0'27.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°30'58.47" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°56'49.83" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|4°17'12.43" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|15°37'3.53" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°38'19.90" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|13°24'47.89" |Aries|Butain|Sun|
+|♄ Saturn|Direct|1°0'27.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°30'58.12" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°56'49.82" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|4°17'12.44" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|15°37'3.51" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°38'19.94" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|13°24'47.15" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°0'27.52" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°30'59.47" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°56'45.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°17'0.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|15°36'56.13" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°38'5.13" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°18'49.26" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|1°0'27.51" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°30'58.12" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°56'49.82" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°17'12.44" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|15°37'3.51" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°38'19.94" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°24'47.15" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -363,10 +363,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Mars|Mars|Aries|Sun|Mars|
 |♃ Jupiter|Mars|Mars|Capricorn|Sun|Mars|
 |♂ Mars|Mercury|Venus|Scorpio|Moon|Mars|
-|☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
+|☉ Sun|Mars|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Virgo|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

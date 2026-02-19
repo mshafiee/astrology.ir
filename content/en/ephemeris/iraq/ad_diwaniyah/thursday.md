@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:25:11 |
 | Sunrise | 06:38:31 |
-| Dhuhr (Noon) | 12:14:05 |
-| Medium Coeli | 12:14:05 |
+| Dhuhr (Noon) | 12:14:04 |
+| Medium Coeli | 12:14:04 |
 | Sunset | 17:50:03 |
 | Maghrib | 18:06:23 |
 | Isha (Night) | 18:53:59 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:15:45 |
 | Sunrise | 06:38:31 |
-| Dhuhr (Noon) | 12:14:05 |
-| Medium Coeli | 12:14:05 |
+| Dhuhr (Noon) | 12:14:04 |
+| Medium Coeli | 12:14:04 |
 | Sunset | 17:50:03 |
 | Maghrib | 17:51:08 |
 | Isha (Night) | 19:08:10 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:13:23 |
 | Sunrise | 06:38:31 |
-| Dhuhr (Noon) | 12:14:05 |
-| Medium Coeli | 12:14:05 |
+| Dhuhr (Noon) | 12:14:04 |
+| Medium Coeli | 12:14:04 |
 | Sunset | 17:50:03 |
 | Maghrib | 17:51:08 |
 | Isha (Night) | 19:21:08 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°34'32.59" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°44'11.01" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°59'6.67" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|0°29'43.53" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|10°55'3.78" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|18°34'7.69" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°50'51.04" |Aquarius|SaadAlAkhbia|Moon|
+|♃ Jupiter|Retrograde|15°44'10.94" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°59'8.18" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|0°29'47.73" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°55'6.79" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|18°34'13.36" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|21°26'31.86" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Aquarius|Sun|Saturn|
 |♀ Venus|Mars|Saturn|Gemini|Sun|Saturn|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Venus|Mars|Libra|Moon|Mars|
+|☾ Moon|Mercury|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}

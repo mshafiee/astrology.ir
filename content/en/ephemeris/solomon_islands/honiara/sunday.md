@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°59'44.36" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°31'18.02" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°51'56.65" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|4°10'58.08" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|15°29'18.62" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°34'54.69" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°0'25.19" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|0°59'44.35" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°31'17.67" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°51'56.64" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|4°10'58.10" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|15°29'18.60" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°34'54.72" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°0'24.48" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°59'44.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°31'18.02" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°51'56.65" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°10'58.08" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|15°29'18.62" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°34'54.69" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°0'25.19" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|0°59'44.35" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°31'17.67" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°51'56.64" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°10'58.10" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|15°29'18.60" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°34'54.72" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°0'24.48" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: HIR, Honiara, Honiaro, Khoniara, Oniara, ho ni xa ra, honiala, honiara, huo ni ya la, hwnyara, Ονιάρα, Хониара, הוניארה, هونيارا, هونیارا, โฮนีอารา, ሆኒያራ, ホニアラ, 霍尼亚拉, 霍尼亞拉, 호니아라

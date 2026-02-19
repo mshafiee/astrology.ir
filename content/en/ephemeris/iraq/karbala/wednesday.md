@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:43:50 |
 | Dhuhr (Noon) | 12:17:46 |
 | Medium Coeli | 12:17:46 |
-| Sunset | 17:52:08 |
+| Sunset | 17:52:09 |
 | Maghrib | 18:08:37 |
 | Isha (Night) | 18:56:35 |
-| Sharia Midnight | 23:40:32 |
+| Sharia Midnight | 23:40:33 |
 | Imum Coeli | 00:17:43 |
 {{< /tab >}}
 
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:43:50 |
 | Dhuhr (Noon) | 12:17:46 |
 | Medium Coeli | 12:17:46 |
-| Sunset | 17:52:08 |
+| Sunset | 17:52:09 |
 | Maghrib | 18:11:02 |
 | Isha (Night) | 18:56:35 |
 | Sharia Midnight | 23:36:30 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:43:50 |
 | Dhuhr (Noon) | 12:17:46 |
 | Medium Coeli | 12:17:46 |
-| Sunset | 17:52:08 |
+| Sunset | 17:52:09 |
 | Maghrib | 17:53:14 |
 | Isha (Night) | 19:10:53 |
-| Sharia Midnight | 23:35:47 |
+| Sharia Midnight | 23:35:48 |
 | Imum Coeli | 00:17:43 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:43:50 |
 | Dhuhr (Noon) | 12:17:46 |
 | Medium Coeli | 12:17:46 |
-| Sunset | 17:52:08 |
+| Sunset | 17:52:09 |
 | Maghrib | 17:53:14 |
 | Isha (Night) | 19:01:21 |
 | Sharia Midnight | 23:42:55 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:43:50 |
 | Dhuhr (Noon) | 12:17:46 |
 | Medium Coeli | 12:17:46 |
-| Sunset | 17:52:08 |
+| Sunset | 17:52:09 |
 | Maghrib | 17:53:14 |
 | Isha (Night) | 19:15:38 |
-| Sharia Midnight | 23:35:47 |
+| Sharia Midnight | 23:35:48 |
 | Imum Coeli | 00:17:43 |
 {{< /tab >}}
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:08:18|Night duration: 12:50:40|
+|Duration of the day: 11:08:19|Night duration: 12:50:39|
 |Every hour duration: 01:35:28|Every hour duration: 01:50:06|
 
  
@@ -266,20 +266,20 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Mercury|Ruler|06:43:50|08:19:17|
 |Mid-morning|Moon|Servant|08:19:18|09:54:45|
-|Late morning|Saturn|Servant|09:54:46|11:30:13|
-|Noon|Jupiter|Servant|11:30:14|13:05:42|
-|Early afternoon|Mars|Servant|13:05:43|14:41:10|
-|Mid-afternoon|Sun|Servant|14:41:11|16:16:38|
-|Late afternoon|Venus|Servant|16:16:39|17:52:07|
+|Late morning|Saturn|Servant|09:54:46|11:30:14|
+|Noon|Jupiter|Servant|11:30:15|13:05:42|
+|Early afternoon|Mars|Servant|13:05:43|14:41:11|
+|Mid-afternoon|Sun|Servant|14:41:12|16:16:39|
+|Late afternoon|Venus|Servant|16:16:40|17:52:08|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|17:52:08|19:42:12|
-|Late evening|Venus|Servant|19:42:13|21:32:18|
-|Midnight|Mercury|Servant|21:32:19|23:22:24|
-|Late at night|Moon|Servant|23:22:25|01:12:29|
-|Rooster song|Saturn|Servant|01:12:30|03:02:35|
+|Evening|Sun|Ruler|17:52:09|19:42:13|
+|Late evening|Venus|Servant|19:42:14|21:32:19|
+|Midnight|Mercury|Servant|21:32:20|23:22:24|
+|Late at night|Moon|Servant|23:22:25|01:12:30|
+|Rooster song|Saturn|Servant|01:12:31|03:02:35|
 |False Dawn|Jupiter|Servant|03:02:36|04:52:41|
 |Dawn|Mars|Servant|04:52:42|06:42:47|
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°27'46.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|0°27'46.03" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°48'7.19" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|20°12'3.93" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|29°29'28.33" |Capricorn|SaadAlSaud|Sun|
