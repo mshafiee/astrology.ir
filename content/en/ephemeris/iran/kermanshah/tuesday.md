@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:34:54 |
 | Sunset | 18:13:00 |
 | Maghrib | 18:30:09 |
-| Isha (Night) | 19:18:50 |
+| Isha (Night) | 19:18:49 |
 | Sharia Midnight | 23:56:51 |
 | Imum Coeli | 00:34:50 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'3.84" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°27'14.17" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|1°9'3.83" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°27'13.81" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|24°55'4.77" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|5°31'36.76" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|17°9'23.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|22°11'27.44" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°36'36.48" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|5°31'36.77" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|17°9'23.77" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|22°11'27.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|0°36'35.63" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°9'3.84" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°27'13.91" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|24°55'4.58" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|5°31'36.76" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|17°9'23.79" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|22°11'27.44" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°36'36.48" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|1°9'3.83" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°27'13.81" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|24°55'4.77" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|5°31'36.77" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|17°9'23.77" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|22°11'27.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°36'35.63" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

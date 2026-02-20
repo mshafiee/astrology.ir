@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°55'2.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'30.02" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°19'56.29" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°30'1.08" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°38'33.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°9'58.04" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|2°20'34.79" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'29.68" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°19'56.47" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°30'1.60" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°38'33.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|21°9'58.84" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|2°26'14.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°55'2.13" |Aries|Sharatain|Mars|
 |♃ Jupiter|Retrograde|15°33'29.68" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°19'56.30" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°30'1.07" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°38'33.45" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°9'58.01" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°20'35.13" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|23°19'56.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°30'1.60" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°38'33.83" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|21°9'58.84" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°26'14.93" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Abu Shahr, Abu Shehr, Abuschehr, BUZ, Bandar Abu Shehr, Bandar Bushehr, Bandar Būshehr, Bandar-e Bushehr, Bandar-e Būshehr, Bouchehr, Buschehr, Buschir, Busehr, Bushehr, Busher, Bushir, Bushire, Būshehr, Būšehr, bndr bwshhr, bwshhr, bwshihr, Бушер, Бушир, Бӯшеҳр, Бӯшиҳр, بندر بوشهر, بوشهر, بوشِهر
