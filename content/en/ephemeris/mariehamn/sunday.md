@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°25'29.50" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°37'5.37" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|14°47'22.41" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°14'32.34" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|3°50'15.94" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|21°14'40.25" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|4°42'40.02" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°55'50.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'6.15" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°25'30.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°37'6.58" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°47'22.08" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°14'30.96" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°9'39.69" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Retrograde|15°33'7.44" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°25'31.37" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°37'10.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°47'26.28" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°14'40.25" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°42'40.02" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: MHQ, Maarianhamina, Marianhamina, Mariankhamina, Mariehameena, Mariehamn, Mariekhamn, Mariuhoefn, Mariyekhamn, Marrianhamina, Maríuhöfn, malieham, mariehamun, Мариехамн, マリエハムン, 마리에함

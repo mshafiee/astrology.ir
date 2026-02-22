@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°24'43.08" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°36'9.22" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|14°46'8.21" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°13'59.26" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|21°13'59.26" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|3°58'10.78" |Aries|Sharatain|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°55'44.23" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'9.76" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°24'43.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°36'9.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°46'8.21" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°13'59.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°58'10.78" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°55'44.15" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'12.65" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°24'38.57" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°35'59.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°46'3.75" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°13'51.77" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°14'21.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라

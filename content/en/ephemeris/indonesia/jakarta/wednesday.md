@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|1°21'49.43" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°22'14.91" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|26°20'49.13" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|7°21'5.11" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|19°25'12.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|22°33'32.84" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|25°52'19.69" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°21'5.72" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|19°25'13.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|22°33'34.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|26°0'20.62" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Saturn|Saturn|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Saturn|Saturn|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|1°21'49.43" |Aries|Sharatain|Mars|
 |♃ Jupiter|Retrograde|15°22'14.91" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|26°20'49.13" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|7°21'5.11" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|19°25'12.88" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|22°33'32.84" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°52'19.69" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|7°21'5.72" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|19°25'13.44" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|22°33'34.09" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°0'20.62" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Mercury|Moon|Sun|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

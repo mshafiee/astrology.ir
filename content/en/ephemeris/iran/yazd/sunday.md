@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°19'34.76" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°29'33.66" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|14°37'59.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°9'40.27" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Retrograde|21°9'40.27" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|2°18'43.93" |Aries|Sharatain|Mars|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°54'58.95" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'31.25" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|0°54'58.96" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'31.61" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|23°19'34.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°29'33.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°37'59.42" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°9'40.27" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°18'43.93" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°29'33.65" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°37'59.44" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°9'40.24" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°18'44.26" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: AZD, Dakbayan sa Yazd, Giaznt, Jazd, Jazdo, Jezd, Jezdas, Yasd, Yazd, Yezd, Yəzd, iezdi, ya ci de, yajeudeu, yazda, yazudo, yzd, Γιαζντ, Јазд, Йезд, Язд, Յազդ, יזד, يزد, یزد, यज़्द, იეზდი, ヤズド, 亚兹德, 야즈드

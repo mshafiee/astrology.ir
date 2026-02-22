@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°0'57.99" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°30'44.75" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°0'16.73" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|4°21'36.64" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|15°42'31.63" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°40'41.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°24'39.73" |Aries|Butain|Sun|
+|♃ Jupiter|Retrograde|15°30'44.22" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°0'15.86" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|4°21'33.63" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|15°42'28.92" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°40'35.34" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|13°32'15.90" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°0'57.99" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°30'44.75" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|24°0'16.73" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°21'36.64" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|15°42'31.63" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°40'41.21" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°24'39.73" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|15°30'44.22" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|24°0'15.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°21'33.63" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|15°42'28.92" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°40'35.34" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|13°32'15.90" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Jupiter|Mercury|Moon|Sun|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
+|☾ Moon|Mercury|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Amphoe Phra Nakhon, BKK, Ban'nkok, Bancac, Bancocum, Bancoque, Bancác, Banghok, Bangkok, Bangkok Metropolis, Bangkoka, Bangkòk, Banguecoque, Bankok, Bankokas, Bankoko, Banqkok, Changwat Phra Nakhon, Krung Thep, Krung Thep Maha Nakhon, Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit, Krungdeb, Man-kuk, Màn-kuk, Phra Nakhon, Siayuthia, The City of Angels, bainkaka, bainkoka, bamkoka, bangkog, bangkwk, bankeakk, bankoku, bankwk, bngqwq, bnkak, byankak, byankaka, camraata byankaka, krungtheph, krungthephmhankhr, krungtheph‡, man gu, penkak, Μπανγκόκ, Бангкок, Банкок, Баҥкок, Բանգկոկ, באנגקאק, בנגקוק, بانكوك, بانکوک, بانکۆک, بانګکوک, بانگكوك, بنکاک, बँकॉक, बैंकक, बैंकॉक, চাংৱাত ব্যাংকক, ব্যাংকক, ਬੈਂਕਾਕ, பேங்காக், ಬ್ಯಾಂಕಾಕ್, ബാങ്കോക്ക്, බැංකොක්, กรุงเทพ, กรุงเทพมหานคร, กรุงเทพฯ, ບາງກອກ, པན་ཀོག, ဘန်ကောက်မြို့, ბანგკოკი, ባንኮክ, バンコク, 曼谷, 방콕

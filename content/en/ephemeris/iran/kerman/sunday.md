@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°54'55.45" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'33.26" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°19'10.82" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°29'3.13" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°37'21.44" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°9'20.17" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|2°12'22.49" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°54'55.44" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°33'32.90" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°19'10.81" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°29'3.14" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°37'21.43" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°9'20.20" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|2°12'22.16" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°54'55.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'33.26" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°19'10.82" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°29'3.13" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°37'21.44" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°9'20.17" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°12'22.49" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°54'55.44" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'32.90" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°19'10.81" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°29'3.14" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°37'21.43" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°9'20.20" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°12'22.16" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Carmana, Dakbayan sa Kerman, Dakbayan sa Kermān, KER, Kerman, Kermanas, Kermano, Kermon, Kermán, Kermān, Kirman, Kirmon, karmana, ke er man, keleuman, kermani, keruman, krman, Керман, Кирмон, Կերման, כרמאן, كرمان, کرمان, कर्मान, ქერმანი, ケルマーン, 克尔曼, 케르만

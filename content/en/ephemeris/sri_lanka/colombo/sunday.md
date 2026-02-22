@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°54'23.75" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'47.77" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°15'34.61" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°24'27.74" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°31'38.33" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°6'17.53" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|1°16'26.39" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|0°54'23.76" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°33'48.12" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°15'34.62" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°24'27.73" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°31'38.35" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°6'17.50" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|1°16'26.67" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°54'23.75" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°33'47.77" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°15'34.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|3°24'27.74" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°31'38.33" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°6'17.53" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|1°16'26.39" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|0°54'23.76" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'48.12" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°15'34.62" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|3°24'27.73" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|14°31'38.35" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°6'17.50" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°16'26.67" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

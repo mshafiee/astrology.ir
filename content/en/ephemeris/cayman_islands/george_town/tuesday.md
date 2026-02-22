@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°58'47.16" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|6°52'57.89" |Aquarius|SaadAlSaud|Venus|
 |♀ Venus|Direct|18°50'19.76" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|22°30'57.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|19°32'4.36" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|22°30'38.19" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|19°36'20.70" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°18'32.07" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°23'28.28" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°23'27.92" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|25°58'47.16" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|6°52'57.89" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|18°50'15.81" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|22°30'49.52" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°41'40.19" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|18°50'19.76" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|22°30'57.43" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°32'4.36" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}

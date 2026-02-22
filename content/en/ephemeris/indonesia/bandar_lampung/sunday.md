@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°0'48.63" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°30'48.48" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|1°0'48.64" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°30'48.84" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|23°59'13.17" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|4°20'16.02" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|15°40'50.74" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°39'59.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|14°8'37.76" |Aries|Butain|Sun|
+|☉ Sun|Direct|4°20'16.00" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|15°40'50.76" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°39'59.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|14°8'38.51" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°0'48.63" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°30'48.48" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|1°0'48.64" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°30'48.84" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|23°59'13.17" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°20'16.02" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|15°40'50.74" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°39'59.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°8'37.76" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|4°20'16.00" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|15°40'50.76" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°39'59.03" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°8'38.51" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍

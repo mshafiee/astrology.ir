@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:56:00 |
 | Maghrib | 18:12:53 |
 | Isha (Night) | 19:00:38 |
-| Sharia Midnight | 23:39:08 |
+| Sharia Midnight | 23:39:07 |
 | Imum Coeli | 00:16:24 |
 {{< /tab >}}
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°8'58.03" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°27'16.20" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°54'25.66" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|5°30'46.92" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|17°8'21.77" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|22°11'9.68" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|1°8'58.04" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°27'16.59" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°54'25.51" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|5°30'46.51" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|17°8'21.54" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|22°11'9.68" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|0°23'41.20" |Taurus|Thurayya|Mercury|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°8'58.04" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°27'16.56" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|24°54'25.66" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|5°30'46.91" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|17°8'21.79" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|22°11'10.20" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°25'4.83" |Gemini|HaqAh|Jupiter|
+|♃ Jupiter|Retrograde|15°27'16.59" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|24°54'25.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|5°30'46.51" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|17°8'21.54" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|22°11'9.68" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°23'41.20" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

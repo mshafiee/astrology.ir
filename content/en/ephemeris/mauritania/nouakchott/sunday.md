@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°56'16.81" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°32'54.14" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°28'25.21" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|0°56'16.82" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°32'54.49" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°28'25.22" |Capricorn|SaadAlBula|Sun|
 |☉ Sun|Direct|3°40'52.72" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°52'0.57" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°16'59.66" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°59'54.60" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|14°52'0.59" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°16'59.63" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|4°59'55.05" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|0°56'16.81" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°32'54.14" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°28'25.21" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|0°56'16.82" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°32'54.49" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°28'25.22" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|3°40'52.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|14°52'0.57" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°16'59.66" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|4°59'54.60" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|14°52'0.59" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°16'59.63" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°59'55.05" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트

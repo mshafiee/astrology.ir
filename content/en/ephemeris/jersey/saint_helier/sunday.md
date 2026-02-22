@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|0°56'9.96" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°32'58.24" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|23°27'38.70" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°39'51.36" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°50'47.14" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°16'18.99" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|4°33'57.88" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|3°39'40.49" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°50'41.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°16'8.13" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|4°12'41.02" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°27'38.70" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|3°39'51.36" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°50'47.14" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°16'18.99" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|21°16'18.99" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|4°33'57.88" |Taurus|Thurayya|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: JER, Saint Helier, Saint-Helier, Saint-Hélier, Sent-Khel'er, St Helier, St. Helier, seinteuhellieo, Сент-Хельер, 세인트헬리어

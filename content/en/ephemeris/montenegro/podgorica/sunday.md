@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:29:22 |
 | Dhuhr (Noon) | 11:56:23 |
 | Medium Coeli | 11:56:23 |
-| Sunset | 17:24:01 |
+| Sunset | 17:24:02 |
 | Maghrib | 17:42:47 |
 | Isha (Night) | 18:37:19 |
-| Sharia Midnight | 23:13:57 |
+| Sharia Midnight | 23:13:58 |
 | Imum Coeli | 23:56:19 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:29:22 |
 | Dhuhr (Noon) | 11:56:23 |
 | Medium Coeli | 11:56:23 |
-| Sunset | 17:24:02 |
+| Sunset | 17:24:01 |
 | Maghrib | 17:25:21 |
 | Isha (Night) | 18:42:44 |
 | Sharia Midnight | 23:16:40 |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:29:22 |
 | Dhuhr (Noon) | 11:56:23 |
 | Medium Coeli | 11:56:23 |
-| Sunset | 17:24:02 |
+| Sunset | 17:24:01 |
 | Maghrib | 17:25:21 |
 | Isha (Night) | 18:56:18 |
 | Sharia Midnight | 23:04:28 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°55'42.60" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°33'10.29" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°24'31.75" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°35'51.16" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°45'49.02" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°13'42.02" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|2°47'52.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°33'11.05" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°24'32.28" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°35'53.45" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°45'51.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°13'47.29" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|3°45'57.86" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
+|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°24'32.28" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|3°35'53.45" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°45'51.41" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°13'47.29" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|21°13'47.29" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°41'54.46" |Taurus|Thurayya|Mercury|
 
 

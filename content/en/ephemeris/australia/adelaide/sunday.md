@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°0'2.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°31'9.74" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°54'0.95" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|4°13'36.95" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|15°32'35.76" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°36'22.66" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°36'46.12" |Aries|Sharatain|Sun|
+|♃ Jupiter|Retrograde|15°31'9.39" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°53'55.57" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|4°13'23.39" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|15°32'27.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°36'5.74" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°27'7.66" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mercury|Venus|Sun|Jupiter|
+|☾ Moon|Venus|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Leo|Moon|Mars|
 |☿ Mercury|Mercury|Mars|Libra|Moon|Mars|
-|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Leo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°0'2.67" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°31'9.74" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°54'0.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|4°13'36.95" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|15°32'35.76" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°36'22.66" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°36'46.12" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Retrograde|15°31'10.84" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°53'55.57" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|4°13'23.40" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|15°32'27.18" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|21°36'5.78" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°27'7.66" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Venus|Mars|Virgo|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Moon|Mars|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>✱ Sextile|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드

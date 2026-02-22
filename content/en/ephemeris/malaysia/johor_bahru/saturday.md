@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|0°53'55.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°34'1.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°12'18.42" |Capricorn|SaadAlBula|Sun|
-|☉ Sun|Direct|3°20'16.11" |Aquarius|SaadAlSaud|Venus|
-|♀ Venus|Direct|14°26'26.29" |Aquarius|SaadAlAkhbia|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|21°3'25.22" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|29°52'1.92" |Pisces|Rescha|Mars|
+|♃ Jupiter|Retrograde|15°34'1.88" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°12'18.68" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|3°20'17.31" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°26'27.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Retrograde|21°3'28.01" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|0°20'11.87" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Saturn|Saturn|
 |♀ Venus|Jupiter|Venus|Mercury|Moon|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Pisces|Sun|Saturn|
 |♀ Venus|Sun|Saturn|Cancer|Sun|Saturn|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°12'18.68" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|3°20'17.31" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|14°26'27.55" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|21°3'28.01" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|21°3'28.01" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|0°20'11.87" |Taurus|Thurayya|Mercury|
 
 
