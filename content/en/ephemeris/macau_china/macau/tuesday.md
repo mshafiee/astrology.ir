@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 11:45:08|Night duration: 12:14:02|
+|Duration of the day: 11:45:07|Night duration: 12:14:02|
 |Every hour duration: 01:40:44|Every hour duration: 01:44:52|
 
  
@@ -264,7 +264,7 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|06:45:20|08:26:03|
+|Early morning|Mars|Ruler|06:45:21|08:26:03|
 |Mid-morning|Sun|Servant|08:26:04|10:06:47|
 |Late morning|Venus|Servant|10:06:48|11:47:31|
 |Noon|Mercury|Servant|11:47:32|13:28:15|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°4'38.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°10'18.86" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°4'1.12" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|13°21'49.88" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|26°53'16.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|20°8'6.55" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|18°21'2.17" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Retrograde|15°10'18.52" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°4'1.13" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|13°21'49.90" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|26°53'16.61" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|20°8'6.62" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|18°21'2.81" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°4'38.61" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°10'19.29" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°3'57.23" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|13°21'39.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|26°53'9.76" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|20°7'50.24" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°29'41.70" |Virgo|Simak|Venus|
+|♃ Jupiter|Retrograde|15°10'18.52" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°4'1.13" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|13°21'49.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|26°53'16.61" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|20°8'6.62" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|18°21'2.81" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

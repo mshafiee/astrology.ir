@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°12'13.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'56.54" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°53'29.85" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|14°24'42.71" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|28°11'26.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|19°14'53.13" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°34'54.80" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|15°8'56.19" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°53'30.87" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|14°24'46.34" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°11'29.64" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|19°14'59.52" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|1°59'50.10" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°12'13.30" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'56.54" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°8'56.19" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°53'30.87" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°24'46.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°11'29.65" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|19°14'59.45" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|1°59'50.01" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|14°24'46.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°11'29.64" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|19°14'59.52" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|1°59'50.10" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

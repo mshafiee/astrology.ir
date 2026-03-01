@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:27:54 |
 | Isha (Night) | 19:41:16 |
 | Sharia Midnight | 23:52:03 |
-| Imum Coeli | 00:33:46 |
+| Imum Coeli | 00:33:45 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:27:54 |
 | Isha (Night) | 19:43:28 |
 | Sharia Midnight | 23:55:20 |
-| Imum Coeli | 00:33:46 |
+| Imum Coeli | 00:33:45 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:27:54 |
 | Isha (Night) | 19:57:54 |
 | Sharia Midnight | 23:54:14 |
-| Imum Coeli | 00:33:46 |
+| Imum Coeli | 00:33:45 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°13'4.33" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'48.72" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°59'2.46" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°31'46.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°20'14.19" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|19°8'37.24" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|3°45'38.49" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°8'48.18" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°59'3.57" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°31'49.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°20'15.36" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|19°8'40.76" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|3°33'52.81" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

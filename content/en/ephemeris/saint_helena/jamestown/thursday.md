@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°14'11.88" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'36.17" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°6'21.49" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|14°41'3.63" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|28°31'45.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|19°0'11.86" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°7'12.53" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|15°8'36.68" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°6'23.38" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|14°41'9.43" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°31'50.02" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|19°0'21.51" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°16'51.66" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°14'11.88" |Aries|Sharatain|Mars|
 |♃ Jupiter|Retrograde|15°8'36.68" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°6'21.49" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°41'3.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°31'45.52" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|19°0'11.79" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|6°7'12.57" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|2°6'23.38" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°41'9.43" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°31'50.02" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|19°0'21.51" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|5°16'51.66" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Mars|Mercury|Moon|Sun|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

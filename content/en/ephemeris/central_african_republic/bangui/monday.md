@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|29°41'41.94" |Capricorn|SaadAlSaud|Sun|
 |☉ Sun|Direct|11°37'5.81" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|24°43'7.72" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|21°21'19.81" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|24°57'7.30" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|21°21'15.28" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|25°14'56.51" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Gemini|Sun|Saturn|
 |♀ Venus|Mercury|Venus|Scorpio|Moon|Mars|
 |☿ Mercury|Venus|Mars|Libra|Moon|Mars|
-|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
+|☾ Moon|Venus|Saturn|Taurus|Sun|Mars|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°13'3.94" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|29°41'41.94" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|11°37'5.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°43'5.20" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|21°21'19.81" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°57'7.30" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|24°43'7.72" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|21°21'15.28" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|25°14'56.51" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Jupiter|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}

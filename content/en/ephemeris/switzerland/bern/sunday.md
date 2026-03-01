@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:35:49 |
 | Isha (Night) | 19:34:34 |
 | Sharia Midnight | 23:56:37 |
-| Imum Coeli | 00:42:23 |
+| Imum Coeli | 00:42:24 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:20:24 |
 | Isha (Night) | 19:52:16 |
 | Sharia Midnight | 23:50:43 |
-| Imum Coeli | 00:42:23 |
+| Imum Coeli | 00:42:24 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Retrograde|15°14'49.16" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|28°56'48.27" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|10°39'53.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|23°32'6.51" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|21°51'31.83" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°35'16.92" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|23°32'7.58" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|21°51'34.56" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°22'0.96" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:00:48 |
-| Sunrise | 06:07:40 |
+| Sunrise | 06:07:41 |
 | Dhuhr (Noon) | 12:22:07 |
 | Medium Coeli | 12:22:07 |
 | Sunset | 18:36:15 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:51:59 |
-| Sunrise | 06:07:40 |
+| Sunrise | 06:07:41 |
 | Dhuhr (Noon) | 12:22:07 |
 | Medium Coeli | 12:22:07 |
 | Sunset | 18:36:15 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:49:46 |
-| Sunrise | 06:07:40 |
+| Sunrise | 06:07:41 |
 | Dhuhr (Noon) | 12:22:07 |
 | Medium Coeli | 12:22:07 |
 | Sunset | 18:36:15 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:28:35|Night duration: 11:31:48|
+|Duration of the day: 12:28:34|Night duration: 11:31:48|
 |Every hour of day duration: 01:02:23|Every hour of night duration: 00:57:39|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:07:40|07:10:01|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|07:10:02|08:12:24|Outer and inner journey|
-|3|Jupiter|Servant|08:12:25|09:14:47|Marriage connection is good|
-|4|Mars|Servant|09:14:48|10:17:10|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:17:11|11:19:33|Answering needs, attracting love and wealth|
-|6|Venus|Servant|11:19:34|12:21:56|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|12:21:57|13:24:19|Making promises|
+|1|Moon|Ruler|06:07:41|07:10:02|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|07:10:03|08:12:25|Outer and inner journey|
+|3|Jupiter|Servant|08:12:26|09:14:48|Marriage connection is good|
+|4|Mars|Servant|09:14:49|10:17:11|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:17:12|11:19:34|Answering needs, attracting love and wealth|
+|6|Venus|Servant|11:19:35|12:21:57|Summoning the person of interest, love and dominance|
+|7|Mercury|Servant|12:21:58|13:24:19|Making promises|
 |8|Moon|Ruler|13:24:20|14:26:42|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:26:43|15:29:05|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:29:06|16:31:28|Good for any task|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:28:35|Night duration: 11:31:48|
+|Duration of the day: 12:28:34|Night duration: 11:31:48|
 |Every hour duration: 01:46:56|Every hour duration: 01:38:50|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:07:40|07:54:35|
-|Mid-morning|Saturn|Servant|07:54:36|09:41:31|
-|Late morning|Jupiter|Servant|09:41:32|11:28:28|
-|Noon|Mars|Servant|11:28:29|13:15:24|
-|Early afternoon|Sun|Servant|13:15:25|15:02:21|
+|Early morning|Moon|Ruler|06:07:41|07:54:36|
+|Mid-morning|Saturn|Servant|07:54:37|09:41:32|
+|Late morning|Jupiter|Servant|09:41:33|11:28:28|
+|Noon|Mars|Servant|11:28:29|13:15:25|
+|Early afternoon|Sun|Servant|13:15:26|15:02:21|
 |Mid-afternoon|Venus|Servant|15:02:22|16:49:17|
 |Late afternoon|Mercury|Servant|16:49:18|18:36:14|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|1°51'15.47" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°13'16.26" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°36'9.37" |Capricorn|SaadAlSaud|Sun|
-|☉ Sun|Direct|11°30'2.89" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|24°34'21.73" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|21°25'35.02" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|23°10'8.14" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|1°51'15.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°13'18.30" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°36'2.35" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|11°29'45.70" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|24°34'11.40" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|21°25'9.88" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|24°51'20.99" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|1°51'15.47" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°13'18.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|29°36'2.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|11°29'45.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|24°34'11.35" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|21°25'9.90" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°51'20.56" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Retrograde|15°13'16.26" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|29°36'9.37" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|11°30'2.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|24°34'21.73" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|21°25'35.02" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°10'8.14" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Jupiter|Mars|Mars|
+|☾ Moon|Mercury|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
 
 
 {{< /tab >}}

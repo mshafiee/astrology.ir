@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
 | Maghrib | 19:16:41 |
-| Isha (Night) | 20:09:48 |
+| Isha (Night) | 20:09:47 |
 | Sharia Midnight | 00:34:33 |
 | Imum Coeli | 01:15:46 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
 | Maghrib | 19:19:21 |
-| Isha (Night) | 20:09:48 |
+| Isha (Night) | 20:09:47 |
 | Sharia Midnight | 00:30:01 |
 | Imum Coeli | 01:15:46 |
 {{< /tab >}}
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:15:52 |
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
-| Maghrib | 18:59:48 |
+| Maghrib | 18:59:47 |
 | Isha (Night) | 20:15:07 |
 | Sharia Midnight | 00:37:13 |
 | Imum Coeli | 01:15:46 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:15:52 |
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
-| Maghrib | 18:59:48 |
+| Maghrib | 18:59:47 |
 | Isha (Night) | 20:31:08 |
 | Sharia Midnight | 00:29:13 |
 | Imum Coeli | 01:15:46 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|13°36'22.54" |Aquarius|SaadAlAkhbia|Mercury|
 |♀ Venus|Direct|27°11'22.63" |Aquarius|FarghAlMuqaddam|Moon|
 |☿ Mercury|Retrograde|19°56'16.26" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°47'36.39" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°46'38.59" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
