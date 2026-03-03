@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:15:52 |
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
-| Maghrib | 18:59:47 |
+| Maghrib | 18:59:48 |
 | Isha (Night) | 20:25:47 |
 | Sharia Midnight | 00:29:13 |
 | Imum Coeli | 01:15:46 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:15:52 |
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
-| Maghrib | 18:59:47 |
+| Maghrib | 18:59:48 |
 | Isha (Night) | 20:15:07 |
 | Sharia Midnight | 00:37:13 |
 | Imum Coeli | 01:15:46 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:15:52 |
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
-| Maghrib | 18:59:47 |
+| Maghrib | 18:59:48 |
 | Isha (Night) | 20:28:27 |
 | Sharia Midnight | 00:25:12 |
 | Imum Coeli | 01:15:46 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:15:52 |
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
-| Maghrib | 18:59:47 |
+| Maghrib | 18:59:48 |
 | Isha (Night) | 20:31:08 |
 | Sharia Midnight | 00:29:13 |
 | Imum Coeli | 01:15:46 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:15:52 |
 | Medium Coeli | 13:15:52 |
 | Sunset | 18:58:36 |
-| Maghrib | 18:59:47 |
+| Maghrib | 18:59:48 |
 | Isha (Night) | 20:29:47 |
 | Sharia Midnight | 00:27:53 |
 | Imum Coeli | 01:15:46 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°6'23.62" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°9'58.96" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|15°9'58.62" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°15'28.13" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|13°36'22.54" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|27°11'22.63" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|19°56'16.26" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°46'38.59" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|13°36'22.56" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|27°11'22.61" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|19°56'16.33" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|21°47'36.90" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

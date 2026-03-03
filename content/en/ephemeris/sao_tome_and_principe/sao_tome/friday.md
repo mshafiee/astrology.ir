@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:44:17 |
 | Sunset | 17:47:38 |
 | Maghrib | 17:48:31 |
-| Isha (Night) | 18:53:29 |
+| Isha (Night) | 18:53:28 |
 | Sharia Midnight | 23:09:15 |
 | Imum Coeli | 23:44:10 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°21'14.89" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°7'35.41" |Gemini|HanAh|Mars|
+|♃ Jupiter|Retrograde|15°7'35.07" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|2°52'14.86" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|15°39'25.84" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|29°44'16.49" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|18°5'35.70" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|17°43'12.09" |Virgo|Simak|Venus|
+|☉ Sun|Direct|15°39'25.86" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|29°44'16.47" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|18°5'35.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|17°43'11.73" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°21'14.89" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°7'36.38" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°52'12.89" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|15°39'22.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|29°44'15.03" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|18°5'30.01" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|17°48'22.57" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|15°7'35.07" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°52'14.86" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|15°39'25.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|29°44'16.47" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|18°5'35.78" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|17°43'11.73" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

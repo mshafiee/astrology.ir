@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:05:31 |
 | Sunset | 18:39:37 |
 | Maghrib | 18:43:15 |
-| Isha (Night) | 20:39:20 |
+| Isha (Night) | 20:39:21 |
 | Sharia Midnight | 23:57:44 |
 | Imum Coeli | 01:05:24 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°20'17.22" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°7'43.52" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°46'0.99" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|15°31'27.85" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|29°34'26.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|18°13'0.24" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|16°38'7.69" |Virgo|Awwa|Venus|
+|♃ Jupiter|Retrograde|15°7'43.86" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°46'0.98" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|15°31'27.83" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|29°34'26.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|18°13'0.17" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|16°38'8.02" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°13'39.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'41.90" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°2'53.11" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|14°36'42.10" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|28°26'17.85" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|19°4'23.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°20'18.40" |Virgo|Awwa|Sun|
+|♃ Jupiter|Retrograde|15°8'45.25" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°2'46.72" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|14°36'28.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°26'10.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|19°4'2.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°30'47.13" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°13'39.61" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'41.90" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°8'42.24" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|2°2'53.11" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°36'42.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°26'17.85" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|19°4'23.36" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|14°36'42.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°26'17.87" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|19°4'23.29" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|4°20'18.40" |Libra|Ghafr|Moon|
 
 
