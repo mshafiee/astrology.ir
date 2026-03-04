@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:07:03 |
 | Sunset | 17:51:00 |
 | Maghrib | 17:53:19 |
-| Isha (Night) | 19:13:57 |
+| Isha (Night) | 19:13:58 |
 | Sharia Midnight | 23:25:07 |
 | Imum Coeli | 00:06:56 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°28'26.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°6'43.54" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°38'53.88" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|16°38'36.04" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|0°57'55.23" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|17°6'49.11" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°26'17.14" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|2°28'26.69" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°6'44.24" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°38'55.42" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|16°38'41.16" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|0°57'59.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|17°6'57.13" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|0°28'19.41" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°28'26.69" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°6'44.58" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°6'44.24" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|3°38'55.42" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|16°38'41.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|0°57'59.53" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|17°6'57.06" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|0°28'19.92" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|16°38'41.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|0°57'59.52" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|17°6'57.13" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|0°14'5.54" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

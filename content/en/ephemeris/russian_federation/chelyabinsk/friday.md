@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:05:31 |
 | Sunset | 18:39:37 |
 | Maghrib | 18:43:15 |
-| Isha (Night) | 20:39:21 |
+| Isha (Night) | 20:39:20 |
 | Sharia Midnight | 23:57:44 |
 | Imum Coeli | 01:05:24 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°20'17.22" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°7'43.86" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°46'0.98" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|15°31'27.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|29°34'26.48" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|18°13'0.17" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|16°38'8.02" |Libra|Jubana|Saturn|
+|♃ Jupiter|Retrograde|15°7'43.37" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°46'1.57" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|15°31'28.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|29°34'26.74" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|18°13'1.66" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|16°38'55.70" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°35'7.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°6'6.37" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°22'2.98" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|17°33'23.25" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|2°6'2.88" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|16°11'27.38" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°42'51.07" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Retrograde|15°6'6.82" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°22'6.64" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|17°33'33.41" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|2°6'10.14" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|16°11'43.06" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°24'43.63" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Virgo|Moon|Mars|
 |♀ Venus|Jupiter|Moon|Pisces|Moon|Jupiter|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°35'7.51" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°6'6.48" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|4°22'6.64" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|17°33'33.43" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|2°6'10.12" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|16°11'43.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|2°35'7.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°6'6.82" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|4°22'2.97" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|17°33'23.23" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|2°6'2.90" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|16°11'27.30" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|12°42'51.68" |Scorpio|Qalb|Sun|
 
 

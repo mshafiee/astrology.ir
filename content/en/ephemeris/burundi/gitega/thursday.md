@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:57:51 |
-| Sunrise | 06:07:20 |
+| Sunrise | 06:07:21 |
 | Dhuhr (Noon) | 12:11:45 |
 | Medium Coeli | 12:11:45 |
 | Sunset | 18:16:06 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:08:46 |
-| Sunrise | 06:07:21 |
+| Sunrise | 06:07:20 |
 | Dhuhr (Noon) | 12:11:45 |
 | Medium Coeli | 12:11:45 |
 | Sunset | 18:16:06 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:56:38 |
-| Sunrise | 06:07:20 |
+| Sunrise | 06:07:21 |
 | Dhuhr (Noon) | 12:11:45 |
 | Medium Coeli | 12:11:45 |
 | Sunset | 18:16:06 |
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:08:46|Night duration: 11:51:07|
-|Every hour duration: 01:44:07|Every hour duration: 01:41:35|
+|Duration of the day: 12:08:45|Night duration: 11:51:07|
+|Every hour duration: 01:44:06|Every hour duration: 01:41:35|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:07:20|07:51:25|
-|Mid-morning|Mars|Servant|07:51:26|09:35:32|
-|Late morning|Sun|Servant|09:35:33|11:19:38|
-|Noon|Venus|Servant|11:19:39|13:03:45|
-|Early afternoon|Mercury|Servant|13:03:46|14:47:51|
-|Mid-afternoon|Moon|Servant|14:47:52|16:31:58|
+|Early morning|Jupiter|Ruler|06:07:21|07:51:26|
+|Mid-morning|Mars|Servant|07:51:27|09:35:32|
+|Late morning|Sun|Servant|09:35:33|11:19:39|
+|Noon|Venus|Servant|11:19:40|13:03:45|
+|Early afternoon|Mercury|Servant|13:03:46|14:47:52|
+|Mid-afternoon|Moon|Servant|14:47:53|16:31:58|
 |Late afternoon|Saturn|Servant|16:31:59|18:16:05|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°13'30.57" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'46.02" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|2°1'50.77" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|14°35'20.24" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|28°24'42.23" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|19°5'20.49" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°31'11.04" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|2°13'30.56" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°8'43.68" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|2°1'54.25" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|14°35'27.10" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°24'44.86" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|19°5'30.25" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|4°6'3.77" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°13'30.56" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'43.68" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°1'54.25" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°35'27.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°24'44.86" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|19°5'30.25" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|4°6'3.77" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°8'42.83" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°1'53.62" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°35'24.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°24'42.76" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|19°5'26.27" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|4°29'23.35" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Leo|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

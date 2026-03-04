@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°12'22.41" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'56.22" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°54'25.71" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|14°25'50.06" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|28°12'56.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☿ Mercury|Retrograde|19°13'32.65" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°37'12.02" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Retrograde|15°8'54.78" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°54'30.32" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|14°26'1.52" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|28°13'3.65" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Retrograde|19°13'50.59" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°21'23.70" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Saturn|Cancer|Sun|Saturn|
 |♀ Venus|Moon|Mercury|Capricorn|Moon|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°12'22.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'55.12" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°8'54.78" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°54'30.32" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°26'1.50" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°13'3.67" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|19°13'50.51" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|2°21'23.62" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|14°26'1.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°13'3.65" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|19°13'50.59" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|2°21'23.70" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
