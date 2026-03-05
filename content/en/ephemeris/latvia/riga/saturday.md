@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 07:00:44 |
 | Dhuhr (Noon) | 12:34:33 |
 | Medium Coeli | 12:34:33 |
-| Sunset | 18:09:29 |
+| Sunset | 18:09:30 |
 | Maghrib | 18:34:30 |
 | Isha (Night) | 19:48:27 |
-| Sharia Midnight | 23:36:52 |
+| Sharia Midnight | 23:36:53 |
 | Imum Coeli | 00:34:26 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:00:44 |
 | Dhuhr (Noon) | 12:34:33 |
 | Medium Coeli | 12:34:33 |
-| Sunset | 18:09:29 |
+| Sunset | 18:09:30 |
 | Maghrib | 18:11:08 |
 | Isha (Night) | 20:11:19 |
 | Sharia Midnight | 23:29:10 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 07:00:44 |
 | Dhuhr (Noon) | 12:34:33 |
 | Medium Coeli | 12:34:33 |
-| Sunset | 18:09:29 |
+| Sunset | 18:09:30 |
 | Maghrib | 18:11:08 |
 | Isha (Night) | 20:15:12 |
-| Sharia Midnight | 23:23:16 |
+| Sharia Midnight | 23:23:17 |
 | Imum Coeli | 00:34:26 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:00:44 |
 | Dhuhr (Noon) | 12:34:33 |
 | Medium Coeli | 12:34:33 |
-| Sunset | 18:09:29 |
+| Sunset | 18:09:30 |
 | Maghrib | 18:11:08 |
 | Isha (Night) | 20:19:05 |
 | Sharia Midnight | 23:29:10 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 07:00:44 |
 | Dhuhr (Noon) | 12:34:33 |
 | Medium Coeli | 12:34:33 |
-| Sunset | 18:09:29 |
+| Sunset | 18:09:30 |
 | Maghrib | 18:11:08 |
 | Isha (Night) | 19:41:08 |
 | Sharia Midnight | 23:27:13 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:08:45|Night duration: 12:48:35|
+|Duration of the day: 11:08:46|Night duration: 12:48:34|
 |Every hour of day duration: 00:55:44|Every hour of night duration: 01:04:03|
 
  
@@ -220,25 +220,25 @@ Timetable of twelve day and night planetary hours
 |2|Jupiter|Servant|07:56:27|08:52:10|Peace among people|
 |3|Mars|Servant|08:52:11|09:47:54|Vengeful and evil deeds|
 |4|Sun|Servant|09:47:55|10:43:38|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:43:39|11:39:21|Auspicious|
-|6|Mercury|Servant|11:39:22|12:35:05|Writing, swapping and making promises|
-|7|Moon|Servant|12:35:06|13:30:49|Not suitable for any task|
+|5|Venus|Servant|10:43:39|11:39:22|Auspicious|
+|6|Mercury|Servant|11:39:23|12:35:06|Writing, swapping and making promises|
+|7|Moon|Servant|12:35:07|13:30:49|Not suitable for any task|
 |8|Saturn|Ruler|13:30:50|14:26:33|Destruction of enemies|
-|9|Jupiter|Servant|14:26:34|15:22:16|All good deeds|
-|10|Mars|Servant|15:22:17|16:18:00|Doing evil deeds|
-|11|Sun|Servant|16:18:01|17:13:44|Acceptance of reconciliation between couples|
-|12|Venus|Servant|17:13:45|18:09:28|For gaining dignity|
+|9|Jupiter|Servant|14:26:34|15:22:17|All good deeds|
+|10|Mars|Servant|15:22:18|16:18:01|Doing evil deeds|
+|11|Sun|Servant|16:18:02|17:13:45|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:13:46|18:09:29|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:09:29|19:13:30|Related to talismans, amulets and responses|
-|2|Moon|Servant|19:13:31|20:17:33|Peace among people|
-|3|Saturn|Servant|20:17:34|21:21:36|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:21:37|22:25:39|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:25:40|23:29:42|Auspicious|
-|6|Sun|Servant|23:29:43|00:33:45|Writing, swapping and making promises|
-|7|Venus|Servant|00:33:46|01:37:48|Not suitable for any task|
+|1|Mercury|Ruler|18:09:30|19:13:31|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:13:32|20:17:34|Peace among people|
+|3|Saturn|Servant|20:17:35|21:21:37|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:21:38|22:25:40|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:25:41|23:29:43|Auspicious|
+|6|Sun|Servant|23:29:44|00:33:46|Writing, swapping and making promises|
+|7|Venus|Servant|00:33:47|01:37:48|Not suitable for any task|
 |8|Mercury|Ruler|01:37:49|02:41:51|Destruction of enemies|
 |9|Moon|Servant|02:41:52|03:45:54|All good deeds|
 |10|Saturn|Servant|03:45:55|04:49:57|Doing evil deeds|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:08:45|Night duration: 12:48:35|
+|Duration of the day: 11:08:46|Night duration: 12:48:34|
 |Every hour duration: 01:35:32|Every hour duration: 01:49:48|
 
  
@@ -267,18 +267,18 @@ Timetable of septet day and night planetary hours
 |Early morning|Saturn|Ruler|07:00:44|08:36:15|
 |Mid-morning|Jupiter|Servant|08:36:16|10:11:47|
 |Late morning|Mars|Servant|10:11:48|11:47:19|
-|Noon|Sun|Servant|11:47:20|13:22:51|
-|Early afternoon|Venus|Servant|13:22:52|14:58:23|
-|Mid-afternoon|Mercury|Servant|14:58:24|16:33:55|
-|Late afternoon|Moon|Servant|16:33:56|18:09:28|
+|Noon|Sun|Servant|11:47:20|13:22:52|
+|Early afternoon|Venus|Servant|13:22:53|14:58:24|
+|Mid-afternoon|Mercury|Servant|14:58:25|16:33:56|
+|Late afternoon|Moon|Servant|16:33:57|18:09:29|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|18:09:29|19:59:15|
-|Late evening|Moon|Servant|19:59:16|21:49:03|
-|Midnight|Saturn|Servant|21:49:04|23:38:51|
-|Late at night|Jupiter|Servant|23:38:52|01:28:39|
+|Evening|Mercury|Ruler|18:09:30|19:59:16|
+|Late evening|Moon|Servant|19:59:17|21:49:04|
+|Midnight|Saturn|Servant|21:49:05|23:38:52|
+|Late at night|Jupiter|Servant|23:38:53|01:28:39|
 |Rooster song|Mars|Servant|01:28:40|03:18:27|
 |False Dawn|Sun|Servant|03:18:28|05:08:15|
 |Dawn|Venus|Servant|05:08:16|06:58:03|

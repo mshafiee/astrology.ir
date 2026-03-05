@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:57:32 |
 | Maghrib | 18:01:57 |
 | Isha (Night) | 19:07:40 |
-| Sharia Midnight | 23:21:02 |
+| Sharia Midnight | 23:21:03 |
 | Imum Coeli | 00:00:19 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°15'54.28" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'23.54" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°17'25.55" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|14°55'5.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|28°49'18.67" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|18°47'4.94" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|9°16'50.84" |Libra|Ghafr|Moon|
+|♃ Jupiter|Retrograde|15°8'21.21" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°17'30.41" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|14°55'1.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|28°49'14.54" |Pisces|Rescha|Mars|
+|☿ Mercury|Retrograde|18°46'56.84" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|10°5'14.27" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Leo|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}

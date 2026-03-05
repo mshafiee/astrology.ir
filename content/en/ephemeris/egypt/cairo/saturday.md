@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:43:54|Night duration: 12:14:58|
+|Duration of the day: 11:43:54|Night duration: 12:14:57|
 |Every hour of day duration: 00:58:39|Every hour of night duration: 01:01:15|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Moon|Servant|18:59:23|20:00:37|Peace among people|
 |3|Saturn|Servant|20:00:38|21:01:52|Vengeful and evil deeds|
 |4|Jupiter|Servant|21:01:53|22:03:07|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:03:08|23:04:22|Auspicious|
-|6|Sun|Servant|23:04:23|00:05:37|Writing, swapping and making promises|
-|7|Venus|Servant|00:05:38|01:06:51|Not suitable for any task|
+|5|Mars|Servant|22:03:08|23:04:21|Auspicious|
+|6|Sun|Servant|23:04:22|00:05:36|Writing, swapping and making promises|
+|7|Venus|Servant|00:05:37|01:06:51|Not suitable for any task|
 |8|Mercury|Ruler|01:06:52|02:08:06|Destruction of enemies|
-|9|Moon|Servant|02:08:07|03:09:21|All good deeds|
-|10|Saturn|Servant|03:09:22|04:10:36|Doing evil deeds|
-|11|Jupiter|Servant|04:10:37|05:11:51|Acceptance of reconciliation between couples|
-|12|Mars|Servant|05:11:52|06:13:06|For gaining dignity|
+|9|Moon|Servant|02:08:07|03:09:20|All good deeds|
+|10|Saturn|Servant|03:09:21|04:10:35|Doing evil deeds|
+|11|Jupiter|Servant|04:10:36|05:11:50|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:11:51|06:13:05|For gaining dignity|
 
  
  
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|3°36'39.16" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|16°35'49.07" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|0°54'24.21" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|17°9'54.86" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|29°42'46.28" |Libra|Akleel|Jupiter|
+|☿ Mercury|Retrograde|17°9'42.61" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|0°52'51.83" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Mercury|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Mars|Moon|Scorpio|Moon|Mars|
 
 
 {{< /tab >}}

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°34'59.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°6'7.25" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°21'17.96" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|17°32'30.92" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|2°4'53.39" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|16°12'42.63" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|11°17'49.96" |Libra|Ghafr|Saturn|
+|♃ Jupiter|Retrograde|15°6'8.71" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°21'16.88" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|17°32'29.33" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|2°4'53.35" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|16°12'39.75" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|10°58'23.72" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Jupiter|Saturn|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°34'59.94" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°6'7.25" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°6'7.59" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|4°21'17.96" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|17°32'30.92" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|2°4'53.39" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|16°12'42.63" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|11°17'49.96" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|17°32'30.90" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|2°4'53.41" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|16°12'42.55" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|11°17'50.56" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
