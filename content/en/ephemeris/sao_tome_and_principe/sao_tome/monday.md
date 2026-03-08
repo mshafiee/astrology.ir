@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Moon|Ruler|12:44:07|13:44:39|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|13:44:40|14:45:13|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|14:45:14|15:45:46|Good for any task|
-|11|Mars|Servant|15:45:47|16:46:20|Creating enmity and negative energy|
+|11|Mars|Servant|15:45:47|16:46:20|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Sun|Servant|16:46:21|17:46:54|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°43'10.67" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'34.94" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°14'1.72" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|18°39'27.78" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|3°28'6.71" |Pisces|FarghAlMuqaddam|Saturn|
-|☿ Mercury|Retrograde|15°5'6.91" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|24°43'52.39" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Retrograde|15°5'36.25" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°13'59.73" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|18°39'23.98" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|3°28'5.33" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Retrograde|15°5'0.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|24°26'3.04" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

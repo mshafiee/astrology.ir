@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°49'42.35" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'20.13" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°55'57.17" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|19°32'32.31" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|4°34'15.13" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|14°11'56.55" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°27'40.75" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|2°49'42.36" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°5'19.73" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°56'0.76" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|19°32'42.04" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|4°34'21.84" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|14°12'11.08" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°33'57.56" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Mercury|Moon|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mars|Venus|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°49'42.35" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'20.07" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°56'0.75" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|19°32'42.01" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|2°49'42.36" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°5'19.73" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|5°56'0.76" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|19°32'42.04" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|4°34'21.86" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|14°12'10.98" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|5°33'58.27" |Sagittarius|NaAaem|Mercury|
