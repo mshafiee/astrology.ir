@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:38:52 |
 | Sunrise | 06:48:12 |
-| Dhuhr (Noon) | 12:44:17 |
-| Medium Coeli | 12:44:17 |
+| Dhuhr (Noon) | 12:44:16 |
+| Medium Coeli | 12:44:16 |
 | Sunset | 18:40:52 |
 | Maghrib | 18:45:22 |
 | Isha (Night) | 19:50:19 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°12'6.40" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'37.67" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°19'21.49" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°34'27.53" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°20'26.69" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|11°30'47.12" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|12°3'15.21" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Retrograde|15°5'39.80" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°19'18.35" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°34'21.78" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°20'24.79" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|11°30'35.50" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|11°4'13.00" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Venus|Jupiter|Moon|Sun|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

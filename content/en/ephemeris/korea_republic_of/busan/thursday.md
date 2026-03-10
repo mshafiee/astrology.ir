@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:28:44 |
 | Maghrib | 18:29:50 |
 | Isha (Night) | 19:39:16 |
-| Sharia Midnight | 23:58:02 |
+| Sharia Midnight | 23:58:01 |
 | Imum Coeli | 00:33:31 |
 {{< /tab >}}
 
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|8°7'12.13" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|22°19'3.10" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|8°1'16.72" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|11°42'55.16" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|8°56'8.23" |Sagittarius|NaAaem|Mercury|
+|☿ Mercury|Retrograde|11°42'55.57" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|8°54'51.69" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°10'12.06" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'31.64" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°7'12.03" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|22°19'2.80" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|8°1'16.47" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|11°42'55.26" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|8°56'8.75" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Retrograde|15°5'32.00" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°7'12.13" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°19'3.10" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|8°1'16.72" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|11°42'55.57" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|8°54'51.69" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

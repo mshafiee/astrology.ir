@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|13:41:11|14:38:19|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|14:38:20|15:35:27|Good for any task|
 |11|Mars|Servant|15:35:28|16:32:35|Creating enmity and negative energy|
-|12|Sun|Servant|16:32:36|17:29:44|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Sun|Servant|16:32:36|17:29:44|Heart tenderness|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|

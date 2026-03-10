@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 18:26:59 |
 | Maghrib | 18:41:21 |
 | Isha (Night) | 19:21:26 |
-| Sharia Midnight | 23:52:54 |
+| Sharia Midnight | 23:52:53 |
 | Imum Coeli | 00:24:07 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'38.85" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'14.16" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|6°59'44.69" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|20°53'33.87" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|6°14'53.74" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|12°56'6.55" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°41'27.26" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|2°59'38.14" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°5'16.85" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|6°59'38.97" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|20°53'21.74" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|6°14'47.95" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|12°55'45.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°57'14.14" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Venus|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Mercury|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}

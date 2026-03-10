@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 12:15:56|Night duration: 11:44:18|
-|Every hour of day duration: 01:01:20|Every hour of night duration: 00:58:41|
+|Every hour of day duration: 01:01:20|Every hour of night duration: 00:58:42|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°8'28.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'26.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°56'9.42" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|22°5'5.13" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°43'51.45" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|11°54'23.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°10'28.91" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|3°8'28.33" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°5'27.11" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°56'9.41" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|22°5'5.10" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°43'51.47" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|11°54'23.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|6°10'28.48" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
