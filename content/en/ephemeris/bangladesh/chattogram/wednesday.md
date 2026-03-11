@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:02:41 |
 | Sunset | 18:00:30 |
 | Maghrib | 18:15:11 |
-| Isha (Night) | 18:58:26 |
+| Isha (Night) | 18:58:27 |
 | Sharia Midnight | 23:29:07 |
 | Imum Coeli | 00:02:33 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:02:41 |
 | Sunset | 18:00:30 |
 | Maghrib | 18:17:20 |
-| Isha (Night) | 18:58:26 |
+| Isha (Night) | 18:58:27 |
 | Sharia Midnight | 23:25:26 |
 | Imum Coeli | 00:02:33 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°56'10.82" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'13.82" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Retrograde|15°5'13.77" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|6°37'32.68" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|20°25'23.83" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|5°39'52.86" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|13°21'55.41" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|16°3'7.09" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|20°25'23.78" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|5°39'52.77" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|13°21'55.39" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|16°5'10.13" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

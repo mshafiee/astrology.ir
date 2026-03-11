@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 11:45:45|Night duration: 12:12:45|
+|Duration of the day: 11:45:45|Night duration: 12:12:46|
 |Every hour duration: 01:40:49|Every hour duration: 01:44:41|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Sun|Ruler|19:09:38|20:54:17|
 |Late evening|Venus|Servant|20:54:18|22:38:58|
 |Midnight|Mercury|Servant|22:38:59|00:23:39|
-|Late at night|Moon|Servant|00:23:40|02:08:19|
-|Rooster song|Saturn|Servant|02:08:20|03:53:00|
-|False Dawn|Jupiter|Servant|03:53:01|05:37:41|
-|Dawn|Mars|Servant|05:37:42|07:22:22|
+|Late at night|Moon|Servant|00:23:40|02:08:20|
+|Rooster song|Saturn|Servant|02:08:21|03:53:01|
+|False Dawn|Jupiter|Servant|03:53:02|05:37:42|
+|Dawn|Mars|Servant|05:37:43|07:22:23|
 
 {{< /tab >}}
 
@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°56'53.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'13.44" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|6°42'4.97" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Retrograde|15°5'13.93" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|6°42'4.95" |Aquarius|SaadAlSaud|Venus|
 |☉ Sun|Direct|20°31'7.66" |Aquarius|SaadAlAkhbia|Moon|
 |♀ Venus|Direct|5°47'1.64" |Pisces|FarghAlMuakhar|Saturn|
 |☿ Mercury|Retrograde|13°16'29.90" |Aquarius|SaadAlAkhbia|Mercury|

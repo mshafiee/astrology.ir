@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°29'13.70" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°7'5.59" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°8'13.16" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|24°52'19.33" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|11°12'6.03" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°57'57.05" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|9°38'34.22" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|3°29'13.72" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°7'2.65" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°8'18.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|24°52'29.63" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|11°12'10.49" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°58'16.03" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|11°1'47.33" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Scorpio|Moon|Mars|
 |♀ Venus|Sun|Venus|Cancer|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°29'13.70" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|3°29'13.72" |Aries|Sharatain|Mars|
 |♃ Jupiter|Retrograde|15°7'5.59" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|10°8'13.16" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|24°52'19.33" |Pisces|Rescha|Mars|

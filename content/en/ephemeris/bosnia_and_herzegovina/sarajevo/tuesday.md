@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 17:46:20 |
 | Maghrib | 17:50:44 |
 | Isha (Night) | 19:20:49 |
-| Sharia Midnight | 23:03:25 |
+| Sharia Midnight | 23:03:26 |
 | Imum Coeli | 23:56:40 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°50'21.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'19.10" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|6°0'12.18" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|19°38'0.75" |Aquarius|SaadAlAkhbia|Mercury|
-|♀ Venus|Direct|4°40'58.59" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|14°6'59.33" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°38'18.53" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|2°50'21.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°5'18.92" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|6°0'14.21" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|19°38'5.99" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|4°41'1.95" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|14°7'7.43" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|6°19'52.38" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

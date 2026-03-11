@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:55:23 |
-| Sunrise | 07:22:23 |
+| Sunrise | 07:22:24 |
 | Dhuhr (Noon) | 13:16:12 |
 | Medium Coeli | 13:16:12 |
 | Sunset | 19:10:36 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:09:14 |
-| Sunrise | 07:22:23 |
+| Sunrise | 07:22:24 |
 | Dhuhr (Noon) | 13:16:12 |
 | Medium Coeli | 13:16:12 |
 | Sunset | 19:10:36 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:46:06 |
-| Sunrise | 07:22:23 |
+| Sunrise | 07:22:24 |
 | Dhuhr (Noon) | 13:16:12 |
 | Medium Coeli | 13:16:12 |
 | Sunset | 19:10:36 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°4'15.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'19.26" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°29'17.33" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|21°30'59.50" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|7°1'29.68" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|12°22'51.93" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|29°12'9.51" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|15°5'18.78" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°29'17.34" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|21°30'58.90" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|7°1'28.80" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|12°22'51.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|29°30'37.77" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:35:03 |
 | Medium Coeli | 12:35:03 |
 | Sunset | 18:43:12 |
-| Maghrib | 18:47:28 |
+| Maghrib | 18:47:29 |
 | Isha (Night) | 19:53:13 |
 | Sharia Midnight | 23:57:53 |
 | Imum Coeli | 00:34:55 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:35:03 |
 | Medium Coeli | 12:35:03 |
 | Sunset | 18:43:12 |
-| Maghrib | 18:47:28 |
+| Maghrib | 18:47:29 |
 | Isha (Night) | 19:57:28 |
 | Sharia Midnight | 23:57:53 |
 | Imum Coeli | 00:34:55 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:35:03 |
 | Medium Coeli | 12:35:03 |
 | Sunset | 18:43:12 |
-| Maghrib | 18:47:28 |
+| Maghrib | 18:47:29 |
 | Isha (Night) | 20:17:28 |
 | Sharia Midnight | 23:56:49 |
 | Imum Coeli | 00:34:55 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:16:34|Night duration: 11:43:40|
+|Duration of the day: 12:16:34|Night duration: 11:43:41|
 |Every hour of day duration: 01:01:23|Every hour of night duration: 00:58:38|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|19:41:50|20:40:27|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|20:40:28|21:39:06|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Saturn|Servant|21:39:07|22:37:44|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Jupiter|Servant|22:37:45|23:36:22|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mars|Servant|23:36:23|00:35:01|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Jupiter|Servant|22:37:45|23:36:23|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Mars|Servant|23:36:24|00:35:01|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Sun|Servant|00:35:02|01:33:39|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Venus|Ruler|01:33:40|02:32:17|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Mercury|Servant|02:32:18|03:30:56|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Moon|Servant|03:30:57|04:29:34|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Saturn|Servant|04:29:35|05:28:12|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Jupiter|Servant|05:28:13|06:26:51|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Venus|Ruler|01:33:40|02:32:18|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Mercury|Servant|02:32:19|03:30:56|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Moon|Servant|03:30:57|04:29:35|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Saturn|Servant|04:29:36|05:28:13|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Jupiter|Servant|05:28:14|06:26:52|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:16:34|Night duration: 11:43:40|
-|Every hour duration: 01:45:13|Every hour duration: 01:40:31|
+|Duration of the day: 12:16:34|Night duration: 11:43:41|
+|Every hour duration: 01:45:13|Every hour duration: 01:40:32|
 
  
  
@@ -276,12 +276,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Venus|Ruler|18:43:12|20:23:42|
-|Late evening|Mercury|Servant|20:23:43|22:04:13|
-|Midnight|Moon|Servant|22:04:14|23:44:45|
-|Late at night|Saturn|Servant|23:44:46|01:25:16|
-|Rooster song|Jupiter|Servant|01:25:17|03:05:48|
-|False Dawn|Mars|Servant|03:05:49|04:46:19|
-|Dawn|Sun|Servant|04:46:20|06:26:51|
+|Late evening|Mercury|Servant|20:23:43|22:04:14|
+|Midnight|Moon|Servant|22:04:15|23:44:45|
+|Late at night|Saturn|Servant|23:44:46|01:25:17|
+|Rooster song|Jupiter|Servant|01:25:18|03:05:48|
+|False Dawn|Mars|Servant|03:05:49|04:46:20|
+|Dawn|Sun|Servant|04:46:21|06:26:52|
 
 {{< /tab >}}
 

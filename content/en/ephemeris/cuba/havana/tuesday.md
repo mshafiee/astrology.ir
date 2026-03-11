@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'44.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'14.41" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°0'19.86" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|20°54'13.75" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|6°15'51.98" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|12°55'0.37" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°15'4.98" |Scorpio|Qalb|Venus|
+|♄ Saturn|Direct|2°59'45.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°5'14.08" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°0'24.36" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|20°54'23.22" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|6°15'56.41" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|12°55'16.98" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|21°51'45.22" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Libra|Moon|Mars|
 |♀ Venus|Mars|Sun|Taurus|Moon|Jupiter|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°59'44.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'14.41" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°0'24.35" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|20°54'23.20" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|6°15'56.42" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|2°59'45.00" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°5'14.08" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°0'24.36" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|20°54'23.22" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|6°15'56.41" |Aries|Sharatain|Mars|
 |☿ Mercury|Retrograde|12°55'16.88" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|21°51'45.44" |Sagittarius|Baldah|Saturn|
 

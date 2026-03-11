@@ -217,7 +217,7 @@ Timetable of twelve day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:16:29|07:15:46|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Mars|Servant|07:15:47|08:15:04|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Mars|Servant|07:15:47|08:15:04|Destruction of enemies|
 |3|Sun|Servant|08:15:05|09:14:22|Attraction of financial and emotional love|
 |4|Venus|Servant|09:14:23|10:13:40|Creating love, connection and marriage|
 |5|Mercury|Servant|10:13:41|11:12:58|Indulgence|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°4'32.58" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'19.71" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|7°31'3.96" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|21°33'14.87" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|7°4'17.91" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|12°20'56.18" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|29°37'45.82" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|3°4'32.59" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°5'19.62" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|7°31'4.14" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|21°33'15.25" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|7°4'18.07" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|12°20'56.86" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|29°39'56.67" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
