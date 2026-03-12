@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|2°57'44.46" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Retrograde|15°5'13.30" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|6°47'32.37" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|20°38'4.83" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|5°55'38.68" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|13°10'12.60" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|18°35'6.33" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|6°47'29.10" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|20°37'55.48" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|5°55'31.87" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|13°9'59.51" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|19°28'15.92" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Venus|Jupiter|Venus|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|2°57'44.46" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'13.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°47'32.37" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|20°38'4.83" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|5°55'38.68" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|13°10'12.60" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|18°35'6.33" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|2°57'44.44" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°5'13.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°47'32.36" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|20°38'4.80" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|5°55'38.70" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|13°10'12.50" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|18°35'6.69" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

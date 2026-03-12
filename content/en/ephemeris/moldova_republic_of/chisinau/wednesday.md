@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:04:26 |
 | Maghrib | 18:05:55 |
 | Isha (Night) | 19:29:22 |
-| Sharia Midnight | 23:31:35 |
+| Sharia Midnight | 23:31:36 |
 | Imum Coeli | 00:14:24 |
 {{< /tab >}}
 

@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 18:13:34 |
 | Maghrib | 18:30:23 |
 | Isha (Night) | 19:11:23 |
-| Sharia Midnight | 23:38:31 |
+| Sharia Midnight | 23:38:32 |
 | Imum Coeli | 00:15:33 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°3'28.25" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'17.92" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|7°24'12.64" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|21°24'34.16" |Aquarius|SaadAlAkhbia|Moon|
-|♀ Venus|Direct|6°53'29.03" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|12°28'30.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|27°55'46.25" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Retrograde|15°5'17.55" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|7°24'12.87" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|21°24'34.72" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|6°53'29.35" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|12°28'31.27" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|27°55'47.79" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

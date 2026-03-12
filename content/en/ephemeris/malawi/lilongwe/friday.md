@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:44:05 |
-| Sunrise | 05:48:07 |
+| Sunrise | 05:48:08 |
 | Dhuhr (Noon) | 11:54:17 |
 | Medium Coeli | 11:54:17 |
 | Sunset | 18:00:15 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:01 |
-| Sunrise | 05:48:07 |
+| Sunrise | 05:48:08 |
 | Dhuhr (Noon) | 11:54:17 |
 | Medium Coeli | 11:54:17 |
 | Sunset | 18:00:15 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:12:08|Night duration: 11:48:00|
+|Duration of the day: 12:12:07|Night duration: 11:48:00|
 |Every hour of day duration: 01:01:01|Every hour of night duration: 00:59:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:48:07|06:49:06|Love, creating love and attracting hearts|
-|2|Mercury|Servant|06:49:07|07:50:07|Attracting auspiciousness|
-|3|Moon|Servant|07:50:08|08:51:08|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|08:51:09|09:52:08|Unfortunate hour|
-|5|Jupiter|Servant|09:52:09|10:53:09|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|05:48:08|06:49:07|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:49:08|07:50:08|Attracting auspiciousness|
+|3|Moon|Servant|07:50:09|08:51:08|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:51:09|09:52:09|Unfortunate hour|
+|5|Jupiter|Servant|09:52:10|10:53:09|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|10:53:10|11:54:10|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|11:54:11|12:55:10|Promotion and attracting wealth|
-|8|Venus|Ruler|12:55:11|13:56:11|Auspicious and ultimate happiness and fortune|
+|7|Sun|Servant|11:54:11|12:55:11|Promotion and attracting wealth|
+|8|Venus|Ruler|12:55:12|13:56:11|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|13:56:12|14:57:12|Causing separation and homelessness|
 |10|Moon|Servant|14:57:13|15:58:12|Extremely unfortunate|
 |11|Saturn|Servant|15:58:13|16:59:13|Creating an unfortunate horoscope for anyone|

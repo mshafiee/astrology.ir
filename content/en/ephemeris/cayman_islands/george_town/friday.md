@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:22:44 |
-| Sunrise | 06:35:09 |
+| Sunrise | 06:35:08 |
 | Dhuhr (Noon) | 12:34:51 |
 | Medium Coeli | 12:34:51 |
 | Sunset | 18:34:50 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:15:06 |
-| Sunrise | 06:35:09 |
+| Sunrise | 06:35:08 |
 | Dhuhr (Noon) | 12:34:51 |
 | Medium Coeli | 12:34:51 |
 | Sunset | 18:34:50 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:19:20 |
-| Sunrise | 06:35:09 |
+| Sunrise | 06:35:08 |
 | Dhuhr (Noon) | 12:34:51 |
 | Medium Coeli | 12:34:51 |
 | Sunset | 18:34:50 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 11:59:41|Night duration: 11:59:29|
+|Duration of the day: 11:59:42|Night duration: 11:59:29|
 |Every hour of day duration: 00:59:58|Every hour of night duration: 00:59:57|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:35:09|07:35:06|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:35:07|08:35:04|Attracting auspiciousness|
-|3|Moon|Servant|08:35:05|09:35:03|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:35:04|10:35:01|Unfortunate hour|
-|5|Jupiter|Servant|10:35:02|11:35:00|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:35:01|12:34:58|Creating attraction and acceptance among dignitaries|
+|1|Venus|Ruler|06:35:08|07:35:05|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:35:06|08:35:04|Attracting auspiciousness|
+|3|Moon|Servant|08:35:05|09:35:02|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:35:03|10:35:01|Unfortunate hour|
+|5|Jupiter|Servant|10:35:02|11:34:59|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:35:00|12:34:58|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|12:34:59|13:34:56|Promotion and attracting wealth|
 |8|Venus|Ruler|13:34:57|14:34:55|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|14:34:56|15:34:53|Causing separation and homelessness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°21'55.64" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°6'18.70" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°21'54.13" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|23°53'42.96" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|9°59'2.41" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|10°33'56.33" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|28°30'17.39" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|3°21'55.62" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°6'19.03" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°21'54.12" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|23°53'42.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|9°59'2.43" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|10°33'56.24" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|28°30'16.92" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°21'55.64" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°6'18.70" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|9°21'54.13" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|23°53'42.96" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°59'2.41" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|10°33'56.33" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|28°30'17.39" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Direct|3°21'55.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°6'19.03" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|9°21'54.12" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|23°53'42.94" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°59'2.43" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|10°33'56.24" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|28°30'16.92" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

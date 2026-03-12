@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:36:45 |
+| Fajr (Dawn) | 04:36:44 |
 | Sunrise | 06:16:43 |
 | Dhuhr (Noon) | 12:09:38 |
 | Medium Coeli | 12:09:38 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°20'17.00" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°6'11.10" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°11'27.27" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|23°40'26.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|9°42'34.67" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|10°42'37.69" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°30'39.89" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|3°20'17.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Retrograde|15°6'10.77" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°11'27.28" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|23°40'26.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|9°42'34.65" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|10°42'37.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°30'40.44" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°20'17.00" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°6'11.10" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|9°11'27.27" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|23°40'26.89" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|9°42'34.67" |Aries|Sharatain|Mars|
-|☿ Mercury|Retrograde|10°42'37.69" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|25°30'39.89" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|3°20'17.02" |Aries|Sharatain|Mars|
+|♃ Jupiter|Retrograde|15°6'10.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|9°11'27.28" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|23°40'26.92" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|9°42'34.65" |Aries|Sharatain|Mars|
+|☿ Mercury|Retrograde|10°42'37.78" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|25°30'40.44" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
