@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°44'21.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°9'9.29" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°44'14.79" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°53'57.30" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°43'21.41" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°3'21.86" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|7°45'57.88" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°44'21.67" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'9.61" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°44'14.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°53'57.27" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°43'21.43" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°3'21.79" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|7°45'58.46" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°44'21.68" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°9'9.29" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°44'14.79" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°53'57.30" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°43'11.96" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°3'0.64" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°18'27.16" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|3°44'21.67" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'9.61" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°44'14.78" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°53'57.27" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°43'21.43" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°3'21.79" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°45'58.46" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: TGU, Tegousigalpa, Tegousigoualpa, Tegucigalpa, Tegucigalpo, Tegucigucigalpa, Tegusigal'pa, Tegusigalp, Tegusigalpa, Teguzigalpa, Tehgusigal'pa, Tenkousinkalpa, Tequsiqalpa, Teuctzincalpan, Tègucigalpa, de gu si jia ba, te gu xi jia er ba, tegushigarupa, tegusigalapa, tegusigalpa, tekucikalpa, tekusikalpa, tgwsygalpa, tgwsyglph, tyghwsyghalba, Τεγκουσιγκάλπα, Τεγουσιγάλπα, Тегусигалпа, Тегусигальпа, Тегусігальпа, Тэгусігальпа, Տեգուսիգալպա, טגוסיגלפה, טעגוסיגאלפע, تيغوسيغالبا, تگوسیگالپا, ٹیگوسیگلپا, तेगुसिगल्पा, তেগুসিগালপা, ਤੇਗੂਸੀਗਾਲਪਾ, டெகுசிகல்பா, ടെഗൂസിഗാൽപ, เตกูซิกัลปา, ཐེ་གུ་སི་གེ་པ།, ტეგუსიგალპა, ቴጉሲጋልፓ, テグシガルパ, 德古斯加巴, 特古西加爾巴, 테구시갈파

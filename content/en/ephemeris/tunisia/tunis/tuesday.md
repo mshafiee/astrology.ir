@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:27:38 |
 | Sunset | 18:28:31 |
 | Maghrib | 18:29:38 |
-| Isha (Night) | 19:40:50 |
+| Isha (Night) | 19:40:49 |
 | Sharia Midnight | 23:51:05 |
 | Imum Coeli | 00:27:30 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°42'21.01" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'49.99" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°31'31.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°37'49.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°23'18.48" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°9'4.43" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|3°52'47.75" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°42'21.00" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'50.31" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°31'31.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°37'49.53" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°23'18.50" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°9'4.36" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|3°52'48.38" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°42'21.01" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'49.99" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°31'31.17" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°37'49.55" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°23'18.48" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°9'4.43" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°52'47.75" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|3°42'21.00" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'50.31" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°31'31.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°37'49.53" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°23'18.50" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°9'4.36" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°52'48.38" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

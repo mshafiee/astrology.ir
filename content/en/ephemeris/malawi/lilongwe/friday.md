@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:44:05 |
-| Sunrise | 05:48:08 |
+| Sunrise | 05:48:07 |
 | Dhuhr (Noon) | 11:54:17 |
 | Medium Coeli | 11:54:17 |
 | Sunset | 18:00:15 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:01 |
-| Sunrise | 05:48:08 |
+| Sunrise | 05:48:07 |
 | Dhuhr (Noon) | 11:54:17 |
 | Medium Coeli | 11:54:17 |
 | Sunset | 18:00:15 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 12:12:07|Night duration: 11:48:00|
+|Duration of the day: 12:12:08|Night duration: 11:48:00|
 |Every hour of day duration: 01:01:01|Every hour of night duration: 00:59:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:48:08|06:49:07|Love, creating love and attracting hearts|
-|2|Mercury|Servant|06:49:08|07:50:08|Attracting auspiciousness|
-|3|Moon|Servant|07:50:09|08:51:08|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|08:51:09|09:52:09|Unfortunate hour|
-|5|Jupiter|Servant|09:52:10|10:53:09|Achieving position and status and attracting job fortune|
+|1|Venus|Ruler|05:48:07|06:49:06|Love, creating love and attracting hearts|
+|2|Mercury|Servant|06:49:07|07:50:07|Attracting auspiciousness|
+|3|Moon|Servant|07:50:08|08:51:08|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|08:51:09|09:52:08|Unfortunate hour|
+|5|Jupiter|Servant|09:52:09|10:53:09|Achieving position and status and attracting job fortune|
 |6|Mars|Servant|10:53:10|11:54:10|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|11:54:11|12:55:11|Promotion and attracting wealth|
-|8|Venus|Ruler|12:55:12|13:56:11|Auspicious and ultimate happiness and fortune|
+|7|Sun|Servant|11:54:11|12:55:10|Promotion and attracting wealth|
+|8|Venus|Ruler|12:55:11|13:56:11|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|13:56:12|14:57:12|Causing separation and homelessness|
 |10|Moon|Servant|14:57:13|15:58:12|Extremely unfortunate|
 |11|Saturn|Servant|15:58:13|16:59:13|Creating an unfortunate horoscope for anyone|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°12'6.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°5'37.32" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|8°19'22.92" |Aquarius|SaadAlSaud|Venus|
-|☉ Sun|Direct|22°34'31.18" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|8°20'28.68" |Pisces|FarghAlMuakhar|Saturn|
-|☿ Mercury|Retrograde|11°30'53.32" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|12°11'19.84" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°5'37.71" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|8°19'22.72" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|22°34'31.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|8°20'29.01" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|11°30'52.57" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°58'57.77" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Jupiter|Venus|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°12'6.72" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°5'37.32" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°5'37.32" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|8°19'22.92" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|22°34'31.18" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|8°20'28.68" |Aries|Sharatain|Mars|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°43'38.40" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°9'2.87" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°39'41.82" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°48'8.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°36'11.88" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°5'11.77" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|5°48'15.71" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°43'38.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'3.19" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°39'41.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°48'8.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°36'11.90" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°5'11.70" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|5°48'16.32" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°43'38.39" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°9'3.19" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'3.19" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|11°39'41.81" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|26°48'8.69" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°36'11.90" |Aries|Butain|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: GOH, Godhopa, Godthaab, Godthab, Godthåb, Nououk, Nuk, Nuka, Nukas, Nuko, Nuuk, Nuuk (Godthab), Nuuk (Godthåb), Nuuks, Nūka, nu ke, nuk, nuka, nukeu, nuku, nwk, nwʼwq, Νουούκ, Нук, Нуук, Նուուկ, נואוק, نوك, نوک, नूक, নুক, ਨੂਕ, ନୁକ, நூக், นุก, ნუუკი, ᓅᒃ, ヌーク, 努克, 누크

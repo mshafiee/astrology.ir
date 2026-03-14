@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'43.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°6'46.85" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|9°52'21.69" |Aquarius|SaadAlAkhbia|Venus|
-|☉ Sun|Direct|24°32'16.89" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|10°47'3.14" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|10°9'47.59" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°31'10.43" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|15°6'48.60" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°52'19.73" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|24°32'13.93" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|10°47'2.83" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|10°9'39.98" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°41'24.67" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Venus|Mercury|
 |♀ Venus|Venus|Jupiter|Moon|Sun|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°26'43.04" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°6'46.85" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°6'46.85" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|9°52'21.69" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|24°32'16.89" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|10°47'3.11" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|10°9'47.33" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|6°28'48.88" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|10°47'3.14" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|10°9'47.59" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|6°31'10.43" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

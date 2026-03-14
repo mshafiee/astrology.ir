@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:45:59 |
 | Sunset | 17:47:29 |
 | Maghrib | 17:48:29 |
-| Isha (Night) | 19:03:02 |
+| Isha (Night) | 19:03:01 |
 | Sharia Midnight | 23:03:24 |
 | Imum Coeli | 23:45:51 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°41'30.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°8'42.26" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'42.26" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|11°26'12.14" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|26°31'6.36" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|13°14'55.76" |Pisces|FarghAlMuakhar|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°41'30.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°8'42.26" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°26'12.14" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°31'6.36" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°14'55.76" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°11'39.68" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°30'12.51" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'43.38" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°26'11.11" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°31'5.08" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°14'56.00" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°11'35.33" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|2°7'31.75" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Moon|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}

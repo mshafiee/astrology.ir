@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°46'51.34" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Retrograde|15°9'34.94" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'34.94" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|12°0'1.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|27°13'56.55" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|14°8'13.30" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|8°56'52.72" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|12°28'24.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|27°13'56.34" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|14°8'13.04" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|8°56'52.78" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|12°28'28.24" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°46'51.34" |Aries|Sharatain|Mars|
-|♃ Jupiter|Retrograde|15°9'34.94" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'34.94" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°0'1.75" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|27°13'56.36" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°8'13.02" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°56'52.85" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°28'27.78" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|27°13'56.55" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°8'13.30" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|8°56'52.72" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|12°28'24.55" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: SYD, Sanctus Dionysius, Sedniejos, Sek-na, Sidnef, Sidnei, Sidnej, Sidneja, Sidnejo, Sidnejus, Sidney, Sidneý, Sidni, Sidnéy, Sidnėjus, Sit-ni, Sit-nì, Syd, Sydneium, Sydney, Sydney City, Sék-nà̤, Sídney, Sîdney, Sėdniejos, citni, shidoni, sidani, sideuni, sidnei, sidni, sidniy, sydny, xi ni, xue li, Σίδνεϋ, Сиднеи, Сидней, Сиднеј, Сидни, Сідней, Сідні, Սիդնեյ, סידני, سيدنى, سيدني, سڈنی, سیدنی, ܣܝܕܢܝ, सिडनी, सिड्नी, सिद्नी, সিডনি, ਸਿਡਨੀ, સીડની, சிட்னி, సిడ్నీ, ಸಿಡ್ನಿ, സിഡ്നി, සිඩ්නි, ซิดนีย์, སིད་ནེ།, ဆစ်ဒနီမြို့, სიდნეი, ሲድኒ, ស៊ីដនីយ៏, シドニー, 悉尼, 雪梨, 시드니
