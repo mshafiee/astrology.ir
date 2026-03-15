@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:57:11 |
 | Medium Coeli | 12:57:11 |
 | Sunset | 18:56:07 |
-| Maghrib | 19:01:35 |
+| Maghrib | 19:01:36 |
 | Isha (Night) | 20:22:39 |
 | Sharia Midnight | 00:10:50 |
 | Imum Coeli | 00:57:03 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:57:11 |
 | Medium Coeli | 12:57:11 |
 | Sunset | 18:56:07 |
-| Maghrib | 19:01:35 |
+| Maghrib | 19:01:36 |
 | Isha (Night) | 20:11:58 |
 | Sharia Midnight | 00:18:50 |
 | Imum Coeli | 00:57:03 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:57:11 |
 | Medium Coeli | 12:57:11 |
 | Sunset | 18:56:07 |
-| Maghrib | 19:01:35 |
+| Maghrib | 19:01:36 |
 | Isha (Night) | 20:28:01 |
 | Sharia Midnight | 00:10:50 |
 | Imum Coeli | 00:57:03 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|25°34'22.78" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|12°4'20.50" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Retrograde|9°36'17.99" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|19°50'17.44" |Capricorn|SaadAlBula|Mars|
+|☾ Moon|Direct|19°49'23.08" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

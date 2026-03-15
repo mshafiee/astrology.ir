@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:00:29|Night duration: 11:57:37|
+|Duration of the day: 12:00:29|Night duration: 11:57:38|
 |Every hour of day duration: 01:00:02|Every hour of night duration: 00:59:48|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Mars|Servant|21:11:16|22:11:03|Attracting connection and suitors|
 |4|Sun|Servant|22:11:04|23:10:51|Attracting material wealth, earnings and business prosperity|
 |5|Venus|Servant|23:10:52|00:10:39|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|00:10:40|01:10:27|Repelling negative energy of evil eye|
-|7|Moon|Servant|01:10:28|02:10:15|Attracting love and hearts|
-|8|Saturn|Ruler|02:10:16|03:10:03|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|03:10:04|04:09:51|Heart tenderness|
-|10|Mars|Servant|04:09:52|05:09:39|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|05:09:40|06:09:27|Attracting connection and suitors|
-|12|Venus|Servant|06:09:28|07:09:16|Hatred, corruption and creating negative energy for disruption|
+|6|Mercury|Servant|00:10:40|01:10:28|Repelling negative energy of evil eye|
+|7|Moon|Servant|01:10:29|02:10:16|Attracting love and hearts|
+|8|Saturn|Ruler|02:10:17|03:10:04|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|03:10:05|04:09:52|Heart tenderness|
+|10|Mars|Servant|04:09:53|05:09:40|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|05:09:41|06:09:28|Attracting connection and suitors|
+|12|Venus|Servant|06:09:29|07:09:17|Hatred, corruption and creating negative energy for disruption|
 
  
  

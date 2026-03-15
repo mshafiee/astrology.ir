@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|3°43'47.48" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°9'3.87" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|11°40'38.16" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°49'23.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°37'40.06" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°4'59.45" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|6°51'43.63" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|26°49'24.19" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°37'40.65" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°4'59.37" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|6°50'47.53" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°9'3.87" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|11°40'38.16" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|26°49'23.71" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°37'40.56" |Aries|Butain|Sun|
+|♀ Venus|Direct|13°37'40.06" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|9°4'59.45" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°40'9.41" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°51'43.63" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Barra do Rio Negro, MAO, Manaos, Manaus, Manos, Manáos, ma nao si, manausu, Манаус, Манаўс, מנאוס, マナウス, 马瑙斯
