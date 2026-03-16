@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:41:34 |
 | Sunrise | 05:38:39 |
-| Dhuhr (Noon) | 11:43:24 |
-| Medium Coeli | 11:43:24 |
+| Dhuhr (Noon) | 11:43:23 |
+| Medium Coeli | 11:43:23 |
 | Sunset | 17:49:10 |
 | Maghrib | 17:51:33 |
 | Isha (Night) | 19:39:37 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:02:45 |
 | Sunrise | 05:38:39 |
-| Dhuhr (Noon) | 11:43:24 |
-| Medium Coeli | 11:43:24 |
+| Dhuhr (Noon) | 11:43:23 |
+| Medium Coeli | 11:43:23 |
 | Sunset | 17:49:10 |
 | Maghrib | 17:51:33 |
 | Isha (Night) | 19:25:29 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 03:37:58 |
 | Sunrise | 05:38:39 |
-| Dhuhr (Noon) | 11:43:24 |
-| Medium Coeli | 11:43:24 |
+| Dhuhr (Noon) | 11:43:23 |
+| Medium Coeli | 11:43:23 |
 | Sunset | 17:49:10 |
 | Maghrib | 17:51:33 |
 | Isha (Night) | 19:21:33 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°4'29.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°13'11.36" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|13°51'28.31" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|29°34'53.74" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|17°3'46.52" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|8°30'42.06" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|14°43'39.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|4°4'29.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°13'11.67" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|13°51'28.29" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|29°34'52.83" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|17°3'46.68" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|8°30'38.95" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|14°43'10.05" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

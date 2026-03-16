@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°43'51.23" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'4.30" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°41'2.04" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°49'53.19" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°38'17.75" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°4'46.30" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|3°43'51.21" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'4.62" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°41'2.03" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°49'53.17" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°38'17.77" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°4'46.23" |Aquarius|SaadAlAkhbia|Venus|
 |☾ Moon|Direct|6°49'1.05" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Basse Terre Town, Basseterre, Baste, Bastehr, Baster, Bastera, Basteras, Bastero, Bastè, Mpaster, SKB, ba si te er, basetera, baseteru, baseuteleu, bastyr, basytyr, pacettere, Μπαστέρ, Бастер, Бастэр, באסטר, باستير, باسه‌تر, باسیتیر, बासेतेर, பாசெட்டெரே, บาสแตร์, པ་སི་ཐེར།, ბასტერი, ባስቴር, バセテール, 巴斯特尔, 바스테르

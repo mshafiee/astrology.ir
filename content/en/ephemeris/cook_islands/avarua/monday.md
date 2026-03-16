@@ -340,8 +340,8 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°45'50.94" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°9'24.48" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°53'39.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|27°5'52.84" |Pisces|Rescha|Mars|
+|♂ Mars|Direct|11°53'32.49" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|27°5'36.33" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°58'1.45" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|8°59'2.04" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|8°56'15.47" |Pisces|FarghAlMuakhar|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:00:23 |
 | Dhuhr (Noon) | 12:00:02 |
 | Medium Coeli | 12:00:02 |
-| Sunset | 18:00:10 |
+| Sunset | 18:00:11 |
 | Maghrib | 18:01:13 |
 | Isha (Night) | 19:31:13 |
 | Sharia Midnight | 23:17:22 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°34'8.46" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°7'39.03" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°39'29.50" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|25°31'57.91" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|12°1'19.50" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|9°37'30.66" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|19°24'14.81" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|3°34'8.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°7'39.09" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°39'29.51" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|25°31'58.03" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|12°1'19.64" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|9°37'30.65" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|19°23'14.00" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

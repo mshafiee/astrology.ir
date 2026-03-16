@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°8'48.25" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|11°30'21.41" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|26°36'22.86" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°21'28.35" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°9'43.09" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|3°53'9.27" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|13°21'20.67" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°9'31.41" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|3°12'21.15" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Mars|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°42'10.07" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°8'48.25" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°30'21.41" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°36'22.86" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°21'28.35" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°9'43.09" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|3°53'9.27" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'47.78" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°30'17.68" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°36'12.27" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°21'20.67" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°9'31.41" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°12'21.15" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기

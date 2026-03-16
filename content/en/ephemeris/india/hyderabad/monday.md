@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:24:49 |
 | Sunset | 18:26:14 |
 | Maghrib | 18:29:35 |
-| Isha (Night) | 19:26:44 |
+| Isha (Night) | 19:26:45 |
 | Sharia Midnight | 23:54:19 |
 | Imum Coeli | 00:24:40 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°33'29.32" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°7'33.87" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°35'20.82" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|25°26'43.92" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|11°54'47.62" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°40'9.12" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|18°22'57.80" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|3°33'29.34" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°7'33.55" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°35'20.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|25°26'43.94" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|11°54'47.60" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°40'9.61" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|18°23'54.45" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

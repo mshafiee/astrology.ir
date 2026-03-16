@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°46'27.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'30.52" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°57'30.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|27°10'45.17" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|14°4'15.74" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|8°57'50.57" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|11°38'15.95" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|3°46'27.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'33.44" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°57'24.75" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|27°10'32.15" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|14°4'9.53" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|8°57'28.28" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|10°1'32.25" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°46'27.47" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'30.83" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°57'30.94" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|27°10'45.17" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°4'15.74" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°57'50.57" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|11°38'15.95" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'33.44" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°57'24.75" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|27°10'32.15" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°4'9.53" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|8°57'28.28" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|10°1'32.25" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로
