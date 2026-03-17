@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:46:41 |
-| Sunrise | 06:08:55 |
+| Sunrise | 06:08:54 |
 | Dhuhr (Noon) | 12:10:26 |
 | Medium Coeli | 12:10:26 |
 | Sunset | 18:12:29 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:45:13 |
-| Sunrise | 06:08:55 |
+| Sunrise | 06:08:54 |
 | Dhuhr (Noon) | 12:10:26 |
 | Medium Coeli | 12:10:26 |
 | Sunset | 18:12:29 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:37:54 |
-| Sunrise | 06:08:55 |
+| Sunrise | 06:08:54 |
 | Dhuhr (Noon) | 12:10:26 |
 | Medium Coeli | 12:10:26 |
 | Sunset | 18:12:29 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:45:13 |
-| Sunrise | 06:08:55 |
+| Sunrise | 06:08:54 |
 | Dhuhr (Noon) | 12:10:26 |
 | Medium Coeli | 12:10:26 |
 | Sunset | 18:12:29 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:42:47 |
-| Sunrise | 06:08:55 |
+| Sunrise | 06:08:54 |
 | Dhuhr (Noon) | 12:10:26 |
 | Medium Coeli | 12:10:26 |
 | Sunset | 18:12:29 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:03:34|Night duration: 11:55:06|
+|Duration of the day: 12:03:35|Night duration: 11:55:06|
 |Every hour of day duration: 01:00:18|Every hour of night duration: 00:59:35|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|06:08:55|07:09:11|Acceptance of needs|
-|2|Moon|Servant|07:09:12|08:09:29|Unfortunate, no task is suitable|
-|3|Saturn|Servant|08:09:30|09:09:47|For overcoming diseases|
-|4|Jupiter|Servant|09:09:48|10:10:05|For all tasks, extremely auspicious|
-|5|Mars|Servant|10:10:06|11:10:23|Creating negative energy and disrupting peace|
-|6|Sun|Servant|11:10:24|12:10:41|Outer and inner journey|
-|7|Venus|Servant|12:10:42|13:10:58|Attracting love and hearts and fortune|
+|1|Mercury|Ruler|06:08:54|07:09:10|Acceptance of needs|
+|2|Moon|Servant|07:09:11|08:09:28|Unfortunate, no task is suitable|
+|3|Saturn|Servant|08:09:29|09:09:46|For overcoming diseases|
+|4|Jupiter|Servant|09:09:47|10:10:04|For all tasks, extremely auspicious|
+|5|Mars|Servant|10:10:05|11:10:22|Creating negative energy and disrupting peace|
+|6|Sun|Servant|11:10:23|12:10:40|Outer and inner journey|
+|7|Venus|Servant|12:10:41|13:10:58|Attracting love and hearts and fortune|
 |8|Mercury|Ruler|13:10:59|14:11:16|Being invisible to the people|
 |9|Moon|Servant|14:11:17|15:11:34|Separation, causing enmity|
 |10|Saturn|Servant|15:11:35|16:11:52|Dominating the great ones|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:03:34|Night duration: 11:55:06|
+|Duration of the day: 12:03:35|Night duration: 11:55:06|
 |Every hour duration: 01:43:22|Every hour duration: 01:42:09|
 
  
@@ -264,13 +264,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|06:08:55|07:52:16|
-|Mid-morning|Moon|Servant|07:52:17|09:35:38|
-|Late morning|Saturn|Servant|09:35:39|11:19:00|
-|Noon|Jupiter|Servant|11:19:01|13:02:22|
-|Early afternoon|Mars|Servant|13:02:23|14:45:44|
-|Mid-afternoon|Sun|Servant|14:45:45|16:29:06|
-|Late afternoon|Venus|Servant|16:29:07|18:12:28|
+|Early morning|Mercury|Ruler|06:08:54|07:52:15|
+|Mid-morning|Moon|Servant|07:52:16|09:35:37|
+|Late morning|Saturn|Servant|09:35:38|11:18:59|
+|Noon|Jupiter|Servant|11:19:00|13:02:21|
+|Early afternoon|Mars|Servant|13:02:22|14:45:43|
+|Mid-afternoon|Sun|Servant|14:45:44|16:29:05|
+|Late afternoon|Venus|Servant|16:29:06|18:12:28|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|

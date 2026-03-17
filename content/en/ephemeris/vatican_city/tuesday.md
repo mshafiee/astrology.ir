@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°42'18.24" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°8'49.95" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°31'13.81" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°37'27.26" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°22'51.23" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°9'11.40" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|3°43'47.55" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°42'18.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'49.63" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°31'13.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°37'27.28" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°22'51.21" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°9'11.47" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|3°43'46.92" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°42'18.24" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°8'52.06" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°31'11.53" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°37'23.93" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°22'51.02" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°9'2.27" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°59'3.05" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|3°42'18.26" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'49.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°31'13.83" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°37'27.28" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°22'51.21" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°9'11.47" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°43'46.92" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

@@ -300,8 +300,8 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°41'53.54" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°8'45.60" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°28'36.51" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'44.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°28'33.50" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|26°34'10.57" |Aquarius|FarghAlMuqaddam|Moon|
 |♀ Venus|Direct|13°18'43.04" |Pisces|FarghAlMuakhar|Jupiter|
 |☿ Mercury|Retrograde|9°10'34.89" |Aquarius|SaadAlAkhbia|Venus|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°41'53.54" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°8'45.60" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°28'33.35" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°34'2.74" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°18'38.23" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°10'23.99" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°45'41.08" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|11°28'36.51" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°34'10.57" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°18'43.04" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°10'34.89" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|3°29'13.53" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Moon|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

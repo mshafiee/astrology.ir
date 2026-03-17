@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°43'54.94" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'4.75" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°41'25.19" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°50'23.48" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°38'54.10" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°4'39.38" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|7°8'7.64" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°43'54.92" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'5.07" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°41'25.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°50'23.46" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°38'54.12" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°4'39.31" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|7°8'8.23" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°43'54.94" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'4.75" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°41'25.19" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°50'23.48" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°38'54.10" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°4'39.38" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|7°8'7.64" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|3°43'54.92" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'5.07" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°41'25.18" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°50'23.46" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°38'54.12" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°4'16.52" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|5°28'16.67" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: CBB, Ciudad Cochabamba, Cochabamba, Kocabamb, Kocabamba, Kochabamba, Kočabamb, Kočabamba, Kuchawampa, Quchapampa, ke qia ban ba, ko cha bam ba, kochabamba, kochabanba, kwchabamba, kwtshabamba, qwzbmbh, Кочабамба, קוצבמבה, كوتشابامبا, کوچابامبا, โกชาบัมบา, ཀོ་ཅ་བང་ལྦ་, კოჩაბამბა, コチャバンバ, 科恰班巴, 코차밤바

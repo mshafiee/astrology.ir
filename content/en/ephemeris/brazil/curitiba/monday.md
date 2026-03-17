@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°43'33.49" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'0.96" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°39'9.31" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°47'30.95" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°35'19.46" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°5'39.92" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|6°29'11.95" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'1.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°39'9.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°47'31.69" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°35'20.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°5'40.12" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|6°29'36.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°43'33.51" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'1.26" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°39'9.45" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°47'31.71" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°35'20.25" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°5'40.19" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|6°29'36.24" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|3°43'33.49" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'1.58" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°39'9.44" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°47'31.69" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°35'20.27" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°5'40.12" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°29'36.84" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: CWB, Corityba, Curitiba, Curityba, Curytiba, Kouritiba, Kouritimpa, Kuritib, Kuritiba, Kuritibae, Kuritibo, Kuritiwa, Kuritiyba, Kuriytyva, Kuriytýva, Kuriṭiba, Kuryciba, Kurytyba, Kùrìtíbà, gu li ti ba, ku li qi ba, ku ri ti ba, kulichiba, kurichiba, kuritcibas, kuritiba, kuritipe, kwrytyba, qwrytybh, Κουριτίμπα, Коуритиба, Куритибæ, Куритиба, Курытыба, Курыціба, Կուրիտիբա, קוריטיבא, קוריטיבה, كوريتيبا, کوریتیبا, ܩܘܪܝܛܝܒܐ, कुरितिबा, কুরিটিবা, কুরিতিবা, ਕੁਰੀਤੀਬਾ, குரிடிபே, కురితీబా, ಕುರಿಟಿಬ, กูรีตีบา, კურიტიბა, ኩሪቺባ, ᎫᎵᏘᎦ, クリチバ, 古里提巴, 庫里奇巴, 쿠리치바, 𐌺𐌿𐍂𐌹𐍄𐌹𐌱𐌰

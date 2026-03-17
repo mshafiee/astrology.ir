@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°42'39.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°8'52.65" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°33'29.13" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°40'20.38" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°26'24.09" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°8'14.39" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|4°45'27.06" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°42'39.70" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'52.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°33'29.11" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°40'20.36" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°26'24.11" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°8'14.32" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|4°45'27.68" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°42'39.72" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°8'52.65" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°33'29.13" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°40'20.38" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|3°42'39.70" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°8'52.97" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°33'29.11" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°40'20.36" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°26'24.11" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|9°8'14.32" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|4°45'27.68" |Pisces|FarghAlMuakhar|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: ASK, Giamoussoukro, Jamusukra, Jamusukras, Jamusukro, Jamusukro khot, Yamosukro, Yamousoukro, Yamoussokro, Yamoussoukro, Yamoussoukrou, Yamussukro, Yamusukro, ya mu su ke lei, ya mu su ke luo, ya mussu kor, yamucukro, yamusasutro, yamusukaro, yamusukeulo, yamusukro, yamusukuro, yamwsswkrw, yamwswkrw, yamwwswwkrۆ, ywmwswkrw, Γιαμουσσούκρο, Јамусукро, Ямусукра, Ямусукро, Ямусукро хот, Յամուսուկրո, יאמוסאקרא, יאמוסוקרו, ياموسوكرو, يامۇسسۇكرو, یاموسسوکرو, یاموسوکرو, یامووسووکرۆ, یوموسوکرو, यामूसूक्रो, ਯਾਮੂਸੂਕਰੋ, ୟାମୁସସୁତ୍ରୋ, யாமூசூக்ரோ, ยามุสซุโกร, ཡམ་སོ་ཁེ་རོ།, იამუსუკრო, ያሙሱክሮ, ヤムスクロ, 亚穆苏克罗, 雅穆蘇克雷, 야무수크로

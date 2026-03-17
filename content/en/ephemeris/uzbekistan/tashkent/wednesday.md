@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°48'34.76" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'53.66" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|12°10'56.82" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|27°27'43.24" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|14°25'25.66" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|8°52'38.92" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|15°7'6.75" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|3°48'34.77" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'53.34" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|12°10'56.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|27°27'43.26" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|14°25'25.64" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|8°52'38.99" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|15°7'6.37" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°48'34.76" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'53.66" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°10'56.82" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|27°27'43.24" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°25'25.66" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°52'38.92" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|15°7'6.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|3°48'34.77" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'53.34" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°10'56.84" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|27°27'43.26" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°25'25.64" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|8°52'38.99" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|15°7'6.37" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

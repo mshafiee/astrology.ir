@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°36'23.87" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°7'56.61" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|10°53'47.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|25°50'5.98" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|12°23'51.24" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°29'2.71" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|23°40'45.92" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|3°36'23.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°7'56.93" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|10°53'47.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|25°50'5.96" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|12°23'51.26" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°29'2.63" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|23°40'46.47" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°36'23.87" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°7'56.61" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°53'47.42" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|25°50'5.98" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|12°23'51.24" |Aries|Sharatain|Sun|
-|☿ Mercury|Retrograde|9°29'2.71" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|23°40'45.92" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|3°36'23.86" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°7'56.93" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°53'47.41" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|25°50'5.96" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|12°23'51.26" |Aries|Sharatain|Sun|
+|☿ Mercury|Retrograde|9°29'2.63" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|23°40'46.47" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

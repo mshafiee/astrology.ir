@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°10'15.91" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°14'35.44" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°27'47.52" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|0°20'45.74" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|18°0'57.28" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|8°29'30.44" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|25°0'25.70" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°14'35.04" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°27'46.86" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|0°20'43.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°0'55.78" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|8°29'28.83" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|24°43'47.96" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Sagittarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°10'15.91" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°14'35.68" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|14°27'51.42" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|0°20'56.33" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°10'15.93" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°14'35.37" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°27'51.44" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|0°20'56.36" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|18°1'4.60" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|8°29'41.56" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|26°20'0.75" |Aries|Thurayya|Venus|

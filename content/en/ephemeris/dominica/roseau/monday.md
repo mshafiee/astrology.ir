@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°43'49.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'4.33" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°40'51.33" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°49'39.72" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°38'0.89" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°4'51.32" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|6°47'8.28" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|3°43'49.54" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'4.01" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°40'51.34" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°49'39.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°38'0.87" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°4'51.39" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|6°47'7.68" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|3°43'49.52" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'4.33" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°40'46.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°49'30.42" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°37'57.11" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°4'33.68" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|5°28'19.23" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|3°43'49.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'4.01" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°40'51.34" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°49'39.74" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°38'0.87" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°4'51.39" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|6°47'7.68" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Charlotte Town, Razo, Roseau, Roseo, Rozo, lojo, luo suo, ro so, rozo, rusa'u, rwsw, rwzw, uroco, Ροζό, Разо, Розо, Ռոզո, רוזו, روسو, रुसाउ, ਰੋਜ਼ੋ, உறொசோ, โรโซ, རུ་ཟོ།, როზო, ሮዞ, ロゾー, 羅索, 로조

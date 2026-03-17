@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°44'8.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'7.84" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|11°42'50.13" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|26°52'11.20" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|13°41'8.92" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|9°3'59.90" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|7°24'30.66" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'7.28" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|11°42'50.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|26°52'11.33" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|13°41'8.47" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|9°4'1.41" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|7°31'49.28" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Sagittarius|Moon|Mars|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|3°44'8.39" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°9'7.84" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°42'50.13" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|26°52'11.20" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|13°41'8.92" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|9°3'59.90" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|7°24'30.66" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°9'7.28" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°42'50.46" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|26°52'11.33" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|13°41'8.47" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|9°4'1.41" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°31'49.28" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마

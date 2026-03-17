@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:01:30|Night duration: 11:57:10|
+|Duration of the day: 12:01:30|Night duration: 11:57:11|
 |Every hour duration: 01:43:04|Every hour duration: 01:42:27|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Saturn|Ruler|18:11:44|19:54:10|
 |Late evening|Jupiter|Servant|19:54:11|21:36:37|
 |Midnight|Mars|Servant|21:36:38|23:19:04|
-|Late at night|Sun|Servant|23:19:05|01:01:31|
-|Rooster song|Venus|Servant|01:01:32|02:43:58|
-|False Dawn|Mercury|Servant|02:43:59|04:26:25|
-|Dawn|Moon|Servant|04:26:26|06:08:53|
+|Late at night|Sun|Servant|23:19:05|01:01:32|
+|Rooster song|Venus|Servant|01:01:33|02:43:59|
+|False Dawn|Mercury|Servant|02:44:00|04:26:26|
+|Dawn|Moon|Servant|04:26:27|06:08:54|
 
 {{< /tab >}}
 
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|26°32'8.61" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°16'13.82" |Aries|Butain|Sun|
 |☿ Mercury|Retrograde|9°11'14.15" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|2°39'56.29" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|2°39'6.86" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
