@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°10'6.40" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|12°17'59.66" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|27°36'35.71" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|14°36'31.64" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|8°50'8.79" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|16°57'25.92" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|14°36'32.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|8°50'2.16" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|16°34'25.41" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Capricorn|Moon|Mars|
 |♀ Venus|Venus|Mars|Leo|Moon|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Sun|Jupiter|Leo|Moon|Mars|
+|☾ Moon|Sun|Saturn|Leo|Moon|Mars|
 
 
 {{< /tab >}}
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|3°49'41.47" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°10'6.40" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°17'59.66" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|27°36'37.39" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°36'31.64" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°50'8.79" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|16°57'25.92" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|27°36'35.71" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°36'32.27" |Aries|Butain|Sun|
+|☿ Mercury|Retrograde|8°50'2.16" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|16°34'25.41" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Sun|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Venus|Jupiter|Virgo|Sun|Jupiter|
+|☾ Moon|Venus|Mars|Virgo|Sun|Jupiter|
 
 
 {{< /tab >}}

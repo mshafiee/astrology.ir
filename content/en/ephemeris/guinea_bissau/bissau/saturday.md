@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:07:38|Night duration: 11:51:45|
+|Duration of the day: 12:07:38|Night duration: 11:51:44|
 |Every hour duration: 01:43:57|Every hour duration: 01:41:41|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mercury|Ruler|19:13:24|20:55:03|
 |Late evening|Moon|Servant|20:55:04|22:36:44|
-|Midnight|Saturn|Servant|22:36:45|00:18:25|
-|Late at night|Jupiter|Servant|00:18:26|02:00:05|
-|Rooster song|Mars|Servant|02:00:06|03:41:46|
-|False Dawn|Sun|Servant|03:41:47|05:23:27|
-|Dawn|Venus|Servant|05:23:28|07:05:08|
+|Midnight|Saturn|Servant|22:36:45|00:18:24|
+|Late at night|Jupiter|Servant|00:18:25|02:00:05|
+|Rooster song|Mars|Servant|02:00:06|03:41:45|
+|False Dawn|Sun|Servant|03:41:46|05:23:26|
+|Dawn|Venus|Servant|05:23:27|07:05:07|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°12'44.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°15'13.84" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°43'29.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|0°40'41.53" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|18°25'41.29" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|8°30'17.44" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|1°0'7.34" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°12'44.67" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°15'14.15" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°43'29.05" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|0°40'41.50" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°25'41.31" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Retrograde|8°30'17.39" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|1°0'6.88" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

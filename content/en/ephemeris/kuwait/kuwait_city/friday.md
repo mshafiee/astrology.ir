@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:41:10 |
+| Fajr (Dawn) | 04:41:09 |
 | Sunrise | 05:52:02 |
 | Dhuhr (Noon) | 11:55:33 |
 | Medium Coeli | 11:55:33 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°3'56.62" |Pisces|FarghAlMuqaddam|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°13'3.67" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|13°47'58.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|29°30'28.69" |Aquarius|FarghAlMuqaddam|Moon|
-|♀ Venus|Direct|16°58'17.74" |Pisces|FarghAlMuakhar|Jupiter|
-|☿ Mercury|Retrograde|8°30'56.11" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|13°49'48.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♂ Mars|Direct|13°48'0.08" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|29°30'30.97" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|16°58'18.48" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Retrograde|8°31'0.82" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|14°0'22.33" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Venus|Mercury|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

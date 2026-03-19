@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:39:13 |
 | Sunrise | 07:09:41 |
-| Dhuhr (Noon) | 13:15:13 |
-| Medium Coeli | 13:15:13 |
+| Dhuhr (Noon) | 13:15:12 |
+| Medium Coeli | 13:15:12 |
 | Sunset | 19:21:22 |
 | Maghrib | 19:22:31 |
 | Isha (Night) | 20:46:45 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:36:33 |
 | Sunrise | 07:09:41 |
-| Dhuhr (Noon) | 13:15:13 |
-| Medium Coeli | 13:15:13 |
+| Dhuhr (Noon) | 13:15:12 |
+| Medium Coeli | 13:15:12 |
 | Sunset | 19:21:22 |
 | Maghrib | 19:22:31 |
 | Isha (Night) | 20:52:31 |
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°38'32.32" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|1°50'15.92" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|19°52'23.45" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°37'26.12" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|17°32'6.45" |Taurus|Dabaran|Moon|
+|☿ Mercury|Retrograde|8°37'30.24" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|18°3'33.16" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
