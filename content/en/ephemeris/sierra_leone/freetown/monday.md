@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:38:54 |
+| Fajr (Dawn) | 05:38:55 |
 | Sunrise | 06:55:22 |
 | Dhuhr (Noon) | 12:59:28 |
 | Medium Coeli | 12:59:28 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°27'40.02" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°27'39.28" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°19'33.98" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|16°17'19.58" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|2°39'14.83" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|20°53'31.73" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|8°46'51.78" |Aquarius|SaadAlAkhbia|Venus|
+|♀ Venus|Direct|20°53'36.29" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°46'51.78" |Aquarius|SaadAlAkhbia|Venus|
 |☾ Moon|Direct|29°41'48.00" |Aries|Thurayya|Venus|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°27'40.02" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°19'31.51" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°17'25.01" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|2°39'25.62" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°53'36.30" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|8°47'10.23" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|29°36'47.28" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°27'40.04" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°19'31.21" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°17'25.03" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|2°39'25.65" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°53'36.29" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°47'10.29" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|29°36'47.50" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

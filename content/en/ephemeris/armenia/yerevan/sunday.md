@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°18'57.67" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°16'55.26" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|15°22'36.02" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|1°30'2.17" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|19°27'15.54" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|8°34'26.55" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|11°24'10.02" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|4°18'57.70" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°16'55.92" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|15°22'38.85" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|1°30'10.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|19°27'21.97" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|8°34'33.43" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|12°39'38.33" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Mercury|Moon|Sun|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Venus|Moon|Leo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°22'38.85" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|1°30'10.63" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|19°27'21.97" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°34'33.43" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°34'33.43" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|12°39'38.33" |Taurus|Dabaran|Moon|
 
 

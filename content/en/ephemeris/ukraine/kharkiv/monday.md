@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 11:41:33 |
 | Medium Coeli | 11:41:33 |
 | Sunset | 17:52:37 |
-| Maghrib | 17:54:53 |
+| Maghrib | 17:54:54 |
 | Isha (Night) | 19:41:31 |
 | Sharia Midnight | 22:39:39 |
 | Imum Coeli | 23:41:24 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:41:33 |
 | Medium Coeli | 11:41:33 |
 | Sunset | 17:52:37 |
-| Maghrib | 17:54:53 |
+| Maghrib | 17:54:54 |
 | Isha (Night) | 19:24:53 |
 | Sharia Midnight | 22:43:09 |
 | Imum Coeli | 23:41:24 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|15°19'12.07" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|16°10'42.56" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|2°30'54.72" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|20°43'3.21" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|8°45'8.94" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|27°18'0.85" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|20°43'3.00" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°45'8.64" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|27°16'3.83" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|16°10'42.56" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|2°30'54.72" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|20°43'3.00" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|8°45'8.64" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°45'8.64" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|27°16'3.83" |Taurus|HaqAh|Saturn|
 
 

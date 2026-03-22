@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°10'33.39" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°14'40.80" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°29'37.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|0°23'3.46" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|18°3'51.55" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|8°29'26.99" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|25°19'11.40" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°14'40.35" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°29'42.00" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|0°23'15.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°3'58.94" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|8°29'40.64" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|26°39'16.74" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mars|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Moon|Saturn|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Saturn|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°29'42.00" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|0°23'15.02" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|18°3'58.94" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°29'40.64" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°29'40.64" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|26°39'16.74" |Aries|Thurayya|Venus|
 
 

@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:29:43 |
 | Medium Coeli | 12:29:43 |
 | Sunset | 18:38:14 |
-| Maghrib | 18:42:04 |
+| Maghrib | 18:42:05 |
 | Isha (Night) | 19:56:08 |
 | Sharia Midnight | 23:50:20 |
 | Imum Coeli | 00:29:34 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°25'55.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°18'59.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°6'28.76" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|2°25'34.56" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|20°36'23.27" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|8°44'0.36" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|26°3'17.06" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|4°25'55.61" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°18'59.23" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°6'28.79" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|2°25'34.59" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|20°36'23.25" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°44'0.42" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|26°3'17.28" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°25'55.58" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°18'59.53" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°6'28.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|4°25'55.61" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°18'59.23" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°6'28.79" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|2°25'34.56" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|20°36'23.27" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|8°44'0.36" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°44'0.36" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|26°3'17.06" |Taurus|HaqAh|Saturn|
 
 

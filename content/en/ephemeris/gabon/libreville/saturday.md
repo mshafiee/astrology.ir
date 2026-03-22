@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°12'13.61" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°15'5.39" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|14°40'12.71" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|0°36'32.26" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|18°20'30.86" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|8°30'7.03" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|29°42'19.23" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°15'5.95" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|14°40'13.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|0°36'34.25" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°20'32.78" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|8°30'7.63" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°5'30.52" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Saturn|Saturn|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°40'13.18" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|0°36'34.25" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|18°20'32.78" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°30'7.63" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°30'7.63" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|0°5'30.52" |Taurus|Thurayya|Mercury|
 
 

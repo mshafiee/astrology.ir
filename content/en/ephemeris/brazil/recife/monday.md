@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:26:02 |
 | Sunset | 17:28:46 |
 | Maghrib | 17:29:40 |
-| Isha (Night) | 18:36:58 |
+| Isha (Night) | 18:36:59 |
 | Sharia Midnight | 22:47:46 |
 | Imum Coeli | 23:25:52 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°35'37.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°22'6.17" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°7'24.18" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|3°42'35.04" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|22°12'17.68" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|9°4'55.95" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|14°30'51.85" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|15°22'6.83" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°7'24.21" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|3°42'35.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|22°12'18.52" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°4'55.54" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|14°45'3.67" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°35'37.10" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|4°35'37.07" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°22'6.83" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|17°7'24.21" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|3°42'35.68" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|22°12'18.52" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|9°4'55.54" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|9°4'55.54" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|14°45'3.67" |Gemini|HanAh|Mars|
 
 

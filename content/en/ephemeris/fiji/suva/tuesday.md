@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°38'40.60" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°23'10.41" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°26'31.33" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|4°6'37.52" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|22°42'25.17" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|9°12'58.72" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|19°55'31.98" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°38'40.63" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°23'9.66" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°26'37.71" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|4°6'53.02" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|22°42'34.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°13'16.95" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|20°30'54.61" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Jupiter|Mercury|Sagittarius|Sun|Saturn|
+|☾ Moon|Jupiter|Moon|Capricorn|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°26'37.71" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|4°6'53.02" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|22°42'34.55" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|9°13'16.95" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|9°13'16.95" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|20°30'54.61" |Gemini|Dhira|Sun|
 
 

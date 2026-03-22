@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 12:06:47|Night duration: 11:52:56|
+|Duration of the day: 12:06:47|Night duration: 11:52:57|
 |Every hour of day duration: 01:00:34|Every hour of night duration: 00:59:25|
 
  
@@ -235,15 +235,15 @@ Timetable of twelve day and night planetary hours
 |1|Jupiter|Ruler|18:28:53|19:28:16|Love and attraction of capital|
 |2|Mars|Servant|19:28:17|20:27:41|Unfortunate, no task is suitable|
 |3|Sun|Servant|20:27:42|21:27:06|Operations of tenderness and attraction of love|
-|4|Venus|Servant|21:27:07|22:26:30|Unfortunate and repelling goodness|
-|5|Mercury|Servant|22:26:31|23:25:55|Separation, vengeful and hostile deeds|
+|4|Venus|Servant|21:27:07|22:26:31|Unfortunate and repelling goodness|
+|5|Mercury|Servant|22:26:32|23:25:55|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|23:25:56|00:25:20|Suitable for all good deeds|
-|7|Saturn|Servant|00:25:21|01:24:44|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|01:24:45|02:24:09|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|02:24:10|03:23:34|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|03:23:35|04:22:58|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:22:59|05:22:23|Performing promises|
-|12|Mercury|Servant|05:22:24|06:21:48|Finding the fugitive and discovering the thief|
+|7|Saturn|Servant|00:25:21|01:24:45|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|01:24:46|02:24:10|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|02:24:11|03:23:34|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|03:23:35|04:22:59|Attracting happiness, solving financial problems|
+|11|Venus|Servant|04:23:00|05:22:24|Performing promises|
+|12|Mercury|Servant|05:22:25|06:21:49|Finding the fugitive and discovering the thief|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°25'18.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°18'47.50" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°2'34.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|2°20'40.98" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|20°30'14.55" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|8°43'3.57" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|25°9'2.31" |Aries|Butain|Venus|
+|♄ Saturn|Direct|4°25'18.51" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°18'47.80" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°2'34.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|2°20'40.91" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|20°30'14.51" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°43'3.51" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|25°9'1.29" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°25'18.54" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°18'47.50" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°2'34.84" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|2°20'40.95" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°30'14.57" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|8°43'3.57" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|25°9'2.31" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°25'18.51" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°18'47.80" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°2'34.78" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|2°20'40.91" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°30'14.51" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°43'3.51" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|25°9'1.29" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

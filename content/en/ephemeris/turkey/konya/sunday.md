@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|15°24'13.96" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|1°32'11.00" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|19°29'51.77" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|8°34'49.26" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°34'49.26" |Aquarius|SaadAlAkhbia|Venus|
 |☾ Moon|Direct|13°10'17.31" |Aries|Butain|Sun|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°19'12.79" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°17'0.49" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|15°24'13.96" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|1°32'11.00" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|19°29'51.77" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°34'49.26" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|13°10'17.31" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°32'11.15" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|19°29'51.95" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|8°34'49.14" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|13°13'30.15" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:02:12 |
 | Sunrise | 06:29:58 |
-| Dhuhr (Noon) | 12:31:25 |
-| Medium Coeli | 12:31:25 |
+| Dhuhr (Noon) | 12:31:24 |
+| Medium Coeli | 12:31:24 |
 | Sunset | 18:32:23 |
 | Maghrib | 18:33:25 |
 | Isha (Night) | 19:50:38 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:09:15 |
 | Sunrise | 06:29:58 |
-| Dhuhr (Noon) | 12:31:24 |
-| Medium Coeli | 12:31:24 |
+| Dhuhr (Noon) | 12:31:25 |
+| Medium Coeli | 12:31:25 |
 | Sunset | 18:32:23 |
 | Maghrib | 18:33:25 |
 | Isha (Night) | 19:52:58 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°35'58.17" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°22'14.01" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|17°9'36.74" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|3°45'23.24" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|22°15'47.20" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|9°5'50.82" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|15°25'20.21" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°45'22.81" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|22°15'47.43" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°5'48.86" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|15°40'17.24" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|4°35'58.17" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°22'14.01" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|17°9'36.74" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|3°45'23.25" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|22°15'47.26" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|9°5'50.65" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|15°27'28.41" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°45'23.24" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°15'47.20" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|9°5'50.82" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|15°25'20.21" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

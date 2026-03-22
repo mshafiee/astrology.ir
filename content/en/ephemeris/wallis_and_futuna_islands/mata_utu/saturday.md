@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°16'5.27" |Pisces|FarghAlMuqaddam|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°16'8.11" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|15°4'26.27" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|1°7'3.66" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|18°58'40.58" |Pisces|Rescha|Jupiter|
-|☿ Mercury|Retrograde|8°31'51.58" |Aquarius|SaadAlSaud|Venus|
-|☾ Moon|Direct|5°45'52.75" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°16'7.80" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|15°4'32.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|1°7'19.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|18°58'50.84" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|8°32'9.61" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|7°32'29.59" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mercury|Mercury|Moon|Sun|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|15°4'32.44" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|1°7'19.48" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|18°58'50.84" |Aries|Butain|Sun|
-|☿ Mercury|Retrograde|8°32'9.61" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|8°32'9.61" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|7°32'29.59" |Taurus|Thurayya|Mercury|
 
 

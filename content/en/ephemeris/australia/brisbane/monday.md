@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 17:56:11 |
 | Maghrib | 17:57:11 |
 | Isha (Night) | 19:10:14 |
-| Sharia Midnight | 23:15:16 |
+| Sharia Midnight | 23:15:15 |
 | Imum Coeli | 23:54:24 |
 {{< /tab >}}
 
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°31'42.91" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°20'48.99" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°42'51.92" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|3°11'34.30" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|21°33'38.85" |Pisces|Rescha|Mars|
-|☿ Mercury|Retrograde|8°55'30.29" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|6°51'13.16" |Taurus|Thurayya|Mercury|
+|♂ Mars|Direct|16°42'52.14" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|3°11'35.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|21°33'40.78" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°55'29.77" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|7°22'53.12" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°31'42.94" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°20'48.69" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°42'52.17" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|3°11'35.98" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°33'40.77" |Aries|Butain|Venus|
-|☿ Mercury|Retrograde|8°55'29.83" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|7°22'53.40" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|4°31'42.91" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°20'48.99" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°42'52.14" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|3°11'35.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|21°33'40.78" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°55'29.77" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|7°22'53.12" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
