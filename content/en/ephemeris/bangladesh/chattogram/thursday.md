@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:28:55 |
-| Sunrise | 05:51:11 |
+| Sunrise | 05:51:10 |
 | Dhuhr (Noon) | 11:58:23 |
 | Medium Coeli | 11:58:23 |
 | Sunset | 18:05:55 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:19 |
-| Sunrise | 05:51:11 |
+| Sunrise | 05:51:10 |
 | Dhuhr (Noon) | 11:58:23 |
 | Medium Coeli | 11:58:23 |
 | Sunset | 18:05:55 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:14:44|Night duration: 11:44:19|
+|Duration of the day: 12:14:45|Night duration: 11:44:19|
 |Every hour of day duration: 01:01:14|Every hour of night duration: 00:58:42|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|05:51:11|06:52:23|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|06:52:24|07:53:37|Destruction of enemies|
-|3|Sun|Servant|07:53:38|08:54:51|Attraction of financial and emotional love|
-|4|Venus|Servant|08:54:52|09:56:04|Creating love, connection and marriage|
-|5|Mercury|Servant|09:56:05|10:57:18|Indulgence|
-|6|Moon|Servant|10:57:19|11:58:32|Outer and inner journey|
-|7|Saturn|Servant|11:58:33|12:59:45|Achieving status and power|
+|1|Jupiter|Ruler|05:51:10|06:52:22|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|06:52:23|07:53:36|Destruction of enemies|
+|3|Sun|Servant|07:53:37|08:54:50|Attraction of financial and emotional love|
+|4|Venus|Servant|08:54:51|09:56:04|Creating love, connection and marriage|
+|5|Mercury|Servant|09:56:05|10:57:17|Indulgence|
+|6|Moon|Servant|10:57:18|11:58:31|Outer and inner journey|
+|7|Saturn|Servant|11:58:32|12:59:45|Achieving status and power|
 |8|Jupiter|Ruler|12:59:46|14:00:59|Attraction of happiness and fortune|
-|9|Mars|Servant|14:01:00|15:02:13|Reaching status and promotion|
-|10|Sun|Servant|15:02:14|16:03:26|Fulfilling needs|
+|9|Mars|Servant|14:01:00|15:02:12|Reaching status and promotion|
+|10|Sun|Servant|15:02:13|16:03:26|Fulfilling needs|
 |11|Venus|Servant|16:03:27|17:04:40|Attraction of love and hearts|
 |12|Mercury|Servant|17:04:41|18:05:54|Attracting misfortune, not suitable for any task|
 

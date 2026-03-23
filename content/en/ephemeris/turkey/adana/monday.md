@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:25:13 |
 | Sunrise | 06:37:56 |
-| Dhuhr (Noon) | 12:45:16 |
-| Medium Coeli | 12:45:16 |
+| Dhuhr (Noon) | 12:45:15 |
+| Medium Coeli | 12:45:15 |
 | Sunset | 18:53:11 |
 | Maghrib | 18:54:19 |
 | Isha (Night) | 20:06:05 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:09:43 |
 | Sunrise | 06:37:56 |
-| Dhuhr (Noon) | 12:45:16 |
-| Medium Coeli | 12:45:16 |
+| Dhuhr (Noon) | 12:45:15 |
+| Medium Coeli | 12:45:15 |
 | Sunset | 18:53:11 |
 | Maghrib | 18:54:19 |
 | Isha (Night) | 20:21:38 |
@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°26'38.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°19'12.56" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°10'56.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|4°26'38.12" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°19'12.26" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°10'56.09" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|2°31'12.64" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|20°43'24.12" |Pisces|Rescha|Mars|
 |☿ Mercury|Post-Retrograde Shadow|8°45'14.56" |Aquarius|SaadAlAkhbia|Venus|

@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:27:56 |
 | Medium Coeli | 13:27:56 |
 | Sunset | 19:35:51 |
-| Maghrib | 19:52:41 |
+| Maghrib | 19:52:40 |
 | Isha (Night) | 20:42:49 |
 | Sharia Midnight | 00:48:58 |
 | Imum Coeli | 01:27:47 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|4°27'28.89" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°19'28.32" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|16°16'15.52" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|2°37'59.68" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|20°51'49.14" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|8°46'50.13" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|29°20'35.16" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|2°37'56.39" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|20°51'47.11" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°46'46.30" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|29°4'55.61" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°27'28.91" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°19'28.01" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°16'15.54" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|2°37'56.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°51'47.10" |Aries|Butain|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°46'46.36" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|29°4'55.84" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|4°27'28.89" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°19'28.32" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°16'15.52" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|2°37'56.39" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°51'47.11" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°46'46.30" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|29°4'55.61" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

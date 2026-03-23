@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°53'32.91" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°28'42.87" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|19°0'3.35" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|6°4'52.57" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|25°9'39.53" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°5'15.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|18°4'14.13" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|4°53'32.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°28'43.16" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|19°0'3.32" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|6°4'52.54" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|25°9'39.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°5'15.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|18°4'14.26" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,20 +338,20 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°53'32.91" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°28'42.87" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°0'3.35" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|6°4'52.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|25°9'39.53" |Aries|Butain|Venus|
-|☿ Mercury|Post-Retrograde Shadow|10°5'15.43" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|18°4'14.13" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|4°53'32.88" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°28'43.21" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°59'57.18" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|6°4'36.71" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|25°9'29.19" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|10°4'59.64" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|18°4'14.26" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Jupiter|Jupiter|Mars|Mars|
 |♃ Jupiter|Mercury|Mercury|Mars|Moon|
-|♂ Mars|Mars|Mercury|Moon|Sun|
+|♂ Mars|Mercury|Mercury|Moon|Sun|
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Venus|Jupiter|Moon|Sun|

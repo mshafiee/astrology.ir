@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:20:16 |
-| Sunrise | 06:21:49 |
+| Sunrise | 06:21:50 |
 | Dhuhr (Noon) | 12:25:12 |
 | Medium Coeli | 12:25:12 |
 | Sunset | 18:28:33 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:12:16 |
-| Sunrise | 06:21:50 |
+| Sunrise | 06:21:49 |
 | Dhuhr (Noon) | 12:25:12 |
 | Medium Coeli | 12:25:12 |
 | Sunset | 18:28:33 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:24:16 |
-| Sunrise | 06:21:50 |
+| Sunrise | 06:21:49 |
 | Dhuhr (Noon) | 12:25:12 |
 | Medium Coeli | 12:25:12 |
 | Sunset | 18:28:33 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:06:16 |
-| Sunrise | 06:21:50 |
+| Sunrise | 06:21:49 |
 | Dhuhr (Noon) | 12:25:12 |
 | Medium Coeli | 12:25:12 |
 | Sunset | 18:28:33 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:06:44|Night duration: 11:53:00|
+|Duration of the day: 12:06:43|Night duration: 11:53:00|
 |Every hour of day duration: 01:00:34|Every hour of night duration: 00:59:25|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:21:49|07:22:21|Repelling magic, attracting discharged energy|
-|2|Saturn|Servant|07:22:22|08:22:55|Outer and inner journey|
-|3|Jupiter|Servant|08:22:56|09:23:29|Marriage connection is good|
-|4|Mars|Servant|09:23:30|10:24:02|Repelling and destroying enemies and discharging enemy energy|
-|5|Sun|Servant|10:24:03|11:24:36|Answering needs, attracting love and wealth|
+|1|Moon|Ruler|06:21:50|07:22:22|Repelling magic, attracting discharged energy|
+|2|Saturn|Servant|07:22:23|08:22:56|Outer and inner journey|
+|3|Jupiter|Servant|08:22:57|09:23:29|Marriage connection is good|
+|4|Mars|Servant|09:23:30|10:24:03|Repelling and destroying enemies and discharging enemy energy|
+|5|Sun|Servant|10:24:04|11:24:36|Answering needs, attracting love and wealth|
 |6|Venus|Servant|11:24:37|12:25:10|Summoning the person of interest, love and dominance|
-|7|Mercury|Servant|12:25:11|13:25:43|Making promises|
-|8|Moon|Ruler|13:25:44|14:26:17|Reconciliation of two persons, attracting love|
+|7|Mercury|Servant|12:25:11|13:25:44|Making promises|
+|8|Moon|Ruler|13:25:45|14:26:17|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:26:18|15:26:51|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:26:52|16:27:24|Good for any task|
 |11|Mars|Servant|16:27:25|17:27:58|Creating enmity and negative energy|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:06:44|Night duration: 11:53:00|
+|Duration of the day: 12:06:43|Night duration: 11:53:00|
 |Every hour duration: 01:43:49|Every hour duration: 01:41:51|
 
  
@@ -264,13 +264,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:21:49|08:05:37|
-|Mid-morning|Saturn|Servant|08:05:38|09:49:26|
-|Late morning|Jupiter|Servant|09:49:27|11:33:15|
-|Noon|Mars|Servant|11:33:16|13:17:04|
-|Early afternoon|Sun|Servant|13:17:05|15:00:53|
-|Mid-afternoon|Venus|Servant|15:00:54|16:44:42|
-|Late afternoon|Mercury|Servant|16:44:43|18:28:32|
+|Early morning|Moon|Ruler|06:21:50|08:05:38|
+|Mid-morning|Saturn|Servant|08:05:39|09:49:27|
+|Late morning|Jupiter|Servant|09:49:28|11:33:16|
+|Noon|Mars|Servant|11:33:17|13:17:05|
+|Early afternoon|Sun|Servant|13:17:06|15:00:54|
+|Mid-afternoon|Venus|Servant|15:00:55|16:44:43|
+|Late afternoon|Mercury|Servant|16:44:44|18:28:32|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°32'47.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°21'10.02" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°49'41.22" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|3°20'12.51" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|21°44'24.84" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|8°57'57.47" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|9°34'18.87" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|4°32'47.95" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°21'10.33" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°49'41.20" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|3°20'12.48" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|21°44'24.86" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°57'58.01" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|9°24'28.50" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°32'47.95" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°21'10.61" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°49'41.15" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|3°20'12.75" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|21°44'25.34" |Aries|Butain|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°57'57.47" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|9°34'18.87" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|15°21'10.33" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°49'41.20" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|3°20'12.48" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|21°44'24.86" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°57'58.01" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|9°24'28.50" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

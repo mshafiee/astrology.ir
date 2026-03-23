@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°28'12.20" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°19'41.21" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|16°20'47.05" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|2°43'41.50" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|20°58'54.31" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|8°48'12.23" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|0°42'7.37" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|4°28'12.18" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°19'41.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|16°20'47.03" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|2°43'41.47" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|20°58'54.33" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|8°48'12.17" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|0°42'7.14" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°28'12.20" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°19'41.21" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°20'47.05" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|2°43'41.50" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|20°58'54.31" |Aries|Butain|Venus|
-|☿ Mercury|Post-Retrograde Shadow|8°48'12.23" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|0°42'7.37" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|4°28'12.18" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°19'41.51" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°20'47.03" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|2°43'41.47" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|20°58'54.33" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|8°48'12.17" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|0°42'7.14" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
