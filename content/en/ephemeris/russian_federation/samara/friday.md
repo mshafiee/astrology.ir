@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:25:21 |
 | Dhuhr (Noon) | 12:44:46 |
 | Medium Coeli | 12:44:46 |
-| Sunset | 19:05:18 |
+| Sunset | 19:05:17 |
 | Maghrib | 19:28:14 |
 | Isha (Night) | 20:38:36 |
 | Sharia Midnight | 23:50:04 |
