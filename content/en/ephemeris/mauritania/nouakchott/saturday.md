@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°5'9.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°33'35.10" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°12'55.51" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|7°36'51.22" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|27°4'25.59" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°57'52.52" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°4'23.75" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°33'33.31" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°12'57.51" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|7°36'53.80" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|27°4'25.32" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°58'0.04" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|9°11'22.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Saturn|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Venus|Jupiter|Mars|Moon|
+|☾ Moon|Venus|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°12'57.51" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|7°36'53.80" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|27°4'25.32" |Aries|Thurayya|Venus|
-|☿ Mercury|Post-Retrograde Shadow|10°58'0.04" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|10°58'0.04" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|9°11'22.10" |Leo|Zubrah|Saturn|
 
 

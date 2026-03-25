@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°35'58.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°22'14.12" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°9'38.27" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|3°45'24.69" |Pisces|FarghAlMuqaddam|Saturn|
-|♀ Venus|Direct|22°15'49.63" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°5'50.42" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|15°23'49.69" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|4°35'58.40" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°22'13.82" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°9'38.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|3°45'24.72" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|22°15'49.62" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|9°5'50.48" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|15°23'50.06" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°35'58.37" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°22'14.12" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°9'38.27" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|3°45'24.69" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|22°15'49.63" |Aries|Butain|Venus|
-|☿ Mercury|Post-Retrograde Shadow|9°5'50.42" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|15°23'49.69" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°35'58.40" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°22'13.82" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°9'38.30" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|3°45'24.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°15'49.62" |Aries|Butain|Venus|
+|☿ Mercury|Direct|9°5'50.48" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|15°23'50.06" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

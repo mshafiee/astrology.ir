@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 07:07:36 |
 | Dhuhr (Noon) | 13:12:32 |
 | Medium Coeli | 13:12:32 |
-| Sunset | 19:17:38 |
+| Sunset | 19:17:39 |
 | Maghrib | 19:33:39 |
 | Isha (Night) | 20:12:49 |
 | Sharia Midnight | 00:37:03 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 07:07:36 |
 | Dhuhr (Noon) | 13:12:32 |
 | Medium Coeli | 13:12:32 |
-| Sunset | 19:17:38 |
+| Sunset | 19:17:39 |
 | Maghrib | 19:18:33 |
 | Isha (Night) | 20:25:13 |
 | Sharia Midnight | 00:36:26 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 07:07:36 |
 | Dhuhr (Noon) | 13:12:32 |
 | Medium Coeli | 13:12:32 |
-| Sunset | 19:17:38 |
+| Sunset | 19:17:39 |
 | Maghrib | 19:18:33 |
 | Isha (Night) | 20:16:57 |
 | Sharia Midnight | 00:42:38 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 07:07:36 |
 | Dhuhr (Noon) | 13:12:32 |
 | Medium Coeli | 13:12:32 |
-| Sunset | 19:17:38 |
+| Sunset | 19:17:39 |
 | Maghrib | 19:18:33 |
 | Isha (Night) | 20:29:22 |
 | Sharia Midnight | 00:36:26 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°4'55.44" |Aquarius|SaadAlAkhbia|Mercury|
 |☉ Sun|Direct|3°39'27.04" |Pisces|FarghAlMuqaddam|Saturn|
 |♀ Venus|Direct|22°8'24.38" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|9°3'53.02" |Aquarius|SaadAlAkhbia|Venus|
+|☿ Mercury|Direct|9°3'53.02" |Aquarius|SaadAlAkhbia|Venus|
 |☾ Moon|Direct|13°57'19.85" |Taurus|Dabaran|Moon|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°4'55.44" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|3°39'27.04" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|22°8'24.38" |Aries|Butain|Venus|
-|☿ Mercury|Post-Retrograde Shadow|9°3'53.02" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|9°3'53.02" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|13°57'19.85" |Gemini|HanAh|Mars|
 
 

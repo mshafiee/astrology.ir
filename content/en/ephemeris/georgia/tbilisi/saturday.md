@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°3'50.87" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°32'59.61" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°4'45.36" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|7°26'31.22" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|26°51'30.85" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°51'31.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|7°0'9.54" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°32'58.72" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°4'45.02" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|7°26'29.01" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|26°51'28.37" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|10°51'31.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|6°35'59.62" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Saturn|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Saturn|Sun|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°4'45.36" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|7°26'31.22" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°51'30.85" |Aries|Thurayya|Venus|
-|☿ Mercury|Post-Retrograde Shadow|10°51'31.30" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|10°51'31.30" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|7°0'9.54" |Leo|Jabhah|Saturn|
 
 
