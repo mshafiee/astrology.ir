@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:41:04 |
 | Maghrib | 18:44:04 |
 | Isha (Night) | 19:48:03 |
-| Sharia Midnight | 23:59:53 |
+| Sharia Midnight | 23:59:52 |
 | Imum Coeli | 00:35:29 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°6'14.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°34'1.67" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°19'46.07" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|7°45'29.86" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|27°15'8.38" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|11°3'26.99" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|11°5'23.36" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°34'1.56" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°19'46.09" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|7°45'29.76" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|27°15'8.19" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|11°3'27.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°2'24.71" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°19'46.07" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|7°45'29.86" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|27°15'8.38" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|11°3'26.99" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|11°3'26.99" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|11°5'23.36" |Leo|Zubrah|Jupiter|
 
 

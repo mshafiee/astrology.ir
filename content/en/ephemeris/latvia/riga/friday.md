@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°56'44.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°29'59.94" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|19°20'13.47" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|6°30'18.21" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|25°41'22.65" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|10°18'49.89" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|23°26'58.52" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|15°30'2.87" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|19°20'10.33" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|6°30'14.37" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|25°41'23.43" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°18'37.40" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°2'15.16" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Saturn|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Saturn|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Sun|Venus|Pisces|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°20'11.20" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|6°30'14.24" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|25°41'21.51" |Aries|Butain|Venus|
-|☿ Mercury|Direct|10°18'42.07" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|10°18'42.07" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|24°9'55.39" |Cancer|Tarf|Moon|
 
 

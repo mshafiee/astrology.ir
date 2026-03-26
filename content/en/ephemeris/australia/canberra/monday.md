@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°24'12.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'26.10" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°12'45.21" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|10°7'58.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|0°12'58.34" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|12°45'21.50" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|13°56'38.14" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|5°24'14.46" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'26.45" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°12'51.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|10°8'12.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|0°13'8.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|12°45'35.61" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|12°42'16.53" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Venus|Venus|Mercury|Moon|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Mars|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°12'51.09" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°8'12.99" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|0°13'8.02" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°45'35.61" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|12°45'35.61" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|12°42'16.53" |Virgo|Awwa|Venus|
 
 

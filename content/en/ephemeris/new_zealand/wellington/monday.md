@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°23'43.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°42'13.15" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°9'29.04" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|10°3'54.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|0°7'54.43" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|12°42'3.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|13°13'56.43" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|15°42'10.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°9'34.33" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|10°4'4.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|0°7'58.37" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|12°42'19.81" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°49'18.26" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Venus|Venus|Mercury|Moon|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Mars|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°9'34.33" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°4'4.63" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|0°7'58.37" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|12°42'19.81" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|12°42'19.81" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|11°49'18.26" |Virgo|Awwa|Venus|
 
 

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:35:14 |
+| Fajr (Dawn) | 04:35:13 |
 | Sunrise | 05:49:30 |
 | Dhuhr (Noon) | 11:54:41 |
 | Medium Coeli | 11:54:41 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°51'40.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°27'58.56" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°48'16.58" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|5°49'59.34" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|24°51'7.02" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|9°57'40.63" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|4°51'40.30" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°27'58.86" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°48'16.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|5°49'59.31" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|24°51'7.03" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°57'40.57" |Aquarius|SaadAlAkhbia|Venus|
 |☾ Moon|Direct|14°40'6.85" |Gemini|HanAh|Mars|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°51'40.33" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°27'58.56" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°48'16.58" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|5°49'59.34" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|24°51'7.02" |Aries|Butain|Venus|
-|☿ Mercury|Direct|9°57'40.63" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|4°51'40.30" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°27'58.86" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°48'16.55" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|5°49'59.31" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|24°51'7.03" |Aries|Butain|Venus|
+|☿ Mercury|Post-Retrograde Shadow|9°57'40.57" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|14°40'6.85" |Cancer|Tarf|Mercury|
 
 

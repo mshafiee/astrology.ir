@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°16'21.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°38'38.15" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°23'12.70" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|9°5'26.54" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|28°55'0.39" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|11°57'55.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°8'45.74" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°38'37.74" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°23'19.57" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|9°5'43.49" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|28°55'10.93" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|11°58'12.33" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|28°55'42.80" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Jupiter|Venus|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|21°23'19.57" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°5'43.49" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|28°55'10.93" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|11°58'12.33" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|11°58'12.33" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|28°55'42.80" |Leo|Sarfrah|Mars|
 
 

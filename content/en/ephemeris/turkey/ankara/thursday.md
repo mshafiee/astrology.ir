@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|4°49'8.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°27'0.32" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|18°32'22.35" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|5°29'53.21" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|24°26'5.29" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|9°47'52.64" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|10°5'10.26" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|4°49'8.28" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°27'0.24" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|18°32'22.23" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|5°29'52.80" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|24°26'4.93" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°47'52.98" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|9°57'9.79" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Taurus|Moon|Jupiter|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Libra|Sun|Mercury|
+|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|18°32'22.23" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|5°29'52.80" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|24°26'4.93" |Aries|Butain|Venus|
-|☿ Mercury|Direct|9°47'52.45" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|9°47'52.45" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|10°1'52.42" |Cancer|Nathrah|Mercury|
 
 

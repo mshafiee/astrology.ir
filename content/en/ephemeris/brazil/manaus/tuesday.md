@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|4°43'37.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°24'56.15" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|17°57'45.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☉ Sun|Direct|4°46'11.92" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|23°31'35.06" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|9°28'31.94" |Aquarius|SaadAlAkhbia|Venus|
-|☾ Moon|Direct|29°46'13.80" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°24'56.90" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|17°57'44.87" |Aquarius|SaadAlAkhbia|Mercury|
+|☉ Sun|Direct|4°46'11.61" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|23°31'35.68" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|9°28'29.41" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|0°10'25.29" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Mars|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Aries|Moon|Jupiter|
 |♀ Venus|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Taurus|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|17°57'45.40" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|4°46'11.92" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|23°31'35.06" |Aries|Butain|Venus|
-|☿ Mercury|Direct|9°28'31.94" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Post-Retrograde Shadow|9°28'31.94" |Pisces|FarghAlMuakhar|Saturn|
 |☾ Moon|Direct|29°46'13.80" |Gemini|Dhira|Sun|
 
 

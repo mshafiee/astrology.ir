@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°4'59.87" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°33'29.15" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°11'58.07" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|7°35'39.03" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|27°2'51.72" |Pisces|Rescha|Mars|
-|☿ Mercury|Direct|10°57'13.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|8°52'34.37" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|15°33'31.26" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°11'54.74" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|7°35'33.53" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|27°2'50.49" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°57'1.99" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|10°1'18.18" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Jupiter|Venus|
 |♀ Venus|Mars|Saturn|Mars|Mars|
 |☿ Mercury|Venus|Mercury|Mercury|Moon|
-|☾ Moon|Venus|Jupiter|Moon|Saturn|
+|☾ Moon|Venus|Jupiter|Mars|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Jupiter|Venus|Scorpio|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|20°11'58.07" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|7°35'39.03" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|27°2'51.72" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|10°57'13.40" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|10°57'13.40" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|8°52'34.37" |Leo|Zubrah|Saturn|
 
 
