@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'55.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°43'47.36" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°43'47.36" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|22°29'43.69" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|10°29'22.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|0°39'37.02" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|13°2'33.97" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|18°2'43.74" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|10°29'28.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|0°39'36.51" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|13°2'23.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|18°57'18.92" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'55.39" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°43'47.36" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|15°43'47.36" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|22°29'43.69" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°29'28.14" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|0°39'42.11" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|13°2'35.23" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|17°52'24.77" |Virgo|Simak|Venus|
+|♀ Venus|Direct|0°39'36.51" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|13°2'23.26" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|18°57'18.92" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Sun|Jupiter|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Jupiter|Jupiter|Moon|Sun|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:15:50 |
 | Sunset | 19:20:47 |
 | Maghrib | 19:21:41 |
-| Isha (Night) | 20:28:56 |
+| Isha (Night) | 20:28:57 |
 | Sharia Midnight | 00:37:31 |
 | Imum Coeli | 01:15:41 |
 {{< /tab >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°17'40.50" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°39'15.12" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°39'15.12" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|21°31'35.77" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|9°16'9.12" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|29°8'11.97" |Pisces|Rescha|Mars|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°17'40.50" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°39'15.12" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|15°39'15.12" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|21°31'35.77" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°16'9.12" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|29°8'11.97" |Aries|Thurayya|Venus|

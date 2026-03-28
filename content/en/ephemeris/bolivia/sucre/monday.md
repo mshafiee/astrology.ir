@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°28'39.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°44'41.96" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°40'36.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|10°43'11.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|0°56'52.54" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|13°13'43.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°21'21.75" |Leo|Zubrah|Mars|
+|♃ Jupiter|Direct|15°44'40.00" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°40'40.08" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|10°43'18.81" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|0°56'54.85" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|13°13'56.01" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°20'25.26" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°28'39.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°44'40.00" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°40'40.08" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|10°43'11.72" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|0°56'52.54" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|13°13'43.95" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|21°21'21.75" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|15°44'41.79" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°40'34.98" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|10°43'8.63" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|0°56'50.46" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|13°13'41.22" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|21°37'29.62" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Venus|Leo|Moon|Jupiter|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}

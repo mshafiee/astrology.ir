@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:15:01 |
 | Maghrib | 19:31:34 |
 | Isha (Night) | 20:20:22 |
-| Sharia Midnight | 00:42:55 |
+| Sharia Midnight | 00:42:56 |
 | Imum Coeli | 01:20:17 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°16'58.73" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°38'55.31" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|15°38'55.31" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|21°27'13.09" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|9°10'38.12" |Pisces|FarghAlMuakhar|Saturn|
 |♀ Venus|Direct|29°1'18.50" |Pisces|Rescha|Mars|
 |☿ Mercury|Post-Retrograde Shadow|12°1'46.90" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°1'41.47" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|29°52'15.97" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Jupiter|Venus|
 |♀ Venus|Saturn|Saturn|Mars|Mars|
 |☿ Mercury|Venus|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Sun|Mars|Leo|Sun|Sun|
+|☾ Moon|Mercury|Jupiter|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°16'58.73" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°38'55.31" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|15°38'55.31" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|21°27'13.09" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|9°10'38.12" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|29°1'18.50" |Aries|Thurayya|Venus|
