@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°4'10.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°33'7.30" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°6'46.37" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|7°29'6.01" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|26°54'40.95" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°53'9.19" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|7°20'18.65" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|5°4'10.27" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°33'9.22" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°6'39.90" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|7°28'52.10" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|26°54'33.97" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°52'50.29" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|8°35'17.38" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Capricorn|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Saturn|Mercury|Virgo|Moon|Moon|
+|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|7°29'6.01" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|26°54'40.95" |Aries|Thurayya|Venus|
 |☿ Mercury|Post-Retrograde Shadow|10°53'9.19" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|8°35'18.25" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|7°20'18.65" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}

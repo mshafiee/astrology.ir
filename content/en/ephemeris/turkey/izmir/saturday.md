@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:47:55 |
+| Fajr (Dawn) | 05:47:54 |
 | Sunrise | 07:02:41 |
 | Dhuhr (Noon) | 13:16:29 |
 | Medium Coeli | 13:16:29 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°4'13.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°33'9.26" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°7'6.45" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|7°29'29.53" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|26°55'12.90" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|10°53'21.69" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|7°39'11.25" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|5°4'13.38" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°33'8.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°7'6.48" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|7°29'29.56" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|26°55'12.88" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|10°53'21.74" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|7°39'10.40" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

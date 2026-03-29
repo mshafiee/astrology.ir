@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:24:51 |
 | Medium Coeli | 12:24:51 |
 | Sunset | 18:24:20 |
-| Maghrib | 18:38:42 |
+| Maghrib | 18:38:41 |
 | Isha (Night) | 19:21:00 |
 | Sharia Midnight | 23:52:15 |
 | Imum Coeli | 00:24:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°8'24.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°34'58.65" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°33'20.74" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|8°2'38.82" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|27°36'30.59" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|11°14'33.93" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|14°51'22.63" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|5°8'24.15" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°34'58.42" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|20°33'20.75" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|8°2'38.09" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|27°36'29.55" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|11°14'34.78" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|14°38'11.69" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|5°8'24.18" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|15°34'58.65" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|20°33'20.74" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|8°2'21.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|27°36'20.67" |Aries|Thurayya|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°14'13.88" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|16°3'26.04" |Leo|Zubrah|Jupiter|
+|☉ Sun|Direct|8°2'38.82" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|27°36'30.59" |Aries|Thurayya|Venus|
+|☿ Mercury|Post-Retrograde Shadow|11°14'33.93" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|14°51'22.63" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Moon|Sun|Aquarius|Moon|Venus|
+|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}

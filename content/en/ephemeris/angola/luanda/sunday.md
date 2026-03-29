@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:11:48 |
 | Sunset | 18:13:01 |
 | Maghrib | 18:14:13 |
-| Isha (Night) | 19:21:26 |
+| Isha (Night) | 19:21:27 |
 | Sharia Midnight | 23:33:25 |
 | Imum Coeli | 00:11:39 |
 {{< /tab >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°12'3.98" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Direct|15°36'38.17" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|20°56'21.54" |Aquarius|SaadAlAkhbia|Moon|
-|☉ Sun|Direct|8°31'41.42" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|28°12'44.10" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|11°34'7.07" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°22'38.54" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|20°56'18.95" |Aquarius|SaadAlAkhbia|Moon|
+|☉ Sun|Direct|8°31'33.16" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|28°12'37.47" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|11°34'2.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|21°20'42.59" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°12'3.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°36'38.17" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°56'21.54" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|8°31'41.42" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°12'44.10" |Aries|Thurayya|Venus|
-|☿ Mercury|Post-Retrograde Shadow|11°34'7.07" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|21°22'38.54" |Leo|Zubrah|Mars|
+|♄ Saturn|Direct|5°12'4.01" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°36'37.88" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°56'21.57" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|8°31'41.44" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|28°12'44.08" |Aries|Thurayya|Venus|
+|☿ Mercury|Post-Retrograde Shadow|11°34'7.12" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|21°22'37.64" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

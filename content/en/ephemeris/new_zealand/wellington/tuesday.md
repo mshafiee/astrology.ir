@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°31'11.65" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°45'57.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°56'33.51" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|11°3'21.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|1°21'55.42" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|13°30'39.18" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|24°43'50.74" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|5°31'10.80" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°46'0.22" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°56'28.16" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|11°3'11.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|1°21'51.51" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|13°30'23.45" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|26°2'22.05" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mars|Jupiter|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Mars|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°31'10.80" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|5°31'11.61" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|15°46'0.22" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|22°56'28.16" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|11°3'11.29" |Aries|Sharatain|Sun|

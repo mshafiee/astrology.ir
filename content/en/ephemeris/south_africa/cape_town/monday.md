@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:42:23 |
 | Sunrise | 06:56:44 |
-| Dhuhr (Noon) | 12:50:45 |
-| Medium Coeli | 12:50:45 |
+| Dhuhr (Noon) | 12:50:44 |
+| Medium Coeli | 12:50:44 |
 | Sunset | 18:44:14 |
 | Maghrib | 19:00:35 |
 | Isha (Night) | 19:48:47 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:34:07 |
 | Sunrise | 06:56:44 |
-| Dhuhr (Noon) | 12:50:44 |
-| Medium Coeli | 12:50:44 |
+| Dhuhr (Noon) | 12:50:45 |
+| Medium Coeli | 12:50:45 |
 | Sunset | 18:44:14 |
 | Maghrib | 19:02:59 |
 | Isha (Night) | 19:48:47 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:32:40 |
 | Sunrise | 06:56:44 |
-| Dhuhr (Noon) | 12:50:44 |
-| Medium Coeli | 12:50:44 |
+| Dhuhr (Noon) | 12:50:45 |
+| Medium Coeli | 12:50:45 |
 | Sunset | 18:44:14 |
 | Maghrib | 18:45:18 |
 | Isha (Night) | 20:08:10 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:30:14 |
 | Sunrise | 06:56:44 |
-| Dhuhr (Noon) | 12:50:44 |
-| Medium Coeli | 12:50:44 |
+| Dhuhr (Noon) | 12:50:45 |
+| Medium Coeli | 12:50:45 |
 | Sunset | 18:44:14 |
 | Maghrib | 18:45:18 |
 | Isha (Night) | 20:15:18 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°19'28.46" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°40'6.72" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°42'53.88" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°30'25.30" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|29°25'59.29" |Aries|Thurayya|Venus|
-|☿ Mercury|Post-Retrograde Shadow|12°16'27.14" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|4°23'51.36" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|5°19'28.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°40'6.43" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°42'53.91" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°30'25.32" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°25'59.26" |Aries|Thurayya|Venus|
+|☿ Mercury|Post-Retrograde Shadow|12°16'27.19" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|4°23'50.85" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
