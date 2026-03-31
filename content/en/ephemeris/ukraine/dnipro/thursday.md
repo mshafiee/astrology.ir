@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 19:32:38 |
 | Isha (Night) | 20:36:35 |
 | Sharia Midnight | 23:53:44 |
-| Imum Coeli | 00:43:15 |
+| Imum Coeli | 00:43:14 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:35:44 |
 | Isha (Night) | 20:36:35 |
 | Sharia Midnight | 23:47:52 |
-| Imum Coeli | 00:43:15 |
+| Imum Coeli | 00:43:14 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 19:13:23 |
 | Isha (Night) | 20:56:59 |
 | Sharia Midnight | 23:46:48 |
-| Imum Coeli | 00:43:15 |
+| Imum Coeli | 00:43:14 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 19:13:23 |
 | Isha (Night) | 20:43:18 |
 | Sharia Midnight | 23:57:08 |
-| Imum Coeli | 00:43:15 |
+| Imum Coeli | 00:43:14 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°41'20.44" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°51'23.51" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°0'23.90" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|12°23'50.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|5°41'20.41" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°51'24.13" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°0'24.89" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|12°23'53.82" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|3°2'26.60" |Aries|Sharatain|Mars|
 |☿ Mercury|Post-Retrograde Shadow|14°41'35.32" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|12°18'12.96" |Virgo|Awwa|Venus|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|5°41'20.41" |Aries|Sharatain|Mars|
 |♃ Jupiter|Direct|15°51'23.79" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|24°0'23.86" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|12°23'50.74" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|3°2'24.24" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|14°41'33.37" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|12°37'9.26" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|12°23'53.82" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|3°2'26.60" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|14°41'35.32" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|12°18'12.96" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Venus|Mars|Leo|Moon|Jupiter|
-|☾ Moon|Moon|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}

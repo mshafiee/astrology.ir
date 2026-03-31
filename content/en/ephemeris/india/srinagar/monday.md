@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°18'11.71" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°39'30.24" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°34'52.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|9°20'15.98" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|29°13'21.79" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|12°8'50.93" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°30'15.14" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|15°39'30.23" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°34'53.00" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|9°20'17.30" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|29°13'22.63" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|12°8'52.27" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°24'18.78" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°18'11.71" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°39'30.24" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°34'52.47" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°20'15.98" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|29°13'21.79" |Aries|Thurayya|Venus|
-|☿ Mercury|Post-Retrograde Shadow|12°8'50.93" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|2°28'49.80" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|15°39'30.23" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°34'53.00" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°20'17.30" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°13'22.63" |Aries|Thurayya|Venus|
+|☿ Mercury|Post-Retrograde Shadow|12°8'52.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|2°24'18.78" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

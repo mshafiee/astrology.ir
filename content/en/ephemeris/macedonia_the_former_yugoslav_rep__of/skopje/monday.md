@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°19'16.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°40'1.16" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|21°41'41.11" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|9°28'51.11" |Pisces|FarghAlMuakhar|Saturn|
-|♀ Venus|Direct|29°24'4.98" |Pisces|Rescha|Mars|
-|☿ Mercury|Post-Retrograde Shadow|12°15'14.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°30'14.26" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|5°19'17.25" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|15°40'1.88" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|21°41'42.72" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|9°28'55.83" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|29°24'8.51" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|12°15'18.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|4°17'0.58" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Moon|Jupiter|
 |♀ Venus|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 |☿ Mercury|Mars|Saturn|Gemini|Sun|Saturn|
-|☾ Moon|Venus|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°19'16.74" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°40'1.16" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°41'41.11" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|9°28'51.11" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|29°24'4.98" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|5°19'16.71" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|15°40'1.45" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°41'41.08" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|9°28'51.08" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°24'5.01" |Aries|Thurayya|Venus|
 |☿ Mercury|Post-Retrograde Shadow|12°15'14.70" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|4°30'14.79" |Virgo|Awwa|Sun|
 
