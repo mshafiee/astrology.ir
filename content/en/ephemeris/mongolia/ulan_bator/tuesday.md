@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:57:38 |
 | Sunrise | 06:34:04 |
-| Dhuhr (Noon) | 12:56:40 |
-| Medium Coeli | 12:56:40 |
+| Dhuhr (Noon) | 12:56:41 |
+| Medium Coeli | 12:56:41 |
 | Sunset | 19:20:12 |
 | Maghrib | 19:41:17 |
 | Isha (Night) | 20:43:55 |
@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:46:17 |
 | Sunrise | 06:34:04 |
-| Dhuhr (Noon) | 12:56:40 |
-| Medium Coeli | 12:56:40 |
+| Dhuhr (Noon) | 12:56:41 |
+| Medium Coeli | 12:56:41 |
 | Sunset | 19:20:12 |
 | Maghrib | 19:44:19 |
 | Isha (Night) | 20:43:55 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:44:16 |
 | Sunrise | 06:34:04 |
-| Dhuhr (Noon) | 12:56:40 |
-| Medium Coeli | 12:56:40 |
+| Dhuhr (Noon) | 12:56:41 |
+| Medium Coeli | 12:56:41 |
 | Sunset | 19:20:12 |
 | Maghrib | 19:26:33 |
 | Isha (Night) | 21:03:46 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:04:12 |
 | Sunrise | 06:34:04 |
-| Dhuhr (Noon) | 12:56:40 |
-| Medium Coeli | 12:56:40 |
+| Dhuhr (Noon) | 12:56:41 |
+| Medium Coeli | 12:56:41 |
 | Sunset | 19:20:12 |
 | Maghrib | 19:26:33 |
 | Isha (Night) | 20:50:28 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:34:00 |
 | Sunrise | 06:34:04 |
-| Dhuhr (Noon) | 12:56:40 |
-| Medium Coeli | 12:56:40 |
+| Dhuhr (Noon) | 12:56:41 |
+| Medium Coeli | 12:56:41 |
 | Sunset | 19:20:12 |
 | Maghrib | 19:26:33 |
 | Isha (Night) | 21:07:08 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°32'24.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°46'36.43" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|23°4'13.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|11°12'59.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|1°33'54.92" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|13°38'45.02" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|27°51'0.70" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|5°32'24.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°46'36.15" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|23°4'13.50" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|11°12'59.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|1°33'59.73" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|13°38'48.15" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|27°24'0.14" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°32'24.58" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°46'36.43" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|23°4'13.47" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|11°12'59.13" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|1°33'59.76" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|13°38'48.10" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|27°23'59.66" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|5°32'24.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°46'35.60" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|23°4'11.64" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|11°12'53.19" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|1°33'54.92" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|13°38'45.02" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|27°51'1.19" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Mars|Leo|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}

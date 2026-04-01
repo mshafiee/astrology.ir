@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°51'39.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°57'14.31" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°57'14.31" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°5'19.69" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|13°45'46.37" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|4°44'35.21" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|15°59'23.17" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|0°36'31.18" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|15°59'37.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|29°30'11.81" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Leo|Moon|Jupiter|
 |♀ Venus|Sun|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°51'39.40" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°57'14.31" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°57'14.31" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|25°5'19.69" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|13°45'46.37" |Aries|Butain|Sun|
 |♀ Venus|Direct|4°44'35.21" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|15°59'37.26" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|15°59'37.26" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|29°30'11.81" |Libra|Akleel|Jupiter|
 
 

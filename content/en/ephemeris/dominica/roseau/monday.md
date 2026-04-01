@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°28'31.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°44'35.78" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|22°39'42.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|10°42'2.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|0°55'28.32" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|13°12'45.31" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|21°30'11.34" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°44'35.78" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|22°39'46.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|10°42'10.43" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|0°55'30.82" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|13°12'59.76" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°17'27.57" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
+|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°28'31.47" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°44'35.78" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°44'35.78" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|22°39'47.00" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°42'10.94" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|0°55'31.40" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|13°12'59.64" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|20°17'17.03" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|0°55'30.82" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|13°12'59.76" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|20°17'27.57" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

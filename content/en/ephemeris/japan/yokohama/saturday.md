@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:06:39 |
-| Sunrise | 05:24:19 |
+| Sunrise | 05:24:20 |
 | Dhuhr (Noon) | 11:44:27 |
 | Medium Coeli | 11:44:27 |
 | Sunset | 18:05:09 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:57:46 |
-| Sunrise | 05:24:19 |
+| Sunrise | 05:24:20 |
 | Dhuhr (Noon) | 11:44:27 |
 | Medium Coeli | 11:44:27 |
 | Sunset | 18:05:09 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:48:17 |
-| Sunrise | 05:24:19 |
+| Sunrise | 05:24:20 |
 | Dhuhr (Noon) | 11:44:27 |
 | Medium Coeli | 11:44:27 |
 | Sunset | 18:05:09 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:56:12 |
-| Sunrise | 05:24:19 |
+| Sunrise | 05:24:20 |
 | Dhuhr (Noon) | 11:44:27 |
 | Medium Coeli | 11:44:27 |
 | Sunset | 18:05:09 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:40:50|Night duration: 11:17:47|
+|Duration of the day: 12:40:49|Night duration: 11:17:47|
 |Every hour of day duration: 01:03:24|Every hour of night duration: 00:56:29|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:24:19|06:27:42|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:27:43|07:31:06|Peace among people|
-|3|Mars|Servant|07:31:07|08:34:30|Vengeful and evil deeds|
-|4|Sun|Servant|08:34:31|09:37:54|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|09:37:55|10:41:18|Auspicious|
-|6|Mercury|Servant|10:41:19|11:44:43|Writing, swapping and making promises|
+|1|Saturn|Ruler|05:24:20|06:27:43|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:27:44|07:31:07|Peace among people|
+|3|Mars|Servant|07:31:08|08:34:31|Vengeful and evil deeds|
+|4|Sun|Servant|08:34:32|09:37:55|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|09:37:56|10:41:19|Auspicious|
+|6|Mercury|Servant|10:41:20|11:44:43|Writing, swapping and making promises|
 |7|Moon|Servant|11:44:44|12:48:07|Not suitable for any task|
 |8|Saturn|Ruler|12:48:08|13:51:31|Destruction of enemies|
 |9|Jupiter|Servant|13:51:32|14:54:55|All good deeds|
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°1'32.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°3'9.46" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|6°1'32.33" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°3'9.19" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|26°7'36.20" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|15°4'17.99" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|6°22'35.74" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|17°19'37.74" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|17°19'37.74" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|15°59'15.50" |Libra|Jubana|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°1'32.29" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°3'9.36" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|26°7'36.27" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°4'17.98" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°22'35.61" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|17°19'38.01" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|16°0'54.39" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|6°1'32.33" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°3'9.19" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|26°7'36.24" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°4'18.01" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°22'35.71" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°19'37.78" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|15°59'15.69" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

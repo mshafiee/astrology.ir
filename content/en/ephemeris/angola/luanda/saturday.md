@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:10:06 |
 | Dhuhr (Noon) | 12:10:01 |
 | Medium Coeli | 12:10:01 |
-| Sunset | 18:09:48 |
+| Sunset | 18:09:49 |
 | Maghrib | 18:11:00 |
 | Isha (Night) | 19:16:22 |
-| Sharia Midnight | 23:34:35 |
+| Sharia Midnight | 23:34:36 |
 | Imum Coeli | 00:09:52 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:10:06 |
 | Dhuhr (Noon) | 12:10:01 |
 | Medium Coeli | 12:10:01 |
-| Sunset | 18:09:48 |
+| Sunset | 18:09:49 |
 | Maghrib | 18:11:00 |
 | Isha (Night) | 19:08:16 |
-| Sharia Midnight | 23:40:40 |
+| Sharia Midnight | 23:40:41 |
 | Imum Coeli | 00:09:52 |
 {{< /tab >}}
 
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°56'49.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°0'17.79" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°0'17.79" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°37'55.69" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|14°26'54.29" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|5°35'53.38" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|16°40'54.92" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|16°40'54.92" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|7°52'27.55" |Libra|Ghafr|Moon|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°56'49.95" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°0'17.79" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°0'17.79" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|25°37'55.69" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|14°26'54.29" |Aries|Butain|Sun|
 |♀ Venus|Direct|5°35'53.38" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|16°40'54.92" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|16°40'54.92" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|7°52'27.55" |Scorpio|Akleel|Mars|
 
 

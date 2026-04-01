@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°33'56.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°47'24.22" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°47'24.22" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|23°13'48.19" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|11°25'5.06" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|1°49'4.13" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|13°49'11.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|29°48'20.32" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|13°49'11.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|0°36'33.03" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Cancer|Moon|Jupiter|
 |♀ Venus|Mars|Mars|Aries|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Cancer|Sun|Saturn|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°33'56.04" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°47'24.22" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°47'24.22" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|23°13'48.19" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|11°25'5.06" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|1°49'4.13" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|13°49'11.83" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|13°49'11.83" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|29°48'20.32" |Virgo|Simak|Mercury|
 
 

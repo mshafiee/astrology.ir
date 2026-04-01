@@ -242,7 +242,7 @@ Timetable of twelve day and night planetary hours
 |8|Jupiter|Ruler|01:52:00|02:44:24|Extremely auspicious and attracts happiness|
 |9|Mars|Servant|02:44:25|03:36:50|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Sun|Servant|03:36:51|04:29:15|Attracting happiness, solving financial problems|
-|11|Venus|Servant|04:29:16|05:21:40|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Venus|Servant|04:29:16|05:21:40|Performing promises|
 |12|Mercury|Servant|05:21:41|06:14:06|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'2.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°4'5.66" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'5.66" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|26°17'8.50" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|15°16'18.31" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|6°37'36.64" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|17°32'17.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|18°44'9.15" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|17°32'16.90" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|18°35'56.71" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°3'2.95" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°4'5.66" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|26°17'8.50" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°16'18.31" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°37'36.64" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|17°32'17.43" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|18°44'9.15" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|6°3'2.99" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'5.39" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|26°17'8.54" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°16'18.33" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°37'36.61" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°32'17.48" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|18°44'9.18" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

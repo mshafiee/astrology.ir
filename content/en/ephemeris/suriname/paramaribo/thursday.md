@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°50'46.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°56'43.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°59'46.53" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|13°38'46.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|4°35'50.81" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|15°52'44.25" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|27°54'45.26" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|5°50'46.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°56'43.18" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°59'42.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|13°38'39.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|4°35'48.55" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°52'31.84" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|28°28'6.27" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mars|Mars|Venus|Moon|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°50'46.54" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°56'43.45" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°56'43.45" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|24°59'46.53" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|13°38'46.74" |Aries|Butain|Sun|
 |♀ Venus|Direct|4°35'50.81" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|15°52'44.25" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|15°52'44.25" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|27°54'45.26" |Libra|Akleel|Jupiter|
 
 

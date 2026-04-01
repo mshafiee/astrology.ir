@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Saturn|Servant|00:35:16|01:34:50|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|01:34:51|02:34:24|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|02:34:25|03:33:59|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Sun|Servant|03:34:00|04:33:33|Attracting happiness, solving financial problems|
+|10|Sun|Servant|03:34:00|04:33:33|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:33:34|05:33:08|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|05:33:09|06:32:43|The moon is in Scorpio, Not suitable for doing anything.|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'45.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°4'31.65" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°21'37.16" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|15°22'0.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|6°44'38.97" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|17°38'19.83" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|19°18'15.19" |Libra|Jubana|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'31.65" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°21'33.99" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|15°21'53.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|6°44'36.18" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°38'11.51" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|19°37'52.74" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'45.78" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°4'31.65" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'31.65" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|26°21'37.16" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|15°22'0.26" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°44'38.97" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|17°38'19.83" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|17°38'19.83" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|19°18'15.19" |Scorpio|Qalb|Sun|
 
 

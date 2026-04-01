@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:50:04 |
 | Dhuhr (Noon) | 12:04:27 |
 | Medium Coeli | 12:04:27 |
-| Sunset | 18:19:20 |
+| Sunset | 18:19:21 |
 | Maghrib | 18:35:27 |
 | Isha (Night) | 19:23:34 |
-| Sharia Midnight | 23:27:05 |
+| Sharia Midnight | 23:27:06 |
 | Imum Coeli | 00:04:18 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:50:04 |
 | Dhuhr (Noon) | 12:04:27 |
 | Medium Coeli | 12:04:27 |
-| Sunset | 18:19:20 |
+| Sunset | 18:19:21 |
 | Maghrib | 18:20:24 |
 | Isha (Night) | 19:28:27 |
-| Sharia Midnight | 23:29:32 |
+| Sharia Midnight | 23:29:33 |
 | Imum Coeli | 00:04:18 |
 {{< /tab >}}
 
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'17.04" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|15°43'27.90" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°43'27.90" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|22°25'42.37" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|10°24'24.42" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|0°33'22.16" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|12°58'30.04" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|12°58'30.04" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|16°36'9.14" |Leo|Zubrah|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°26'17.04" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|15°43'27.90" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|15°43'27.90" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|22°25'42.37" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|10°24'24.42" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|0°33'22.16" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|12°58'30.04" |Pisces|FarghAlMuakhar|Jupiter|
+|☿ Mercury|Direct|12°58'30.04" |Pisces|FarghAlMuakhar|Jupiter|
 |☾ Moon|Direct|16°36'9.14" |Virgo|Awwa|Venus|
 
 
