@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°55'25.51" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°59'27.76" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|25°29'4.67" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|14°15'42.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|5°21'58.02" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|16°29'32.16" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|6°2'29.89" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|5°55'25.55" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°59'27.49" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|25°29'5.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|14°15'45.02" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|5°22'0.51" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|16°29'33.12" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°39'3.33" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°55'25.51" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|15°59'27.76" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|25°29'5.29" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|14°15'42.65" |Aries|Butain|Sun|
-|♀ Venus|Direct|5°21'57.40" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°29'34.48" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|6°7'51.48" |Scorpio|Akleel|Mars|
+|♂ Mars|Direct|25°29'4.67" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|14°15'42.24" |Aries|Butain|Sun|
+|♀ Venus|Direct|5°21'58.02" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|16°29'32.16" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|6°2'29.89" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

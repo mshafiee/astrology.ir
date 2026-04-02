@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:07:13 |
 | Maghrib | 18:08:10 |
 | Isha (Night) | 19:17:09 |
-| Sharia Midnight | 23:35:33 |
+| Sharia Midnight | 23:35:34 |
 | Imum Coeli | 00:12:33 |
 {{< /tab >}}
 
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|15°18'56.00" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°40'48.66" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|17°35'4.08" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|20°15'21.23" |Scorpio|Qalb|Venus|
+|☾ Moon|Direct|18°37'6.97" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}

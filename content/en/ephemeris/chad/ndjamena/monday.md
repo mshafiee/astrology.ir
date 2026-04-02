@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°11'35.76" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'29.56" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°11'3.04" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°24'20.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°2'26.64" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°46'3.75" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|2°9'37.04" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°9'29.63" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°11'3.26" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°24'20.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°2'27.13" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°46'4.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|2°5'5.90" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|16°9'29.56" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|27°11'3.04" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°24'20.20" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°2'23.91" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°45'51.55" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|2°9'36.27" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|8°2'26.64" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°46'3.75" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|2°9'37.04" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나

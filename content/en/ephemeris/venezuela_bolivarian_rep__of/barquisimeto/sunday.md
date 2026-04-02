@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:22:01 |
+| Fajr (Dawn) | 05:22:02 |
 | Sunrise | 06:32:19 |
 | Dhuhr (Noon) | 12:40:01 |
 | Medium Coeli | 12:40:01 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°13'20.36" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°10'37.42" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°22'3.50" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°38'13.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°19'46.05" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°1'16.00" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|5°57'47.80" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|6°13'20.40" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°10'37.15" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°22'3.54" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°38'13.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°19'46.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°1'32.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|4°58'42.00" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°13'20.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°10'38.25" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°21'56.61" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°37'57.37" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°19'37.09" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°1'16.00" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|5°57'47.80" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|6°13'20.40" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°10'37.15" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°22'3.54" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°38'13.23" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°19'46.02" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°1'32.22" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|4°58'42.00" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

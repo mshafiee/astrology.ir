@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°16'48.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'54.19" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°43'57.80" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°5'50.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°54'14.56" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°32'43.72" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°40'58.11" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|16°12'53.12" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°43'56.32" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°5'45.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°54'10.34" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°32'41.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°23'19.59" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°16'48.37" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'53.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°43'56.28" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°5'45.09" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°54'10.37" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°32'41.25" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|11°23'21.05" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|6°16'48.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°12'53.92" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°43'57.84" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°5'50.17" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°54'14.54" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|19°32'43.77" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|10°40'56.65" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시

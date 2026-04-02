@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°11'19.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'18.87" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°9'21.55" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°22'12.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|7°59'46.76" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°43'42.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°28'14.56" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|6°11'19.74" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°9'19.14" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°9'21.51" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°22'12.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|7°59'46.79" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°43'42.37" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|1°36'28.41" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투

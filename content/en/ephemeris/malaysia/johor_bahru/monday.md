@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°17'12.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°13'9.94" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°46'28.86" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°9'1.51" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|8°58'12.19" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°36'21.61" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|11°12'42.36" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|6°17'12.38" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°13'9.68" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°46'28.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°9'1.54" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|8°58'12.16" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°36'21.66" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°40'20.19" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|16°13'9.94" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|27°46'28.86" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|17°9'1.51" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°58'12.19" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°36'21.61" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|11°12'42.36" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|8°58'10.07" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|19°36'22.18" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|11°40'18.70" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Baru, Bharu, Dzhokhor Bakhru, Dzhokhor-Baru, Dzohor Baru, Dzokhor Bakhru, Džohor Baru, JHB, Jahore Bahru, Johor, Johor Baharu, Johor Bahru, Johore, Johore Bahru, Johore Baru, Johore Bharu, Sin-san-su, Sîn-sân-sṳ, joholeubalu, johora baru, johorubaru, jokur paru, jwhr bhrw, jwhwr bhrw, xin shan, ya hor bah ru, Џохор Бахру, Джохор Бахру, Джохор-Бару, גוהור באהרו, جوهر بهرو, جوهور بهرو, جوھر بھرو, जोहोर बारू, ஜொகூர் பாரு, ยะโฮร์บาห์รู, ဂျဟိုးဘာရူးမြို့, ジョホールバル, 新山, 조호르바루

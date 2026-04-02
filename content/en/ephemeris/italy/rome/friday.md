@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:23:32 |
-| Sunrise | 06:49:26 |
+| Sunrise | 06:49:25 |
 | Dhuhr (Noon) | 13:13:12 |
 | Medium Coeli | 13:13:12 |
 | Sunset | 19:37:42 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:13:33 |
-| Sunrise | 06:49:26 |
+| Sunrise | 06:49:25 |
 | Dhuhr (Noon) | 13:13:12 |
 | Medium Coeli | 13:13:12 |
 | Sunset | 19:37:42 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:29:20 |
-| Sunrise | 06:49:26 |
+| Sunrise | 06:49:25 |
 | Dhuhr (Noon) | 13:13:12 |
 | Medium Coeli | 13:13:12 |
 | Sunset | 19:37:42 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:08:48 |
-| Sunrise | 06:49:26 |
+| Sunrise | 06:49:25 |
 | Dhuhr (Noon) | 13:13:12 |
 | Medium Coeli | 13:13:12 |
 | Sunset | 19:37:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|5°49'16.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|15°55'51.79" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°50'20.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|13°26'51.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|4°21'0.72" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|15°41'5.42" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|25°49'57.13" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|5°49'16.74" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|15°55'52.29" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|24°50'20.98" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|13°26'52.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|4°21'2.12" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°41'5.26" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°39'5.60" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Leo|Moon|Jupiter|
 |♀ Venus|Sun|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Venus|Sun|Cancer|Sun|Moon|
+|☾ Moon|Sun|Sun|Cancer|Sun|Moon|
 
 
 {{< /tab >}}

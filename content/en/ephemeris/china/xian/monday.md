@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 19:12:13 |
 | Isha (Night) | 20:20:43 |
 | Sharia Midnight | 00:10:22 |
-| Imum Coeli | 00:46:36 |
+| Imum Coeli | 00:46:35 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 19:12:13 |
 | Isha (Night) | 20:33:37 |
 | Sharia Midnight | 23:58:41 |
-| Imum Coeli | 00:46:36 |
+| Imum Coeli | 00:46:35 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:12:13 |
 | Isha (Night) | 20:42:13 |
 | Sharia Midnight | 00:01:19 |
-| Imum Coeli | 00:46:36 |
+| Imum Coeli | 00:46:35 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|17°7'22.31" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°56'10.51" |Aries|Sharatain|Mars|
 |☿ Mercury|Direct|19°34'29.01" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|11°5'5.72" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°59'28.24" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

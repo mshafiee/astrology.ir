@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:43:14 |
 | Sunrise | 06:55:26 |
-| Dhuhr (Noon) | 13:31:33 |
-| Medium Coeli | 13:31:33 |
+| Dhuhr (Noon) | 13:31:34 |
+| Medium Coeli | 13:31:34 |
 | Sunset | 20:08:55 |
 | Maghrib | 20:36:59 |
 | Isha (Night) | 21:50:09 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:06:36 |
 | Sunrise | 06:55:26 |
-| Dhuhr (Noon) | 13:31:33 |
-| Medium Coeli | 13:31:33 |
+| Dhuhr (Noon) | 13:31:34 |
+| Medium Coeli | 13:31:34 |
 | Sunset | 20:08:55 |
 | Maghrib | 20:12:04 |
 | Isha (Night) | 21:58:31 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:40:32 |
 | Sunrise | 06:55:26 |
-| Dhuhr (Noon) | 13:31:33 |
-| Medium Coeli | 13:31:33 |
+| Dhuhr (Noon) | 13:31:34 |
+| Medium Coeli | 13:31:34 |
 | Sunset | 20:08:55 |
 | Maghrib | 20:12:04 |
 | Isha (Night) | 22:24:54 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:35:59 |
 | Sunrise | 06:55:26 |
-| Dhuhr (Noon) | 13:31:33 |
-| Medium Coeli | 13:31:33 |
+| Dhuhr (Noon) | 13:31:34 |
+| Medium Coeli | 13:31:34 |
 | Sunset | 20:08:55 |
 | Maghrib | 20:12:04 |
 | Isha (Night) | 21:42:04 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|5°55'10.97" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°59'19.29" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|25°27'33.43" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|14°13'46.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|5°19'34.56" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|16°27'34.98" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|5°49'19.53" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|14°13'45.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|5°19'33.54" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|16°27'34.86" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°58'43.76" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

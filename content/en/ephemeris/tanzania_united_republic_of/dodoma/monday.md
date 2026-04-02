@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°11'13.02" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'14.51" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°8'39.01" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°21'19.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|7°58'39.81" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°42'42.87" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°26'59.31" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|6°11'12.98" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°9'14.78" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°8'38.97" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°21'19.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|7°58'39.84" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°42'42.82" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|1°27'0.23" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°11'13.02" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'14.51" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°8'39.01" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°21'19.11" |Aries|Butain|Sun|
-|♀ Venus|Direct|7°58'39.81" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°42'42.87" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|1°26'59.31" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|6°11'12.98" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°9'14.78" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°8'38.97" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°21'19.08" |Aries|Butain|Sun|
+|♀ Venus|Direct|7°58'39.84" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°42'42.82" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|1°27'0.23" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

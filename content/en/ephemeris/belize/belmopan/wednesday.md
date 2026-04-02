@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°44'0.03" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|15°52'51.98" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|24°17'2.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|12°44'49.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|3°28'39.79" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|15°0'56.05" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|17°35'25.31" |Virgo|Simak|Venus|
+|♂ Mars|Direct|24°17'7.55" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|12°44'58.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|3°28'43.57" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|15°1'8.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|16°40'39.91" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Moon|Sun|
 |♀ Venus|Jupiter|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Leo|Moon|Jupiter|
 |♀ Venus|Mars|Venus|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Saturn|Leo|Moon|Mars|
-|☾ Moon|Mars|Mercury|Aries|Sun|Moon|
+|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|5°44'0.03" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|15°52'51.98" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|24°17'7.55" |Pisces|Rescha|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|15°52'53.60" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|24°17'2.98" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|12°44'49.61" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|3°28'39.79" |Taurus|Thurayya|Mercury|
 |☿ Mercury|Direct|15°0'56.05" |Pisces|FarghAlMuakhar|Jupiter|
