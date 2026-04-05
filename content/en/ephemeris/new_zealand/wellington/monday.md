@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°15'51.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'16.47" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°38'0.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°58'20.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°44'51.57" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°24'11.88" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|9°0'51.13" |Scorpio|Qalb|Mars|
+|♄ Saturn|Direct|6°15'51.85" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°12'16.74" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°38'0.13" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°58'20.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°44'51.60" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|19°24'11.83" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|9°0'52.52" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°15'51.89" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'18.70" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°37'54.70" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°58'9.88" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°44'47.73" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°23'57.53" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|8°58'46.06" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|6°15'51.85" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°12'16.74" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°38'0.13" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°58'20.11" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°44'51.60" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|19°24'11.83" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|9°0'52.52" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴

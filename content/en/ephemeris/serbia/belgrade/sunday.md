@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'57.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°4'39.20" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°22'50.67" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|15°23'30.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|6°46'34.99" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°39'56.39" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|20°3'1.64" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'39.93" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°22'52.01" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|15°23'35.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|6°46'38.64" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|17°39'58.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|19°26'38.25" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°22'50.67" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|15°23'30.68" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°46'34.99" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°39'56.39" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|17°39'56.39" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|20°3'1.64" |Scorpio|Qalb|Venus|
 
 

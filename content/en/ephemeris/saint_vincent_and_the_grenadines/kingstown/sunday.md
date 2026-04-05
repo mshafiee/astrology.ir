@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°20'56.68" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°36'48.81" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°18'0.90" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°59'51.95" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|5°59'57.58" |Scorpio|Akleel|Mars|
+|☿ Mercury|Post-Retrograde Shadow|18°59'57.77" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|4°42'43.47" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°13'9.77" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°10'29.42" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°20'53.43" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°36'38.83" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°17'53.11" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°59'51.95" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|5°59'57.58" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°10'30.54" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°20'56.68" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°36'48.81" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°18'0.90" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|18°59'57.77" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|4°42'43.47" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

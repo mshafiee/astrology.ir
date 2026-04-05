@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°3'27.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°4'21.30" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°19'44.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|15°19'33.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|6°41'43.03" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°35'45.05" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|19°42'55.39" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|6°3'27.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'20.14" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°19'44.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|15°19'30.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|6°41'39.49" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|17°35'45.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°23'10.95" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°19'44.89" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|15°19'33.91" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°41'43.03" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°35'45.05" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|17°35'45.05" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|19°42'55.39" |Scorpio|Qalb|Sun|
 
 

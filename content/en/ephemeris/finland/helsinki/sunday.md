@@ -240,7 +240,7 @@ Timetable of twelve day and night planetary hours
 |6|Moon|Servant|00:30:52|01:22:11|Suitable for all good deeds|
 |7|Saturn|Servant|01:22:12|02:13:30|No task is suitable, causes misfortune|
 |8|Jupiter|Ruler|02:13:31|03:04:50|The moon is in Scorpio, Not suitable for doing anything.|
-|9|Mars|Servant|03:04:51|03:56:10|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Mars|Servant|03:04:51|03:56:10|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Sun|Servant|03:56:11|04:47:29|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:47:30|05:38:49|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mercury|Servant|05:38:50|06:30:09|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'45.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°4'31.92" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°21'37.00" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|15°21'59.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|6°44'39.29" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|17°38'18.84" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|19°19'2.12" |Libra|Jubana|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'31.86" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°21'34.48" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|15°21'53.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|6°44'35.26" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|17°38'4.93" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°6'52.13" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'45.11" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|16°4'31.86" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|26°21'37.00" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°21'59.83" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°44'39.29" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°38'18.84" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|19°19'2.12" |Scorpio|Qalb|Sun|
+|♂ Mars|Direct|26°21'34.48" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°21'53.50" |Aries|Butain|Sun|
+|♀ Venus|Direct|6°44'35.26" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|17°38'13.17" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|19°55'32.50" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

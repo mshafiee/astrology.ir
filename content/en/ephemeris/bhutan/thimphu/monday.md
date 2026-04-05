@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|05:47:23|06:50:08|Repelling magic, attracting discharged energy|
+|1|Moon|Ruler|05:47:23|06:50:08|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Saturn|Servant|06:50:09|07:52:55|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Jupiter|Servant|07:52:56|08:55:42|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Mars|Servant|08:55:43|09:58:29|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°47'52.34" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|17°10'45.68" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|9°0'23.74" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°38'20.99" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|19°38'20.99" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|11°42'58.54" |Scorpio|Qalb|Sun|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°47'52.34" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|17°10'45.68" |Aries|Butain|Sun|
 |♀ Venus|Direct|9°0'23.74" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°38'20.99" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|19°38'20.99" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|11°42'58.54" |Sagittarius|NaAaem|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Tempu, Thimbu, Thimfou, Thimpago, Thimphou, Thimphu, Thimpu, Timbu, Timbuo, Timfou, Timfu, Timfú, Timphu, Timpou (therine) Pounaka (cheimerine), Timpu, Timpû, Tkhimpkhu, Tėmpu, thim phu, thimphu, thimpu, thiphu, thymphw, timbu, timphu, timpu, ting bu, tinpu, tymfw, tymfww, tympw, Θίμφου, Τιμπού (θερινή) Πουνάκα (χειμερινή), Тимбу, Тхимпху, Тхімпху, Թհիմփհու, טהימפהו, تىمپۇ, تيمفو, تھمپو, تیمفو, تیمفوو, تیمپو, ٹھمپھو, थिंफू, थिम्पु, थिम्पू, थिम्फू, থিম্ফু, ਥਿੰਫੂ, ଥିମ୍ପୁ, திம்பு, థింపూ, ಥಿಂಪು, തിംഫു, තිම්පු, ทิมพู, ཐིམ་ཕུ།, ཐིམ་ཕུུུུ, თიმფუ, ጢምጱ, ティンプー, 廷布, 팀부

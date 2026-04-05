@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°38'37.85" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°59'7.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°45'50.91" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°25'5.94" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|19°25'5.94" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|9°8'55.57" |Scorpio|Qalb|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°38'37.85" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°59'7.86" |Aries|Butain|Sun|
 |♀ Venus|Direct|8°45'50.91" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°25'5.94" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|19°25'5.94" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|9°8'55.57" |Sagittarius|NaAaem|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴

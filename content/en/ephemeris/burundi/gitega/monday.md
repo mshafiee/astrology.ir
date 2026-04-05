@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|16°9'19.21" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|27°9'22.29" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°22'13.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|7°59'48.02" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°43'43.28" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|1°38'42.84" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|7°59'46.51" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|18°43'32.80" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|1°29'26.57" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°9'22.29" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°22'13.65" |Aries|Butain|Sun|
 |♀ Venus|Direct|7°59'48.02" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°43'43.28" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Post-Retrograde Shadow|18°43'43.28" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|1°38'42.84" |Sagittarius|Shaulah|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°11'52.21" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°25'22.50" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°3'43.98" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°47'12.82" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|18°47'12.82" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|2°19'27.52" |Scorpio|Akleel|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°11'43.57" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'34.56" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°11'52.21" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°25'22.50" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°3'43.98" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°47'12.82" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|2°19'27.52" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°9'36.62" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°11'47.55" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°25'14.18" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°3'41.33" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|18°47'0.11" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|2°17'11.39" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: DLA, Douala, Doula, Dual, Duala, Dualao, Dóúala, Ntouala, dau'ala, do~uara, du a la, du xa la, dualla, dwala, Ντουάλα, Дуала, דואלה, دوالا, दौआला, ਦੌਆਲਾ, ดูอาลา, ドゥアラ, 杜阿拉, 두알라

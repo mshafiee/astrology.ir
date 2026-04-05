@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|16°12'53.06" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|27°43'48.13" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|17°5'39.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°53'59.20" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°32'30.67" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°29'29.73" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|8°53'49.26" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|19°32'20.55" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°54'37.09" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|6°16'46.92" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|16°12'53.06" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|27°43'48.13" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°5'39.05" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°53'59.20" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°32'30.67" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|10°29'29.73" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|17°5'25.09" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°53'49.26" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|19°32'20.55" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|11°54'37.09" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: DIL, Delhi, Dilhi, Dili, Dili khot, Dilis, Dilli, Dilly, Dilo, Dily, Dyli, Díli, Nova Dili, Ntili, di li, dili, dilli, diri, dyly, tili, Ντίλι, Дили, Дили хот, Дылі, Ділі, Դիլի, דילי, دىلى, ديلي, دیلی, ڈلی, दिली, দিলি, ਦੀਲੀ, டிலி, ಡಿಲಿ, ദിലി, ดิลี, དྷི་ལི།, ဒီလီမြို့, დილი, ディリ, 帝力, 딜리
