@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°3'31.38" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°14'50.30" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|7°50'38.85" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|18°35'30.52" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|18°35'30.52" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|0°0'17.06" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°3'32.07" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°14'50.05" |Aries|Butain|Sun|
 |♀ Venus|Direct|7°50'37.13" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|18°35'33.49" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|18°35'33.49" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|0°27'18.28" |Sagittarius|Shaulah|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: DYU, Djuschambe, Doesjanbe, Douchanbe, Douchanbé, Dusanbe, Dusanbeo, Duschanbe, Dushambe, Dushanbe, Dusjanbe, Duszanbe, Duŝanbeo, Duşanbe, Dušanbe, Dušanbė, Dušhanbe, Dyushambe, Düşənbə, Jushambe, Ntousanmpe, Stalinabad, do~ushanbe, du shang bie, dusyanbe, dwshnbh, dwsnbh, Ντουσάνμπε, Душанбе, דושנבה, دوشنبه, ዱሻንቤ, ドゥシャンベ, 杜尚别, 두샨베

@@ -239,7 +239,7 @@ Timetable of twelve day and night planetary hours
 |5|Mercury|Servant|23:40:54|00:33:13|Separation, vengeful and hostile deeds|
 |6|Moon|Servant|00:33:14|01:25:33|Suitable for all good deeds|
 |7|Saturn|Servant|01:25:34|02:17:53|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|02:17:54|03:10:13|Extremely auspicious and attracts happiness|
+|8|Jupiter|Ruler|02:17:54|03:10:13|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mars|Servant|03:10:14|04:02:33|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|04:02:34|04:54:53|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|04:54:54|05:47:13|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'47.96" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°4'33.59" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°21'52.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|15°22'16.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|6°45'3.41" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|17°38'37.40" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|19°57'31.56" |Libra|Jubana|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°4'35.21" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|26°21'51.79" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|15°22'17.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|6°45'6.04" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°38'34.18" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|19°25'25.93" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°21'52.38" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|15°22'16.32" |Aries|Butain|Sun|
 |♀ Venus|Direct|6°45'3.41" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|17°38'37.40" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|17°38'37.40" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|19°57'31.56" |Scorpio|Qalb|Sun|
 
 

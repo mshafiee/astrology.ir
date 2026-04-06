@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°10'38.67" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°23'48.22" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°1'48.48" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|18°45'28.63" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|18°45'28.63" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|2°15'13.52" |Scorpio|Akleel|Mars|
 
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°10'38.67" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°23'48.22" |Aries|Butain|Sun|
 |♀ Venus|Direct|8°1'48.48" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|18°45'28.63" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|2°15'13.52" |Sagittarius|Shaulah|Mercury|
+|☿ Mercury|Direct|18°45'28.63" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|1°41'51.85" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타

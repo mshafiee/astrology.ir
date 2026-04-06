@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°34'17.85" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°53'39.99" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°39'1.70" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°18'54.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°18'54.62" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|8°1'49.82" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°34'17.85" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°53'39.99" |Aries|Butain|Sun|
 |♀ Venus|Direct|8°39'1.70" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°18'54.62" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|19°18'54.62" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|8°1'49.82" |Sagittarius|NaAaem|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

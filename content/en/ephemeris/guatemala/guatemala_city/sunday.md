@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°24'44.44" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°41'35.98" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°23'59.37" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°5'19.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°5'19.49" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|5°41'44.27" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°24'39.71" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°41'22.94" |Aries|Butain|Sun|
 |♀ Venus|Direct|8°23'50.12" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°5'9.95" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|19°5'9.95" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|7°3'48.98" |Sagittarius|NaAaem|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

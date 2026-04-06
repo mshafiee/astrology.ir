@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|6°6'20.98" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|16°6'8.81" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|26°37'56.42" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|15°42'34.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|7°10'20.17" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|18°0'22.08" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|23°38'13.61" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|15°42'21.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|7°10'10.96" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°0'12.46" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|25°5'47.86" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
+|☾ Moon|Mars|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°6'20.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°6'8.81" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|26°37'56.42" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°42'34.68" |Aries|Butain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|16°6'8.07" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|26°37'51.69" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°42'21.67" |Aries|Butain|Sun|
 |♀ Venus|Direct|7°10'10.96" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|18°0'12.46" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|18°0'12.46" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|25°5'47.86" |Scorpio|Shaulah|Venus|
 
 

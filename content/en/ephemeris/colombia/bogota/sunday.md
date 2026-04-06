@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°22'46.62" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°39'7.79" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°20'53.90" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°2'33.22" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°2'33.22" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|5°7'54.49" |Scorpio|Akleel|Mars|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°22'46.62" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°39'7.79" |Aries|Butain|Sun|
 |♀ Venus|Direct|8°20'53.90" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°2'33.22" |Pisces|Rescha|Jupiter|
+|☿ Mercury|Direct|19°2'33.22" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|5°7'54.49" |Sagittarius|NaAaem|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타

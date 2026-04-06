@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°3'48.53" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|16°4'33.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|26°21'53.53" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|15°22'20.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|6°45'7.74" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|17°38'38.52" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|19°14'27.07" |Libra|Jubana|Saturn|
+|♂ Mars|Direct|26°21'54.80" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|15°22'13.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|6°45'0.11" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|17°38'39.44" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|20°39'24.28" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mars|Virgo|Sun|Jupiter|
 |♀ Venus|Sun|Mercury|Gemini|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
 
 
 {{< /tab >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|16°4'33.45" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|26°21'54.80" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|15°22'21.89" |Aries|Butain|Sun|
-|♀ Venus|Direct|6°45'7.74" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|17°38'38.52" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|19°14'27.07" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|6°45'6.81" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°38'42.94" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|19°29'42.92" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

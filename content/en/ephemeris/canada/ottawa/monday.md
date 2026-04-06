@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°8'49.43" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|17°37'9.92" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|9°33'22.33" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|20°8'46.29" |Aquarius|SaadAlAkhbia|Moon|
+|☿ Mercury|Direct|20°8'46.29" |Aquarius|SaadAlAkhbia|Moon|
 |☾ Moon|Direct|17°12'31.01" |Scorpio|Qalb|Sun|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°20'44.53" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°15'33.41" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|28°8'49.49" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°37'11.98" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°33'25.16" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|20°8'45.14" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|16°33'21.07" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|6°20'44.25" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°15'32.19" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|28°8'49.43" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°37'9.92" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°33'22.33" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|20°8'46.29" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°12'31.01" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
+|☾ Moon|Mercury|Mercury|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}

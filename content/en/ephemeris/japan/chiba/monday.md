@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°41'6.01" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|17°2'12.75" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°49'44.32" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°28'36.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°28'36.62" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|10°3'2.65" |Scorpio|Qalb|Sun|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°16'21.13" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'36.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°41'6.01" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°2'12.75" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°49'44.32" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°28'36.62" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|10°3'2.65" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°12'36.29" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°41'1.25" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°2'0.92" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°49'36.85" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|19°28'26.15" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|10°56'51.59" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Chiba, Chiba-shi, Chibashi, Ciba, QCB, Tiba, chiba, chibashi, jiba si, qian ye, qian ye shi, tshyba, Ĉiba, Čiba, Чиба, تشيبا, ちば, ちばし, チバ, チバシ, 千葉, 千葉市, 지바 시

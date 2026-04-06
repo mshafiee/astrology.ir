@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|27°54'33.17" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|17°19'12.60" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|9°10'54.38" |Aries|Sharatain|Mars|
-|☿ Mercury|Post-Retrograde Shadow|19°48'1.16" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|19°48'1.16" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|13°14'51.83" |Scorpio|Qalb|Sun|
 
 
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|27°54'33.17" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|17°19'12.60" |Aries|Butain|Sun|
 |♀ Venus|Direct|9°10'54.38" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|19°48'1.16" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|13°40'17.87" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|19°48'1.16" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|13°14'51.83" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mercury|Libra|Moon|Saturn|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
