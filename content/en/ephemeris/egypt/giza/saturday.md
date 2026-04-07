@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'3.82" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'9.26" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°2'8.52" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°15'40.55" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°6'8.18" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°38'14.36" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°24'23.35" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°48'5.04" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°35'9.95" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°2'12.53" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°15'51.93" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°6'16.50" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°38'22.01" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°58'20.38" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'5.00" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'10.21" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°2'8.52" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°15'40.55" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°6'8.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°38'14.36" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°24'23.35" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°48'5.04" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°35'9.95" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°2'12.53" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°15'51.93" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°6'16.50" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°38'22.01" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°58'20.38" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°33'2.32" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'4.45" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°24'4.45" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|29°26'41.21" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|19°15'22.92" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|11°35'55.05" |Aries|Sharatain|Sun|
 |☿ Mercury|Direct|22°6'2.25" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|7°2'24.20" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|6°45'12.80" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°33'2.32" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'4.45" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|29°26'41.21" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|19°15'22.92" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°35'55.05" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°6'2.25" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°2'24.20" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°33'2.36" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°24'4.19" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|29°26'40.00" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°15'21.05" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°35'54.79" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°5'58.94" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°45'13.59" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°49'52.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'32.23" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°13'36.42" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°30'15.82" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°24'13.06" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°57'4.76" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°43'3.19" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°49'52.63" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°36'31.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°13'36.47" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°30'15.85" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°24'13.03" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°57'9.06" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°4'0.23" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°49'52.58" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'30.82" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°13'33.85" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°30'7.08" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°24'5.69" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°57'4.76" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°43'3.19" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°49'52.63" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°36'31.97" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°13'36.47" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°30'15.85" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°24'13.03" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°57'9.06" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°4'0.23" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌

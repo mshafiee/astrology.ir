@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°52'27.33" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°38'31.52" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°29'55.30" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°50'42.83" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°49'52.84" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°24'12.26" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|9°31'22.51" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|16°38'31.52" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°30'1.35" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°50'58.71" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°50'3.57" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°24'24.52" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|9°30'59.01" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°52'27.33" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°38'31.52" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°38'31.52" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°30'1.35" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°50'42.83" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°49'52.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°24'12.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|9°31'22.51" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|21°50'58.71" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°50'3.57" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°24'24.52" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|9°30'59.01" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

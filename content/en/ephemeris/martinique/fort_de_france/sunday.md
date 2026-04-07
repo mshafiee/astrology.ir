@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°13'9.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°10'30.27" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°20'53.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°36'45.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°17'56.68" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°59'53.92" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|4°42'36.29" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|6°13'9.38" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°10'30.00" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°20'54.03" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°36'45.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°17'56.65" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°59'53.97" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|4°42'35.16" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°13'9.34" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°10'30.27" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°20'53.99" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°36'45.35" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°17'56.68" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°59'53.92" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|4°42'36.29" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|6°13'9.38" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°10'30.00" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°20'54.03" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°36'45.38" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°17'56.65" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°59'53.97" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|4°42'35.16" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스

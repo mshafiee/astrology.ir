@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'8.01" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'58.15" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°35'58.15" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°8'52.99" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°24'17.90" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|14°16'46.91" |Aries|Butain|Sun|
 |☿ Mercury|Direct|24°49'21.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°12'47.27" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|3°47'0.77" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'8.01" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'58.15" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°35'58.15" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°8'52.99" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°24'17.90" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°16'46.91" |Taurus|Dabaran|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

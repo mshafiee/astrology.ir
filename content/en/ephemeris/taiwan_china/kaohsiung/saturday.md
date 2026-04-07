@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'37.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'25.52" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°37'28.56" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|22°0'18.52" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°1'45.89" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°36'51.61" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°45'29.44" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|16°39'26.37" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°37'30.11" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°0'23.67" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|15°1'50.20" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°36'54.21" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°27'54.69" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'37.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'26.37" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°37'30.11" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°0'23.67" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°1'50.20" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°36'54.21" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°27'54.69" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°39'25.27" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°37'28.61" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°0'18.55" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°1'45.86" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°36'51.61" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°45'29.44" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Gaosjun, Gaosyongshih, Gaoxiong, Gaoxiongshi, KHH, Kao-hsiung, Kao-hsiung-shih, Kaohsiung, Kaohsiung City, Takao, gao xiong, gao xiong fu, gao xiong shi, gaosyung si, Гаосюн, 高雄, 高雄巿, 高雄市, 가오슝 시

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:51:54|Night duration: 11:06:45|
+|Duration of the day: 12:51:54|Night duration: 11:06:46|
 |Every hour of day duration: 01:04:19|Every hour of night duration: 00:55:34|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Saturn|Servant|20:09:53|21:05:26|Destruction of enemies|
 |3|Jupiter|Servant|21:05:27|22:01:00|Attraction of financial and emotional love|
 |4|Mars|Servant|22:01:01|22:56:34|Creating love, connection and marriage|
-|5|Sun|Servant|22:56:35|23:52:07|Indulgence|
-|6|Venus|Servant|23:52:08|00:47:41|Outer and inner journey|
-|7|Mercury|Servant|00:47:42|01:43:15|Achieving status and power|
+|5|Sun|Servant|22:56:35|23:52:08|Indulgence|
+|6|Venus|Servant|23:52:09|00:47:42|Outer and inner journey|
+|7|Mercury|Servant|00:47:43|01:43:15|Achieving status and power|
 |8|Moon|Ruler|01:43:16|02:38:49|Attraction of happiness and fortune|
-|9|Saturn|Servant|02:38:50|03:34:22|Reaching status and promotion|
-|10|Jupiter|Servant|03:34:23|04:29:56|Fulfilling needs|
-|11|Mars|Servant|04:29:57|05:25:30|Attraction of love and hearts|
-|12|Sun|Servant|05:25:31|06:21:04|Attracting misfortune, not suitable for any task|
+|9|Saturn|Servant|02:38:50|03:34:23|Reaching status and promotion|
+|10|Jupiter|Servant|03:34:24|04:29:57|Fulfilling needs|
+|11|Mars|Servant|04:29:58|05:25:31|Attraction of love and hearts|
+|12|Sun|Servant|05:25:32|06:21:05|Attracting misfortune, not suitable for any task|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:51:54|Night duration: 11:06:45|
+|Duration of the day: 12:51:54|Night duration: 11:06:46|
 |Every hour duration: 01:50:16|Every hour duration: 01:35:15|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mars|Servant|00:00:05|01:35:19|
 |Rooster song|Sun|Servant|01:35:20|03:10:34|
 |False Dawn|Venus|Servant|03:10:35|04:45:49|
-|Dawn|Mercury|Servant|04:45:50|06:21:04|
+|Dawn|Mercury|Servant|04:45:50|06:21:05|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°33'18.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'15.40" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°28'22.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|19°17'23.99" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|11°38'31.96" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°8'36.92" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°20'40.36" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|6°33'18.83" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°24'16.02" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°28'25.83" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|19°17'34.49" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|11°38'39.67" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°8'43.93" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°30'20.09" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°33'18.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'16.28" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|29°28'25.79" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|19°17'34.46" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°38'39.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°8'43.88" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|8°20'40.36" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°33'18.83" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°24'16.02" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|29°28'25.83" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°17'34.49" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°38'39.67" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°8'43.93" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°30'20.09" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

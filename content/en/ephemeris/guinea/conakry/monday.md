@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:57:04 |
 | Medium Coeli | 12:57:04 |
 | Sunset | 19:05:04 |
-| Maghrib | 19:05:58 |
+| Maghrib | 19:05:59 |
 | Isha (Night) | 20:12:17 |
 | Sharia Midnight | 00:21:11 |
 | Imum Coeli | 00:56:55 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:57:04 |
 | Medium Coeli | 12:57:04 |
 | Sunset | 19:05:04 |
-| Maghrib | 19:05:58 |
+| Maghrib | 19:05:59 |
 | Isha (Night) | 20:04:03 |
 | Sharia Midnight | 00:27:22 |
 | Imum Coeli | 00:56:55 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'11.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'52.75" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°14'49.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°29'5.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°8'22.84" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°51'21.05" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|3°6'54.75" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|6°12'11.65" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°9'52.48" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°14'49.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°29'5.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°8'22.81" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°51'21.10" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|3°6'53.72" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°12'11.61" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'52.75" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°14'49.38" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°29'5.75" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°8'22.84" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°51'21.05" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|3°6'54.75" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|6°12'11.65" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°9'52.48" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°14'49.43" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°29'5.77" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°8'22.81" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°51'21.10" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|3°6'53.72" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

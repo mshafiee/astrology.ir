@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°18'23.77" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°13'57.58" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°54'0.54" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°18'30.64" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|9°10'3.13" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°47'13.30" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|13°12'31.26" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|16°13'58.91" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°53'54.98" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°18'19.22" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|9°9'57.87" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°46'59.35" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|13°23'49.59" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Virgo|Sun|Jupiter|
 |♀ Venus|Venus|Mercury|Cancer|Sun|Mars|
 |☿ Mercury|Venus|Jupiter|Virgo|Moon|Mars|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°18'22.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°13'59.17" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°53'54.93" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°18'19.19" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°9'57.89" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|6°18'23.81" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°13'57.31" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°54'0.59" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°18'30.67" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°10'3.10" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Direct|19°46'59.30" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|13°23'51.12" |Sagittarius|NaAaem|Moon|
 

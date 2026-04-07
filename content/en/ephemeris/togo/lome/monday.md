@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°11'53.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'41.15" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°12'56.45" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°26'43.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°5'25.10" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|18°48'42.76" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Direct|16°9'42.77" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°12'50.91" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°26'32.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°5'20.49" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|18°48'28.31" |Aquarius|SaadAlAkhbia|Mercury|
 |☾ Moon|Direct|2°36'39.84" |Scorpio|Akleel|Mars|
 
 
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°11'53.74" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°9'41.15" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°9'41.15" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|27°12'56.45" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°26'43.45" |Aries|Butain|Sun|
 |♀ Venus|Direct|8°5'25.10" |Taurus|Thurayya|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LFW, Lameh, Lome, Lomee, Lomeo, Lomé, Lomė, lome, luo mei, lwm, lwmh, lwmy, lwmyh, rome, Λομέ, Ламэ, Ломе, Լոմե, לאמע, לומה, لوم, لومه, لومي, لوميه, لومې, لومے, لۆمێ, लोमे, ਲੋਮੇ, லோமே, โลเม, ལཱོ་མེ།, ლომე, ሎሜ, ロメ, 洛美, 로메

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°52'49.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°38'49.72" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°32'24.72" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°53'59.96" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°53'50.90" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°28'23.03" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|9°48'49.43" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|16°38'49.09" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°32'25.34" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°54'0.38" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°53'50.27" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°28'24.87" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°10'4.29" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°52'49.95" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°38'49.09" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°38'49.09" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°32'25.34" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°54'0.38" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°53'50.27" |Taurus|Dabaran|Moon|

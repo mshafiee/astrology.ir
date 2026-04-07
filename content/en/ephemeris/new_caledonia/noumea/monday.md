@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°15'58.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'21.09" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°12'21.09" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|27°38'42.49" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|16°59'13.74" |Pisces|FarghAlMuakhar|Jupiter|
 |♀ Venus|Direct|8°45'58.20" |Aries|Sharatain|Mars|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°15'57.23" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'20.35" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°38'37.89" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°59'1.07" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°45'49.23" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|6°15'58.56" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°12'21.09" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°38'42.49" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°59'13.74" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°45'58.20" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Direct|19°25'12.60" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|9°9'53.63" |Sagittarius|NaAaem|Mercury|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

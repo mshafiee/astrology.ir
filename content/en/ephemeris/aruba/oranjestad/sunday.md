@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°13'20.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°10'37.68" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°22'5.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°38'16.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°19'49.91" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°1'35.54" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|5°0'17.17" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|6°13'20.78" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°10'37.41" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°22'5.99" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°38'16.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°19'49.89" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°1'35.59" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|5°0'16.02" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°13'20.74" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°10'37.22" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°22'1.93" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°38'5.29" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°19'42.33" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|19°1'27.32" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|6°7'43.07" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|6°13'20.78" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°10'37.41" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°22'5.99" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°38'16.22" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°19'49.89" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|19°1'35.59" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|5°0'16.02" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

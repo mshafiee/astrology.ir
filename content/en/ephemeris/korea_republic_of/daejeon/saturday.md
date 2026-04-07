@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'25.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'16.89" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°36'11.81" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°58'44.11" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°59'47.05" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°34'42.75" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°3'22.84" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|16°39'16.87" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°36'11.88" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°58'44.25" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°59'47.11" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°34'42.92" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°4'14.60" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'25.35" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'16.89" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°39'16.89" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°36'11.81" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°58'44.11" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°59'47.05" |Taurus|Dabaran|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Daejeon, Daejeon-si, Daejon, Daiden, QTW, Taejon, Taejŏn, Taiden, Tehdzhon, Tetyan, Thai-tyen, Thāi-tyen, Tētyan, da tian guang yu shi, daejeon, daejeongwang-yeogsi, daejeonsi, Тэджон, 大田广域市, 大田広域市, 대전, 대전광역시, 대전시

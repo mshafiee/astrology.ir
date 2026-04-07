@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°17'3.95" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°13'4.84" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°45'35.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°7'53.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°56'49.59" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°35'3.74" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|11°7'15.14" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|16°13'4.32" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°45'36.49" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°7'54.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°56'49.86" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°35'5.30" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°9'14.96" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°17'3.95" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°13'4.59" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°45'36.45" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°7'54.18" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°56'49.88" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°35'5.25" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|11°9'16.44" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|6°17'3.99" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°13'4.32" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°45'36.49" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°7'54.21" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°56'49.86" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|19°35'5.30" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|11°9'14.96" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: CKG, Cchung-cching, Ch'ung-ch'ing, Ch'ung-ch'ing-shih, Chongqing, Chongqing (Chongqing Shi), Chongqing - zhong qing, Chongqing - 重庆, Chongqing Shi, Chuncin, Chungking, Ch’ung-ch’ing, Ch’ung-ch’ing-shih, Congcing, Congcingas, Congcingo, Csungking, Cuncjina, Pa, Pa-hsien, Trung Khanh, Trùng Khánh, Tshung-khin, Tshùng-khin, Tsjoengking, Yu-chou, Yuzhou, Yü-chou, caungakiga, ceancin, chng ching, chungching si, chwng kyng, chwngchng, congachinga, congkinga, conkin, tshwnghtshyngh, z'wngz'yng, zhong qing, zhong qing shi, Çongçing, Ĉongĉingo, Čchung-čching, Čongčingas, Čuncjina, Чунгкинг, Чунцин, Чунцін, צ'ונגצ'ינג, تشونغتشينغ, چونگ کینگ, چونگچنگ, چونگ‌کینگ, چۇڭچىڭ شەھىرى, चोंगछिंग, चोंग्किंग, ਚੌਂਗਕਿੰਗ, சோங்கிங், ചോങ്ചിങ്, ฉงชิ่ง, ཁྲུང་ཆིན་གྲོང་ཁྱེར།, 重庆, 重庆市, 重慶, 重慶市, 충칭 시

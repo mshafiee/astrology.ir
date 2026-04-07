@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:59:26 |
+| Fajr (Dawn) | 03:59:27 |
 | Sunrise | 06:22:10 |
 | Dhuhr (Noon) | 13:07:54 |
 | Medium Coeli | 13:07:54 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°33'36.89" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'29.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°30'21.08" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|19°19'58.71" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|11°41'41.35" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°11'41.81" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|8°3'20.09" |Sagittarius|NaAaem|Mercury|
+|♃ Jupiter|Direct|16°24'29.77" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°30'21.37" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|19°20'0.30" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|11°41'43.05" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°11'41.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|7°42'23.74" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°33'36.89" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'29.45" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°24'29.45" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|29°30'21.08" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|19°19'58.71" |Aries|Butain|Sun|
 |♀ Venus|Direct|11°41'41.35" |Taurus|Dabaran|Moon|

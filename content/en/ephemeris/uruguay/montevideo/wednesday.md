@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:37:38 |
+| Fajr (Dawn) | 05:37:39 |
 | Sunrise | 07:02:44 |
 | Dhuhr (Noon) | 12:46:31 |
 | Medium Coeli | 12:46:31 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°35'22.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°25'44.77" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°25'44.77" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|29°41'28.56" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|19°34'3.58" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|11°59'11.56" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|22°29'2.31" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|10°47'47.15" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|19°33'49.39" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|11°59'4.70" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|22°28'46.17" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°25'9.80" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°35'22.40" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°25'44.77" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|29°41'28.56" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|19°34'3.58" |Aries|Butain|Sun|
-|♀ Venus|Direct|11°59'11.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|22°29'2.31" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°47'47.15" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Direct|16°25'46.18" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|29°41'21.76" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°33'49.39" |Aries|Butain|Sun|
+|♀ Venus|Direct|11°59'4.70" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|22°28'46.17" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°25'9.80" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

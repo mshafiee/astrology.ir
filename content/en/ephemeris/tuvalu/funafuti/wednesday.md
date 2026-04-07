@@ -238,7 +238,7 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|21:04:42|22:04:48|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Saturn|Servant|22:04:49|23:04:56|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Jupiter|Servant|23:04:57|00:05:04|Outer and inner journey|
-|7|Mars|Servant|00:05:05|01:05:11|Attracting love and hearts and fortune|
+|7|Mars|Servant|00:05:05|01:05:11|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|01:05:12|02:05:19|Being invisible to the people|
 |9|Venus|Servant|02:05:20|03:05:27|Separation, causing enmity|
 |10|Mercury|Servant|03:05:28|04:05:34|Dominating the great ones|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°30'28.09" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°22'16.69" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|29°10'17.19" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|18°54'39.23" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|11°10'10.80" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|21°40'43.66" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°17'37.81" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|6°30'28.13" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°22'14.50" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°10'23.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|18°54'50.98" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|11°10'15.56" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|21°40'58.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°45'12.21" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Libra|Sun|Jupiter|
 |♀ Venus|Venus|Moon|Leo|Sun|Mars|
 |☿ Mercury|Mercury|Mars|Libra|Moon|Mars|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°30'28.09" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°22'14.77" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|6°30'28.13" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°22'14.50" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|29°10'23.24" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|18°54'50.95" |Aries|Butain|Sun|
 |♀ Venus|Direct|11°10'15.58" |Taurus|Dabaran|Moon|

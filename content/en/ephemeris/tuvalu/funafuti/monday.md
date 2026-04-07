@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°15'40.72" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'9.32" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°36'49.83" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|16°56'51.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°43'0.88" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°22'31.43" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|8°41'58.00" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Direct|16°12'11.29" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°36'43.83" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|16°56'39.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°42'56.07" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°22'15.94" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|8°48'2.31" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°15'40.72" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'9.32" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°36'49.83" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|16°56'51.52" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°43'0.88" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°22'31.43" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|8°41'58.00" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|6°15'39.69" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°12'11.02" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°36'43.87" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|16°56'39.87" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°42'56.04" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|19°22'15.99" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|8°48'0.97" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

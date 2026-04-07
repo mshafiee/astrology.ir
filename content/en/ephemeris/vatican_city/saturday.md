@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'24.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'25.02" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°4'15.38" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°18'26.19" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|6°48'24.15" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°35'26.82" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°4'13.54" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°18'24.56" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|14°9'31.46" |Aries|Butain|Sun|
 |☿ Mercury|Direct|24°41'38.10" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|1°34'21.62" |Capricorn|SaadAlDhabib|Jupiter|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°48'24.26" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'25.02" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°35'25.02" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°4'15.38" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°18'26.19" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°9'30.11" |Taurus|Dabaran|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Citta del Vaticano, Città del Vaticano, Ciudad del Vaticano, Etat de la Cite du Vatican, Staat Vatikanstadt, Staat der Vatikanstadt, Vatican, Vatican City, Vatican City State, Vaticano, Vatikan, Vatikanas, Vatikanstaden, Vatikanstadt, batikan, batikan si, État de la Cité du Vatican, Ватикан, 바티칸, 바티칸 시

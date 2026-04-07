@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'34.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'23.80" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°39'23.80" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°37'9.69" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°59'58.58" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|15°1'17.96" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°36'11.04" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°23'42.54" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|25°36'20.29" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°25'16.90" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'34.55" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'23.80" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°39'23.80" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°37'9.69" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°59'58.58" |Aries|Butain|Venus|
 |♀ Venus|Direct|15°1'17.96" |Taurus|Dabaran|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Central, Ciudad ti Davao, DVO, Dakbayan sa Davao, Davao, Davao City, Davao Lakanbalen, Davao Stad, Davaó, Lungsod ng Dabaw, Syudad han Davao, da wo shi, dabao, dafaw, dawayw syty, Давао, دافاو, داوائو سیتی, ダバオ, 达沃市, 다바오

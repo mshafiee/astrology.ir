@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'47.75" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'28.68" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°36'28.68" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°13'5.66" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°29'36.85" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|14°23'24.75" |Aries|Butain|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'47.75" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'27.14" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°13'4.30" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°29'30.99" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°23'19.08" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°56'16.43" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°37'29.80" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|16°36'28.68" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°13'5.66" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°29'36.85" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°23'24.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°56'18.07" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|4°55'3.26" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Gritviken, Griutvikenas, Grjutviken, Grutviken, Grytviken, Qryotviken, geuliteubiken, gritavikena, grytwwyqn, gu li de wei ken, guritobiken, krit wi khen, Грутвикен, Грутвікен, Грютвикен, Грютвікен, גריטוויקן, ग्रिटविकेन, กริตวีเคน, グリトビケン, 古利德維肯, 그리트비켄

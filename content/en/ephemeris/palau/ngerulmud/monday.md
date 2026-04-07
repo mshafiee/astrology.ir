@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°16'32.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'43.17" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°42'20.20" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°3'43.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♀ Venus|Direct|8°51'38.78" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°30'23.45" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|11°5'1.93" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|6°16'33.32" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°12'44.11" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°42'22.39" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°3'50.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|8°51'44.32" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°30'27.25" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|10°11'2.10" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°16'33.32" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°12'44.11" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°42'20.20" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°3'43.58" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°51'38.78" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°30'23.45" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|11°5'1.93" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|16°12'44.11" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°42'22.39" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°3'50.49" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°51'44.32" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|19°30'27.25" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|10°11'2.10" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

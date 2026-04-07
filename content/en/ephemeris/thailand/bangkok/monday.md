@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°17'14.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°13'12.04" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|6°17'14.44" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°13'11.11" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|27°46'42.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°9'18.84" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|8°58'34.55" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°36'39.71" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|10°59'26.97" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|17°9'17.76" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|8°58'33.02" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|19°36'40.35" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|11°19'39.88" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Moon|Sun|
 |♀ Venus|Venus|Venus|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Mercury|Moon|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°17'14.40" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°13'11.38" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°46'42.07" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°9'17.73" |Aries|Butain|Sun|
-|♀ Venus|Direct|8°58'33.04" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°36'40.30" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|11°19'41.37" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|6°17'14.44" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°13'11.11" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°46'42.12" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°9'17.76" |Aries|Butain|Sun|
+|♀ Venus|Direct|8°58'33.02" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|19°36'40.35" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|11°19'39.88" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub>□ Square</sub>|
 
 ---
 Alternate Names: Amphoe Phra Nakhon, BKK, Ban'nkok, Bancac, Bancocum, Bancoque, Bancác, Banghok, Bangkok, Bangkok Metropolis, Bangkoka, Bangkòk, Banguecoque, Bankok, Bankokas, Bankoko, Banqkok, Changwat Phra Nakhon, Krung Thep, Krung Thep Maha Nakhon, Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit, Krungdeb, Man-kuk, Màn-kuk, Phra Nakhon, Siayuthia, The City of Angels, bainkaka, bainkoka, bamkoka, bangkog, bangkwk, bankeakk, bankoku, bankwk, bngqwq, bnkak, byankak, byankaka, camraata byankaka, krungtheph, krungthephmhankhr, krungtheph‡, man gu, penkak, Μπανγκόκ, Бангкок, Банкок, Баҥкок, Բանգկոկ, באנגקאק, בנגקוק, بانكوك, بانکوک, بانکۆک, بانګکوک, بانگكوك, بنکاک, बँकॉक, बैंकक, बैंकॉक, চাংৱাত ব্যাংকক, ব্যাংকক, ਬੈਂਕਾਕ, பேங்காக், ಬ್ಯಾಂಕಾಕ್, ബാങ്കോക്ക്, බැංකොක්, กรุงเทพ, กรุงเทพมหานคร, กรุงเทพฯ, ບາງກອກ, པན་ཀོག, ဘန်ကောက်မြို့, ბანგკოკი, ባንኮክ, バンコク, 曼谷, 방콕
