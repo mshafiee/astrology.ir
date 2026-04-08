@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:10:58 |
 | Sunset | 19:46:32 |
 | Maghrib | 19:47:53 |
-| Isha (Night) | 21:08:49 |
+| Isha (Night) | 21:08:48 |
 | Sharia Midnight | 00:29:25 |
 | Imum Coeli | 01:10:50 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°48'24.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°35'24.71" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'24.71" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°4'15.01" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°18'25.84" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°9'29.60" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°41'42.89" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°28'18.34" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|21°18'25.69" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°9'29.42" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°41'42.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°29'8.75" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'24.19" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°35'24.74" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°4'15.07" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°18'25.87" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°9'29.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°41'42.93" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°28'19.35" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°48'24.24" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'24.71" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°4'15.01" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°18'25.69" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°9'29.42" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°41'42.84" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°29'8.75" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

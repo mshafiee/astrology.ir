@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°52'50.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°38'49.37" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°38'49.37" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°32'27.80" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°54'3.51" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°53'54.13" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°28'29.00" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|10°10'53.15" |Capricorn|SaadAlDhabib|Mars|
+|☉ Sun|Direct|21°53'47.41" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°53'44.34" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|25°28'14.66" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|9°43'40.81" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Jupiter|Mercury|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°52'50.34" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°38'49.37" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°38'49.37" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°32'27.80" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°54'3.51" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°53'54.13" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°28'29.00" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|25°28'29.00" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|10°10'53.15" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: NOU, Nomea, Noumea, Nouméa, Numea, Numeja, Numeo, Numėja, Port de France, nu me xa, nu mei a, nume'a, numea, numiya, nwmya, Νουμεά, Нумеа, נומאה, نومئا, نوميا, नूमेआ, நூமியா, นูเมอา, ნუმეა, ヌメア, 努美阿, 누메아

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'10.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°35'14.45" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°2'49.11" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°16'39.68" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°7'14.00" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°39'22.83" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°11'35.42" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°48'10.92" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'14.19" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°2'49.16" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°16'39.71" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°7'13.97" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°39'22.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°11'36.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'10.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°35'14.45" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°2'49.11" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°16'39.68" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°7'14.00" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°39'22.83" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°11'35.42" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°48'10.92" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'14.19" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°2'45.65" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°16'34.18" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°7'12.97" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°39'13.96" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°12'25.81" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LLW, Lilon'nkoue, Lilonguee, Lilongve, Lilongveh, Lilongvo, Lilongvė, Lilongwe, Lilongüe, Lilonhue, Lilonqve, Lílongve, li lang wei, li long gui, li lxng we, lilamgve, lilangave, lillong-gwe, lilongve, lilonve, lylwnghwy, lylwngwh, lylwngwwh, rironguu~e, Λιλόνγκουε, Лилонгве, Лілонгве, Лілонгвэ, Լիլոնգվե, לילאנגווע, לילונגווה, ليلونغوي, لیلونگوه, لیلونگوے, لیلۆنگوێ, لیلیونگوے, लिलाँग्वे, ਲਿਲਾਂਗਵੇ, லிலொங்வே, ลิลองเว, ལི་ལོང་ཀུའེ།, ლილონგვე, ሊሎንጔ, リロングウェ, 利隆圭, 里朗威, 릴롱궤

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°54'6.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°39'49.01" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'49.01" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°40'35.83" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|22°4'18.90" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°6'42.47" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°42'6.00" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°22'26.60" |Capricorn|SaadAlDhabib|Mars|
+|♀ Venus|Direct|15°6'42.42" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|25°41'59.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°28'28.83" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°54'6.92" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°39'49.01" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'49.01" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°40'35.83" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|22°4'18.90" |Aries|Butain|Venus|
 |♀ Venus|Direct|15°6'42.47" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°42'6.00" |Pisces|Rescha|Mars|
+|☿ Mercury|Post-Retrograde Shadow|25°42'6.00" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|12°22'26.60" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Kota Padang, Kuta Padang, Kutha Padang, PDG, Padang, Padangas, Padango, ba dong, badangh, pa dang, padan, padang, padanga, padng  andwnzy, Паданг, بادانغ, پادانگ, پادنگ، اندونزی, پاڈانگ, पादांग, ปาดัง, パダン, 巴東, 파당

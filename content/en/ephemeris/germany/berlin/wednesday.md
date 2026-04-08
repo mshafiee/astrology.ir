@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:53:01 |
 | Maghrib | 19:54:32 |
 | Isha (Night) | 21:58:11 |
-| Sharia Midnight | 23:56:14 |
+| Sharia Midnight | 23:56:13 |
 | Imum Coeli | 01:08:02 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°26'14.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°19'18.18" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°43'40.15" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|18°21'6.17" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|10°28'12.91" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|21°0'26.70" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|26°8'7.19" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|16°19'18.51" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°43'40.43" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|18°21'7.72" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|10°28'14.59" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|21°0'26.67" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|25°46'39.38" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°26'14.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°19'18.18" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|28°43'40.15" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|18°21'6.17" |Aries|Butain|Sun|
-|♀ Venus|Direct|10°28'12.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|21°0'26.70" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|26°8'7.19" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|6°26'14.74" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°19'17.92" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|28°43'40.20" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|18°21'6.20" |Aries|Butain|Sun|
+|♀ Venus|Direct|10°28'12.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|21°0'26.76" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°8'5.66" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

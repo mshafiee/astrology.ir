@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°50'1.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°36'39.12" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°14'35.52" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°31'30.02" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°25'46.02" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°58'46.53" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°18'55.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|16°36'39.12" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°14'32.21" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°31'19.81" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°25'37.98" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|24°58'40.66" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°52'11.42" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'1.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°36'39.12" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°14'35.52" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°31'30.02" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°25'46.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°58'40.66" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|5°52'11.42" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°50'1.84" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°36'39.38" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°14'35.47" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°31'30.00" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°25'46.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°58'46.48" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|5°18'54.94" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Kin'nkstaoun, Kingstaun, Kingstauna, Kingstaunas, Kingstauno, Kingstaŭno, Kingstown, Kinqstaun, SVD, jin si dui, khing s thawn, kigasata'una, kincutavun, kingsata'una, kingseutaun, kingusutaun, kynghstawn, kyngztawn, Κίνγκσταουν, Κινγκστάουν, Кингстаун, Киҥстаун, Кінгстаун, Кінгстаўн, קינגסטאון, كينغستاون, کنگز ٹاؤن, کینگزتاون, किंग्सटाउन, ਕਿੰਗਸਟਾਊਨ, கிங்சுடவுன், คิงส์ทาวน์, ཁིན་སི་ཐོན།, კინგსტაუნი, ኪንግስታውን, キングスタウン, 金斯敦, 킹스타운

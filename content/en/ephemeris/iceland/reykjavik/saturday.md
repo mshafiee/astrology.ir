@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'52.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°35'46.60" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|6°48'52.47" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'46.60" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°7'15.68" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°22'12.00" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|14°14'14.09" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°46'39.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°46'39.30" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|3°13'3.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'52.52" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°35'46.86" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°7'15.63" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°22'11.97" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°14'14.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°46'39.25" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|3°13'2.19" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°48'52.47" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'48.58" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°7'15.03" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°22'13.29" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°14'17.20" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°46'36.57" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°21'32.99" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}

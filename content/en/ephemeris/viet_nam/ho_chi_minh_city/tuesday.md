@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 18:04:29 |
 | Maghrib | 18:05:24 |
 | Isha (Night) | 19:35:24 |
-| Sharia Midnight | 23:18:31 |
+| Sharia Midnight | 23:18:32 |
 | Imum Coeli | 23:55:30 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°24'31.15" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°18'6.04" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°32'43.50" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|18°7'20.41" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|10°10'58.96" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|20°44'6.03" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|23°6'48.26" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|6°24'31.11" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°18'6.30" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°32'43.46" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|18°7'20.38" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|10°10'58.99" |Aries|Sharatain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|20°44'5.98" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|23°6'49.89" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°24'31.15" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°18'6.04" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|28°32'43.50" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|18°7'20.41" |Aries|Butain|Sun|
-|♀ Venus|Direct|10°10'58.96" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|20°44'6.03" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|23°6'48.26" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|6°24'31.11" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°18'6.30" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|28°32'43.46" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|18°7'20.38" |Aries|Butain|Sun|
+|♀ Venus|Direct|10°10'58.99" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|20°44'5.98" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°6'49.89" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

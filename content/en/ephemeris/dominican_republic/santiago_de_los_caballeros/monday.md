@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:18:25 |
+| Fajr (Dawn) | 05:18:26 |
 | Sunrise | 06:32:13 |
 | Dhuhr (Noon) | 12:45:06 |
 | Medium Coeli | 12:45:06 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°20'44.52" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°15'31.82" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|28°8'50.47" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°37'12.74" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|9°33'23.64" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|20°8'48.92" |Aquarius|SaadAlAkhbia|Moon|
-|☾ Moon|Direct|17°2'0.68" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|16°15'32.09" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|28°8'50.42" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°37'12.71" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|9°33'23.67" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|20°8'48.87" |Aquarius|SaadAlAkhbia|Moon|
+|☾ Moon|Direct|17°1'8.80" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°20'44.56" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°15'31.82" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|28°8'50.42" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°37'12.71" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°33'23.67" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|20°8'48.87" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|17°2'2.33" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°15'31.82" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|28°8'50.47" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°37'12.74" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°33'23.64" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|20°8'48.92" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°2'0.68" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

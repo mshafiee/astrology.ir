@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'10.23" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°34'28.52" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°34'28.52" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|0°56'23.99" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°8'32.67" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°57'7.88" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°28'51.01" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°28'51.01" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|0°26'30.34" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'10.23" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°34'28.52" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|0°56'17.86" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°8'17.89" |Aries|Butain|Venus|
-|♀ Venus|Direct|13°56'58.90" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|24°28'37.86" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°18'45.63" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|16°34'28.52" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|0°56'23.99" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°8'32.67" |Aries|Butain|Venus|
+|♀ Venus|Direct|13°57'7.88" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|24°28'51.01" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°26'30.34" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: BHO, Bhojpal, Bhopal, Bhopala, Bhopalas, Bhopalo, Bhopál, Bhopāl, Bhopāla, Bhópál, Bkhapal, Bkhopal, Bopal, Bópal, bhopal, bhopala, bo pa er, bopal, boparu, bwbal, bwpal, popal, Μποπάλ, Бопал, Бхапал, Бхопал, בופאל, بوبال, بوپال, بھوپال, بہوپال, भोपाल, भोपाळ, ভোপাল, ਭੋਪਾਲ, ભોપાલ, ଭୋପାଳ, போபால், భోపాల్, ಭೊಪಾಲ್, ഭോപ്പാൽ, ბჰოპალი, ボパール, ボーパール, 博帕尔, 보팔

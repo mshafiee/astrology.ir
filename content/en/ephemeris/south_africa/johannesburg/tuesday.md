@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:59:22 |
 | Maghrib | 18:15:08 |
 | Isha (Night) | 18:59:46 |
-| Sharia Midnight | 23:35:16 |
+| Sharia Midnight | 23:35:17 |
 | Imum Coeli | 00:09:47 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°18'50.26" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°14'15.18" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|27°56'47.54" |Aquarius|FarghAlMuqaddam|Moon|
-|☉ Sun|Direct|17°22'1.82" |Pisces|Rescha|Jupiter|
-|♀ Venus|Direct|9°14'25.35" |Aries|Sharatain|Mars|
-|☿ Mercury|Direct|19°51'16.36" |Aquarius|SaadAlAkhbia|Mercury|
-|☾ Moon|Direct|13°56'48.91" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|16°14'14.67" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|27°56'47.62" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|17°22'1.85" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|9°14'25.32" |Aries|Sharatain|Mars|
+|☿ Mercury|Post-Retrograde Shadow|19°51'16.41" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|13°56'47.32" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°18'50.26" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°14'14.94" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|27°56'47.58" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|17°22'1.82" |Aries|Butain|Sun|
-|♀ Venus|Direct|9°14'25.35" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|19°51'16.36" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|13°56'48.91" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°14'15.18" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|27°56'47.54" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|17°22'2.13" |Aries|Butain|Sun|
+|♀ Venus|Direct|9°14'25.86" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|19°51'16.41" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|13°56'47.32" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

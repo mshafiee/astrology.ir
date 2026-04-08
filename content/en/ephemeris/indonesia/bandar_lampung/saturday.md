@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°54'1.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°39'44.99" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°40'3.10" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|22°3'37.71" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°5'50.93" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°41'11.12" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°13'59.02" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|6°54'1.84" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'44.74" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°40'3.15" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°3'37.73" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|15°5'50.90" |Aries|Butain|Sun|
+|☿ Mercury|Post-Retrograde Shadow|25°41'11.16" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°13'59.93" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°54'1.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°39'44.99" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°40'3.10" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°3'37.71" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°5'50.93" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°41'11.12" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°13'59.02" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|6°54'1.84" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'44.74" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°40'3.15" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°3'37.73" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°5'50.90" |Taurus|Dabaran|Moon|
+|☿ Mercury|Post-Retrograde Shadow|25°41'11.16" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°13'59.93" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bandar Lampung, Bandar-Lampung, Bandarlampung, Kota Bandar Lampung, TKG, Tanjungkarang, Tanjungkarang-Telukbetung, Telukbetung, ban da nan bang, bandaleulampung, bandaruranpun, bndr lampwng, Бандар-Лампунг, بندر لامپونگ, バンダールランプン, 班達楠榜, 반다르람풍
