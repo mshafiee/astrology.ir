@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°1'59.68" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°46'4.51" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°46'4.21" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|2°30'52.81" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|23°7'42.02" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|16°25'53.01" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|27°7'38.34" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|25°53'21.56" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|23°7'42.80" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|16°25'53.06" |Aries|Butain|Sun|
+|☿ Mercury|Direct|27°7'39.70" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|26°4'37.31" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°1'59.68" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°46'4.51" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°30'52.81" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|23°7'42.02" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°25'53.01" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|27°7'38.34" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|25°53'21.56" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|16°46'4.21" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°30'53.35" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|23°7'42.80" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°25'53.06" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°7'39.70" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|26°4'37.31" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

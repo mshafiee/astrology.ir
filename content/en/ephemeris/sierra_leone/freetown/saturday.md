@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'4.11" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'55.13" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°8'28.03" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°23'46.66" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°16'7.58" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°48'40.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|3°40'59.87" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|16°35'55.13" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°8'22.55" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°23'36.35" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°16'3.67" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°48'26.90" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°37'13.44" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°49'4.11" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'55.13" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°35'55.13" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°8'28.03" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°23'46.66" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°16'3.64" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°48'26.95" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°37'14.44" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°16'7.58" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°48'40.07" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|3°40'59.87" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: FNA, Freetown, Frijtaun, Fritaun, Fritauna, Fritaunas, Fritauno, Fritaŭno, Fritonn, Frytaun, Frītauna, Phritaoun, Saint George, Urbs Libera, farita'una, fri thawn, frita'una, frytawn, frytwn, fu li dun, furitaun, peulitaun, phrita'una, phritaun, piritavun, zi you shi, Φρίταουν, Фрийтаун, Фритаун, Фрытаўн, Фрітаун, Ֆրիթաուն, פריטאון, فريتاون, فريتون, فری ٹاؤن, فریتاون, فری‌تاون, फ़्रीटाउन, फ्रीटाउन, ਫ਼ਰੀਟਾਊਨ, பிரீடவுன், ಫ್ರೀಟೌನ್, ฟรีทาวน์, ཕིརི་ཊའུན།, ფრიტაუნი, ፍሪታውን, フリータウン, 弗里敦, 自由市, 프리타운

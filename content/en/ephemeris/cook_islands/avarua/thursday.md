@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°44'48.40" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°32'41.31" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°32'41.31" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|0°41'21.65" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|20°49'35.70" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°33'27.29" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°4'21.93" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|26°29'8.89" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Direct|24°4'11.52" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|25°29'55.07" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Venus|Sun|Jupiter|
 |☿ Mercury|Mars|Jupiter|Venus|Mercury|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Saturn|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Virgo|Sun|Mars|
 |☿ Mercury|Mercury|Venus|Scorpio|Moon|Mars|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°44'48.40" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°32'41.31" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°32'41.31" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|0°41'21.65" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|20°49'35.70" |Aries|Butain|Venus|
 |♀ Venus|Direct|13°33'27.29" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°4'21.93" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|24°4'21.93" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|26°29'8.89" |Capricorn|SaadAlSaud|Sun|
 
 

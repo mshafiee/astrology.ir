@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°53'34.80" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'23.42" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°37'14.33" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°59'58.61" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°1'22.84" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°36'27.38" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°44'44.37" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|6°53'35.62" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°39'24.77" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°37'16.97" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°0'6.96" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|15°1'29.53" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°36'32.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°23'48.14" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°53'35.67" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'24.52" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°37'17.02" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°0'6.99" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°1'29.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°36'32.18" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°23'49.07" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|6°53'35.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°39'24.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°37'16.97" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°0'6.96" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°1'29.53" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°36'32.14" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°23'48.14" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: GJai Bac, Kota Taipei, Pan Kiao, Pan-ch'iao, Pan-ch'iao-chen, Pan-ch'iao-chieh, Pan-ch’iao, Pan-ch’iao-chen, Pan-ch’iao-chieh, T'ai-pei, T'ai-pei Shih, T'ai-pei-hsien, TPE, Taibei Shi, Taibei Shih, Taibejus, Taibėjus, Taipe, Taipeh, Taipei, Taipeium, Taipejus, Taipé, Taipéi, Taipėjus, Tajbehj, Tajpej, Tajpeo, Tayipeh, Tayipèh, Tchaj-pej, T’ai-pei, T’ai-pei Shih, T’ai-pei-hsien, ta'ipe, ta'ipe'i, tai bei, tai bei shi, taibei, taibei si, taipei, taippei, thipe, Đài Bắc, Ταϊπέι, Тайбэй, Тайпей, Тајпеј, טאיפי, טאיפיי, تەيبېي, ताइपे, টাইপেই, ไทเป, ཐའེ་པེ, ታይፔ, 台北, 台北市, 臺北市, 타이베이, 타이베이 시, 타이뻬이, 타이페이

@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°48'53.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'46.95" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°35'46.95" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°7'20.01" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°22'20.97" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|14°14'20.49" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°46'48.09" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°46'48.09" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|3°23'4.90" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°48'53.43" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'46.95" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°35'46.95" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°7'20.01" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°22'20.97" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°14'20.49" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°46'48.09" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|24°46'48.09" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|3°23'4.90" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: ABJ, Abican, Abidjan, Abidzan, Abidzana, Abidzanas, Abidzans, Abidzhan, Abidzhan shaary, Abidżan, Abidžan, Abidžana, Abidžanas, Abidžans, Abigano, Abijan, Abiyan, Abiyán, Abizhan khot, Abiĝano, Ampitzan, a bi rang, a bi ren, abdjan, abijan, abijana, abijang, abijani, abydjan, abyjan, xabi can, ʼbydgʼn, Αμπιτζάν, Абиджан, Абиджан шаары, Абижан хот, Абиџан, Абіджан, Աբիջան, אבידגאן, אבידזשאן, آبدجان, آبیجان, أبيدجان, आबिजान, আবিজান, ਅਬੀਜਾਨ, അബിജാൻ, อาบีจาน, აბიჯანი, アビジャン, 阿必仁, 阿比让, 아비장

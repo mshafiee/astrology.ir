@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'22.60" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'38.33" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°34'38.33" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|0°57'43.74" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°10'11.02" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|13°59'13.76" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°31'0.44" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°31'0.44" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|0°43'11.98" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'22.60" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'38.33" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°34'38.33" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|0°57'43.74" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°10'11.02" |Aries|Butain|Venus|
 |♀ Venus|Direct|13°59'13.76" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°31'0.44" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|24°31'0.44" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|0°43'11.98" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Molotov, PEE, Perem, Perm, Perm', Perma, Perme, Permia, Permjo, Permė, Perym, bi er mu, byrm, parma, peiy rm, peleum, perumi, prm, pyrm, Περμ, Молотов, Перĕм, Перем, Перм, Пермь, Перым, Пєрмь, Պերմ, פרם, بيرم, پرم, پیرم, पर्म, เปียร์ม, პერმი, ペルミ, 彼尔姆, 페름

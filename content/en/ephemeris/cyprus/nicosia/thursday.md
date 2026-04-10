@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:51:54|Night duration: 11:06:46|
+|Duration of the day: 12:51:54|Night duration: 11:06:45|
 |Every hour duration: 01:50:16|Every hour duration: 01:35:15|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Mars|Servant|00:00:05|01:35:19|
 |Rooster song|Sun|Servant|01:35:20|03:10:34|
 |False Dawn|Venus|Servant|03:10:35|04:45:49|
-|Dawn|Mercury|Servant|04:45:50|06:21:05|
+|Dawn|Mercury|Servant|04:45:50|06:21:04|
 
 {{< /tab >}}
 
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°33'18.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'16.28" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°24'16.28" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|29°28'25.79" |Aquarius|FarghAlMuqaddam|Moon|
 |☉ Sun|Direct|19°17'34.46" |Pisces|Rescha|Jupiter|
 |♀ Venus|Direct|11°38'39.70" |Aries|Sharatain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|22°8'43.88" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|22°8'43.88" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|7°30'20.84" |Sagittarius|NaAaem|Mercury|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°33'18.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°24'16.28" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°24'16.28" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|29°28'25.79" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|19°17'34.46" |Aries|Butain|Sun|
 |♀ Venus|Direct|11°38'39.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|22°8'43.88" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|22°8'43.88" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|7°30'20.84" |Capricorn|SaadAlDhabib|Jupiter|
 
 

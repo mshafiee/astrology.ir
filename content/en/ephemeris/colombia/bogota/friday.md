@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°50'19.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'53.28" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°16'20.31" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°33'34.96" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°28'32.60" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°1'36.36" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|5°21'27.02" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|16°36'52.86" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°16'27.41" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°33'51.53" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°28'42.24" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°1'51.81" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°49'46.56" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°50'19.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°36'52.86" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°36'52.86" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°16'27.41" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°33'51.53" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°28'42.24" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°1'51.81" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|25°1'51.81" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|5°49'46.56" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: BOG, Bagata, Bogot, Bogota, Bogoto, Bogotà, Bogotá, Boqota, Buoguota, Bógóta, Mponkota, Santa-Fe-de-Bogota, Santafe de Bogota, Santafe de Bogotá, Santafé de Bogotá, Wukuta, beageatta, bo ge da, bogota, bokota, bwghwta, bwgwta, bwgwth, bwjwta, pokotta, Μπογκοτά, Багата, Богота, Боґота, Санта-Фе-де-Богота, Բոգոտա, באגאטא, בוגוטה, بوجوتا, بوغوتا, بوگوتا, بگوٹا, بۆگۆتا, बोगोटा, बोगोता, বোগোতা, ਬੋਗੋਤਾ, ବୋଗୋଟା, பொகோட்டா, ಬೊಗೋಟ, ബൊഗോട്ട, โบโกตา, པོ་གོ་ཏ, ဘိုဂိုတာမြို့, ბოგოტა, ቦጎታ, ទីក្រុងបូកូតា, ボゴタ, 波哥大, 보고타

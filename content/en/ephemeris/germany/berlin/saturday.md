@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'18.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'20.41" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°3'38.32" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°17'38.41" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°8'31.60" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°40'42.05" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°18'59.90" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°48'18.37" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°35'20.67" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°3'38.27" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°17'38.65" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°8'31.81" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°40'42.15" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|2°17'40.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°48'18.37" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'20.37" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°3'38.25" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°17'38.43" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°8'31.57" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°40'42.10" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°19'0.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|16°35'20.67" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°3'38.27" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°17'38.65" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°8'31.81" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°40'42.15" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°17'40.43" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BER, Beirlin, Beirlín, Berleno, Berlien, Berliin, Berliini, Berlijn, Berlim, Berlin, Berline, Berlini, Berlino, Berlyn, Berlynas, Berlëno, Berlín, Berlîn, Berlīne, Berolino, Berolinum, Birlinu, Bèrlîn, Estat de Berlin, Estat de Berlín, bai lin, barlina, beleullin, berlini, berurin, bexrlin, brlyn, perlin, Βερολίνο, Берлин, Берлін, Бэрлін, Բերլին, בערלין, ברלין, برلين, برلین, بېرلىن, ܒܪܠܝܢ, बर्लिन, বার্লিন, பெர்லின், เบอร์ลิน, ბერლინი, ベルリン, 柏林, 베를린

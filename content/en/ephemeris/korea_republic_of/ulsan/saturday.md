@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:23:49 |
 | Sunset | 18:52:19 |
 | Maghrib | 18:53:26 |
-| Isha (Night) | 20:19:42 |
+| Isha (Night) | 20:19:41 |
 | Sharia Midnight | 23:34:19 |
 | Imum Coeli | 00:23:41 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°53'23.28" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'14.99" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°35'58.42" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°58'27.24" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°59'25.86" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°34'20.33" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|10°59'58.87" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|6°53'23.24" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°39'15.24" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°35'56.45" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°58'20.51" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°59'20.12" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°34'17.18" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°27'9.05" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°53'23.28" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'14.99" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°35'58.42" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°58'27.24" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°59'25.86" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°34'20.33" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°59'58.87" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|6°53'22.54" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°39'14.06" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°35'56.45" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°58'20.51" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°59'20.12" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°34'17.18" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°27'9.05" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

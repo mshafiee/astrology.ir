@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'7.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'11.28" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°2'24.90" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°16'8.98" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°6'35.78" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°38'42.99" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°4'51.37" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°48'7.05" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|16°35'13.20" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°2'21.57" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°16'3.79" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°6'34.90" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°38'34.52" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°7'58.79" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'7.10" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°35'11.28" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°2'24.90" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°16'8.98" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°6'35.78" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°38'42.99" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|2°4'51.37" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|6°48'7.05" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|16°35'11.54" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°2'24.85" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°16'8.96" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°6'35.81" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°38'42.94" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|2°4'50.35" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: DOD, Dadoma, Dodom, Dodoma, Dodomao, Dódóma, Idodoma, Ntontoma, do do ma, dodoma, du du ma, duo duo ma, dwdwma, dwdwmh, totoma, Ντοντόμα, Дадома, Додома, Դոդոմա, דאדאמא, דודומה, دودوما, دۆدۆما, ڈوڈوما, डोडोमा, दोदोमा, ਦੋਦੋਮਾ, டொடோமா, โดโดมา, დოდომა, ዶዶማ, ドドマ, 多多马, 杜篤瑪, 도도마

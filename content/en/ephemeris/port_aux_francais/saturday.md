@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'34.94" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'47.77" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|0°58'54.76" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°11'37.62" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°1'6.85" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°32'54.86" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°47'30.97" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|16°34'47.26" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|0°59'0.64" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°11'51.08" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°1'14.46" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°33'7.84" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°39'49.96" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'34.94" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'47.51" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|0°58'54.81" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°11'37.65" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°1'6.82" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°32'54.91" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°47'31.93" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|16°34'47.26" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|0°59'0.64" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°11'51.08" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°1'14.46" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|24°33'7.84" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|1°9'40.82" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

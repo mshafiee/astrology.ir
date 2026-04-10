@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'23.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'15.18" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°39'15.18" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°35'59.15" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°58'29.58" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|14°59'26.91" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|25°34'22.18" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|25°34'22.18" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|11°6'3.28" |Capricorn|SaadAlDhabib|Mars|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'23.47" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°39'15.18" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°39'15.18" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°35'59.15" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°58'29.58" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°59'26.91" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|25°34'18.34" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°25'40.49" |Aquarius|SaadAlAkhbia|Mercury|
+|☿ Mercury|Direct|25°34'22.18" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°6'3.28" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

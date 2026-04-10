@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'44.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'54.73" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|16°34'54.73" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°0'3.14" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|21°13'8.78" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|14°2'52.92" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|24°34'49.78" |Aquarius|FarghAlMuqaddam|Moon|
+|☿ Mercury|Direct|24°34'49.78" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|1°24'2.48" |Capricorn|SaadAlDhabib|Jupiter|
 
 
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°47'44.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°34'54.73" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°34'54.73" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°0'3.14" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°13'8.78" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°2'52.92" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|24°34'49.78" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|24°34'49.78" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|1°24'2.48" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Al Kuwait, Al Kuwayt, Al-Kuwait, Ciudad de Kuwait, Ehl'-Kuvejt, KWI, Koeweit, Kota Kuwait, Koveyit, Koweit, Koweït, Kuvaeyt, Kuvajt, Kuvajto, Kuvajturbo, Kuveitas, Kuväyt, Kuwait, Kuwait City, Kuwait Stad, Kuwait by, Kuwait-Stadt, Kuwait-Urbo, Kuwayt, Kuweit, Kuwejt, Madinat al Kuwayt, Madinat al-Kuwait, Madīnat al Kuwayt, Pole tou Koubeit, aalkuayt, ke wei te shi, khuwet si ti, kuu~eto shi, kuweiteu, kuweiteusiti, kwwyt syty, mdynt alkwyt, Πόλη του Κουβέιτ, Эль-Кувейт, כווית סיטי, اَلْكُوَيْت, مدينة الكويت, คูเวตซิตี, クウェート市, 科威特市, 쿠웨이트, 쿠웨이트시티

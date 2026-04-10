@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:04:23|Night duration: 10:54:14|
+|Duration of the day: 13:04:23|Night duration: 10:54:13|
 |Every hour of day duration: 01:05:22|Every hour of night duration: 00:54:31|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Moon|Servant|20:54:04|21:48:34|Marriage connection is good|
 |4|Saturn|Servant|21:48:35|22:43:05|Repelling and destroying enemies and discharging enemy energy|
 |5|Jupiter|Servant|22:43:06|23:37:36|Answering needs, attracting love and wealth|
-|6|Mars|Servant|23:37:37|00:32:08|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:32:09|01:26:39|Making promises|
-|8|Venus|Ruler|01:26:40|02:21:10|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:21:11|03:15:41|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:15:42|04:10:12|Good for any task|
-|11|Saturn|Servant|04:10:13|05:04:43|Creating enmity and negative energy|
-|12|Jupiter|Servant|05:04:44|05:59:15|Heart tenderness|
+|6|Mars|Servant|23:37:37|00:32:07|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|00:32:08|01:26:38|Making promises|
+|8|Venus|Ruler|01:26:39|02:21:09|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:21:10|03:15:40|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:15:41|04:10:11|Good for any task|
+|11|Saturn|Servant|04:10:12|05:04:42|Creating enmity and negative energy|
+|12|Jupiter|Servant|05:04:43|05:59:14|Heart tenderness|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:04:23|Night duration: 10:54:14|
+|Duration of the day: 13:04:23|Night duration: 10:54:13|
 |Every hour duration: 01:52:03|Every hour duration: 01:33:28|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Venus|Ruler|19:05:02|20:38:28|
 |Late evening|Mercury|Servant|20:38:29|22:11:56|
-|Midnight|Moon|Servant|22:11:57|23:45:24|
-|Late at night|Saturn|Servant|23:45:25|01:18:51|
-|Rooster song|Jupiter|Servant|01:18:52|02:52:19|
-|False Dawn|Mars|Servant|02:52:20|04:25:47|
-|Dawn|Sun|Servant|04:25:48|05:59:15|
+|Midnight|Moon|Servant|22:11:57|23:45:23|
+|Late at night|Saturn|Servant|23:45:24|01:18:51|
+|Rooster song|Jupiter|Servant|01:18:52|02:52:18|
+|False Dawn|Mars|Servant|02:52:19|04:25:46|
+|Dawn|Sun|Servant|04:25:47|05:59:14|
 
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°8'1.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|16°50'59.17" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°9'24.25" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|23°56'20.03" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|17°26'32.48" |Aries|Butain|Sun|
-|☿ Mercury|Post-Retrograde Shadow|28°14'46.09" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°57'47.91" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|16°50'59.21" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°9'24.34" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|23°56'20.31" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|17°26'32.71" |Aries|Butain|Sun|
+|☿ Mercury|Direct|28°14'46.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|6°57'56.75" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°8'1.43" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°50'59.17" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|16°50'59.17" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|3°9'24.25" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|23°56'20.03" |Aries|Butain|Venus|
 |♀ Venus|Direct|17°26'32.48" |Taurus|Dabaran|Moon|
-|☿ Mercury|Post-Retrograde Shadow|28°14'46.09" |Pisces|Rescha|Mars|
+|☿ Mercury|Direct|28°14'46.09" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|6°57'47.91" |Pisces|FarghAlMuakhar|Saturn|
 
 
