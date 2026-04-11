@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'59.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°39'41.60" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°39'43.84" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|22°3'7.12" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°5'17.40" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°40'38.52" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°37'1.78" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'43.02" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°39'46.70" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°3'16.52" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|15°5'25.18" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°40'43.41" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°7'18.99" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Scorpio|Sun|Jupiter|
 |♀ Venus|Mercury|Sun|Libra|Moon|Saturn|
 |☿ Mercury|Mercury|Venus|Sagittarius|Moon|Mars|
-|☾ Moon|Mars|Mars|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'59.18" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°39'41.60" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°39'43.84" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°3'7.12" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°5'17.40" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°40'38.52" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°37'1.78" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'43.02" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°39'46.70" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°3'16.52" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°5'25.18" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°40'43.41" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°7'18.99" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Moon|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Prasat, Pràsàt, Takeo, Takev, Takéo, Takêv

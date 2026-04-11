@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°48'15.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°35'18.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°3'21.20" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°17'17.81" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°8'4.83" |Aries|Butain|Sun|
-|☿ Mercury|Direct|24°40'14.44" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|2°14'47.05" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'19.97" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°3'18.38" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°17'13.33" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°8'4.00" |Aries|Butain|Sun|
+|☿ Mercury|Direct|24°40'7.20" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|1°26'57.11" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°48'15.74" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°35'18.53" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°3'21.20" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°17'17.81" |Aries|Butain|Venus|
+|♄ Saturn|Direct|6°48'15.32" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°35'19.97" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°3'18.38" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°17'13.33" |Aries|Butain|Venus|
 |♀ Venus|Direct|14°8'4.00" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|24°40'7.20" |Pisces|Rescha|Mars|
 |☾ Moon|Direct|1°26'57.11" |Aquarius|SaadAlSaud|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Birziminium, Padgoryca, Podgairitse, Podgairítse, Podgorica, Podgoricae, Podgoricja, Podgorico, Podgorika, Podgoritsa, Podgoritza, Podgorytsa, Podgòrica, Podqoritsa, Podugorica, Pontnkoritsa, TGD, Titograd, bo de ge li cha, bwdghwrytsa, padagoritasa, phx dk xrit sa, podagorika, podeugolicha, podogoritsu~a, potkorikka, pwdgwrytsa, pwdgwryzh, pۆdgۆrytsa, Ποντγκόριτσα, Падгорыца, Подгоритса, Подгорицæ, Подгорица, Подгориця, Подъгорица, Պոդգորիցա, פודגוריצה, بودغوريتسا, پودگوریتسا, پوڈگوریکا, پۆدگۆریتسا, पॉडगोरिका, ਪਾਡਗੋਰਿਤਸਾ, பொட்கொரிக்கா, พอดกอรีตซา, პოდგორიცა, ፖድጎሪጻ, ポドゴリツァ, 波德戈里察, 포드고리차

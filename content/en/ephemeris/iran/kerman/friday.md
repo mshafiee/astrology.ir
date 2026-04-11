@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:42:59 |
 | Sunset | 18:05:29 |
 | Maghrib | 18:10:23 |
-| Isha (Night) | 19:24:52 |
+| Isha (Night) | 19:24:53 |
 | Sharia Midnight | 23:00:29 |
 | Imum Coeli | 23:42:51 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°40'12.79" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°29'16.59" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|0°12'11.87" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|20°12'46.98" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|12°47'33.16" |Aries|Sharatain|Sun|
-|☿ Mercury|Direct|23°17'28.98" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|18°49'7.59" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|6°40'12.68" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'16.47" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|0°12'11.51" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|20°12'45.89" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|12°47'32.33" |Aries|Sharatain|Sun|
+|☿ Mercury|Direct|23°17'28.30" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|18°53'47.35" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°40'12.79" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°29'16.59" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°29'16.59" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|0°12'11.87" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|20°12'46.98" |Aries|Butain|Venus|
 |♀ Venus|Direct|12°47'33.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|23°17'28.98" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|18°49'7.59" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Direct|23°17'28.30" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|18°53'47.35" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

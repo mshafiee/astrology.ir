@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°10'7.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°52'43.82" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°52'43.82" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|3°22'52.50" |Pisces|FarghAlMuqaddam|Saturn|
 |☉ Sun|Direct|24°13'19.65" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|17°47'45.31" |Aries|Butain|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°10'7.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°52'43.82" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|3°22'52.50" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|24°13'19.65" |Aries|Butain|Venus|
-|♀ Venus|Direct|17°47'45.84" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|28°38'26.67" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|9°51'6.22" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°52'43.82" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|3°22'54.33" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|24°13'24.39" |Aries|Butain|Venus|
+|♀ Venus|Direct|17°47'48.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|28°38'36.85" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°4'44.07" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}

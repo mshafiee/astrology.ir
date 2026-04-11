@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°53'59.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°39'43.02" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°39'46.99" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|22°3'17.41" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°5'25.56" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°40'44.10" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|12°9'41.17" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|6°53'59.31" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'42.76" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°39'47.03" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°3'17.44" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|15°5'25.53" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°40'44.14" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|12°14'48.68" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'59.27" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°39'43.02" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°39'46.99" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°3'17.41" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°5'25.56" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°40'44.10" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|12°9'41.17" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'42.79" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°39'46.82" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°3'16.65" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°5'24.80" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°40'43.91" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|12°14'48.68" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: BDO, Bandoeng, Banduna, Bandung, Bandungas, Bandungo, Bantoun'nk, Kota Bandung, Kuta Bandung, Kutha Bandhung, ban dung, bandon, bandung, bandungi, bandwng, bandwnj, bndwng, pantun, wan long, Μπαντούνγκ, Бандунг, Бандуң, Բանդունգ, באנדונג, باندونج, باندونگ, بندونگ, بنڈونگ, பண்டுங், บันดุง, ဘန်ဒေါင်းမြို့, ბანდუნგი, バンドン, 万隆, 萬隆, 반둥

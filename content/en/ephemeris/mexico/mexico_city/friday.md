@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°50'46.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°37'14.05" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°19'23.16" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°37'32.42" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°33'18.74" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°6'42.78" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|6°38'17.29" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|6°50'47.02" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°37'15.18" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°19'17.67" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°37'20.79" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°33'13.01" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°6'30.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°54'56.84" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°50'47.02" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°37'14.16" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°37'14.16" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°19'23.18" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|21°37'32.66" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°33'18.74" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°6'42.78" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°38'17.29" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|14°33'19.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°6'42.74" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|6°35'6.64" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Cdmx, Cidade de Mexico, Cidade de México, Cidade do Mexico, Cidade do México, Cita du Messicu, Citta del Messico, Città del Messico, Cità dû Messicu, Cità dû Mèssicu, Ciudad Mexico, Ciudad de Mejico, Ciudad de Mexico, Ciudad de Méjico, Ciudad de México, Ciutat de Mexic, Ciutat de Mèxic, Lungsod ng Mexico, Lungsod ng México, MEX, Mehiko, Mekhiko, Meksikas, Meksiko, Meksiko Siti, Meksikurbo, Meksyk, Mexico, Mexico City, Mexico D.F., Mexico DF, Mexico Distrito Federal, Mexico by, Mexico-stad, Mexicopolis, Mexiko, Mexiko Hiria, Mexiko-Stadt, Mexikoborg, Mexíkóborg, México, México Distrito Federal, Nkoyo, Pole tou Mexikou, Valle de Mexico, Valle de México, mdynt mksykw, megsiko si, megsikositi, mekishikoshiti, meksiko, meksiko siti, meksikositi, mkzykw, mkzykwsyty, mo xi ge cheng, mqsyqw syty, Πόλη του Μεξικού, Мексико, Мексико Сити, Мехико, Мехіко, מקסיקו סיטי, مدينة مكسيكو, مکزیکو, مکزیکوسیتی, مېكسىكا شەھىرى, मेक्सिको सिटी, মেক্সিকো, เม็กซิโกซิตี, მეხიკო, メキシコシティ, 墨西哥城, 멕시코 시, 멕시코시티

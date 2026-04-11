@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'40.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°39'28.75" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'28.75" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|1°37'48.68" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|22°0'46.21" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|22°0'44.21" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|15°2'19.57" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°37'24.95" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°29'5.85" |Capricorn|SaadAlDhabib|Mars|
+|☿ Mercury|Direct|25°37'24.25" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|11°40'18.57" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'40.54" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°39'28.49" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°37'48.81" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|22°0'46.07" |Aries|Butain|Venus|
-|♀ Venus|Direct|15°2'19.14" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°37'25.41" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°36'55.58" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'28.28" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°37'48.68" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|22°0'46.21" |Aries|Butain|Venus|
+|♀ Venus|Direct|15°2'19.57" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°37'24.95" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|11°29'5.85" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Chen-t'ou, Chen-t’ou, Chentow, Chioh-ka-chng-chhi, Chio̍h-ka-chng-chhī, S'-tia-cuang, SJW, Shiczjachzhuan, Shih-chia-chuang, Shih-chia-chuang-shih, Shih-chuang-shih, Shih-men, Shih-men-shih, Shihjiazhuang, Shihkiachwan, Shihkiachwang, Shijiazhuang, Shijiazhuang Shi, Shitszyachzhuan, Shizhjazhuan, Shudzjadzhuan, Sicsiacsuang, Sidziadzuangas, Sidzjadzuana, Sigjaguango, Sioh-ga-cong, Sitziazouank, Siŏh-gă-cŏng, Swzgyahcuengh, Thach Gia Trang, Thạch Gia Trang, chux ceiy cwng, sa-cyacvanga, seujajwang si, sh-gyʼgwwʼng, shi jia zhuang, shi jia zhuang shi, shidziajuani, shyjyatshwangh, shyjyazhwang, sijiyajhu'anga, sizi'azu'anga, Ŝiĝjaĝŭango, Šidziadžuangas, Šidzjadžuana, Š’-ťia-čuang, Σιτζιαζουάγκ, Шижяжуан, Шицзячжуан, Шиђаџуанг, Шъдзяджуан, Շիցզյաչժուան, שה-גיאגוואנג, شىجياجۇاڭ شەھىرى, شيجياتشوانغ, شیجیاژوانگ, शिजियाझुआंग, ष-च्याच्वांग, ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ, ฉือเจียจวง, შიძიაჯუანი, 石家庄, 石家庄市, 石家荘, 石家荘市, 石家莊, 石家莊市, 스자좡 시

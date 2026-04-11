@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:56:44 |
 | Isha (Night) | 20:21:14 |
 | Sharia Midnight | 23:36:54 |
-| Imum Coeli | 00:22:41 |
+| Imum Coeli | 00:22:42 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:56:44 |
 | Isha (Night) | 20:23:59 |
 | Sharia Midnight | 23:32:44 |
-| Imum Coeli | 00:22:41 |
+| Imum Coeli | 00:22:42 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°22'30.07" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|17°3'16.00" |Gemini|HanAh|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°3'16.00" |Gemini|HanAh|Mars|
 |♂ Mars|Direct|4°42'14.56" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|25°53'30.24" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|19°52'45.49" |Aries|Butain|Sun|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°22'30.07" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°3'16.00" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|4°42'12.59" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|25°53'23.35" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|19°52'39.55" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|1°1'54.13" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|4°2'44.49" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°3'16.00" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|4°42'14.56" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|25°53'30.24" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|19°52'45.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|1°1'57.53" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°27'58.89" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

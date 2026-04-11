@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°7'59.98" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°50'56.68" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°9'12.07" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|23°56'1.93" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|17°26'10.84" |Aries|Butain|Sun|
-|☿ Mercury|Direct|28°14'25.07" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|7°5'0.27" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|16°50'58.99" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°9'7.50" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|23°55'54.80" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|17°26'9.69" |Aries|Butain|Sun|
+|☿ Mercury|Direct|28°14'14.02" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|5°39'3.87" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Mars|Mars|
 |♀ Venus|Mercury|Mercury|Sun|Jupiter|
 |☿ Mercury|Saturn|Mars|Venus|Mercury|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Saturn|Sagittarius|Sun|Jupiter|
 |♀ Venus|Moon|Mercury|Libra|Moon|Saturn|
 |☿ Mercury|Moon|Mercury|Capricorn|Moon|Mars|
-|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°7'59.98" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°50'57.72" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°50'57.72" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|3°9'14.25" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|23°56'8.91" |Aries|Butain|Venus|
 |♀ Venus|Direct|17°26'16.52" |Taurus|Dabaran|Moon|

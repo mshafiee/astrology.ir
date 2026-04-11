@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:37:25 |
 | Dhuhr (Noon) | 11:50:38 |
 | Medium Coeli | 11:50:38 |
-| Sunset | 18:04:03 |
+| Sunset | 18:04:04 |
 | Maghrib | 18:20:35 |
 | Isha (Night) | 19:00:55 |
 | Sharia Midnight | 23:14:02 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:37:25 |
 | Dhuhr (Noon) | 11:50:38 |
 | Medium Coeli | 11:50:38 |
-| Sunset | 18:04:03 |
+| Sunset | 18:04:04 |
 | Maghrib | 18:06:56 |
 | Isha (Night) | 19:13:46 |
-| Sharia Midnight | 23:13:23 |
+| Sharia Midnight | 23:13:24 |
 | Imum Coeli | 23:50:30 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:37:25 |
 | Dhuhr (Noon) | 11:50:38 |
 | Medium Coeli | 11:50:38 |
-| Sunset | 18:04:03 |
+| Sunset | 18:04:04 |
 | Maghrib | 18:06:56 |
 | Isha (Night) | 19:05:12 |
-| Sharia Midnight | 23:19:49 |
+| Sharia Midnight | 23:19:50 |
 | Imum Coeli | 23:50:30 |
 {{< /tab >}}
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°55'25.56" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°40'49.86" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°49'0.32" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|22°14'49.53" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|15°19'53.42" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°56'14.52" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|6°55'26.41" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°40'51.31" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°49'2.65" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|22°14'57.70" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|15°20'0.47" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°56'18.27" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|15°7'49.41" |Capricorn|SaadAlBula|Mars|
 
 
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°55'26.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°40'51.31" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°40'51.31" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|1°49'2.65" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|22°14'57.70" |Aries|Butain|Venus|
 |♀ Venus|Direct|15°20'0.47" |Taurus|Dabaran|Moon|

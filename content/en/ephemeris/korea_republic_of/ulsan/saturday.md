@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|6°53'23.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°39'15.24" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|1°35'56.45" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|21°58'20.51" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|14°59'20.12" |Aries|Butain|Sun|
-|☿ Mercury|Direct|25°34'17.18" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|11°27'9.05" |Capricorn|SaadAlDhabib|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'15.24" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|1°35'58.37" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|21°58'27.21" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|14°59'25.89" |Aries|Butain|Sun|
+|☿ Mercury|Direct|25°34'20.28" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|10°59'57.93" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|6°53'22.54" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°39'14.06" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|1°35'56.45" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|21°58'20.51" |Aries|Butain|Venus|
-|♀ Venus|Direct|14°59'20.12" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|25°34'17.18" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|11°27'9.05" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|6°53'23.24" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°39'15.24" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|1°35'58.37" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°58'27.21" |Aries|Butain|Venus|
+|♀ Venus|Direct|14°59'25.89" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|25°34'20.28" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°59'57.93" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>△ Trine|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub>✱ Sextile|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

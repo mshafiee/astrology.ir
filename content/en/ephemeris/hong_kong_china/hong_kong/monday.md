@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:23:52 |
 | Medium Coeli | 12:23:52 |
 | Sunset | 18:42:44 |
-| Maghrib | 18:43:53 |
+| Maghrib | 18:43:54 |
 | Isha (Night) | 19:46:45 |
 | Sharia Midnight | 23:51:35 |
 | Imum Coeli | 00:23:44 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:23:52 |
 | Medium Coeli | 12:23:52 |
 | Sunset | 18:42:44 |
-| Maghrib | 18:43:53 |
-| Isha (Night) | 20:13:53 |
+| Maghrib | 18:43:54 |
+| Isha (Night) | 20:13:54 |
 | Sharia Midnight | 23:43:38 |
 | Imum Coeli | 00:23:44 |
 {{< /tab >}}
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°8'21.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|16°51'15.51" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|3°11'31.69" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|23°59'1.69" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|17°29'53.03" |Aries|Butain|Sun|
-|☿ Mercury|Direct|28°18'30.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|16°51'15.26" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|3°11'31.74" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|23°59'1.71" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|17°29'52.99" |Aries|Butain|Sun|
+|☿ Mercury|Direct|28°18'30.76" |Aquarius|FarghAlMuqaddam|Moon|
 |☾ Moon|Direct|7°42'27.40" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°8'21.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|16°51'15.51" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|16°51'15.51" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|3°11'31.69" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|23°59'1.69" |Aries|Butain|Venus|
+|☉ Sun|Direct|23°59'1.70" |Aries|Butain|Venus|
 |♀ Venus|Direct|17°29'53.03" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|28°18'30.72" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°42'27.40" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Direct|28°18'30.73" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°42'29.09" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
