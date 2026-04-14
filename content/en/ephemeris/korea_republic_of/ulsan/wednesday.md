@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:56:44 |
 | Isha (Night) | 20:21:14 |
 | Sharia Midnight | 23:36:54 |
-| Imum Coeli | 00:22:42 |
+| Imum Coeli | 00:22:41 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 18:56:44 |
 | Isha (Night) | 20:23:59 |
 | Sharia Midnight | 23:32:44 |
-| Imum Coeli | 00:22:42 |
+| Imum Coeli | 00:22:41 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}

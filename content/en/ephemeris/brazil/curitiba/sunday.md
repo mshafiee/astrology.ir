@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:13:17 |
+| Fajr (Dawn) | 05:13:18 |
 | Sunrise | 06:31:01 |
 | Dhuhr (Noon) | 12:17:48 |
 | Medium Coeli | 12:17:48 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|23°28'18.64" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|16°51'31.42" |Aries|Butain|Sun|
 |☿ Mercury|Direct|27°35'52.46" |Aquarius|FarghAlMuqaddam|Moon|
-|☾ Moon|Direct|0°53'32.31" |Aquarius|SaadAlSaud|Venus|
+|☾ Moon|Direct|0°54'45.86" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°4'32.94" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°48'8.04" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|2°47'10.13" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|23°28'18.64" |Aries|Butain|Venus|
-|♀ Venus|Direct|16°51'31.42" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|27°35'52.46" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|0°54'45.86" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|16°48'8.10" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|2°47'10.06" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|23°28'18.62" |Aries|Butain|Venus|
+|♀ Venus|Direct|16°51'31.52" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|27°35'52.27" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°52'21.43" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

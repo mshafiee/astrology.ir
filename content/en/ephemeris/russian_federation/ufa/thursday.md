@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:46:13 |
+| Fajr (Dawn) | 03:46:14 |
 | Sunrise | 06:11:31 |
 | Dhuhr (Noon) | 13:15:55 |
 | Medium Coeli | 13:15:55 |
@@ -299,10 +299,10 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°23'48.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°4'24.87" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°50'41.99" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|26°4'9.40" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|7°23'48.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|17°4'25.12" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|4°50'41.94" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|26°4'9.39" |Pisces|Rescha|Mars|
 |♀ Venus|Direct|20°6'4.89" |Aries|Butain|Venus|
 |☿ Mercury|Direct|1°17'33.53" |Pisces|FarghAlMuqaddam|Saturn|
 |☾ Moon|Direct|6°45'36.15" |Pisces|FarghAlMuakhar|Saturn|

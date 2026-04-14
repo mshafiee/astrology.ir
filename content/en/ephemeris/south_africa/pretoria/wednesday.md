@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:13:31 |
+| Fajr (Dawn) | 05:13:30 |
 | Sunrise | 06:22:50 |
 | Dhuhr (Noon) | 12:07:16 |
 | Medium Coeli | 12:07:16 |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°17'32.59" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|16°58'58.53" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|4°10'22.65" |Pisces|FarghAlMuqaddam|Saturn|
-|☉ Sun|Direct|25°13'18.91" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|19°2'33.67" |Aries|Butain|Sun|
-|☿ Mercury|Direct|0°3'43.54" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|25°13'16.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♂ Mars|Direct|4°10'22.61" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|25°13'18.89" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|19°2'33.69" |Aries|Butain|Sun|
+|☿ Mercury|Direct|0°3'43.52" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|25°13'20.31" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°17'32.59" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|16°58'58.53" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|4°10'22.65" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|25°13'18.91" |Aries|Butain|Venus|
-|♀ Venus|Direct|19°2'33.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|0°3'43.54" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|25°13'16.13" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|7°17'32.55" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|16°58'58.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|4°10'22.61" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|25°13'18.89" |Aries|Butain|Venus|
+|♀ Venus|Direct|19°2'33.71" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|0°3'43.51" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|25°13'15.68" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
