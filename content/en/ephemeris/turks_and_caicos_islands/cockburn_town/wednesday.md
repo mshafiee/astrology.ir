@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|7°26'34.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°6'50.43" |Gemini|HanAh|Mars|
-|♂ Mars|Direct|5°8'32.53" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|26°26'36.87" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|20°34'7.94" |Aries|Butain|Venus|
-|☿ Mercury|Direct|1°50'41.63" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|11°53'38.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|7°26'35.92" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|17°6'51.81" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|5°8'35.67" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|26°26'46.90" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|20°34'16.07" |Aries|Butain|Venus|
+|☿ Mercury|Direct|1°50'47.35" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|12°45'3.63" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Saturn|Mars|Mars|
 |♀ Venus|Mars|Mercury|Jupiter|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |♀ Venus|Moon|Venus|Sagittarius|Moon|Saturn|
 |☿ Mercury|Jupiter|Moon|Pisces|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°26'35.92" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|17°6'51.81" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|5°8'32.53" |Aries|Sharatain|Mars|
+|♂ Mars|Direct|5°8'35.67" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|26°26'36.87" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|20°34'7.94" |Taurus|Dabaran|Saturn|
 |☿ Mercury|Direct|1°50'41.63" |Aries|Sharatain|Mars|

@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 18:41:20 |
 | Maghrib | 18:45:00 |
 | Isha (Night) | 19:41:47 |
-| Sharia Midnight | 23:58:44 |
+| Sharia Midnight | 23:58:43 |
 | Imum Coeli | 00:29:01 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°53'47.69" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°32'8.78" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|8°4'33.27" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|0°8'59.71" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|25°11'33.78" |Aries|Butain|Venus|
-|☿ Mercury|Direct|7°31'57.57" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|8°44'13.20" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|17°32'8.67" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|8°4'33.42" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|0°8'59.85" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|25°11'33.68" |Aries|Butain|Venus|
+|☿ Mercury|Direct|7°31'57.89" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|8°42'22.51" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°53'47.69" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°32'8.75" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|8°4'33.48" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°9'0.11" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|25°11'33.95" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|7°31'57.98" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|8°45'18.89" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|17°32'8.78" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|8°4'33.27" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°8'59.71" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|25°11'33.78" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|7°31'57.57" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|8°44'13.20" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

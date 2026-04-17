@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°55'51.27" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°34'9.64" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|8°17'57.87" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|0°25'55.09" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|25°32'42.02" |Aries|Butain|Venus|
-|☿ Mercury|Direct|7°59'1.61" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|12°46'39.49" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|17°34'9.77" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|8°17'57.99" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|0°25'55.61" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|25°32'42.53" |Aries|Butain|Venus|
+|☿ Mercury|Direct|7°59'1.83" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|12°52'10.84" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Saturn|Mars|Aquarius|Moon|Saturn|
 |☿ Mercury|Mars|Mercury|Gemini|Moon|Jupiter|
-|☾ Moon|Moon|Mars|Libra|Moon|Venus|
+|☾ Moon|Saturn|Mars|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|8°17'57.99" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|0°25'55.61" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|25°32'42.53" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|7°59'1.61" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°46'39.49" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°59'1.83" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°52'10.84" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Mars|Sun|Pisces|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Saturn|Saturn|Scorpio|Sun|Mercury|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}
