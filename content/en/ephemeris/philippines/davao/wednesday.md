@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°12'45.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°51'13.77" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|10°8'26.91" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|2°45'32.98" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°26'55.97" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|11°47'43.95" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|17°14'10.21" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|17°51'12.91" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|10°8'22.33" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|2°45'20.91" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|28°26'47.70" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|11°47'35.03" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|16°30'1.20" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Venus|Jupiter|Moon|Sun|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°12'45.37" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°51'13.77" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|17°51'13.77" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|10°8'26.91" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|2°45'32.98" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|28°26'55.97" |Taurus|HaqAh|Saturn|

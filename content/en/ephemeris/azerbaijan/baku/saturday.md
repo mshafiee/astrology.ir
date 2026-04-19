@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°38'28.55" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°17'35.76" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|6°25'9.45" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|28°3'19.73" |Pisces|Rescha|Mars|
-|♀ Venus|Direct|22°34'52.74" |Aries|Butain|Venus|
-|☿ Mercury|Direct|4°16'1.43" |Pisces|FarghAlMuqaddam|Saturn|
-|☾ Moon|Direct|5°17'5.09" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°17'36.55" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|6°25'13.62" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|28°3'31.05" |Pisces|Rescha|Mars|
+|♀ Venus|Direct|22°35'0.70" |Aries|Butain|Venus|
+|☿ Mercury|Direct|4°16'9.55" |Pisces|FarghAlMuqaddam|Saturn|
+|☾ Moon|Direct|6°37'47.77" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Mars|Mars|
 |♀ Venus|Mars|Mars|Jupiter|Saturn|
 |☿ Mercury|Venus|Venus|Jupiter|Venus|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|7°38'28.55" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°17'35.76" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|6°25'9.45" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|28°3'19.73" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|22°34'52.74" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|4°16'1.43" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|5°17'5.09" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|17°17'36.04" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|6°25'12.82" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°3'28.26" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|22°34'58.28" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|4°16'8.13" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|6°16'43.78" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
