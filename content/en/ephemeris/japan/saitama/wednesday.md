@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:39:56 |
 | Medium Coeli | 11:39:56 |
 | Sunset | 18:20:34 |
-| Maghrib | 18:38:05 |
+| Maghrib | 18:38:06 |
 | Isha (Night) | 19:31:42 |
 | Sharia Midnight | 22:58:27 |
 | Imum Coeli | 23:39:50 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°12'19.36" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°50'46.84" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°5'37.05" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|2°41'56.63" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°22'27.72" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|11°41'44.91" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|16°11'21.91" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|8°12'19.41" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°50'46.79" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°5'37.01" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|2°41'56.77" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|28°22'28.04" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|11°41'44.75" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|16°17'29.92" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

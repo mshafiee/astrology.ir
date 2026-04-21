@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 19:05:43 |
 | Maghrib | 19:20:06 |
 | Isha (Night) | 20:02:46 |
-| Sharia Midnight | 00:17:01 |
+| Sharia Midnight | 00:17:02 |
 | Imum Coeli | 00:49:57 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°8'5.28" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|17°46'25.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|9°37'50.55" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|2°6'52.10" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|27°38'40.07" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|10°43'21.45" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|8°0'16.47" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|17°46'25.13" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|9°37'50.60" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|2°6'52.12" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|27°38'40.04" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|10°43'21.48" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|8°0'16.46" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

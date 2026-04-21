@@ -1,6 +1,6 @@
 ---
-date: 2026-04-18T00:00:00+02:00
-lastmod: 2026-04-18T00:00:00+02:00
+date: 2026-04-25T00:00:00+02:00
+lastmod: 2026-04-25T00:00:00+02:00
 title: Longyearbyen Saturday
 slug: saturday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Saturday, 18 Apr 2026
+description: 🗓 Saturday, 25 Apr 2026
 
 toc: false
 ---
@@ -37,14 +37,14 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 01:34:17 |
-| Dhuhr (Noon) | 12:56:44 |
-| Medium Coeli | 12:56:44 |
+| Sunrise | Circumpolar Angle |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | Circumpolar Angle |
+| Isha (Night) | 14:39:05 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:56:37 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -53,14 +53,14 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 01:34:17 |
-| Dhuhr (Noon) | 12:56:44 |
-| Medium Coeli | 12:56:44 |
+| Sunrise | Circumpolar Angle |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | Circumpolar Angle |
+| Isha (Night) | 14:39:05 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:56:37 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -69,14 +69,14 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 01:34:17 |
-| Dhuhr (Noon) | 12:56:44 |
-| Medium Coeli | 12:56:44 |
+| Sunrise | Circumpolar Angle |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | Circumpolar Angle |
+| Isha (Night) | 15:57:23 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:56:37 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -85,14 +85,14 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 01:34:17 |
-| Dhuhr (Noon) | 12:56:44 |
-| Medium Coeli | 12:56:44 |
+| Sunrise | Circumpolar Angle |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | Circumpolar Angle |
+| Isha (Night) | 15:07:46 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:56:37 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -101,14 +101,14 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 01:34:17 |
-| Dhuhr (Noon) | 12:56:44 |
-| Medium Coeli | 12:56:44 |
+| Sunrise | Circumpolar Angle |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | Circumpolar Angle |
+| Isha (Night) | 16:08:45 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:56:37 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -117,14 +117,14 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 01:34:17 |
-| Dhuhr (Noon) | 12:56:44 |
-| Medium Coeli | 12:56:44 |
+| Sunrise | Circumpolar Angle |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | Circumpolar Angle |
+| Isha (Night) | 16:19:51 |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:56:37 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -133,14 +133,14 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 01:34:17 |
-| Dhuhr (Noon) | 12:56:44 |
-| Medium Coeli | 12:56:44 |
+| Sunrise | Circumpolar Angle |
+| Dhuhr (Noon) | 11:48:59 |
+| Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
-| Imum Coeli | 00:56:37 |
+| Imum Coeli | 23:49:12 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -157,18 +157,18 @@ Earth movement calendar in twelve houses based on sidereal calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♋ Cancer|09:20:39|09:20:38|
-|♋ Cancer|09:20:39|09:20:38|
-|♋ Cancer|09:20:39|09:20:38|
-|♑ Capricorn|09:20:39|08:31:06|
-|♑ Capricorn|08:31:07|05:16:17|
-|♒ Aquarius|05:16:18|02:01:28|
-|♓ Pisces|02:01:29|01:11:56|
-|♈ Aries|01:11:57|01:11:56|
-|♈ Aries|01:11:57|01:11:56|
-|♈ Aries|01:11:57|01:11:56|
-|♈ Aries|01:11:57|01:11:56|
-|♈ Aries|01:11:57|01:11:56|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
+|♎ Libra|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -179,18 +179,18 @@ Earth movement calendar in twelve houses based on tropical calculations
 
 |Sign|Start Time|Finish Time|
 |-|:-:|:-:|
-|♌ Leo|09:20:39|09:20:38|
-|♌ Leo|09:20:39|09:20:38|
-|♌ Leo|09:20:39|09:20:38|
-|♌ Leo|09:20:39|10:16:49|
-|♌ Leo|10:16:50|17:14:19|
-|♍ Virgo|17:14:20|00:11:49|
-|♎ Libra|00:11:50|01:08:00|
-|♏ Scorpio|01:08:01|01:08:00|
-|♏ Scorpio|01:08:01|01:08:00|
-|♏ Scorpio|01:08:01|01:08:00|
-|♏ Scorpio|01:08:01|01:08:00|
-|♏ Scorpio|01:08:01|01:08:00|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
+|♏ Scorpio|23:59:59|23:59:58|
 
 
 {{< /tab >}}
@@ -210,24 +210,24 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: -2562047:-47:-16|Night duration: 00:00:00|
-|Every hour of day duration: -213503:-58:-56|Every hour of night duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 00:00:00|
+|Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|01:34:17|00:35:19|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|00:35:20|00:36:23|Peace among people|
-|3|Mars|Servant|00:36:24|00:37:26|Vengeful and evil deeds|
-|4|Sun|Servant|00:37:27|00:38:30|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|00:38:31|00:39:33|The moon is in Scorpio, Not suitable for doing anything.|
-|6|Mercury|Servant|00:39:34|00:23:37|Writing, swapping and making promises|
-|7|Moon|Servant|00:23:38|00:24:41|Not suitable for any task|
-|8|Saturn|Ruler|00:24:42|00:25:44|Destruction of enemies|
-|9|Jupiter|Servant|00:25:45|00:26:48|All good deeds|
-|10|Mars|Servant|00:26:49|00:27:51|The moon is in Scorpio, Not suitable for doing anything.|
-|11|Sun|Servant|00:27:52|00:28:55|Acceptance of reconciliation between couples|
-|12|Venus|Servant|00:28:56|00:29:59|For gaining dignity|
+|1|Saturn|Ruler|00:00:00|23:59:59|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|00:00:00|23:59:59|Peace among people|
+|3|Mars|Servant|00:00:00|23:59:59|Vengeful and evil deeds|
+|4|Sun|Servant|00:00:00|23:59:59|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|00:00:00|23:59:59|Auspicious|
+|6|Mercury|Servant|00:00:00|23:59:59|Writing, swapping and making promises|
+|7|Moon|Servant|00:00:00|23:59:59|Not suitable for any task|
+|8|Saturn|Ruler|00:00:00|23:59:59|Destruction of enemies|
+|9|Jupiter|Servant|00:00:00|23:59:59|All good deeds|
+|10|Mars|Servant|00:00:00|23:59:59|Doing evil deeds|
+|11|Sun|Servant|00:00:00|23:59:59|Acceptance of reconciliation between couples|
+|12|Venus|Servant|00:00:00|23:59:59|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -256,21 +256,21 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: -2562047:-47:-16|Night duration: 00:00:00|
-|Every hour duration: -366006:-49:-37|Every hour duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 00:00:00|
+|Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Saturn|Ruler|01:34:17|18:44:39|
-|Mid-morning|Jupiter|Servant|18:44:40|11:55:02|
-|Late morning|Mars|Servant|11:55:03|04:05:25|
-|Noon|Sun|Servant|04:05:26|20:58:49|
-|Early afternoon|Venus|Servant|20:58:50|14:09:12|
-|Mid-afternoon|Mercury|Servant|14:09:13|07:19:35|
-|Late afternoon|Moon|Servant|07:19:36|00:29:59|
+|Early morning|Saturn|Ruler|00:00:00|23:59:59|
+|Mid-morning|Jupiter|Servant|00:00:00|23:59:59|
+|Late morning|Mars|Servant|00:00:00|23:59:59|
+|Noon|Sun|Servant|00:00:00|23:59:59|
+|Early afternoon|Venus|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Mercury|Servant|00:00:00|23:59:59|
+|Late afternoon|Moon|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
@@ -337,10 +337,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>☌ Conjunction|<sub>□ Square|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> </sub>|
+|<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
