@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:23:47 |
+| Fajr (Dawn) | 02:23:46 |
 | Sunrise | 05:57:43 |
 | Dhuhr (Noon) | 13:22:04 |
 | Medium Coeli | 13:22:04 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°7'18.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|17°45'37.84" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°45'37.84" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|9°32'45.45" |Pisces|FarghAlMuakhar|Saturn|
 |☉ Sun|Direct|2°0'23.61" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|27°30'38.79" |Aries|Thurayya|Venus|
 |☿ Mercury|Direct|10°32'44.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|6°57'45.46" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|6°4'33.02" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aries|Sun|Mars|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
+|☾ Moon|Moon|Mars|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°7'18.47" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°45'37.84" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|9°32'45.45" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|2°0'23.61" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|27°30'38.79" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|10°32'44.58" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|6°4'33.02" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|17°45'37.89" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|9°32'46.90" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|2°0'27.02" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|27°30'40.83" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|10°32'47.42" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|6°14'26.79" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

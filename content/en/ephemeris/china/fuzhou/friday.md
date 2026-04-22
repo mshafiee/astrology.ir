@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:31:32 |
 | Dhuhr (Noon) | 12:00:57 |
 | Medium Coeli | 12:00:57 |
-| Sunset | 18:30:44 |
+| Sunset | 18:30:43 |
 | Maghrib | 18:31:45 |
 | Isha (Night) | 19:48:15 |
 | Sharia Midnight | 23:19:29 |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:31:32 |
 | Dhuhr (Noon) | 12:00:57 |
 | Medium Coeli | 12:00:57 |
-| Sunset | 18:30:44 |
+| Sunset | 18:30:43 |
 | Maghrib | 18:31:45 |
 | Isha (Night) | 19:38:31 |
 | Sharia Midnight | 23:26:48 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:31:32 |
 | Dhuhr (Noon) | 12:00:57 |
 | Medium Coeli | 12:00:57 |
-| Sunset | 18:30:44 |
+| Sunset | 18:30:43 |
 | Maghrib | 18:31:45 |
 | Isha (Night) | 19:50:42 |
-| Sharia Midnight | 23:15:47 |
+| Sharia Midnight | 23:15:46 |
 | Imum Coeli | 00:00:51 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:31:32 |
 | Dhuhr (Noon) | 12:00:57 |
 | Medium Coeli | 12:00:57 |
-| Sunset | 18:30:44 |
+| Sunset | 18:30:43 |
 | Maghrib | 18:31:45 |
 | Isha (Night) | 19:53:09 |
 | Sharia Midnight | 23:19:29 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°26'48.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°6'10.04" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|18°6'10.04" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|11°41'6.05" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|4°42'40.26" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|0°53'6.74" |Taurus|Thurayya|Mercury|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°26'48.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°6'10.04" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|18°6'10.04" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|11°41'6.05" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|4°42'40.26" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|0°53'6.74" |Gemini|HaqAh|Jupiter|

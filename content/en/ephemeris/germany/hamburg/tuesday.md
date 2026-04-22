@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 21:01:04 |
 | Isha (Night) | 22:20:48 |
 | Sharia Midnight | 00:04:42 |
-| Imum Coeli | 01:18:36 |
+| Imum Coeli | 01:18:37 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 20:33:47 |
 | Isha (Night) | 23:02:46 |
 | Sharia Midnight | 00:02:58 |
-| Imum Coeli | 01:18:36 |
+| Imum Coeli | 01:18:37 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 20:33:47 |
 | Isha (Night) | 22:03:47 |
 | Sharia Midnight | 23:59:59 |
-| Imum Coeli | 01:18:36 |
+| Imum Coeli | 01:18:37 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°0'33.35" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|17°38'49.23" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|8°48'37.64" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|1°4'38.20" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°21'3.42" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|9°1'28.90" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|22°19'19.54" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'49.18" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|8°48'37.57" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|1°4'37.95" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°21'3.19" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|9°1'28.76" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|22°16'58.01" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°0'33.35" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°38'49.18" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'49.18" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|8°48'37.57" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|1°4'37.95" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°21'3.19" |Taurus|HaqAh|Saturn|

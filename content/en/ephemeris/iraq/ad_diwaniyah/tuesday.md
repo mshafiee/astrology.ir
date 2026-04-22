@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:59:00 |
 | Medium Coeli | 11:59:00 |
 | Sunset | 18:33:45 |
-| Maghrib | 18:50:22 |
+| Maghrib | 18:50:23 |
 | Isha (Night) | 19:40:50 |
 | Sharia Midnight | 23:19:57 |
 | Imum Coeli | 23:58:54 |
@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:54:17 |
+| Fajr (Dawn) | 03:54:16 |
 | Sunrise | 05:24:45 |
 | Dhuhr (Noon) | 11:59:00 |
 | Medium Coeli | 11:59:00 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°0'3.60" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|17°38'19.28" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|8°45'22.40" |Pisces|FarghAlMuakhar|Saturn|
-|☉ Sun|Direct|1°0'32.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|26°15'55.39" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|8°54'48.90" |Pisces|FarghAlMuakhar|Saturn|
-|☾ Moon|Direct|21°30'13.38" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|8°0'3.55" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'19.06" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|8°45'22.45" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|1°0'32.91" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|26°15'55.35" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|8°54'48.94" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|21°30'13.53" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°0'3.60" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°38'19.00" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|17°38'19.00" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|8°45'22.45" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|1°0'32.83" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|26°15'55.22" |Taurus|HaqAh|Saturn|

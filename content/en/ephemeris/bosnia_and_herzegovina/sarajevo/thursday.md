@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°14'37.93" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|17°53'9.80" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|10°20'46.67" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|3°1'2.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°46'18.86" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|12°13'53.63" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|19°49'29.27" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|17°53'11.34" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|10°20'47.27" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|3°1'6.86" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|28°46'24.08" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|12°13'54.79" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|20°51'39.30" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Moon|Sun|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Taurus|Sun|Mars|
 |♀ Venus|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |☿ Mercury|Sun|Venus|Cancer|Moon|Jupiter|
-|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
+|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°14'37.93" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|17°53'11.34" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|17°53'11.34" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|10°20'47.27" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|3°1'6.86" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|28°46'24.08" |Taurus|HaqAh|Saturn|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°39'59.45" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°20'46.88" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|13°8'36.06" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|6°33'22.08" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|3°11'13.02" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°22'35.79" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|9°12'40.09" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|8°39'57.94" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°20'47.87" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|13°8'29.22" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|6°33'8.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|3°11'7.17" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°22'23.09" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|10°39'28.46" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Venus|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°39'59.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°20'47.87" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|18°20'46.88" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|13°8'29.22" |Aries|Butain|Sun|
 |☉ Sun|Direct|6°33'8.59" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|3°11'7.17" |Gemini|HaqAh|Jupiter|

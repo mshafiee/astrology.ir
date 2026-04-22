@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:16:22|Night duration: 10:42:37|
+|Duration of the day: 13:16:22|Night duration: 10:42:38|
 |Every hour of day duration: 01:06:22|Every hour of night duration: 00:53:33|
 
  
@@ -237,13 +237,13 @@ Timetable of twelve day and night planetary hours
 |3|Sun|Servant|20:25:55|21:19:27|Operations of tenderness and attraction of love|
 |4|Venus|Servant|21:19:28|22:13:00|Unfortunate and repelling goodness|
 |5|Mercury|Servant|22:13:01|23:06:33|Separation, vengeful and hostile deeds|
-|6|Moon|Servant|23:06:34|00:00:06|Suitable for all good deeds|
-|7|Saturn|Servant|00:00:07|00:53:39|No task is suitable, causes misfortune|
-|8|Jupiter|Ruler|00:53:40|01:47:12|Extremely auspicious and attracts happiness|
-|9|Mars|Servant|01:47:13|02:40:45|Summoning the person of interest, attracting hearts, heart tenderness|
-|10|Sun|Servant|02:40:46|03:34:18|Attracting happiness, solving financial problems|
-|11|Venus|Servant|03:34:19|04:27:51|Performing promises|
-|12|Mercury|Servant|04:27:52|05:21:25|Finding the fugitive and discovering the thief|
+|6|Moon|Servant|23:06:34|00:00:07|Suitable for all good deeds|
+|7|Saturn|Servant|00:00:08|00:53:40|No task is suitable, causes misfortune|
+|8|Jupiter|Ruler|00:53:41|01:47:13|Extremely auspicious and attracts happiness|
+|9|Mars|Servant|01:47:14|02:40:46|Summoning the person of interest, attracting hearts, heart tenderness|
+|10|Sun|Servant|02:40:47|03:34:19|Attracting happiness, solving financial problems|
+|11|Venus|Servant|03:34:20|04:27:52|Performing promises|
+|12|Mercury|Servant|04:27:53|05:21:26|Finding the fugitive and discovering the thief|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 13:16:22|Night duration: 10:42:37|
+|Duration of the day: 13:16:22|Night duration: 10:42:38|
 |Every hour duration: 01:53:46|Every hour duration: 01:31:48|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Jupiter|Ruler|18:38:49|20:10:36|
 |Late evening|Mars|Servant|20:10:37|21:42:24|
 |Midnight|Sun|Servant|21:42:25|23:14:12|
-|Late at night|Venus|Servant|23:14:13|00:46:00|
-|Rooster song|Mercury|Servant|00:46:01|02:17:48|
-|False Dawn|Moon|Servant|02:17:49|03:49:36|
-|Dawn|Saturn|Servant|03:49:37|05:21:25|
+|Late at night|Venus|Servant|23:14:13|00:46:01|
+|Rooster song|Mercury|Servant|00:46:02|02:17:49|
+|False Dawn|Moon|Servant|02:17:50|03:49:37|
+|Dawn|Saturn|Servant|03:49:38|05:21:26|
 
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°34'36.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°14'44.64" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|18°14'44.64" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|12°32'48.12" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|5°48'3.25" |Aries|Sharatain|Mars|
 |♀ Venus|Direct|2°14'42.57" |Taurus|Thurayya|Mercury|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°34'36.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°14'44.64" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°32'48.12" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|5°48'3.25" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°14'42.57" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|17°1'57.31" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°22'5.20" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|18°14'44.43" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°32'48.49" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|5°48'3.64" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°14'42.42" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|17°1'57.97" |Aries|Butain|Sun|
+|☾ Moon|Direct|29°13'32.36" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
