@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:30:17 |
 | Medium Coeli | 13:30:17 |
 | Sunset | 20:06:19 |
-| Maghrib | 20:09:59 |
+| Maghrib | 20:09:58 |
 | Isha (Night) | 21:34:41 |
 | Sharia Midnight | 00:45:49 |
 | Imum Coeli | 01:30:12 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:30:17 |
 | Medium Coeli | 13:30:17 |
 | Sunset | 20:06:19 |
-| Maghrib | 20:09:59 |
-| Isha (Night) | 21:39:59 |
+| Maghrib | 20:09:58 |
+| Isha (Night) | 21:39:58 |
 | Sharia Midnight | 00:44:29 |
 | Imum Coeli | 01:30:12 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°15'14.47" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°53'49.41" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|10°24'46.99" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|3°6'10.65" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°52'42.13" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|12°22'24.83" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|22°5'55.92" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|8°15'14.52" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|17°53'49.19" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|10°24'46.84" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|3°6'10.46" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|28°52'42.15" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|12°22'24.53" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|22°8'42.98" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°15'14.47" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°53'49.50" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|17°53'49.50" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|10°24'46.84" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|3°6'10.46" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|28°52'42.15" |Taurus|HaqAh|Saturn|

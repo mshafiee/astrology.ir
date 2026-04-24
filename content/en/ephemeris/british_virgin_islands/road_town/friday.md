@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°30'25.24" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°10'6.39" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°4'58.73" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|5°12'52.46" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|1°30'47.65" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°0'1.31" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|21°24'46.16" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|8°30'23.69" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|18°10'6.39" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|12°4'52.15" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|5°12'37.39" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|1°30'39.03" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|15°59'48.71" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|22°0'40.27" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -315,7 +315,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Jupiter|Jupiter|Moon|Sun|
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
-|☿ Mercury|Mercury|Mercury|Moon|Sun|
+|☿ Mercury|Jupiter|Mercury|Moon|Sun|
 |☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
+|☾ Moon|Venus|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°30'25.24" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°10'6.39" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|18°10'6.39" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°4'58.73" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|5°12'52.46" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|1°30'47.65" |Gemini|HaqAh|Jupiter|

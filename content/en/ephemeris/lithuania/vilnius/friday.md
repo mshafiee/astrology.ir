@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:12:05 |
+| Fajr (Dawn) | 03:12:06 |
 | Sunrise | 05:55:28 |
 | Dhuhr (Noon) | 13:17:00 |
 | Medium Coeli | 13:17:00 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°21'23.30" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°0'19.39" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|11°5'16.07" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|3°57'19.84" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|29°56'34.40" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|13°49'19.74" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|4°8'54.34" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|18°0'19.27" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|11°5'16.35" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|3°57'19.93" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°56'33.93" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|13°49'20.34" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|3°56'27.44" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°21'23.30" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°0'19.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°5'16.07" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|3°57'19.84" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|29°56'34.40" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|13°49'19.74" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°8'54.34" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|8°21'23.24" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°0'19.61" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°5'16.02" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|3°57'19.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|29°56'34.44" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|13°49'19.71" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°8'54.52" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°32'14.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°12'7.82" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°16'55.82" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|5°27'57.63" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|1°49'44.87" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°26'34.30" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|26°0'41.61" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|8°32'14.23" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|18°12'6.41" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|12°17'1.22" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|5°28'7.15" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|1°49'47.85" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|16°26'44.38" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|24°46'4.26" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mercury|Mercury|Moon|Sun|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Venus|Mars|Virgo|Sun|Jupiter|
-|☾ Moon|Mercury|Saturn|Taurus|Sun|Mars|
+|☾ Moon|Venus|Saturn|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°32'14.23" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°12'6.41" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|18°12'6.41" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°17'1.22" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|5°28'7.15" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|1°49'47.85" |Gemini|HaqAh|Jupiter|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°35'48.14" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°16'4.25" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°40'43.49" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|5°58'3.73" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|2°27'12.89" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°19'42.76" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|2°17'17.81" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|8°35'48.09" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|18°16'4.46" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|12°40'43.44" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|5°58'3.72" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|2°27'12.93" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°19'42.73" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|1°40'59.69" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°35'48.09" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°16'4.40" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°40'39.00" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|5°57'53.58" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°27'7.25" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|17°19'34.20" |Aries|Butain|Sun|
-|☾ Moon|Direct|2°17'17.67" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|18°16'4.46" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°40'43.44" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|5°58'3.72" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°27'12.93" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|17°19'42.73" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°40'59.69" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MCM, Monaco, Monaco-Ville, Monako, Mònaco, Mónaco, Mónakó, monako, Μονακό, Монако, 모나코

@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 13:02:37|Night duration: 10:56:30|
-|Every hour of day duration: 01:05:13|Every hour of night duration: 00:54:42|
+|Every hour of day duration: 01:05:13|Every hour of night duration: 00:54:43|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°34'20.78" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°14'26.93" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°31'2.46" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|5°45'49.83" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|2°11'55.77" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|16°58'0.88" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|28°51'1.39" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|8°34'20.84" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|18°14'26.72" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|12°31'2.50" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|5°45'49.84" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|2°11'55.73" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|16°58'0.91" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|28°51'1.28" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°34'20.78" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°14'26.93" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°31'2.46" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|5°45'49.83" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°11'55.77" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|16°58'0.88" |Aries|Butain|Sun|
-|☾ Moon|Direct|28°51'1.39" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|8°34'20.84" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|18°14'26.72" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°31'2.50" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|5°45'49.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°11'55.73" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|16°58'0.91" |Aries|Butain|Sun|
+|☾ Moon|Direct|28°51'1.28" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

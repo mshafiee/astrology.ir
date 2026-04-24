@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:29:51 |
+| Fajr (Dawn) | 04:29:50 |
 | Sunrise | 06:03:18 |
 | Dhuhr (Noon) | 12:45:56 |
 | Medium Coeli | 12:45:56 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°14'59.31" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|17°53'33.60" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|10°23'7.52" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|3°4'4.60" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|28°50'5.25" |Aries|Thurayya|Venus|
-|☿ Mercury|Direct|12°18'53.09" |Pisces|FarghAlMuakhar|Jupiter|
-|☾ Moon|Direct|21°35'11.13" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|8°14'59.36" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|17°53'33.38" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|10°23'7.57" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|3°4'4.62" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|28°50'5.22" |Aries|Thurayya|Venus|
+|☿ Mercury|Direct|12°18'53.12" |Pisces|FarghAlMuakhar|Jupiter|
+|☾ Moon|Direct|21°35'10.98" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°14'59.31" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|17°53'33.60" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|8°14'59.36" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|17°53'33.38" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|10°23'7.57" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|3°4'4.62" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|28°50'5.22" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|12°18'53.12" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|21°35'10.98" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|28°50'5.25" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|12°18'53.09" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|21°35'11.13" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
