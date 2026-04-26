@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°35'30.92" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°15'44.66" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°38'47.72" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|5°55'39.44" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|2°24'9.90" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°15'22.37" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|18°15'45.54" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|12°38'44.45" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|5°55'33.59" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|2°24'7.88" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°15'16.38" |Pisces|Rescha|Jupiter|
 |☾ Moon|Direct|0°55'18.93" |Leo|Jabhah|Saturn|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°35'30.92" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°15'44.66" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|18°15'44.66" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°38'47.72" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|5°55'39.44" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|2°24'9.90" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|17°15'22.37" |Aries|Butain|Sun|
-|☾ Moon|Direct|0°55'18.93" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|17°15'16.38" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°39'15.80" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: NBO, Nairoba, Nairobi, Nairobia, Nairobis, Nairobo, Nairoby, Nairobî, Nairompi, Nairòbi, Nairóbi, Najrobi, Najrobo, Nayrobi, Nayroobi, Naíróbí, Naýrobi, na'irobi, nai luo bi, nailobi, nairobi, nairopi, nayreabi, nayrwby, nei luo bi, nirobi, nyrwby, nyyrwby, Ναϊρόμπι, Найроби, Найробі, Најроби, Նայրոբի, נייראבי, ניירובי, نايروبى, نایروبی, نایرۆبی, نيروبي, نیروبی, नैरोबी, নাইরোবি, ਨੈਰੋਬੀ, நைரோபி, ನೈರೋಬಿ, നയ്റോബി, ไนโรบี, ནའི་རོ་བི།, နိုင်ရိုဘီမြို့, ნაირობი, ናይሮቢ, ナイロビ, 内罗毕, 奈洛比, 나이로비

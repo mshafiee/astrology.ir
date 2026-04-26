@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°56'24.54" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°39'51.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°58'41.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|8°56'24.49" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°39'51.56" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|14°58'41.00" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|8°52'37.70" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|6°5'2.99" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°37'29.80" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°46'29.04" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|6°5'3.04" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°37'29.79" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|9°59'47.32" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Venus|Venus|Saturn|Saturn|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Cancer|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Sagittarius|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
+|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°56'24.49" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°39'51.56" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|18°39'51.56" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|14°58'41.00" |Aries|Butain|Sun|
 |☉ Sun|Direct|8°52'37.70" |Taurus|Dabaran|Mercury|
 |♀ Venus|Direct|6°5'3.04" |Gemini|HanAh|Jupiter|

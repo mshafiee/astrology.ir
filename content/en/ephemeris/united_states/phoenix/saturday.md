@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°38'11.34" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°18'44.78" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°56'36.23" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|6°18'10.35" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|2°52'17.78" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°55'27.45" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|6°11'55.82" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|8°38'11.29" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°18'46.07" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|12°56'36.04" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|6°18'11.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|2°52'19.51" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°55'27.26" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|6°29'28.46" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°38'11.29" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°18'44.99" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|18°18'44.99" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°56'36.22" |Aries|Butain|Sun|
 |☉ Sun|Direct|6°18'9.68" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|2°52'16.83" |Gemini|HaqAh|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: East Phoenix, Feniks, Fenikso, Finiks, Finiksa, Finiksas, Finiksos, Foinix, Féniks, Fīniksa, Hellings Mill, Hoozdoh, Mill City, PHX, Peniki, Phenix, Phoeniks, Phoenix, Pumpkinsville, Pēniki, Salt River, Smith Station, Smith Station Phenix, Smiths Station, feng huang cheng, fenikkusu, finikasa, finiks, finiksa, fynks, fynyks, fynyks  aryzwna, phiniks, phiniks nagaram, phiniksa, pinigseu, piniks, piniksi, pnyqs, pynyqs, Φοίνιξ, Финикс, Фінікс, Ֆինիքս, פיניקס, פניקס, فينيكس, فینکس, فینیکس، آریزونا, फ़ीनिक्स, फिनिक्स, फिनिक्स्, फीनिक्स, ফিনিক্স, ਫ਼ੀਨਿਕਸ, பீனிக்ஸ், ఫీనిక్స్ నగరం, ಫೀನಿಕ್ಸ್, ഫീനിക്സ്, ฟีนิกซ์, ფინიქსი, ፊኒክስ፥ አሪዞና, フェニックス, 凤凰城, 鳳凰城, 피닉스

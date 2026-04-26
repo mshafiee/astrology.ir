@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°39'34.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°20'18.34" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|13°5'51.53" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|6°29'52.89" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|3°6'51.51" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°16'22.59" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|8°11'57.63" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|8°39'34.80" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°20'18.93" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|13°5'51.36" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|6°29'53.71" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|3°6'53.02" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°16'22.43" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|8°26'58.17" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°39'34.74" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°20'18.34" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|13°5'51.53" |Aries|Butain|Sun|
-|☉ Sun|Direct|6°29'52.89" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|3°6'51.51" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|18°16'22.59" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°11'57.63" |Virgo|Awwa|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|18°20'18.93" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|13°5'51.36" |Aries|Butain|Sun|
+|☉ Sun|Direct|6°29'53.71" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|3°6'53.02" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|18°16'22.43" |Aries|Butain|Sun|
+|☾ Moon|Direct|8°26'58.17" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

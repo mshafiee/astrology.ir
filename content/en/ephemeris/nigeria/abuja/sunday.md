@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°36'1.70" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°16'19.07" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°42'6.87" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|5°59'44.29" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|2°29'25.18" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°22'51.45" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|2°33'56.48" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°16'19.15" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|12°42'12.97" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|5°59'58.78" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|2°29'33.78" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°23'3.15" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|1°52'7.79" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Gemini|Sun|Mars|
 |♀ Venus|Venus|Saturn|Taurus|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Virgo|Sun|Jupiter|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Leo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°36'1.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°16'19.37" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°42'12.92" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|5°59'58.76" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°29'33.95" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|17°23'3.07" |Aries|Butain|Sun|
-|☾ Moon|Direct|1°54'40.34" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|18°16'19.07" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°42'13.03" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|5°59'58.73" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°29'33.74" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|17°23'3.18" |Aries|Butain|Sun|
+|☾ Moon|Direct|1°52'7.67" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자
