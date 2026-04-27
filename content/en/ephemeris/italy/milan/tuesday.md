@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°49'32.79" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|18°31'45.89" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°12'31.87" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|7°54'13.51" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|4°52'9.53" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|20°49'21.54" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|27°11'30.50" |Leo|Sarfrah|Mars|
+|♂ Mars|Direct|14°12'30.09" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|7°54'6.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|4°52'3.19" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|20°49'17.74" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|27°14'11.69" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|18°31'45.89" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|14°12'31.87" |Aries|Butain|Sun|
 |☉ Sun|Direct|7°54'13.51" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|4°52'8.85" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|20°49'15.13" |Aries|Butain|Venus|
-|☾ Moon|Direct|28°13'19.80" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|4°52'9.53" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|20°49'21.54" |Aries|Butain|Venus|
+|☾ Moon|Direct|27°11'30.50" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Mars|Mercury|Jupiter|Saturn|
-|☾ Moon|Saturn|Mars|Venus|Moon|
+|☾ Moon|Mars|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Moon|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Moon|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°40'3.61" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°20'51.37" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|13°9'3.58" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|6°33'56.78" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|3°11'56.37" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°23'38.14" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|9°20'49.29" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|8°40'3.56" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°20'51.58" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|13°9'3.53" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|6°33'56.77" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|3°11'56.41" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°23'38.11" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|9°20'49.47" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°40'3.61" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|8°40'3.56" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|18°20'51.37" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|13°9'3.58" |Aries|Butain|Sun|
 |☉ Sun|Direct|6°33'56.78" |Taurus|Thurayya|Mercury|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kingston, Kingston pa Norfolkoya, Kingston på Norfolkøya, Kingstona, Kingstonas, Kingstono, Kingstun, Kinqston, Pasjolak Kingstan, jin si dui, khing s tan, kincutan, kingseuteon, kingstana, kingusuton, kynghstwn, kyngstwn, Кингстон, Кингстън, Кінгстон, Пасёлак Кінгстан, كينغستون, کنگسٹن, کینگستون, किंग्स्टन, கிங்சுடன், คิงส์ตัน, კინგსტონი, キングストン, 金斯敦, 킹스턴

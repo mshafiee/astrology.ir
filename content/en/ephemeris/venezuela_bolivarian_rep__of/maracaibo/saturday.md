@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°37'32.60" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|18°18'1.29" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|12°52'17.91" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|6°12'44.03" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|2°45'28.94" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|17°45'44.25" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|4°44'23.63" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°52'14.14" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|6°12'32.28" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|2°45'19.59" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|17°45'36.62" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|4°38'58.80" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°37'32.60" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°18'1.29" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°52'17.91" |Aries|Butain|Sun|
-|☉ Sun|Direct|6°12'44.03" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°45'28.94" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|17°45'44.25" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°44'23.63" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|8°37'32.65" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|18°17'59.76" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°52'14.09" |Aries|Butain|Sun|
+|☉ Sun|Direct|6°12'32.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°45'19.63" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|17°45'36.62" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°38'58.80" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub>△ Trine|<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>✱ Sextile|<sub> |<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보

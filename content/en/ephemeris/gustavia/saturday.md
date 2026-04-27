@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:42:38|Night duration: 11:16:45|
+|Duration of the day: 12:42:38|Night duration: 11:16:46|
 |Every hour duration: 01:48:57|Every hour duration: 01:36:41|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Mercury|Ruler|18:30:44|20:07:23|
 |Late evening|Moon|Servant|20:07:24|21:44:04|
 |Midnight|Saturn|Servant|21:44:05|23:20:45|
-|Late at night|Jupiter|Servant|23:20:46|00:57:25|
-|Rooster song|Mars|Servant|00:57:26|02:34:06|
-|False Dawn|Sun|Servant|02:34:07|04:10:47|
-|Dawn|Venus|Servant|04:10:48|05:47:28|
+|Late at night|Jupiter|Servant|23:20:46|00:57:26|
+|Rooster song|Mars|Servant|00:57:27|02:34:07|
+|False Dawn|Sun|Servant|02:34:08|04:10:48|
+|Dawn|Venus|Servant|04:10:49|05:47:29|
 
 {{< /tab >}}
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Post-Retrograde Shadow|18°17'47.21" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°50'55.70" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|6°10'59.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°43'19.12" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|17°42'38.96" |Aries|Butain|Sun|
-|☾ Moon|Direct|4°23'24.08" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|2°43'19.10" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|17°42'38.95" |Aries|Butain|Sun|
+|☾ Moon|Direct|4°23'19.03" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

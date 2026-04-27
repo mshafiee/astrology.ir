@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:07:05 |
 | Medium Coeli | 13:07:05 |
 | Sunset | 19:26:31 |
-| Maghrib | 19:27:28 |
+| Maghrib | 19:27:29 |
 | Isha (Night) | 20:40:01 |
 | Sharia Midnight | 00:25:44 |
 | Imum Coeli | 01:07:01 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°57'7.43" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°40'41.95" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|15°3'28.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|8°57'7.38" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°40'42.16" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|15°3'28.37" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|8°58'44.57" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|6°12'36.51" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°48'48.07" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|10°40'41.96" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|6°12'36.55" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°48'48.06" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|10°40'42.56" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°57'7.43" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°40'41.95" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|15°3'28.42" |Aries|Butain|Sun|
+|♄ Saturn|Direct|8°57'7.38" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|18°40'42.16" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|15°3'28.37" |Aries|Butain|Sun|
 |☉ Sun|Direct|8°58'44.57" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|6°12'36.51" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°48'48.07" |Aries|Butain|Venus|
-|☾ Moon|Direct|10°40'41.96" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|6°12'36.55" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°48'48.06" |Aries|Butain|Venus|
+|☾ Moon|Direct|10°40'42.56" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

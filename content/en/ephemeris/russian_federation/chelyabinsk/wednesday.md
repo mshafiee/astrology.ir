@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:51:38 |
 | Sunset | 20:26:12 |
 | Maghrib | 20:30:16 |
-| Isha (Night) | 23:23:27 |
+| Isha (Night) | 23:23:28 |
 | Sharia Midnight | 22:56:57 |
 | Imum Coeli | 00:51:34 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°55'15.99" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°38'29.76" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°50'58.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|8°55'15.93" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°38'29.97" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|14°50'58.89" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|8°42'53.20" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|5°52'53.05" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°19'19.22" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|7°47'49.46" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°52'53.10" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°19'19.21" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°47'50.06" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°55'15.99" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°38'29.76" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|14°50'58.93" |Aries|Butain|Sun|
-|☉ Sun|Direct|8°42'53.20" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|5°52'53.05" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|22°19'19.22" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°47'49.46" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|8°55'15.93" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|18°38'29.53" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°50'59.11" |Aries|Butain|Sun|
+|☉ Sun|Direct|8°42'52.81" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|5°52'52.10" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|22°19'19.42" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°41'53.15" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

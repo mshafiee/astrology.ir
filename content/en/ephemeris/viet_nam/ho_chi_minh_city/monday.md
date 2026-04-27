@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°47'55.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°29'52.86" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°1'41.14" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|7°40'31.82" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|4°35'1.74" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|20°24'12.26" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|23°54'3.44" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|8°47'54.22" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°29'52.73" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|14°1'34.24" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|7°40'15.69" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|4°34'52.19" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|20°23'59.26" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|25°10'53.48" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°47'55.90" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|8°47'55.85" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|18°29'53.07" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|14°1'41.10" |Aries|Butain|Sun|
 |☉ Sun|Direct|7°40'31.81" |Taurus|Thurayya|Mercury|
