@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°5'23.44" |Pisces|FarghAlMuakhar|Jupiter|
 |☉ Sun|Direct|11°33'10.41" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|9°25'13.62" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|27°43'38.42" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°47'49.88" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|27°43'50.56" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|14°47'49.79" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°15'5.65" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°2'44.33" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°5'23.44" |Aries|Butain|Sun|
-|☉ Sun|Direct|11°33'10.41" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°25'13.62" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|9°15'5.71" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°2'44.13" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°5'23.48" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°33'10.40" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|9°25'13.57" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|27°43'50.56" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|13°11'38.39" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|14°47'49.88" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
 
 
 {{< /tab >}}

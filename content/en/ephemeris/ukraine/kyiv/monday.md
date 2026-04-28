@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°42'11.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°23'17.80" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|13°23'21.38" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|6°51'59.38" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|3°34'31.02" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|18°56'10.32" |Pisces|Rescha|Jupiter|
-|☾ Moon|Direct|13°41'17.05" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|18°23'17.58" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|13°23'23.84" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|6°52'4.33" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|3°34'33.30" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|18°56'14.87" |Pisces|Rescha|Jupiter|
+|☾ Moon|Direct|13°10'21.99" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Gemini|Sun|Mars|
 |♀ Venus|Venus|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Jupiter|Libra|Sun|Jupiter|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Moon|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°42'11.88" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°23'17.80" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|13°23'23.84" |Aries|Butain|Sun|
-|☉ Sun|Direct|6°52'4.33" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|3°34'33.30" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|18°56'14.87" |Aries|Butain|Sun|
+|♄ Saturn|Direct|8°42'11.93" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|18°23'17.59" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|13°23'21.43" |Aries|Butain|Sun|
+|☉ Sun|Direct|6°51'59.38" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|3°34'30.98" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|18°56'10.34" |Aries|Butain|Sun|
 |☾ Moon|Direct|13°10'21.99" |Virgo|Awwa|Venus|
 
 

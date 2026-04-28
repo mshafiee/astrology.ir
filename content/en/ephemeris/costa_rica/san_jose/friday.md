@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:47:39 |
 | Maghrib | 18:04:27 |
 | Isha (Night) | 18:44:56 |
-| Sharia Midnight | 22:56:38 |
+| Sharia Midnight | 22:56:39 |
 | Imum Coeli | 23:33:19 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°18'42.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°7'19.80" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|17°29'59.92" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|12°4'21.78" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|10°4'12.53" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|28°45'1.29" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|20°0'27.40" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|19°7'18.42" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°30'3.46" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|12°4'26.74" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|10°4'12.61" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|28°45'6.69" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|19°34'56.42" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,18 +316,18 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Sun|Mercury|Gemini|Moon|Jupiter|
 |♃ Jupiter|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|♂ Mars|Mercury|Jupiter|Virgo|Sun|Jupiter|
+|♂ Mars|Mercury|Jupiter|Libra|Sun|Jupiter|
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}

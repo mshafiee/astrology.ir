@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°48'28.63" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°30'30.30" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°5'22.57" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|7°45'9.36" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|4°40'48.15" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|20°32'44.70" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|24°41'52.81" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|8°48'28.68" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°30'31.17" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|14°5'21.66" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|7°45'9.48" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|4°40'50.13" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|20°32'43.35" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|25°8'54.65" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Jupiter|Mars|Mars|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Gemini|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Mars|Gemini|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°48'28.63" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|8°48'28.68" |Aries|Sharatain|Mars|
 |♃ Jupiter|Post-Retrograde Shadow|18°30'31.38" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|14°5'21.62" |Aries|Butain|Sun|
 |☉ Sun|Direct|7°45'9.47" |Taurus|Thurayya|Mercury|

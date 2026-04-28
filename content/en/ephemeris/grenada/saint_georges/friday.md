@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°18'16.42" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°6'46.70" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|17°27'2.95" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|12°0'36.21" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|9°59'32.27" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|28°37'40.34" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|19°28'28.43" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|9°18'16.47" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|19°6'45.45" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°27'7.20" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|12°0'43.19" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|9°59'33.93" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|28°37'47.13" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|18°49'39.79" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Saturn|Saturn|Mars|Mars|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°18'16.42" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°6'45.65" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°27'7.16" |Aries|Butain|Sun|
+|♄ Saturn|Direct|9°18'16.47" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°6'45.45" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°27'7.20" |Aries|Butain|Sun|
 |☉ Sun|Direct|12°0'43.19" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°59'33.98" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|9°59'33.93" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|28°37'47.13" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|18°49'39.81" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|18°49'39.79" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

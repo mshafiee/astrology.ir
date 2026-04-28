@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°17'6.53" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°5'16.92" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|17°19'9.60" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|11°50'36.42" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|9°46'59.26" |Taurus|Dabaran|Mercury|
-|☿ Mercury|Direct|28°17'59.29" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|17°2'48.43" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|9°17'6.48" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|19°5'17.12" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°19'9.56" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|11°50'36.43" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|9°46'54.86" |Taurus|Dabaran|Mercury|
+|☿ Mercury|Direct|28°17'57.64" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|17°28'16.94" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Moon|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Saturn|Jupiter|Aries|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°17'6.53" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°5'16.92" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°19'9.60" |Aries|Butain|Sun|
-|☉ Sun|Direct|11°50'36.42" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|9°17'6.48" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°5'15.81" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°19'9.20" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°50'32.79" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|9°46'59.31" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|28°17'59.29" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|17°2'48.47" |Scorpio|Qalb|Sun|
