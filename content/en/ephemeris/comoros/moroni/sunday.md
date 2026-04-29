@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°23'8.58" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°12'59.43" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|18°0'29.61" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|12°43'2.29" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|10°52'18.88" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|0°1'26.47" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|27°28'4.97" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|9°23'8.53" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|19°12'58.89" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°0'29.58" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|12°43'0.84" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|10°52'16.78" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|0°1'25.94" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|27°41'59.31" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Virgo|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Sun|Mercury|Leo|Moon|Moon|
+|☾ Moon|Sun|Mercury|Virgo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°23'8.58" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°12'59.43" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°0'29.61" |Aries|Butain|Sun|
-|☉ Sun|Direct|12°43'2.29" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°52'18.88" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|9°23'8.53" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|19°12'59.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°0'29.57" |Aries|Butain|Sun|
+|☉ Sun|Direct|12°43'2.30" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|10°52'18.93" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|0°1'26.47" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|27°28'4.97" |Scorpio|Shaulah|Venus|
 

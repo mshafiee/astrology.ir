@@ -218,7 +218,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sun|Ruler|06:07:25|07:16:00|Love and attraction of capital|
 |2|Venus|Servant|07:16:01|08:24:36|Unfortunate, no task is suitable|
-|3|Mercury|Servant|08:24:37|09:33:13|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Mercury|Servant|08:24:37|09:33:13|Operations of tenderness and attraction of love|
 |4|Moon|Servant|09:33:14|10:41:49|Unfortunate and repelling goodness|
 |5|Saturn|Servant|10:41:50|11:50:26|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Jupiter|Servant|11:50:27|12:59:02|The moon is in Scorpio, Not suitable for doing anything.|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°23'23.21" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°13'19.37" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|18°2'5.45" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|12°44'58.04" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|10°54'54.70" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|0°5'33.99" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|29°17'12.20" |Libra|Akleel|Jupiter|
+|♄ Saturn|Direct|9°23'23.16" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|19°13'18.76" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°2'11.12" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|12°45'9.30" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|10°54'59.63" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|0°5'43.67" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|28°17'35.08" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°23'23.21" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°13'18.56" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°2'11.16" |Aries|Butain|Sun|
+|♄ Saturn|Direct|9°23'23.16" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|19°13'18.76" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°2'11.12" |Aries|Butain|Sun|
 |☉ Sun|Direct|12°45'9.30" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°54'59.58" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|10°54'59.63" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|0°5'43.67" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|28°17'35.08" |Scorpio|Shaulah|Venus|
 

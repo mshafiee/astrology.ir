@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°54'53.41" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°38'2.76" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°48'25.53" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|8°39'41.97" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|5°48'50.54" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|22°13'16.80" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|6°32'4.09" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|18°38'1.11" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|14°48'21.04" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|8°39'28.67" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|5°48'40.27" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|22°13'7.77" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|7°19'59.50" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Cancer|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°54'53.41" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°38'2.76" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|18°38'2.76" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|14°48'25.53" |Aries|Butain|Sun|
 |☉ Sun|Direct|8°39'41.97" |Taurus|Dabaran|Mercury|
 |♀ Venus|Direct|5°48'50.54" |Gemini|HanAh|Jupiter|

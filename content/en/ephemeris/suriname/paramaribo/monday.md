@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|8°51'2.62" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|18°33'30.55" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|14°22'33.63" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|8°6'57.24" |Aries|Sharatain|Mars|
-|♀ Venus|Direct|5°7'59.54" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|21°12'41.13" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°33'25.08" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|8°51'2.57" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|18°33'32.00" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|14°22'29.22" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|8°6'50.25" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|5°7'58.22" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|21°12'33.46" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°44'22.03" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Mars|Mars|
 |♀ Venus|Venus|Venus|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Cancer|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Cancer|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Scorpio|Sun|Jupiter|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|8°51'2.62" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|18°33'30.55" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|18°33'30.55" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|14°22'33.63" |Aries|Butain|Sun|
 |☉ Sun|Direct|8°6'57.24" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|5°7'59.54" |Gemini|HanAh|Jupiter|

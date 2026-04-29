@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Sun|Ruler|05:59:27|07:10:45|Love and attraction of capital|
 |2|Venus|Servant|07:10:46|08:22:05|Unfortunate, no task is suitable|
 |3|Mercury|Servant|08:22:06|09:33:25|Operations of tenderness and attraction of love|
-|4|Moon|Servant|09:33:26|10:44:45|Unfortunate and repelling goodness|
+|4|Moon|Servant|09:33:26|10:44:45|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Saturn|Servant|10:44:46|11:56:05|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Jupiter|Servant|11:56:06|13:07:25|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Mars|Servant|13:07:26|14:18:45|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°23'20.88" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°13'15.64" |Gemini|Dhira|Mars|
+|♃ Jupiter|Direct|19°13'15.64" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|18°1'55.44" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|12°44'48.85" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|10°54'34.86" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|10°54'34.81" |Taurus|Dabaran|Moon|
 |☿ Mercury|Direct|0°5'4.36" |Aries|Sharatain|Mars|
 |☾ Moon|Direct|28°20'23.81" |Libra|Akleel|Jupiter|
 
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°23'20.82" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°13'15.84" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°1'55.40" |Aries|Butain|Sun|
+|♄ Saturn|Direct|9°23'20.88" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|19°13'15.64" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°1'55.44" |Aries|Butain|Sun|
 |☉ Sun|Direct|12°44'48.85" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°54'34.86" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|10°54'34.81" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|0°5'4.36" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|28°20'23.81" |Scorpio|Shaulah|Venus|
 
