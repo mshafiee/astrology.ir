@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:13:09 |
-| Sunrise | 06:33:29 |
+| Sunrise | 06:33:28 |
 | Dhuhr (Noon) | 12:04:35 |
 | Medium Coeli | 12:04:35 |
 | Sunset | 17:35:24 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:10:54 |
-| Sunrise | 06:33:28 |
+| Sunrise | 06:33:29 |
 | Dhuhr (Noon) | 12:04:35 |
 | Medium Coeli | 12:04:35 |
 | Sunset | 17:35:24 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:01:55|Night duration: 12:58:36|
+|Duration of the day: 11:01:56|Night duration: 12:58:36|
 |Every hour of day duration: 00:55:10|Every hour of night duration: 01:04:53|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|06:33:29|07:28:37|The moon is in Scorpio, Not suitable for doing anything.|
-|2|Saturn|Servant|07:28:38|08:23:47|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Jupiter|Servant|08:23:48|09:18:56|The moon is in Scorpio, Not suitable for doing anything.|
-|4|Mars|Servant|09:18:57|10:14:06|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Sun|Servant|10:14:07|11:09:15|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Moon|Ruler|06:33:28|07:28:36|The moon is in Scorpio, Not suitable for doing anything.|
+|2|Saturn|Servant|07:28:37|08:23:46|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Jupiter|Servant|08:23:47|09:18:56|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Mars|Servant|09:18:57|10:14:05|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Sun|Servant|10:14:06|11:09:15|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|11:09:16|12:04:25|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mercury|Servant|12:04:26|12:59:35|The moon is in Scorpio, Not suitable for doing anything.|
-|8|Moon|Ruler|12:59:36|13:54:44|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mercury|Servant|12:04:26|12:59:34|The moon is in Scorpio, Not suitable for doing anything.|
+|8|Moon|Ruler|12:59:35|13:54:44|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Saturn|Servant|13:54:45|14:49:54|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|14:49:55|15:45:03|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mars|Servant|15:45:04|16:40:13|The moon is in Scorpio, Not suitable for doing anything.|
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 11:01:55|Night duration: 12:58:36|
+|Duration of the day: 11:01:56|Night duration: 12:58:36|
 |Every hour duration: 01:34:34|Every hour duration: 01:51:14|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Moon|Ruler|06:33:29|08:08:01|
-|Mid-morning|Saturn|Servant|08:08:02|09:42:35|
-|Late morning|Jupiter|Servant|09:42:36|11:17:08|
-|Noon|Mars|Servant|11:17:09|12:51:42|
-|Early afternoon|Sun|Servant|12:51:43|14:26:15|
+|Early morning|Moon|Ruler|06:33:28|08:08:00|
+|Mid-morning|Saturn|Servant|08:08:01|09:42:34|
+|Late morning|Jupiter|Servant|09:42:35|11:17:08|
+|Noon|Mars|Servant|11:17:09|12:51:41|
+|Early afternoon|Sun|Servant|12:51:42|14:26:15|
 |Mid-afternoon|Venus|Servant|14:26:16|16:00:49|
 |Late afternoon|Mercury|Servant|16:00:50|17:35:23|
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°30'10.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°22'9.03" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°22'9.03" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|18°48'54.33" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|13°44'26.11" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°8'50.99" |Taurus|Dabaran|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°30'10.29" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°22'9.03" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|19°22'9.03" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|18°48'54.33" |Aries|Butain|Sun|
 |☉ Sun|Direct|13°44'26.11" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°8'50.99" |Gemini|HanAh|Mars|

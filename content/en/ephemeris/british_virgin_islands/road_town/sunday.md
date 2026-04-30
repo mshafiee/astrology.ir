@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°31'37.37" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°24'4.27" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°24'4.27" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|18°58'57.03" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|13°56'54.72" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°24'35.33" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|2°30'7.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|14°13'59.85" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|13°57'9.95" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°24'44.07" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|2°30'19.98" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°55'15.44" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Taurus|Sun|Mars|
-|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
+|☾ Moon|Mercury|Venus|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°31'37.37" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°24'3.93" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°58'50.36" |Aries|Butain|Sun|
-|☉ Sun|Direct|13°56'54.72" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|19°24'4.27" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°58'57.03" |Aries|Butain|Sun|
+|☉ Sun|Direct|13°57'9.95" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°24'44.07" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|2°30'19.98" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|12°55'15.44" |Sagittarius|NaAaem|Moon|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°34'56.39" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°28'27.33" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°21'51.90" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|14°26'8.53" |Aries|Butain|Sun|
-|♀ Venus|Direct|13°0'55.85" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|3°29'31.94" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|20°2'56.02" |Scorpio|Qalb|Venus|
+|♄ Saturn|Direct|9°34'56.45" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|19°28'28.57" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°21'55.37" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|14°26'18.56" |Aries|Butain|Sun|
+|♀ Venus|Direct|13°1'3.49" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|3°29'39.10" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|18°56'42.38" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Saturn|Mars|Libra|Moon|Venus|
 |☿ Mercury|Mars|Venus|Taurus|Sun|Mars|
-|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°34'56.45" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°28'28.57" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|19°28'28.57" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|19°21'55.37" |Aries|Butain|Sun|
 |☉ Sun|Direct|14°26'18.56" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|13°1'3.49" |Gemini|HanAh|Mars|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°7'26.74" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|18°53'12.84" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|16°13'18.60" |Pisces|FarghAlMuakhar|Jupiter|
-|☉ Sun|Direct|10°27'11.61" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|8°2'55.88" |Taurus|Thurayya|Mercury|
-|☿ Mercury|Direct|25°36'12.99" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|29°17'7.31" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|9°7'26.79" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|18°53'12.64" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|16°13'14.60" |Pisces|FarghAlMuakhar|Jupiter|
+|☉ Sun|Direct|10°26'59.50" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|8°2'46.39" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|25°36'4.76" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|0°23'45.21" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Saturn|Mars|Venus|Moon|
+|☾ Moon|Saturn|Saturn|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Mercury|Jupiter|Leo|Moon|Venus|
 |☿ Mercury|Moon|Saturn|Capricorn|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
+|☾ Moon|Venus|Venus|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°7'26.74" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|18°53'12.84" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|18°53'12.84" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|16°13'18.60" |Aries|Butain|Sun|
 |☉ Sun|Direct|10°27'11.61" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|8°2'55.88" |Gemini|HanAh|Jupiter|

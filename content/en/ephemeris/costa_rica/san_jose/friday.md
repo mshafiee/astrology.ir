@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 17:47:39 |
 | Maghrib | 18:04:27 |
 | Isha (Night) | 18:44:56 |
-| Sharia Midnight | 22:56:38 |
+| Sharia Midnight | 22:56:39 |
 | Imum Coeli | 23:33:19 |
 {{< /tab >}}
 
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°18'42.18" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°7'18.42" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°7'18.42" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|17°30'3.46" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|12°4'26.74" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|10°4'12.61" |Taurus|Dabaran|Moon|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°18'42.18" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°7'18.42" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|19°7'18.42" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|17°30'3.46" |Aries|Butain|Sun|
 |☉ Sun|Direct|12°4'26.74" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|10°4'12.61" |Gemini|HanAh|Mars|

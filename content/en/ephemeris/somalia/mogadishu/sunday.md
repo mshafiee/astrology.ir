@@ -221,7 +221,7 @@ Timetable of twelve day and night planetary hours
 |3|Mercury|Servant|07:51:34|08:52:32|Operations of tenderness and attraction of love|
 |4|Moon|Servant|08:52:33|09:53:31|Unfortunate and repelling goodness|
 |5|Saturn|Servant|09:53:32|10:54:30|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|10:54:31|11:55:29|The moon is in Scorpio, Not suitable for doing anything.|
+|6|Jupiter|Servant|10:54:31|11:55:29|Suitable for all good deeds|
 |7|Mars|Servant|11:55:30|12:56:28|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Sun|Ruler|12:56:29|13:57:27|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Venus|Servant|13:57:28|14:58:26|The moon is in Scorpio, Not suitable for doing anything.|
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°23'1.83" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°12'51.01" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°12'51.01" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|17°59'43.73" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|12°42'3.94" |Aries|Sharatain|Sun|
 |♀ Venus|Direct|10°51'6.48" |Taurus|Dabaran|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°23'1.83" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°12'51.01" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°59'43.73" |Aries|Butain|Sun|
-|☉ Sun|Direct|12°42'3.94" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°51'6.48" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|29°59'31.04" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|27°19'2.41" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|19°12'49.56" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°59'42.23" |Aries|Butain|Sun|
+|☉ Sun|Direct|12°41'57.72" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|10°51'0.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|29°59'27.29" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|28°6'3.29" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Libra|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}

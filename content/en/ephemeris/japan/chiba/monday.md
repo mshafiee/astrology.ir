@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:09:38 |
+| Fajr (Dawn) | 03:09:39 |
 | Sunrise | 04:44:51 |
 | Dhuhr (Noon) | 11:36:19 |
 | Medium Coeli | 11:36:19 |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°34'21.10" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°27'41.80" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°27'41.80" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|19°17'51.13" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|14°21'7.94" |Aries|Butain|Sun|
 |♀ Venus|Direct|12°54'37.46" |Taurus|Dabaran|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°34'21.10" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°27'41.04" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°17'46.14" |Aries|Butain|Sun|
-|☉ Sun|Direct|14°20'55.90" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|12°54'29.99" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|3°18'57.76" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|19°4'35.92" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|19°27'41.80" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°17'51.13" |Aries|Butain|Sun|
+|☉ Sun|Direct|14°21'7.94" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|12°54'37.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|3°19'7.06" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|18°1'31.06" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Jupiter|Venus|Mars|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
