@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°20'36.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°9'43.41" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|17°43'2.76" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|12°20'55.02" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|10°24'44.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|29°17'34.95" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|22°53'49.89" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|9°20'35.97" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|19°9'44.65" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°42'56.48" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|12°20'43.61" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|10°24'40.13" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|29°17'24.58" |Pisces|Rescha|Mars|
+|☾ Moon|Direct|23°55'17.91" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Moon|Leo|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Saturn|Jupiter|Aquarius|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Cancer|Moon|Moon|
+|☾ Moon|Mars|Venus|Cancer|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°20'36.03" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°9'43.41" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°43'2.76" |Aries|Butain|Sun|
-|☉ Sun|Direct|12°20'55.02" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|10°24'44.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|29°17'34.95" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|9°20'35.97" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|19°9'43.61" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°43'2.72" |Aries|Butain|Sun|
+|☉ Sun|Direct|12°20'55.03" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|10°24'44.22" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|29°17'34.94" |Aries|Thurayya|Venus|
 |☾ Moon|Direct|22°53'49.89" |Scorpio|Shaulah|Venus|
 
 

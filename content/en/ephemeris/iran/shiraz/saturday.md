@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°16'2.08" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°3'55.37" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|17°11'49.12" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|11°41'18.70" |Aries|Sharatain|Sun|
-|♀ Venus|Direct|9°35'23.08" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|19°3'55.57" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|17°11'49.08" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|11°41'18.71" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|9°35'23.12" |Taurus|Dabaran|Mercury|
 |☿ Mercury|Direct|27°59'45.68" |Pisces|Rescha|Mars|
-|☾ Moon|Direct|14°59'18.57" |Libra|Jubana|Saturn|
+|☾ Moon|Direct|14°59'18.63" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°16'2.13" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°3'55.37" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°11'49.12" |Aries|Butain|Sun|
-|☉ Sun|Direct|11°41'18.70" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|9°35'23.08" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|27°59'45.68" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|14°59'18.57" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|19°3'55.55" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°11'48.81" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°41'18.09" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|9°35'22.76" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|27°59'45.18" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|15°3'10.55" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Taurus|Sun|Sun|
 
 
 {{< /tab >}}

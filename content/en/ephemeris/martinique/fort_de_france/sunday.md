@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°31'34.90" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°24'0.70" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|18°58'39.45" |Pisces|Rescha|Jupiter|
-|☉ Sun|Direct|13°56'47.77" |Aries|Butain|Sun|
-|♀ Venus|Direct|12°24'16.16" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|2°29'34.58" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|12°48'43.45" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|9°31'34.84" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|19°23'59.14" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|18°58'34.56" |Pisces|Rescha|Jupiter|
+|☉ Sun|Direct|13°56'33.84" |Aries|Butain|Sun|
+|♀ Venus|Direct|12°24'5.75" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|2°29'24.60" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|14°21'6.85" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Sun|Jupiter|
 |♀ Venus|Mercury|Mercury|Mercury|Mercury|
 |☿ Mercury|Jupiter|Jupiter|Mars|Mars|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Virgo|Sun|Mars|
 |♀ Venus|Moon|Mars|Virgo|Moon|Venus|
 |☿ Mercury|Mars|Mars|Aries|Sun|Mars|
-|☾ Moon|Venus|Venus|Aries|Moon|Mars|
+|☾ Moon|Mercury|Mars|Aries|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°31'34.84" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°24'0.90" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|19°24'0.90" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|18°58'39.41" |Aries|Butain|Sun|
 |☉ Sun|Direct|13°56'47.77" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|12°24'16.20" |Gemini|HanAh|Mars|

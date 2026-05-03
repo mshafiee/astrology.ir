@@ -1,6 +1,6 @@
 ---
-date: 2026-04-30T00:00:00+04:00
-lastmod: 2026-04-30T00:00:00+04:00
+date: 2026-05-07T00:00:00+04:00
+lastmod: 2026-05-07T00:00:00+04:00
 title: Victoria Thursday
 slug: thursday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Thursday, 30 Apr 2026
+description: 🗓 Thursday, 07 May 2026
 
 toc: false
 ---
@@ -339,8 +339,8 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**♂ Mars**|<sub>☌ Conjunction|<sub>□ Square|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub>☍ Opposition</sub>|
+|<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>□ Square|<sub>△ Trine|<sub> |<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

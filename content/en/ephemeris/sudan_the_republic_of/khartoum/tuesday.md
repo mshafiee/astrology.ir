@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Saturn|Ruler|18:08:58|19:05:11|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Jupiter|Servant|19:05:12|20:01:26|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Mars|Servant|20:01:27|20:57:40|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Mars|Servant|20:01:27|20:57:40|Attracting connection and suitors|
 |4|Sun|Servant|20:57:41|21:53:55|Attracting material wealth, earnings and business prosperity|
 |5|Venus|Servant|21:53:56|22:50:09|Attracting misfortune, no task is suitable|
 |6|Mercury|Servant|22:50:10|23:46:24|Repelling negative energy of evil eye|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°36'28.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°30'31.36" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|19°32'31.04" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|9°36'28.09" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|19°30'31.17" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|19°32'31.08" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|14°39'45.57" |Aries|Butain|Sun|
-|♀ Venus|Direct|13°17'48.80" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|3°57'9.55" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|21°39'8.18" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|13°17'48.76" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|3°57'9.56" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|21°39'7.97" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°36'28.03" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°30'31.36" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°32'31.04" |Aries|Butain|Sun|
+|♄ Saturn|Direct|9°36'28.09" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|19°30'31.17" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°32'31.08" |Aries|Butain|Sun|
 |☉ Sun|Direct|14°39'45.57" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|13°17'48.80" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|3°57'9.55" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|21°39'8.18" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|13°17'48.76" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|3°57'9.56" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|21°39'7.97" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
