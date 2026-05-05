@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°57'45.03" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°59'59.00" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°59'59.00" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|22°1'42.52" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|17°49'14.70" |Aries|Butain|Sun|
 |♀ Venus|Direct|17°13'50.45" |Taurus|Dabaran|Moon|
@@ -339,18 +339,18 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°57'45.03" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|20°0'0.02" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|22°1'38.76" |Aries|Butain|Venus|
-|☉ Sun|Direct|17°49'9.06" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°13'49.78" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|10°34'25.59" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|0°20'17.89" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Post-Retrograde Shadow|19°59'59.00" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°1'42.52" |Aries|Butain|Venus|
+|☉ Sun|Direct|17°49'14.70" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°13'50.45" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|10°34'30.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|0°55'26.76" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Venus|Mars|Mars|
-|♃ Jupiter|Jupiter|Venus|Jupiter|Mercury|
+|♃ Jupiter|Jupiter|Mercury|Mars|Moon|
 |♂ Mars|Mars|Mars|Jupiter|Saturn|
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Venus|Venus|Mars|
@@ -361,7 +361,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Mercury|Cancer|Sun|Mars|
-|♃ Jupiter|Sun|Saturn|Pisces|Sun|Mars|
+|♃ Jupiter|Sun|Jupiter|Aquarius|Sun|Mars|
 |♂ Mars|Saturn|Venus|Sagittarius|Moon|Saturn|
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Mars|Jupiter|Sagittarius|Moon|Jupiter|

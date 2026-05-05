@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:06:38 |
 | Sunset | 20:16:24 |
 | Maghrib | 20:17:59 |
-| Isha (Night) | 21:48:31 |
+| Isha (Night) | 21:48:30 |
 | Sharia Midnight | 00:20:21 |
 | Imum Coeli | 01:06:37 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°56'12.16" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°57'46.90" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|21°50'46.34" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|9°56'12.21" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|19°57'46.72" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|21°50'46.38" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|17°35'19.29" |Aries|Butain|Sun|
-|♀ Venus|Direct|16°56'32.09" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|10°4'47.39" |Aries|Sharatain|Sun|
-|☾ Moon|Direct|28°6'29.33" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|16°56'32.04" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|10°4'47.40" |Aries|Sharatain|Sun|
+|☾ Moon|Direct|28°6'29.48" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°56'12.16" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°57'46.90" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°50'46.34" |Aries|Butain|Venus|
+|♄ Saturn|Direct|9°56'12.21" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°57'46.72" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°50'46.38" |Aries|Butain|Venus|
 |☉ Sun|Direct|17°35'19.29" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°56'32.09" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|10°4'47.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°6'29.33" |Capricorn|SaadAlSaud|Sun|
+|♀ Venus|Direct|16°56'32.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|10°4'47.40" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°6'29.48" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

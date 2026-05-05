@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°44'47.66" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°41'49.82" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°41'49.82" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|20°30'32.81" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|15°53'25.40" |Aries|Butain|Sun|
 |♀ Venus|Direct|14°49'35.78" |Taurus|Dabaran|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°44'47.66" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°41'49.82" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°30'32.81" |Aries|Butain|Venus|
-|☉ Sun|Direct|15°53'25.40" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|14°49'35.78" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|6°29'31.91" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|6°49'46.17" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|19°41'49.82" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°30'29.48" |Aries|Butain|Venus|
+|☉ Sun|Direct|15°53'14.30" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°49'26.35" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|6°29'24.26" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|8°9'41.89" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}

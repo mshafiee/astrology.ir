@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:09:56 |
 | Isha (Night) | 18:50:05 |
 | Sharia Midnight | 23:27:31 |
-| Imum Coeli | 00:03:37 |
+| Imum Coeli | 00:03:36 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:54:21 |
 | Isha (Night) | 19:04:49 |
 | Sharia Midnight | 23:23:44 |
-| Imum Coeli | 00:03:37 |
+| Imum Coeli | 00:03:36 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°36'25.29" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Direct|19°30'27.60" |Gemini|Dhira|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°30'27.60" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|19°32'11.58" |Pisces|Rescha|Jupiter|
 |☉ Sun|Direct|14°39'21.55" |Aries|Butain|Sun|
 |♀ Venus|Direct|13°17'17.98" |Taurus|Dabaran|Moon|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°36'25.29" |Aries|Sharatain|Mars|
-|♃ Jupiter|Direct|19°30'27.60" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°32'11.58" |Aries|Butain|Sun|
-|☉ Sun|Direct|14°39'21.55" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|13°17'17.98" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|3°56'18.47" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|21°26'47.54" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|19°30'25.76" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°32'7.02" |Aries|Butain|Sun|
+|☉ Sun|Direct|14°39'7.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|13°17'7.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|3°56'8.85" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|22°59'16.23" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Venus|Saturn|Gemini|Moon|Venus|
-|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
