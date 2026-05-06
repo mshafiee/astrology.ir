@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:33:05 |
-| Sunrise | 06:13:37 |
+| Sunrise | 06:13:38 |
 | Dhuhr (Noon) | 13:23:13 |
 | Medium Coeli | 13:23:13 |
 | Sunset | 20:33:31 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:20:14 |
-| Sunrise | 06:13:37 |
+| Sunrise | 06:13:38 |
 | Dhuhr (Noon) | 13:23:13 |
 | Medium Coeli | 13:23:13 |
 | Sunset | 20:33:31 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:17:54 |
-| Sunrise | 06:13:38 |
+| Sunrise | 06:13:37 |
 | Dhuhr (Noon) | 13:23:13 |
 | Medium Coeli | 13:23:13 |
 | Sunset | 20:33:31 |
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:19:54|Night duration: 09:38:53|
-|Every hour duration: 02:02:51|Every hour duration: 01:22:42|
+|Duration of the day: 14:19:53|Night duration: 09:38:53|
+|Every hour duration: 02:02:50|Every hour duration: 01:22:42|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Jupiter|Ruler|06:13:37|08:16:26|
-|Mid-morning|Mars|Servant|08:16:27|10:19:17|
-|Late morning|Sun|Servant|10:19:18|12:22:07|
-|Noon|Venus|Servant|12:22:08|14:24:58|
-|Early afternoon|Mercury|Servant|14:24:59|16:27:48|
-|Mid-afternoon|Moon|Servant|16:27:49|18:30:39|
+|Early morning|Jupiter|Ruler|06:13:38|08:16:27|
+|Mid-morning|Mars|Servant|08:16:28|10:19:17|
+|Late morning|Sun|Servant|10:19:18|12:22:08|
+|Noon|Venus|Servant|12:22:09|14:24:58|
+|Early afternoon|Mercury|Servant|14:24:59|16:27:49|
+|Mid-afternoon|Moon|Servant|16:27:50|18:30:39|
 |Late afternoon|Saturn|Servant|18:30:40|20:33:30|
 
  
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°49'31.16" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|9°49'31.22" |Pisces|FarghAlMuakhar|Saturn|
 |♃ Jupiter|Post-Retrograde Shadow|19°48'22.28" |Gemini|Dhira|Mars|
 |♂ Mars|Direct|21°3'40.80" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°35'28.88" |Aries|Butain|Sun|
