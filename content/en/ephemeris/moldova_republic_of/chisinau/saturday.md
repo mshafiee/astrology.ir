@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:41:35 |
-| Sunrise | 05:37:04 |
+| Sunrise | 05:37:05 |
 | Dhuhr (Noon) | 13:00:59 |
 | Medium Coeli | 13:00:59 |
 | Sunset | 20:25:43 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:50:32 |
-| Sunrise | 05:37:04 |
+| Sunrise | 05:37:05 |
 | Dhuhr (Noon) | 13:00:59 |
 | Medium Coeli | 13:00:59 |
 | Sunset | 20:25:43 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:48:39|Night duration: 09:09:58|
+|Duration of the day: 14:48:38|Night duration: 09:09:58|
 |Every hour of day duration: 01:14:03|Every hour of night duration: 00:45:50|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:37:04|06:51:06|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|06:51:07|08:05:09|Peace among people|
-|3|Mars|Servant|08:05:10|09:19:12|Vengeful and evil deeds|
-|4|Sun|Servant|09:19:13|10:33:16|Dominance, judgment and issuing verdict|
+|1|Saturn|Ruler|05:37:05|06:51:07|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|06:51:08|08:05:10|Peace among people|
+|3|Mars|Servant|08:05:11|09:19:13|Vengeful and evil deeds|
+|4|Sun|Servant|09:19:14|10:33:16|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|10:33:17|11:47:19|Auspicious|
-|6|Mercury|Servant|11:47:20|13:01:22|Writing, swapping and making promises|
-|7|Moon|Servant|13:01:23|14:15:25|Not suitable for any task|
-|8|Saturn|Ruler|14:15:26|15:29:29|Destruction of enemies|
+|6|Mercury|Servant|11:47:20|13:01:23|Writing, swapping and making promises|
+|7|Moon|Servant|13:01:24|14:15:26|Not suitable for any task|
+|8|Saturn|Ruler|14:15:27|15:29:29|Destruction of enemies|
 |9|Jupiter|Servant|15:29:30|16:43:32|All good deeds|
 |10|Mars|Servant|16:43:33|17:57:35|Doing evil deeds|
 |11|Sun|Servant|17:57:36|19:11:38|Acceptance of reconciliation between couples|

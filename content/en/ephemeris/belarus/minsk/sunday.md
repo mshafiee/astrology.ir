@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:06:06 |
 | Sunset | 20:57:11 |
 | Maghrib | 21:01:22 |
-| Isha (Night) | 00:56:05 |
+| Isha (Night) | 00:56:04 |
 | Sharia Midnight | 23:06:22 |
 | Imum Coeli | 01:06:05 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°8'34.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°15'41.83" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°18'48.68" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|19°27'14.98" |Aries|Butain|Sun|
-|♀ Venus|Direct|19°15'53.02" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°6'43.84" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°7'26.40" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|10°8'34.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|20°15'42.04" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°18'48.88" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°27'16.16" |Aries|Butain|Sun|
+|♀ Venus|Direct|19°15'54.39" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|14°6'44.65" |Aries|Butain|Sun|
+|☾ Moon|Direct|21°55'36.40" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°8'34.75" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°15'42.22" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°18'48.83" |Aries|Butain|Venus|
+|♄ Saturn|Direct|10°8'34.80" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|20°15'42.04" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°18'48.88" |Aries|Butain|Venus|
 |☉ Sun|Direct|19°27'16.16" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|19°15'54.44" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|14°6'44.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|21°55'37.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♀ Venus|Direct|19°15'54.39" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|14°6'44.65" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|21°55'36.40" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

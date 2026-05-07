@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°53'25.68" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|16°22'28.78" |Aries|Butain|Sun|
 |♀ Venus|Direct|15°25'47.67" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|7°30'14.99" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|13°44'33.45" |Sagittarius|NaAaem|Moon|
+|☿ Mercury|Direct|7°30'23.40" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|12°51'12.80" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Scorpio|Sun|Saturn|
 |☿ Mercury|Sun|Mercury|Cancer|Sun|Mars|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Sun|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|9°48'3.70" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°46'20.35" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°53'25.73" |Aries|Butain|Venus|
+|♄ Saturn|Direct|9°48'3.65" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|19°46'20.54" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°53'25.68" |Aries|Butain|Venus|
 |☉ Sun|Direct|16°22'28.78" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|15°25'47.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|7°30'14.97" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|13°44'33.53" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|15°25'47.67" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|7°30'23.40" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|12°51'12.80" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Mars|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}

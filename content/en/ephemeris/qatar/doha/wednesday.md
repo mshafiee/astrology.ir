@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°42'37.84" |Pisces|FarghAlMuakhar|Saturn|
-|♃ Jupiter|Post-Retrograde Shadow|19°38'51.98" |Gemini|Dhira|Mars|
-|♂ Mars|Direct|20°15'25.87" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|15°34'13.48" |Aries|Butain|Sun|
-|♀ Venus|Direct|14°25'41.18" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|5°49'34.33" |Aries|Sharatain|Mars|
-|☾ Moon|Direct|2°55'37.75" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|19°38'50.47" |Gemini|Dhira|Mars|
+|♂ Mars|Direct|20°15'21.55" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|15°34'0.97" |Aries|Butain|Sun|
+|♀ Venus|Direct|14°25'31.65" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|5°49'25.34" |Aries|Sharatain|Mars|
+|☾ Moon|Direct|4°12'33.76" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Sun|Libra|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Libra|Moon|Venus|
 |☿ Mercury|Sun|Venus|Gemini|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|9°42'37.84" |Aries|Sharatain|Mars|
-|♃ Jupiter|Post-Retrograde Shadow|19°38'51.98" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°15'25.87" |Aries|Butain|Venus|
-|☉ Sun|Direct|15°34'13.48" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|14°25'41.18" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|5°49'34.33" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|19°38'50.47" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°15'21.55" |Aries|Butain|Venus|
+|☉ Sun|Direct|15°34'0.97" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|14°25'31.65" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|5°49'25.34" |Taurus|Thurayya|Mercury|
 |☾ Moon|Direct|4°12'33.76" |Capricorn|SaadAlDhabib|Jupiter|
 
 

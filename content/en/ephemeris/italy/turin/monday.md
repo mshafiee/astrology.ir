@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 20:47:10 |
 | Maghrib | 20:50:38 |
 | Isha (Night) | 22:20:38 |
-| Sharia Midnight | 00:18:48 |
+| Sharia Midnight | 00:18:47 |
 | Imum Coeli | 01:25:35 |
 {{< /tab >}}
 
