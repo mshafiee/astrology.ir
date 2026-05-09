@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°21'44.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°35'29.16" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°35'29.16" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|24°53'39.07" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|21°28'2.22" |Aries|Butain|Venus|
-|♀ Venus|Direct|21°46'7.17" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|18°33'11.89" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°4'11.79" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|21°46'0.70" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|18°33'7.58" |Aries|Butain|Sun|
+|☾ Moon|Direct|19°30'19.44" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°21'44.06" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°35'29.54" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|24°53'38.64" |Aries|Butain|Venus|
-|☉ Sun|Direct|21°28'2.20" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|21°46'8.02" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|18°33'11.80" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|18°50'20.64" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|10°21'44.16" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|20°35'27.58" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°53'37.97" |Aries|Butain|Venus|
+|☉ Sun|Direct|21°27'56.27" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|21°46'0.70" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|18°33'7.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|19°30'19.44" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Mercury|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

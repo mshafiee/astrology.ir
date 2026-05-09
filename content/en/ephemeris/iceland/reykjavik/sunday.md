@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°9'9.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°16'34.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°23'0.84" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|19°32'39.72" |Aries|Butain|Sun|
-|♀ Venus|Direct|19°22'38.06" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°18'27.55" |Aries|Butain|Sun|
-|☾ Moon|Direct|22°20'13.30" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|20°16'34.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°23'0.17" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°32'35.05" |Aries|Butain|Sun|
+|♀ Venus|Direct|19°22'32.51" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|14°18'24.40" |Aries|Butain|Sun|
+|☾ Moon|Direct|23°4'30.13" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°9'9.77" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°16'34.07" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|23°23'0.17" |Aries|Butain|Venus|
-|☉ Sun|Direct|19°32'35.05" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|19°22'32.51" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|14°18'24.40" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°4'30.13" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|20°16'34.60" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|23°23'1.37" |Aries|Butain|Venus|
+|☉ Sun|Direct|19°32'38.70" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|19°22'35.43" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|14°18'27.08" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|22°54'15.31" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

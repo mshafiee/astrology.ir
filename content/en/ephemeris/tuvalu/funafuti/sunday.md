@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°12'47.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°21'56.83" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°48'50.52" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|20°5'28.66" |Aries|Butain|Venus|
-|♀ Venus|Direct|20°3'33.39" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|15°30'36.72" |Aries|Butain|Sun|
-|☾ Moon|Direct|29°19'18.37" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|20°21'56.08" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°48'56.85" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|20°5'40.06" |Aries|Butain|Venus|
+|♀ Venus|Direct|20°3'37.30" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|15°30'45.88" |Aries|Butain|Sun|
+|☾ Moon|Direct|0°25'29.01" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Jupiter|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Libra|Moon|Saturn|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°12'47.02" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°21'56.08" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|20°21'56.08" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°48'56.85" |Aries|Butain|Venus|
 |☉ Sun|Direct|20°5'40.06" |Taurus|Dabaran|Saturn|
 |♀ Venus|Direct|20°3'37.30" |Gemini|Dhira|Sun|

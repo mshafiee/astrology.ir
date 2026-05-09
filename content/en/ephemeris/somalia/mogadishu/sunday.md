@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°8'43.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°15'56.11" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°19'47.57" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|19°28'30.61" |Aries|Butain|Sun|
-|♀ Venus|Direct|19°17'32.54" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°9'32.85" |Aries|Butain|Sun|
-|☾ Moon|Direct|21°24'54.66" |Capricorn|SaadAlBula|Sun|
+|♃ Jupiter|Direct|20°15'55.37" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°19'53.18" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°28'40.79" |Aries|Butain|Sun|
+|♀ Venus|Direct|19°17'36.05" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|14°9'41.08" |Aries|Butain|Sun|
+|☾ Moon|Direct|22°14'26.53" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°8'43.97" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°15'55.37" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|20°15'55.37" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°19'53.18" |Aries|Butain|Venus|
 |☉ Sun|Direct|19°28'40.79" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|19°17'36.05" |Gemini|Dhira|Mars|

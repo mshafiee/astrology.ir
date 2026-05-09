@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°10'54.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°19'11.74" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°35'35.15" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|19°48'36.32" |Aries|Butain|Sun|
-|♀ Venus|Direct|19°42'33.63" |Taurus|Dabaran|Moon|
-|☿ Mercury|Direct|14°53'33.22" |Aries|Butain|Sun|
-|☾ Moon|Direct|25°38'53.50" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|10°10'56.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°19'11.16" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°35'41.26" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|19°48'47.33" |Aries|Butain|Sun|
+|♀ Venus|Direct|19°42'37.38" |Taurus|Dabaran|Moon|
+|☿ Mercury|Direct|14°53'42.11" |Aries|Butain|Sun|
+|☾ Moon|Direct|26°39'59.17" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Sun|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Mercury|Mercury|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Saturn|Mars|Mercury|Jupiter|
+|☾ Moon|Mars|Mars|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mercury|Scorpio|Moon|Saturn|
 |♀ Venus|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |☿ Mercury|Mercury|Sun|Virgo|Sun|Mars|
-|☾ Moon|Mercury|Sun|Scorpio|Sun|Venus|
+|☾ Moon|Moon|Sun|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°10'56.25" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°19'11.16" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|20°19'11.16" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|23°35'41.26" |Aries|Butain|Venus|
 |☉ Sun|Direct|19°48'47.33" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|19°42'37.38" |Gemini|Dhira|Mars|
