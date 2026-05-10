@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°22'6.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°36'2.67" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°56'16.33" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|21°31'16.76" |Aries|Butain|Venus|
-|♀ Venus|Direct|21°50'16.40" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|18°40'42.93" |Aries|Butain|Sun|
-|☾ Moon|Direct|19°19'47.03" |Aquarius|SaadAlAkhbia|Mercury|
+|♃ Jupiter|Post-Retrograde Shadow|20°36'3.65" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°56'22.50" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|21°31'31.86" |Aries|Butain|Venus|
+|♀ Venus|Direct|21°50'25.99" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|18°40'54.42" |Aries|Butain|Sun|
+|☾ Moon|Direct|20°1'52.04" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Mars|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Moon|Mercury|Scorpio|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°22'6.79" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°36'3.65" |Cancer|Tarf|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|20°36'3.65" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|24°56'22.50" |Aries|Butain|Venus|
 |☉ Sun|Direct|21°31'31.86" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|21°50'25.99" |Gemini|Dhira|Sun|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°33'54.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°54'29.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°22'39.42" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|23°21'26.56" |Aries|Butain|Venus|
-|♀ Venus|Direct|24°7'10.77" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|22°47'38.48" |Aries|Butain|Venus|
-|☾ Moon|Direct|15°47'5.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|20°54'30.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°22'42.30" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|23°21'33.84" |Aries|Butain|Venus|
+|♀ Venus|Direct|24°7'15.65" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|22°47'44.04" |Aries|Butain|Venus|
+|☾ Moon|Direct|16°22'33.24" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Jupiter|Mercury|Moon|Sun|
+|☾ Moon|Mercury|Mercury|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°33'54.80" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°54'30.50" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°22'39.42" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°21'26.56" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|24°7'10.77" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|22°47'38.48" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°47'5.97" |Aries|Butain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|20°54'30.50" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°22'42.30" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°21'33.84" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|24°7'15.65" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|22°47'44.04" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|16°22'33.24" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

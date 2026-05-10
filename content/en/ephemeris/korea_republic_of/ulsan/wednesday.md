@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'7.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°51'40.49" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|20°51'40.49" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|26°9'33.99" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|23°4'48.49" |Aries|Butain|Venus|
 |♀ Venus|Direct|23°46'25.91" |Taurus|HaqAh|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'7.68" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°51'40.49" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°9'33.99" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°4'48.49" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°46'25.91" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|22°9'58.50" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|12°15'20.45" |Aries|Sharatain|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|20°51'39.05" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°9'31.74" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°4'40.60" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°46'18.86" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|22°9'52.49" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°0'56.73" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: USN, Ul'san, Ulsan, Ulsan-si, Urusan, ulsan, ulsangwang-yeogsi, ulsansi, wei shan, wei shan guang yu shi, Ульсан, 蔚山, 蔚山広域市, 울산, 울산광역시, 울산시

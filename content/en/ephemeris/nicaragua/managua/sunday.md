@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°17'19.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'46.67" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°21'35.83" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|20°47'12.92" |Aries|Butain|Venus|
-|♀ Venus|Direct|20°55'26.39" |Taurus|Dabaran|Saturn|
-|☿ Mercury|Direct|17°2'37.33" |Aries|Butain|Sun|
-|☾ Moon|Direct|8°39'11.94" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|10°17'18.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|20°28'43.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°21'37.95" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|20°47'10.69" |Aries|Butain|Venus|
+|♀ Venus|Direct|20°55'18.87" |Taurus|Dabaran|Saturn|
+|☿ Mercury|Direct|17°2'36.33" |Aries|Butain|Sun|
+|☾ Moon|Direct|10°17'40.16" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mercury|Jupiter|Saturn|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mercury|Mercury|Sun|Jupiter|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Jupiter|Moon|Capricorn|Sun|Saturn|
 |☿ Mercury|Mercury|Mercury|Libra|Moon|Saturn|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°17'19.35" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°28'45.51" |Cancer|Tarf|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|20°28'45.51" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|24°21'40.06" |Aries|Butain|Venus|
 |☉ Sun|Direct|20°47'19.12" |Taurus|Dabaran|Saturn|
 |♀ Venus|Direct|20°55'26.88" |Gemini|Dhira|Sun|

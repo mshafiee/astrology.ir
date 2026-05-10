@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°16'53.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°28'7.02" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|20°28'7.02" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|24°18'36.22" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|20°43'25.06" |Aries|Butain|Venus|
 |♀ Venus|Direct|20°50'35.66" |Taurus|Dabaran|Saturn|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°16'53.90" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°28'8.01" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|24°18'32.37" |Aries|Butain|Venus|
-|☉ Sun|Direct|20°43'19.38" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|20°50'35.11" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|16°53'59.50" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|7°53'20.94" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|20°28'7.02" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|24°18'36.22" |Aries|Butain|Venus|
+|☉ Sun|Direct|20°43'25.06" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|20°50'35.66" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|16°54'4.18" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|8°54'50.03" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Venus|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Mercury|Scorpio|Sun|Saturn|
-|☾ Moon|Mars|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'8.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°51'41.34" |Gemini|Dhira|Sun|
+|♃ Jupiter|Post-Retrograde Shadow|20°51'41.34" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|26°9'37.96" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|23°4'53.57" |Aries|Butain|Venus|
 |♀ Venus|Direct|23°46'32.20" |Taurus|HaqAh|Saturn|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'8.22" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°51'41.34" |Cancer|Tarf|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|20°51'41.34" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|26°9'37.96" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|23°4'53.57" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|23°46'32.20" |Gemini|Dhira|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

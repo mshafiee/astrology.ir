@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°27'41.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°44'41.49" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°36'56.92" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|22°23'10.71" |Aries|Butain|Venus|
-|♀ Venus|Direct|22°54'43.80" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|20°36'33.11" |Aries|Butain|Venus|
-|☾ Moon|Direct|1°49'44.38" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|20°44'41.49" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°37'0.01" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|22°23'18.23" |Aries|Butain|Venus|
+|♀ Venus|Direct|22°54'47.03" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|20°36'32.75" |Aries|Butain|Venus|
+|☾ Moon|Direct|1°0'13.39" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°27'41.24" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°44'40.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°36'56.92" |Aries|Butain|Venus|
-|☉ Sun|Direct|22°23'10.71" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|22°54'43.80" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°36'33.11" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|1°49'44.38" |Aries|Sharatain|Mars|
+|♃ Jupiter|Post-Retrograde Shadow|20°44'41.49" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°37'0.01" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°23'18.23" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|22°54'48.64" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°36'38.86" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|2°19'45.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: ADD, Addis Ababa, Addis Abaeba, Addis Abbaba, Addis Abeba, Addis Abäba, Addis-Abeba, Addis-Abebae, Addisz-Abeba, Adis Abeba, Adis-Abebo, Adisabeba, Adís Abeba, Antis Ampempa, Finfinne, Neanthopolis, a di si a bei ba, addisa ababa, adisa ababa, adiseuababa, adisuabeba, adys ababa, Ādīs Ābeba, Αντίς Αμπέμπα, Аддис-Абебæ, Аддис-Абеба, Адис Абеба, Ադիս Աբեբա, אדיס אבבה, آدیس آبابا, أديس أبابا, ئەددىس -ئەبىبە, अदिस अबाबा, আদ্দিস আবাবা, አዲስ አበባ, アディスアベバ, 阿迪斯阿貝巴, 아디스아바바

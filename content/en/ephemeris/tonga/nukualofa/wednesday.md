@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°31'32.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°50'44.30" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°5'10.74" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|22°59'6.34" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°39'29.34" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|21°57'28.91" |Aries|Butain|Venus|
-|☾ Moon|Direct|9°45'1.42" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Post-Retrograde Shadow|20°50'45.42" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°5'18.00" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|22°59'23.59" |Aries|Butain|Venus|
+|♀ Venus|Direct|23°39'39.99" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|21°57'42.08" |Aries|Butain|Venus|
+|☾ Moon|Direct|11°11'36.45" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Capricorn|Moon|Saturn|
 |♀ Venus|Mars|Sun|Aquarius|Sun|Saturn|
 |☿ Mercury|Saturn|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°31'32.98" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°50'45.42" |Cancer|Tarf|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|20°50'45.42" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|26°5'18.00" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|22°59'23.59" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|23°39'39.99" |Gemini|Dhira|Sun|

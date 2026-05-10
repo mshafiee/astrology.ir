@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'7.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°51'40.37" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°9'28.59" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|23°4'36.29" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°46'17.83" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|22°9'47.98" |Aries|Butain|Venus|
-|☾ Moon|Direct|11°17'21.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|20°51'40.37" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°9'33.47" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|23°4'47.94" |Aries|Butain|Venus|
+|♀ Venus|Direct|23°46'25.07" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|22°9'56.88" |Aries|Butain|Venus|
+|☾ Moon|Direct|12°16'26.66" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Jupiter|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'7.62" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°51'40.37" |Cancer|Tarf|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|20°51'40.37" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|26°9'33.47" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|23°4'47.94" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|23°46'25.07" |Gemini|Dhira|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: FUK, Fucuoca, Fukuoka, Fukuoka-shi, Fukuokashi, Hukuoka, fu gang, fu gang shi, fukuoka, fukuokashi, fwkwka, hukuoka si, Фукуока, فوكوكا, ふくおか, ふくおかし, フクオカ, フクオカシ, 福岡, 福岡市, 후쿠오카 시

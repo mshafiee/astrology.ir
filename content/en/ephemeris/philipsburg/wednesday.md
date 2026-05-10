@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°35'32.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°57'8.61" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°34'45.34" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|23°36'56.64" |Aries|Butain|Venus|
-|♀ Venus|Direct|24°26'27.49" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|23°22'30.50" |Aries|Butain|Venus|
-|☾ Moon|Direct|19°23'44.10" |Pisces|Rescha|Jupiter|
+|♄ Saturn|Direct|10°35'33.48" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Post-Retrograde Shadow|20°57'7.71" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°34'49.13" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|23°37'2.16" |Aries|Butain|Venus|
+|♀ Venus|Direct|24°26'27.92" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|23°22'34.68" |Aries|Butain|Venus|
+|☾ Moon|Direct|20°26'55.58" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Jupiter|Saturn|
-|☾ Moon|Mars|Mercury|Moon|Sun|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Mars|Sun|Aquarius|Sun|Saturn|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Saturn|
-|☾ Moon|Mercury|Jupiter|Libra|Sun|Jupiter|
+|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°35'33.48" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°57'7.71" |Cancer|Tarf|Moon|
+|♃ Jupiter|Post-Retrograde Shadow|20°57'7.71" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|26°34'49.13" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|23°37'2.16" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|24°26'27.92" |Gemini|Dhira|Sun|
