@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°42'6.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|21°7'44.15" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°23'28.64" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|24°39'1.06" |Aries|Butain|Venus|
-|♀ Venus|Direct|25°43'37.53" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|25°43'7.52" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|4°42'29.52" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|10°42'8.40" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°7'45.56" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°23'35.17" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|24°39'17.16" |Aries|Butain|Venus|
+|♀ Venus|Direct|25°43'48.07" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|25°43'19.88" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|6°24'43.42" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Jupiter|Saturn|
 |♀ Venus|Saturn|Saturn|Saturn|Venus|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Venus|Venus|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Saturn|
 |♀ Venus|Sun|Sun|Pisces|Sun|Saturn|
 |☿ Mercury|Jupiter|Mars|Aquarius|Moon|Saturn|
-|☾ Moon|Sun|Venus|Taurus|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°42'8.40" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|21°7'45.56" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|21°7'45.56" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|27°23'35.17" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|24°39'17.16" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|25°43'48.07" |Gemini|Dhira|Sun|

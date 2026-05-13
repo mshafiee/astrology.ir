@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°28'14.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°45'34.22" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°45'34.22" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°41'6.62" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|22°28'32.94" |Aries|Butain|Venus|
 |♀ Venus|Direct|23°1'19.47" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|20°48'23.64" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°38'43.92" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|20°48'11.45" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°11'11.07" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Mars|Moon|Aquarius|Sun|Saturn|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°28'14.99" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°45'34.22" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°41'6.62" |Aries|Butain|Venus|
-|☉ Sun|Direct|22°28'32.94" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°1'19.47" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°48'23.64" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|3°38'43.92" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|20°45'33.78" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°40'59.29" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°28'17.02" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°1'10.93" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°48'11.45" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|2°11'11.07" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Sun|Mars|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Aries|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Gouintchouk, Vindguk, Vindhuk, Vindhuka, Vindhukas, Vindhuko, Vindkhuk, Vinduque, Vindxuk, Vintchouk, WDH, Windhoek, Windhuk, Windoek, Windoèk, Wynhoeke, binteuhukeu, u~intofukku, vatahuka, vindahoka, vintok, wen de he ke, wen he ke, win dhuk, wwynthwq, wyndhwk, wyndhwq, wyndھwk, wynٹہwk, Βίντχουκ, Γουίντχουκ, Виндхук, Віндгук, Віндхук, Վինդհուկ, ווינטהוק, וינדהוק, ونڈہوک, ويندهوك, ویندهوک, ویندھوک, وینٹہوک, विंडहोक, ਵੰਟਹੁਕ, விந்தோக், วินด์ฮุก, ཝིན་ཌི་ཧོཡིཀ།, ვინდჰუკი, ዊንድሁክ, ウィントフック, 温得和克, 溫得和克, 溫荷克, 빈트후크

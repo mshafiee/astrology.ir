@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°27'57.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°45'7.53" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|20°45'7.53" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°39'1.62" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|22°25'51.09" |Aries|Butain|Venus|
-|♀ Venus|Direct|22°57'56.97" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|20°42'26.61" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°6'6.52" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|22°58'1.56" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|20°42'28.56" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°37'41.12" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°27'57.68" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°45'7.53" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°39'1.93" |Aries|Butain|Venus|
-|☉ Sun|Direct|22°25'48.37" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|22°57'56.97" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°42'26.61" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|3°6'6.52" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|20°45'7.53" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°39'1.62" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°25'51.09" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|22°58'1.56" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°42'28.56" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|2°37'41.12" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Baariis, Bahliz, Ile-de-France, Lungsod ng Paris, Lutece, Lutetia, Lutetia Parisorum, Lutèce, PAR, Pa-ri, Paarys, Palika, Paname, Pantruche, Paraeis, Paras, Pari, Paries, Parigge, Pariggi, Parighji, Parigi, Pariis, Pariisi, Pariizu, Pariižu, Parij, Parijs, Paris, Parisi, Parixe, Pariz, Parize, Parizh, Parizh osh, Parizh', Parizo, Parizs, Pariž, Parys, Paryz, Paryzh, Paryzius, Paryż, Paryžius, Paräis, París, Paríž, Parîs, Parĩ, Parī, Parīze, Paříž, Páras, Párizs, Ville-Lumiere, Ville-Lumière, ba li, barys, pairisa, pali, pari, paris, parys, paryzh, perisa, pryz, pyaris, pyarisa, pyrs, Île-de-France, Παρίσι, Париж, Париж ош, Парижь, Париз, Парис, Парыж, Паріж, Փարիզ, פאריז, פריז, باريس, پارىژ, پاريس, پاریس, پیرس, ܦܐܪܝܣ, पॅरिस, पेरिस, पैरिस, প্যারিস, ਪੈਰਿਸ, પૅરિસ, பாரிஸ், పారిస్, ಪ್ಯಾರಿಸ್, പാരിസ്, ปารีส, ཕ་རི།, ပါရီမြို့, პარიზი, ፓሪስ, ប៉ារីស, パリ, 巴黎, 파리

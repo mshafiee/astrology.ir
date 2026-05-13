@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'26.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Post-Retrograde Shadow|20°52'10.59" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°11'52.32" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|23°7'46.40" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°50'5.93" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|22°16'35.20" |Aries|Butain|Venus|
-|☾ Moon|Direct|13°6'23.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°52'10.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°11'52.64" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|23°7'46.66" |Aries|Butain|Venus|
+|♀ Venus|Direct|23°50'5.64" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|22°16'35.39" |Aries|Butain|Venus|
+|☾ Moon|Direct|13°13'7.11" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'26.66" |Aries|Sharatain|Sun|
-|♃ Jupiter|Post-Retrograde Shadow|20°52'10.41" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|20°52'10.41" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|26°11'52.64" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|23°7'46.66" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|23°50'5.64" |Gemini|Dhira|Sun|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: ADL, Adehlaida, Adelaida, Adelaidae, Adelaide, Adelaidis, Adelaidė, Adelajda, Adelajdo, Adelaïda, Adelaïde, Adelejd, Adelàida, Adélaïde, Edelaid, Tarndanya, Tarndarnya, a de lai de, adelaida, aderedo, adilaid, adiled, adlayd, adylyd, aedeulleideu, atileyit, edile'ida, edileda, Αδελαΐδα, Аделаидæ, Аделаида, Аделаїда, Аделейд, Аделејд, Адэлаіда, Ադելաիդա, אדלייד, آدلاید, أديليد, ئادېلايدې, ایڈیلیڈ, एडिलेड, ॲdaleda, ॲडलेड, એડિલેઇડ, அடிலெயிட், అడిలైడ్, ಅಡಿಲೇಡ್, അഡിലെയ്‌ഡ്, แอดิเลด, အက်ဒလိတ်မြို့, ადელაიდა, アデレード, 阿德来得, 阿德莱德, 애들레이드
