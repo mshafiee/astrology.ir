@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 11:54:35 |
 | Medium Coeli | 11:54:35 |
 | Sunset | 18:55:53 |
-| Maghrib | 19:14:43 |
+| Maghrib | 19:14:42 |
 | Isha (Night) | 20:12:34 |
 | Sharia Midnight | 23:09:53 |
 | Imum Coeli | 23:54:36 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'42.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°3'48.23" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°5'30.70" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|24°16'11.38" |Aries|Butain|Venus|
-|♀ Venus|Direct|25°15'8.20" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|24°51'7.40" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°11'7.61" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|10°39'42.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°3'48.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°5'30.72" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|24°16'11.36" |Aries|Butain|Venus|
+|♀ Venus|Direct|25°15'8.15" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|24°51'7.42" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°11'8.49" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'42.30" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°3'48.23" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|27°5'30.70" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°16'11.38" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|25°15'8.20" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|24°51'7.40" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°11'7.61" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|10°39'42.35" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°3'48.07" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|27°5'30.72" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°16'11.36" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|25°15'8.15" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|24°51'7.42" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°11'8.49" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

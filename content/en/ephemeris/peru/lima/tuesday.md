@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°29'48.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°48'0.44" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°52'29.74" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|22°43'3.93" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°19'22.19" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|21°20'59.12" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°11'17.79" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|10°29'48.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°48'0.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°52'29.77" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|22°43'3.92" |Aries|Butain|Venus|
+|♀ Venus|Direct|23°19'22.14" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|21°20'59.13" |Aries|Butain|Venus|
+|☾ Moon|Direct|7°11'17.93" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°29'48.27" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°48'0.44" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°52'29.74" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°43'3.93" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°19'22.19" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|21°20'59.12" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|7°11'17.79" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|10°29'48.33" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|20°48'0.26" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°52'29.77" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°43'3.92" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°19'22.14" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|21°20'59.13" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|7°11'17.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°37'37.45" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|22°24'4.02" |Aries|Butain|Venus|
 |♀ Venus|Direct|22°55'48.14" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|20°38'27.72" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°13'56.84" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|20°38'28.97" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°47'24.27" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Sagittarius|Moon|Saturn|
 |♀ Venus|Mars|Moon|Aquarius|Sun|Saturn|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°27'46.19" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°44'49.54" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°37'34.62" |Aries|Butain|Venus|
-|☉ Sun|Direct|22°23'54.87" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|22°55'40.46" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°38'20.82" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|2°3'4.05" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|10°27'46.25" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|20°44'49.36" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°37'37.48" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°24'4.00" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|22°55'48.09" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°38'27.74" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|2°13'56.58" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Agram, Andautonia, Lungsod ng Zagreb, Sagrab, Sagreb, Sagwzlwgbouh, Sakreb, Ságrab, ZAG, Zabrag, Zabreg, Zagabbria, Zagabria, Zagavria, Zagrab, Zagrabia, Zagreb, Zagreba, Zagrebas, Zagrebi, Zagrebo, Zagrebs, Zagrep, Zagrev, Zagrzeb, Zagrèb, Zagréb, Zagrėbs, Zagàbria, Zahreb, Zankremp, Zaqreb, Zágráb, Záhreb, Záhřeb, cakirep, jagareba, jageulebeu, jagriba, jhagreba, sa ge lei bu, sa kerb, sagreb, zagaraba, zaghrb, zagrb, zagrebi, zagurebu, zajryb, zghrb, Żagreb, Ζάγκρεμπ, Заграб, Загреб, Զագրեբ, זאגרב, זאגרעב, زاجريب, زاغرب, زاگرب, زاگرێب, زغرب, जग्रिब, झाग्रेब, জাগরেব, ਜ਼ਾਗਰਬ, சாகிரேப், സാഗ്രെബ്, ซาเกร็บ, ཛག་རེབ།, ზაგრები, ዛግሬብ, ザグレブ, 萨格勒布, 薩格勒布, Ꙁагрєбъ, 자그레브

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°27'45.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°44'48.12" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°37'30.85" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|22°23'55.84" |Aries|Butain|Venus|
-|♀ Venus|Direct|22°55'37.66" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|20°38'8.62" |Aries|Butain|Venus|
-|☾ Moon|Direct|2°14'4.26" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|20°44'46.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°37'29.14" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|22°23'48.61" |Aries|Butain|Venus|
+|♀ Venus|Direct|22°55'30.55" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|20°38'3.24" |Aries|Butain|Venus|
+|☾ Moon|Direct|2°19'8.71" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|20°44'48.12" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|25°37'30.85" |Aries|Butain|Venus|
 |☉ Sun|Direct|22°23'55.84" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|22°55'37.66" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°38'8.62" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|2°14'4.26" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|22°55'30.55" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°38'3.24" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|2°19'8.97" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Birziminium, Padgoryca, Podgairitse, Podgairítse, Podgorica, Podgoricae, Podgoricja, Podgorico, Podgorika, Podgoritsa, Podgoritza, Podgorytsa, Podgòrica, Podqoritsa, Podugorica, Pontnkoritsa, TGD, Titograd, bo de ge li cha, bwdghwrytsa, padagoritasa, phx dk xrit sa, podagorika, podeugolicha, podogoritsu~a, potkorikka, pwdgwrytsa, pwdgwryzh, pۆdgۆrytsa, Ποντγκόριτσα, Падгорыца, Подгоритса, Подгорицæ, Подгорица, Подгориця, Подъгорица, Պոդգորիցա, פודגוריצה, بودغوريتسا, پودگوریتسا, پوڈگوریکا, پۆدگۆریتسا, पॉडगोरिका, ਪਾਡਗੋਰਿਤਸਾ, பொட்கொரிக்கா, พอดกอรีตซา, პოდგორიცა, ፖድጎሪጻ, ポドゴリツァ, 波德戈里察, 포드고리차

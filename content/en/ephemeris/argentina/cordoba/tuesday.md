@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°29'42.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°47'51.83" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°51'49.38" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|22°42'12.28" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°18'18.25" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|21°19'3.66" |Aries|Butain|Venus|
-|☾ Moon|Direct|6°56'40.17" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|20°47'51.91" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°51'49.18" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|22°42'12.04" |Aries|Butain|Venus|
+|♀ Venus|Direct|23°18'18.30" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|21°19'3.47" |Aries|Butain|Venus|
+|☾ Moon|Direct|6°52'58.20" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: COR, Ciudad de Cordoba, Ciudad de Córdoba, Cordoba, Cordoba i Argentina, Cordova, Corduba, Còrdoba, Córdoba, Córdoba i Argentina, Córdova, Kordava, Kordoba, Kordobo, Kordov, Kordova, Kordova khot, Kordovae, Kuorduoba, Vila de Cordoba, Vila de Córdoba, kardwba, ke er duo wa, koleudoba, kordoba, korudoba, kwrdwba, kwrdwba  arzhantyn, kxr do ba, qwrdwbh, Κόρδοβα, Кордава, Кордоба, Кордовæ, Кордова, Кордова хот, Կորդովա, קארדאבע, קורדובה, قرطبہ، ارجنٹائن, كوردوبا, کاردوبا, کوردوبا، آرژانتین, कोर्दोबा, กอร์โดบา, კორდოვა, コルドバ, 科尔多瓦, 코르도바

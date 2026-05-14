@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'14.40" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°51'50.93" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°10'22.57" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°5'51.74" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°47'42.82" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|22°12'11.47" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|12°29'47.44" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|20°51'49.50" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°10'20.54" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°5'44.78" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°47'36.69" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|22°12'11.49" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°29'47.97" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Ngerulmud, eung-gelulmudeu, Нгерулмуд, 응게룰무드

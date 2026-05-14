@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 14:23:12 |
 | Medium Coeli | 14:23:12 |
 | Sunset | 23:28:06 |
-| Maghrib | 00:22:53 |
+| Maghrib | 00:22:52 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 02:23:12 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°28'30.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°45'58.35" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°42'59.07" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|22°30'52.47" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°4'18.04" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|20°53'48.99" |Aries|Butain|Venus|
-|☾ Moon|Direct|3°38'1.46" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|20°45'59.51" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°43'0.06" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|22°30'57.04" |Aries|Butain|Venus|
+|♀ Venus|Direct|23°4'22.80" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|20°53'52.42" |Aries|Butain|Venus|
+|☾ Moon|Direct|3°31'55.45" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°28'30.02" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°45'58.35" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°42'59.07" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°30'52.47" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°4'18.04" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°53'48.99" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|3°38'1.46" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|20°45'59.51" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°43'0.06" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°30'57.04" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°4'22.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°53'52.42" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|3°31'55.45" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

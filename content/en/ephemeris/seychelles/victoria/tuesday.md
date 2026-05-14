@@ -1,6 +1,6 @@
 ---
-date: 2026-05-12T00:00:00+04:00
-lastmod: 2026-05-12T00:00:00+04:00
+date: 2026-05-19T00:00:00+04:00
+lastmod: 2026-05-19T00:00:00+04:00
 title: Victoria Tuesday
 slug: tuesday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - Seychelles
   - Victoria
-description: 🗓 Tuesday, 12 May 2026
+description: 🗓 Tuesday, 19 May 2026
 
 toc: false
 ---
@@ -336,11 +336,11 @@ Position of planets based on tropical calculations at sunrise
 |<sub>Planet|<sub>♄ Saturn|<sub>♃ Jupiter|<sub>♂ Mars|<sub>☉ Sun|<sub>♀ Venus|<sub>☿ Mercury</sub>|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>□ Square|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**♂ Mars**|<sub>☌ Conjunction|<sub>□ Square|<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**♂ Mars**|<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub>|<sub></sub>|
+|<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub></sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub> |<sub> |<sub>☌ Conjunction|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Biktoria, Fiktoria, Mahe, Mahé, Port Victoria, Victoria, Victoria pa Seychellane, Victoria på Seychellane, Victòria, Viktori, Viktoria, Viktorii, Viktorija, Viktorio, Viktoriya, Viktorya, Viktoryja, Wiktoria, bigtolia, fyktwrya, vhiktoriya, vikatori'a, viktoriya, vu~ikutoria, wei duo li ya, wiktxreiy, wyktwrya, wyqtwryh, Βικτόρια, Βικτώρια, Виктори, Виктория, Викторија, Вікторыя, Вікторія, Վիկտորիա, ויקטוריה, فيكتوريا, وکٹوریا, وکٹوریہ, ویکتوریا, ڤیکتۆریا، سیشێل, व्हिक्टोरिया, ਵਿਕਟੋਰੀਆ, விக்டோரியா, วิกตอเรีย, ཝིག་ཐོ་རི་ཡ།, ვიქტორია, ቪክቶሪያ፥ ሲሸልስ, ヴィクトリア, 維多利亞, 维多利亚, 빅토리아

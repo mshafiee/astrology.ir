@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°32'25.10" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°52'8.09" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°11'41.94" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°7'32.33" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°49'48.90" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|22°16'5.57" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|13°0'32.52" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|20°52'8.01" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°11'41.84" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°7'31.94" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°49'48.55" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|22°16'5.28" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°59'53.81" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: KHN, Lam-chhiong-chhi, Lâm-chhiong-chhī, Nam Xuong, Nam Xương, Nam-chhong-su, Nan'chan, Nan-cchang, Nan-ch'ang-hsien, Nan-ch'ang-shih, Nan-ch’ang-hsien, Nan-ch’ang-shih, Nan-čchang, Nancana, Nancangas, Nancano, Nanchan, Nanchang, Nanchang-fu, Nancianga, Nancsang, Nang-chiong, Nanzcangh, Nanĉano, Nančangas, Naņčana, Nàm-chhông-sṳ, Nàng-chiŏng, nan chang, nan chang shi, nanacanga, nanacham, nanachanna, nanchang, nanchang si, nantshangh, nʼnzʼng, Нанчан, Нанчанг, Наньчан, נאנצאנג, نانتشانغ, نانچانگ, نەنچاڭ شەھىرى, नानचांग, নানছাং, ਨਾਨਛਾਂਙ, နန်ချောင့်မြို့, 南昌, 南昌市, 난창 시

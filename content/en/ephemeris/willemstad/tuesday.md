@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|20°47'33.88" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°50'25.92" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|22°40'25.59" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°16'5.96" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|21°15'4.90" |Aries|Butain|Venus|
-|☾ Moon|Direct|6°28'12.15" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|23°16'4.19" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|21°14'58.88" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°10'14.62" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°29'31.33" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°47'33.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°50'25.92" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°40'25.59" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°16'5.96" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|21°15'4.90" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|6°28'12.15" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|10°29'31.39" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|20°47'33.71" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°50'25.95" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°40'25.57" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°16'5.91" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|21°15'4.92" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|6°28'12.24" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Vilemstad, Vilemstadas, Vilemstade, Vilemstado, Villemstad, Villemstant, Villemştad, Willemstad, Willemsted, Willemstêd, billemseutateu, u~iremusutatto, vilemastada, villemstatu, wei lian si ta de, willems tad, wylmstad, Βίλλεμσταντ, Вилемстад, Виллемстад, Вілемстад, Віллемстад, וילמסטאד, ويلمستاد, ویلمستاد, ویلمسٹیڈ, विलेमश्टाड, வில்லெம்ஸ்டாடு, วิลเลมสตัด, ვილემსტადი, ウィレムスタット, 威廉斯塔德, 빌렘스타트

@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:33:50 |
 | Isha (Night) | 19:55:32 |
 | Sharia Midnight | 23:06:25 |
-| Imum Coeli | 23:49:27 |
+| Imum Coeli | 23:49:26 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}

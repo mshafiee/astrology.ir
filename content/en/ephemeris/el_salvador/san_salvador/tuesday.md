@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|10°29'51.72" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|20°48'5.90" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°52'55.34" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|22°43'36.05" |Aries|Butain|Venus|
-|♀ Venus|Direct|23°20'2.81" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|21°22'12.99" |Aries|Butain|Venus|
-|☾ Moon|Direct|7°14'6.50" |Pisces|FarghAlMuakhar|Saturn|
+|☉ Sun|Direct|22°43'25.22" |Aries|Butain|Venus|
+|♀ Venus|Direct|23°19'59.21" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|21°22'4.64" |Aries|Butain|Venus|
+|☾ Moon|Direct|5°42'0.97" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -325,9 +325,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Mars|Mars|Aquarius|Moon|Jupiter|
 |♂ Mars|Saturn|Saturn|Capricorn|Sun|Jupiter|
 |☉ Sun|Saturn|Venus|Capricorn|Moon|Saturn|
-|♀ Venus|Mars|Sun|Aquarius|Sun|Saturn|
+|♀ Venus|Mars|Moon|Aquarius|Sun|Saturn|
 |☿ Mercury|Moon|Venus|Sagittarius|Moon|Saturn|
-|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°29'51.72" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°48'5.90" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°52'55.34" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|22°43'36.05" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|23°20'2.81" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|21°22'12.99" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|7°14'6.50" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|20°48'6.57" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°52'49.27" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|22°43'25.22" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|23°19'59.21" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|21°22'4.64" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|5°42'0.97" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Venus|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Venus|
-|☾ Moon|Venus|Venus|Mars|Mars|
+|☾ Moon|Jupiter|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -364,9 +364,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Sun|Saturn|Pisces|Sun|Mars|
 |♂ Mars|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
-|♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
+|♀ Venus|Sun|Mars|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: SAL, Salvador, San Salbador, San Salvado, San Salvador, San Salvadoras, San Salvadori, San Salvadò, San Salwador, San-Sal'vador, San-Salvador, San-Salvadoro, Sansalvadora, Urbs Sancti Salvatoris, can calvator, san salvadwr, san salwadwr, san slfadwr, san-salvadori, sana salavadora, sana salvhadora, sana-salvadora, sansalbadoleu, sansalwadxr, sansarubadoru, sheng sa er wa duo, sn slwwdwr, Σαν Σαλβαδόρ, Сан Салвадор, Сан-Сальвадор, Սան Սալվադոր, סאן סאלוואדאר, סן סלוודור, سان سالوادور, سان سالۋادور, سان سلفادور, سان سلواڈور, सान साल्व्हाडोर, सान-साल्वाडोर, ਸਾਨ ਸਾਲਵਾਦੋਰ, சான் சல்வடோர், ซันซัลวาดอร์, སན་སལ་ཝ་ཌོར།, სან-სალვადორი, ሳን ሳልቫዶር, サンサルバドル, 聖薩爾瓦多, 산살바도르

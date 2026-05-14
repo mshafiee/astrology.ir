@@ -299,9 +299,9 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°29'41.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°47'50.82" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°51'37.88" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|10°29'41.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|20°47'49.56" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°51'39.91" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|22°41'57.97" |Aries|Butain|Venus|
 |♀ Venus|Direct|23°18'4.91" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|21°18'35.70" |Aries|Butain|Venus|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|25°51'39.88" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|22°41'59.60" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|23°18'3.21" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|21°18'37.01" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|6°48'25.49" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|21°18'35.72" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|6°4'47.41" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Moon|Aquarius|Sun|Saturn|
 |♀ Venus|Sun|Mars|Pisces|Moon|Jupiter|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
+|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>✱ Sextile|<sub> |<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub> |<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub> |<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>☌ Conjunction|<sub>□ Square|<sub>☌ Conjunction|<sub> |<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

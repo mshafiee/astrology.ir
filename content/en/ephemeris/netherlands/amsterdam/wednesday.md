@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 21:26:37 |
 | Maghrib | 21:28:21 |
 | Isha (Night) | 22:58:21 |
-| Sharia Midnight | 23:46:17 |
+| Sharia Midnight | 23:46:18 |
 | Imum Coeli | 01:36:45 |
 {{< /tab >}}
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°27'51.53" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°44'57.96" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|25°38'16.80" |Aries|Butain|Venus|
-|☉ Sun|Direct|22°24'53.68" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|22°56'50.56" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|20°40'20.68" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|2°21'29.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|20°44'58.49" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|25°38'13.19" |Aries|Butain|Venus|
+|☉ Sun|Direct|22°24'47.10" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|22°56'48.36" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°40'15.63" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|1°27'58.44" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
