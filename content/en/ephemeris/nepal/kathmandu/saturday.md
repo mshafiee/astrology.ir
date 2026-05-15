@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:42:20 |
+| Fajr (Dawn) | 03:42:19 |
 | Sunrise | 05:14:29 |
 | Dhuhr (Noon) | 12:00:03 |
 | Medium Coeli | 12:00:03 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°51'13.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°22'47.40" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°31'35.68" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|26°6'8.83" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|27°31'41.74" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|29°0'14.17" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|28°54'6.91" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|21°22'46.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°31'32.58" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|26°6'0.30" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|27°31'35.41" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|29°0'7.47" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|27°54'0.41" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°51'13.62" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°22'48.75" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°31'33.13" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°6'6.42" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|27°31'43.45" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|29°0'12.69" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|28°36'50.05" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|10°51'13.57" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°22'47.40" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°31'35.68" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°6'8.83" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|27°31'41.74" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°0'14.17" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|28°54'6.91" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

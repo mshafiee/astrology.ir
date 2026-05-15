@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:08:35 |
 | Medium Coeli | 12:08:35 |
 | Sunset | 18:38:56 |
-| Maghrib | 18:56:31 |
+| Maghrib | 18:56:32 |
 | Isha (Night) | 19:40:22 |
 | Sharia Midnight | 23:29:01 |
 | Imum Coeli | 00:08:36 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°53'46.00" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°27'4.24" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°50'44.83" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|26°30'38.25" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|28°2'5.48" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|10°53'46.05" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°27'4.08" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°50'44.85" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|26°30'38.23" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|28°2'5.44" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|29°55'41.83" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|5°27'8.24" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|5°27'8.75" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°53'46.00" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°27'4.24" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°50'44.83" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°30'38.25" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|28°2'5.48" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|29°55'41.83" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°27'8.24" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|10°53'46.05" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°27'4.08" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°50'44.85" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°30'38.37" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|28°2'5.60" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°55'41.93" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°28'4.10" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

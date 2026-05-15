@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:48:52 |
 | Medium Coeli | 12:48:52 |
 | Sunset | 20:27:15 |
-| Maghrib | 20:52:11 |
+| Maghrib | 20:52:10 |
 | Isha (Night) | 22:15:50 |
 | Sharia Midnight | 23:43:53 |
 | Imum Coeli | 00:48:53 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°2'34.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°42'8.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°57'37.06" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|27°56'4.12" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|29°48'12.90" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|3°9'1.84" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|26°29'30.63" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|21°42'9.98" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°57'39.61" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|27°56'11.92" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|29°48'12.94" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|3°9'1.85" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|26°29'30.08" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°2'34.14" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°42'9.83" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|29°57'39.63" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|27°56'11.91" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|29°48'19.18" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|3°9'8.13" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|27°28'33.75" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°2'34.08" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°42'9.98" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|29°57'39.61" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|27°56'11.92" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|29°48'12.94" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|3°9'1.85" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|26°29'30.08" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mercury|Venus|Cancer|Sun|Mercury|
-|☾ Moon|Venus|Mercury|Aries|Moon|Jupiter|
+|☾ Moon|Venus|Venus|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

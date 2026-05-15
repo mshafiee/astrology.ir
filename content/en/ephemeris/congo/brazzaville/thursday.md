@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:52:14 |
+| Fajr (Dawn) | 04:52:15 |
 | Sunrise | 05:57:20 |
 | Dhuhr (Noon) | 11:55:11 |
 | Medium Coeli | 11:55:11 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°34'21.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|20°55'12.23" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°25'56.31" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|23°25'42.97" |Aries|Butain|Venus|
-|♀ Venus|Direct|24°12'23.00" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|22°57'0.40" |Aries|Butain|Venus|
-|☾ Moon|Direct|17°43'48.33" |Pisces|Rescha|Jupiter|
+|♃ Jupiter|Direct|20°55'12.40" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°25'56.28" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|23°25'42.99" |Aries|Butain|Venus|
+|♀ Venus|Direct|24°12'23.05" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|22°57'0.38" |Aries|Butain|Venus|
+|☾ Moon|Direct|17°43'47.27" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°34'21.34" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|20°55'12.23" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|26°25'56.31" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|23°25'42.97" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|24°12'23.00" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|22°57'0.40" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|17°43'48.05" |Aries|Butain|Sun|
+|♄ Saturn|Direct|10°34'21.28" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|20°55'12.40" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|26°25'56.28" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|23°25'42.99" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|24°12'23.05" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|22°57'0.38" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|17°43'47.27" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:35:03 |
 | Medium Coeli | 11:35:03 |
 | Sunset | 18:58:30 |
-| Maghrib | 19:01:37 |
+| Maghrib | 19:01:38 |
 | Isha (Night) | 20:39:37 |
 | Sharia Midnight | 22:44:18 |
 | Imum Coeli | 23:35:03 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:35:03 |
 | Medium Coeli | 11:35:03 |
 | Sunset | 18:58:30 |
-| Maghrib | 19:01:37 |
-| Isha (Night) | 20:31:37 |
+| Maghrib | 19:01:38 |
+| Isha (Night) | 20:31:38 |
 | Sharia Midnight | 22:28:59 |
 | Imum Coeli | 23:35:03 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°50'23.79" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°21'24.15" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°25'21.77" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°58'9.96" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|27°21'48.47" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|21°21'24.32" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°25'21.75" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°58'9.98" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|27°21'48.52" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|28°42'12.06" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|26°33'40.59" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|26°33'40.17" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

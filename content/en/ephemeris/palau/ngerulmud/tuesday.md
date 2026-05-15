@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°8'20.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°52'17.66" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°42'0.05" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|28°52'59.96" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|0°58'44.36" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|5°16'37.16" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|12°27'14.05" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|21°52'17.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°41'52.94" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|28°52'45.58" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|0°58'37.64" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|5°16'26.56" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|11°39'11.45" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°8'20.61" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°52'17.66" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|0°42'0.05" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|28°52'59.96" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|0°58'44.36" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|11°8'20.67" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°52'17.51" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|0°42'0.07" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|28°52'59.95" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|0°58'44.32" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|5°16'37.16" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|12°27'14.05" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|12°27'13.85" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

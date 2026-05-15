@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:12:54 |
 | Medium Coeli | 12:12:54 |
 | Sunset | 19:09:35 |
-| Maghrib | 19:30:38 |
+| Maghrib | 19:30:39 |
 | Isha (Night) | 20:23:38 |
 | Sharia Midnight | 23:24:39 |
 | Imum Coeli | 00:12:54 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'40.50" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°3'45.31" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°5'17.33" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|24°15'54.45" |Aries|Butain|Venus|
-|♀ Venus|Direct|25°14'46.98" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|24°50'28.51" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°5'53.41" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|10°39'40.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°3'45.15" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°5'17.36" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|24°15'54.43" |Aries|Butain|Venus|
+|♀ Venus|Direct|25°14'46.94" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|24°50'28.69" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°8'26.93" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'40.50" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°3'45.31" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|27°5'17.33" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°15'54.22" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|25°14'46.98" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|24°50'28.51" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°5'53.41" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|10°39'40.56" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°3'45.15" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|27°5'17.36" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°15'54.43" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|25°14'46.94" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|24°50'28.69" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°8'26.93" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
