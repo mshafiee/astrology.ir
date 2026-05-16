@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:39:14 |
 | Isha (Night) | 18:22:42 |
 | Sharia Midnight | 23:07:45 |
-| Imum Coeli | 23:41:23 |
+| Imum Coeli | 23:41:24 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -108,7 +108,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Maghrib | 17:28:40 |
 | Isha (Night) | 18:37:49 |
 | Sharia Midnight | 23:00:13 |
-| Imum Coeli | 23:41:24 |
+| Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
 {{< tab tabName="UISK" tabActive=false tabTitle="UISK" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:28:40 |
 | Isha (Night) | 18:58:40 |
 | Sharia Midnight | 23:02:22 |
-| Imum Coeli | 23:41:24 |
+| Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°10'6.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°55'25.70" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°55'38.55" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|29°10'23.09" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|1°20'24.53" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|5°55'38.10" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|17°9'18.23" |Gemini|Dhira|Mars|
+|♄ Saturn|Direct|11°10'6.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°55'25.85" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°55'38.53" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°10'28.56" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|1°20'24.57" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|5°55'41.53" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|16°54'1.61" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mars|Venus|Venus|Mars|
+|☾ Moon|Venus|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Pisces|Moon|Saturn|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Mercury|Saturn|Cancer|Moon|Venus|
-|☾ Moon|Mars|Jupiter|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 
 
 {{< /tab >}}

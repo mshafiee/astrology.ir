@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:04:31 |
-| Sunrise | 05:26:25 |
+| Sunrise | 05:26:24 |
 | Dhuhr (Noon) | 12:27:17 |
 | Medium Coeli | 12:27:17 |
 | Sunset | 19:28:33 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:45:47 |
-| Sunrise | 05:26:24 |
+| Sunrise | 05:26:25 |
 | Dhuhr (Noon) | 12:27:17 |
 | Medium Coeli | 12:27:17 |
 | Sunset | 19:28:33 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 14:02:09|Night duration: 09:57:15|
+|Duration of the day: 14:02:08|Night duration: 09:57:15|
 |Every hour duration: 02:00:18|Every hour duration: 01:25:19|
 
  
@@ -264,11 +264,11 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|05:26:24|07:26:41|
-|Mid-morning|Moon|Servant|07:26:42|09:26:59|
-|Late morning|Saturn|Servant|09:27:00|11:27:18|
-|Noon|Jupiter|Servant|11:27:19|13:27:36|
-|Early afternoon|Mars|Servant|13:27:37|15:27:55|
+|Early morning|Mercury|Ruler|05:26:25|07:26:42|
+|Mid-morning|Moon|Servant|07:26:43|09:27:00|
+|Late morning|Saturn|Servant|09:27:01|11:27:18|
+|Noon|Jupiter|Servant|11:27:19|13:27:37|
+|Early afternoon|Mars|Servant|13:27:38|15:27:55|
 |Mid-afternoon|Sun|Servant|15:27:56|17:28:13|
 |Late afternoon|Venus|Servant|17:28:14|19:28:32|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°14'55.94" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°4'5.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°33'6.16" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|29°58'27.07" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|2°19'55.76" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|7°42'33.50" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|28°37'8.71" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°14'55.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°4'5.22" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°33'6.34" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°58'27.49" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|2°19'56.04" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|7°42'33.83" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|28°38'44.08" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°58'27.07" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|2°19'55.76" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|7°42'33.50" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|28°37'8.71" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|28°38'45.18" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

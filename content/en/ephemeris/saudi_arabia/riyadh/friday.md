@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:46:03 |
 | Isha (Night) | 19:35:05 |
 | Sharia Midnight | 23:11:34 |
-| Imum Coeli | 23:49:26 |
+| Imum Coeli | 23:49:27 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:33:50 |
 | Isha (Night) | 19:40:09 |
 | Sharia Midnight | 23:14:07 |
-| Imum Coeli | 23:49:27 |
+| Imum Coeli | 23:49:26 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 18:33:50 |
 | Isha (Night) | 20:03:50 |
 | Sharia Midnight | 23:05:07 |
-| Imum Coeli | 23:49:26 |
+| Imum Coeli | 23:49:27 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'46.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°3'54.80" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°6'0.86" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|24°16'50.49" |Aries|Butain|Venus|
-|♀ Venus|Direct|25°15'55.98" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|24°52'33.92" |Aries|Butain|Venus|
-|☾ Moon|Direct|0°29'1.84" |Aries|Sharatain|Mars|
+|♄ Saturn|Direct|10°39'46.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°3'54.64" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°6'0.89" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|24°16'50.47" |Aries|Butain|Venus|
+|♀ Venus|Direct|25°15'55.93" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|24°52'33.93" |Aries|Butain|Venus|
+|☾ Moon|Direct|0°29'2.71" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°39'46.41" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°3'53.53" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|27°6'1.27" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|24°16'48.56" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|25°15'52.36" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|24°52'32.38" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°35'18.12" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|10°39'46.47" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°3'54.64" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|27°6'0.89" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|24°16'50.47" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|25°15'55.93" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|24°52'33.93" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°29'2.71" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

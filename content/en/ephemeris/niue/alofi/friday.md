@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 17:52:27 |
 | Maghrib | 17:53:28 |
 | Isha (Night) | 19:23:28 |
-| Sharia Midnight | 23:36:28 |
+| Sharia Midnight | 23:36:27 |
 | Imum Coeli | 00:16:01 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°49'44.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°20'19.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°20'30.64" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|25°51'52.07" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|27°14'7.29" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|28°28'14.64" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|23°27'2.68" |Aries|Butain|Venus|
+|♄ Saturn|Direct|10°49'46.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°20'21.20" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°20'37.94" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|25°52'9.39" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|27°14'18.02" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|28°28'27.92" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|25°29'9.27" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Saturn|Venus|
 |☿ Mercury|Saturn|Saturn|Jupiter|Saturn|
-|☾ Moon|Mars|Mars|Jupiter|Saturn|
+|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Pisces|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Capricorn|Moon|Saturn|
+|☾ Moon|Saturn|Mars|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

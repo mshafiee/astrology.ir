@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:14:18 |
 | Sunset | 21:18:49 |
 | Maghrib | 21:53:26 |
-| Isha (Night) | 23:52:00 |
+| Isha (Night) | 23:52:01 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:14:19 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°52'23.79" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°24'45.89" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°40'25.82" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|26°17'24.70" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|27°45'43.27" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|29°25'51.43" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|1°26'4.12" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|21°24'46.64" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°40'26.89" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|26°17'28.52" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|27°45'46.75" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|29°25'54.50" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|1°53'50.46" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

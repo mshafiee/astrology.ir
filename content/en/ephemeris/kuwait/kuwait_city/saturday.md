@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°45'48.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°13'47.10" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°50'50.84" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|25°14'5.17" |Aries|Butain|Venus|
-|♀ Venus|Direct|26°27'8.55" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|27°2'20.10" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|14°34'54.67" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|21°13'45.87" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°50'54.08" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|25°14'9.10" |Aries|Butain|Venus|
+|♀ Venus|Direct|26°27'7.76" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|27°2'22.87" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|15°14'52.65" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Sun|Pisces|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Aquarius|Moon|Saturn|
-|☾ Moon|Mercury|Sun|Virgo|Sun|Mars|
+|☾ Moon|Mercury|Sun|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°45'48.07" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°13'46.03" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|27°50'54.06" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°14'9.12" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|26°27'7.81" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|27°2'22.86" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°14'52.13" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|10°45'48.12" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°13'45.87" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|27°50'54.08" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°14'9.10" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|26°27'7.76" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|27°2'22.87" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°14'52.65" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

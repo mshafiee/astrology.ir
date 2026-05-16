@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 03:56:55 |
 | Dhuhr (Noon) | 11:29:54 |
 | Medium Coeli | 11:29:54 |
-| Sunset | 19:03:33 |
+| Sunset | 19:03:32 |
 | Maghrib | 19:26:41 |
 | Isha (Night) | 20:44:25 |
 | Sharia Midnight | 22:29:56 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 03:56:55 |
 | Dhuhr (Noon) | 11:29:54 |
 | Medium Coeli | 11:29:54 |
-| Sunset | 19:03:33 |
+| Sunset | 19:03:32 |
 | Maghrib | 19:06:16 |
 | Isha (Night) | 20:36:16 |
-| Sharia Midnight | 22:16:42 |
+| Sharia Midnight | 22:16:41 |
 | Imum Coeli | 23:29:55 |
 {{< /tab >}}
 
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|29°48'48.11" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|2°7'58.98" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|7°21'11.01" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|26°0'28.43" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|26°8'31.65" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
