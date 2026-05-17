@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:40:13 |
 | Medium Coeli | 12:40:13 |
 | Sunset | 20:16:50 |
-| Maghrib | 20:40:47 |
+| Maghrib | 20:40:48 |
 | Isha (Night) | 22:02:33 |
 | Sharia Midnight | 23:37:03 |
 | Imum Coeli | 00:40:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°52'7.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°24'17.79" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°38'20.81" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|26°14'45.39" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|27°42'24.75" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|10°52'7.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°24'17.95" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°38'20.79" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|26°14'45.41" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|27°42'24.80" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|29°19'48.80" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|0°51'45.38" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°51'44.92" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°52'7.30" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°24'17.79" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°38'20.81" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°14'45.39" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|27°42'24.75" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|10°52'7.24" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°24'17.95" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°38'20.79" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°14'45.41" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|27°42'24.80" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|29°19'48.80" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°51'45.38" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°51'44.92" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°42'24.04" |Pisces|Rescha|Mars|
 |☉ Sun|Direct|26°19'58.52" |Aries|Thurayya|Venus|
 |♀ Venus|Direct|27°48'50.66" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|29°31'30.56" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|2°40'13.43" |Taurus|Thurayya|Mercury|
+|☿ Mercury|Direct|29°31'31.18" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|1°25'2.86" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mars|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Jupiter|Jupiter|Pisces|Moon|Saturn|
-|☾ Moon|Venus|Saturn|Gemini|Moon|Venus|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°52'39.75" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°25'12.08" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°42'24.06" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|26°19'58.50" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|27°48'50.61" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|29°31'31.18" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°45'32.63" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Direct|10°52'39.69" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°25'12.24" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°42'24.04" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|26°19'58.52" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|27°48'50.66" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|29°31'22.31" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°25'2.86" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Mercury|Venus|Cancer|Sun|Mercury|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}

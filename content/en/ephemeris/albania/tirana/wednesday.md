@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:37:14 |
 | Sunset | 19:57:31 |
 | Maghrib | 19:59:43 |
-| Isha (Night) | 21:33:26 |
+| Isha (Night) | 21:33:25 |
 | Sharia Midnight | 23:49:09 |
 | Imum Coeli | 00:37:16 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'56.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°55'7.65" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°54'19.55" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|29°8'45.50" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|1°18'19.22" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|5°51'57.24" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|16°10'16.46" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|11°9'56.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°55'7.49" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°54'19.57" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°8'45.49" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|1°18'19.18" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|5°51'57.23" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|16°10'16.01" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'56.21" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°55'7.65" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|0°54'19.55" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°8'45.50" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|1°18'19.22" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|5°51'57.24" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|16°10'16.46" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|11°9'56.26" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°55'7.49" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|0°54'19.57" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°8'45.49" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|1°18'19.18" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°51'57.23" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|16°10'16.01" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°49'36.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°20'5.60" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°19'27.71" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|25°50'39.62" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|27°12'26.57" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|10°49'36.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|21°20'5.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°19'27.73" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|25°50'39.60" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|27°12'26.52" |Taurus|HaqAh|Saturn|
 |☿ Mercury|Direct|28°25'4.49" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|25°5'16.36" |Aries|Butain|Venus|
+|☾ Moon|Direct|25°5'16.77" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°49'36.87" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°20'5.60" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|28°19'27.71" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|25°50'39.62" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|27°12'26.57" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|10°49'36.92" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°20'5.44" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|28°19'27.73" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|25°50'39.60" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|27°12'26.52" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|28°25'4.49" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|23°7'32.53" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|25°5'16.77" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Sun|Pisces|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Aries|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Mars|Moon|Aquarius|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 14:00:47|Night duration: 09:58:36|
+|Duration of the day: 14:00:47|Night duration: 09:58:35|
 |Every hour of day duration: 01:10:04|Every hour of night duration: 00:49:53|
 
  
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|19:27:49|20:17:41|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|20:17:42|21:07:34|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|21:07:35|21:57:27|Attracting connection and suitors|
-|4|Sun|Servant|21:57:28|22:47:20|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|22:47:21|23:37:13|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|23:37:14|00:27:06|Repelling negative energy of evil eye|
-|7|Moon|Servant|00:27:07|01:16:59|Attracting love and hearts|
-|8|Saturn|Ruler|01:17:00|02:06:52|Creating corruption, destroying enemies, making enemies sick|
-|9|Jupiter|Servant|02:06:53|02:56:45|Heart tenderness|
-|10|Mars|Servant|02:56:46|03:46:38|Attracting misfortune, no task is suitable|
-|11|Sun|Servant|03:46:39|04:36:31|Attracting connection and suitors|
-|12|Venus|Servant|04:36:32|05:26:24|Hatred, corruption and creating negative energy for disruption|
+|1|Saturn|Ruler|19:27:49|20:17:40|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|20:17:41|21:07:33|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|21:07:34|21:57:26|Attracting connection and suitors|
+|4|Sun|Servant|21:57:27|22:47:19|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|22:47:20|23:37:12|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|23:37:13|00:27:05|Repelling negative energy of evil eye|
+|7|Moon|Servant|00:27:06|01:16:58|Attracting love and hearts|
+|8|Saturn|Ruler|01:16:59|02:06:51|Creating corruption, destroying enemies, making enemies sick|
+|9|Jupiter|Servant|02:06:52|02:56:44|Heart tenderness|
+|10|Mars|Servant|02:56:45|03:46:37|Attracting misfortune, no task is suitable|
+|11|Sun|Servant|03:46:38|04:36:30|Attracting connection and suitors|
+|12|Venus|Servant|04:36:31|05:26:23|Hatred, corruption and creating negative energy for disruption|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 14:00:47|Night duration: 09:58:36|
+|Duration of the day: 14:00:47|Night duration: 09:58:35|
 |Every hour duration: 02:00:07|Every hour duration: 01:25:31|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Saturn|Ruler|19:27:49|20:53:18|
 |Late evening|Jupiter|Servant|20:53:19|22:18:49|
 |Midnight|Mars|Servant|22:18:50|23:44:20|
-|Late at night|Sun|Servant|23:44:21|01:09:51|
-|Rooster song|Venus|Servant|01:09:52|02:35:22|
-|False Dawn|Mercury|Servant|02:35:23|04:00:53|
-|Dawn|Moon|Servant|04:00:54|05:26:24|
+|Late at night|Sun|Servant|23:44:21|01:09:50|
+|Rooster song|Venus|Servant|01:09:51|02:35:21|
+|False Dawn|Mercury|Servant|02:35:22|04:00:52|
+|Dawn|Moon|Servant|04:00:53|05:26:23|
 
 {{< /tab >}}
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°9'7.40" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°53'40.70" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|0°48'2.57" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°0'43.50" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|1°8'19.95" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|5°33'56.54" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|14°16'30.01" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|11°9'7.45" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°53'40.65" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|0°48'2.02" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°0'42.37" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|1°8'19.38" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°33'55.70" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|14°12'44.99" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

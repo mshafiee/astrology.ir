@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 04:32:27 |
 | Dhuhr (Noon) | 12:32:32 |
 | Medium Coeli | 12:32:32 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:36:29 |
 | Isha (Night) | 23:10:16 |
-| Sharia Midnight | 23:13:58 |
+| Sharia Midnight | 23:13:59 |
 | Imum Coeli | 00:32:34 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:32:27 |
 | Dhuhr (Noon) | 12:32:32 |
 | Medium Coeli | 12:32:32 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:36:29 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:32:27 |
 | Dhuhr (Noon) | 12:32:32 |
 | Medium Coeli | 12:32:32 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:36:29 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 04:32:27 |
 | Dhuhr (Noon) | 12:32:32 |
 | Medium Coeli | 12:32:32 |
-| Sunset | 20:33:31 |
+| Sunset | 20:33:32 |
 | Maghrib | 20:36:29 |
 | Isha (Night) | 22:06:29 |
 | Sharia Midnight | Circumpolar Angle |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°15'33.33" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|22°5'13.37" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°37'59.09" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°4'41.30" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°27'41.42" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|7°56'26.83" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|0°0'15.89" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°37'59.27" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°4'40.02" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°27'39.16" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|7°56'25.43" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|29°35'33.01" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Sun|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Mars|Mars|Moon|Saturn|
+|☾ Moon|Saturn|Saturn|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Mercury|Venus|Gemini|Sun|Mercury|
 |☿ Mercury|Mercury|Jupiter|Leo|Moon|Venus|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Venus|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
