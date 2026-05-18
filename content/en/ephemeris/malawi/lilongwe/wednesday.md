@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:41:25 |
 | Isha (Night) | 18:22:42 |
 | Sharia Midnight | 23:04:05 |
-| Imum Coeli | 23:41:24 |
+| Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:28:40 |
 | Isha (Night) | 18:27:02 |
 | Sharia Midnight | 23:09:55 |
-| Imum Coeli | 23:41:24 |
+| Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:28:40 |
 | Isha (Night) | 18:58:40 |
 | Sharia Midnight | 23:02:22 |
-| Imum Coeli | 23:41:24 |
+| Imum Coeli | 23:41:23 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|21°55'25.85" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|0°55'38.53" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|29°10'28.56" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|1°20'24.53" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|5°55'38.10" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|17°9'18.23" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|1°20'24.57" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|5°55'41.53" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|16°54'1.61" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Moon|Moon|Cancer|Moon|Moon|
 |☿ Mercury|Moon|Mars|Leo|Sun|Mercury|
-|☾ Moon|Sun|Jupiter|Capricorn|Sun|Mars|
+|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}

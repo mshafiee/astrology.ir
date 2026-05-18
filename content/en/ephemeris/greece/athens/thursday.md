@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:21:40 |
 | Medium Coeli | 13:21:40 |
 | Sunset | 20:33:42 |
-| Maghrib | 20:35:54 |
+| Maghrib | 20:35:55 |
 | Isha (Night) | 22:16:19 |
 | Sharia Midnight | 00:26:37 |
 | Imum Coeli | 01:21:42 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:21:40 |
 | Medium Coeli | 13:21:40 |
 | Sunset | 20:33:42 |
-| Maghrib | 20:35:54 |
+| Maghrib | 20:35:55 |
 | Isha (Night) | 22:02:21 |
 | Sharia Midnight | 00:37:14 |
 | Imum Coeli | 01:21:42 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:21:40 |
 | Medium Coeli | 13:21:40 |
 | Sunset | 20:33:42 |
-| Maghrib | 20:35:55 |
+| Maghrib | 20:35:54 |
 | Isha (Night) | 22:19:55 |
 | Sharia Midnight | 00:21:00 |
 | Imum Coeli | 01:21:42 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:21:40 |
 | Medium Coeli | 13:21:40 |
 | Sunset | 20:33:42 |
-| Maghrib | 20:35:55 |
-| Isha (Night) | 22:05:55 |
+| Maghrib | 20:35:54 |
+| Isha (Night) | 22:05:54 |
 | Sharia Midnight | 00:24:46 |
 | Imum Coeli | 01:21:42 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°15'42.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°5'29.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°39'10.67" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°6'14.08" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°29'35.09" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|7°59'49.14" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|0°30'0.19" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|11°15'42.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°5'29.83" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°39'10.69" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°6'14.07" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°29'35.05" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|7°59'49.13" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°29'59.02" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

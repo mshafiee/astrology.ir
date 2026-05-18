@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:30:38 |
 | Sunset | 18:57:11 |
 | Maghrib | 18:58:10 |
-| Isha (Night) | 20:13:54 |
+| Isha (Night) | 20:13:55 |
 | Sharia Midnight | 23:47:33 |
 | Imum Coeli | 00:30:40 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'22.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°17'43.87" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°31'31.96" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°13'23.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|3°52'47.93" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|10°27'33.11" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°42'57.55" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|11°22'22.96" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°17'43.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°31'31.97" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°13'23.54" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|3°52'47.89" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|10°27'33.09" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|16°42'56.30" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'22.90" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°17'43.87" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°31'31.96" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|1°13'23.55" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|3°52'47.93" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°27'33.11" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|16°42'57.55" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|11°22'22.96" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°17'43.72" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°31'31.97" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°13'23.54" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|3°52'47.89" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°27'33.09" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|16°42'56.30" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

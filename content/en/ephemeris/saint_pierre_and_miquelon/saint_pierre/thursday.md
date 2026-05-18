@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'36.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°18'9.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|2°33'19.17" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°15'41.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|3°55'38.80" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|10°32'36.75" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|16°53'44.84" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|11°22'36.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°18'8.92" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|2°33'19.19" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°15'39.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|3°55'38.46" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|10°32'35.17" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|17°9'36.71" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Taurus|Moon|Venus|
 |♀ Venus|Mercury|Mars|Cancer|Sun|Mercury|
 |☿ Mercury|Moon|Mars|Virgo|Moon|Venus|
-|☾ Moon|Mars|Jupiter|Capricorn|Sun|Mars|
+|☾ Moon|Sun|Jupiter|Capricorn|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°22'36.34" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°18'9.07" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°33'20.88" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|1°15'41.88" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|3°55'38.80" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|11°22'36.39" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°18'8.92" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°33'19.19" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°15'39.34" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|3°55'38.46" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|10°32'36.75" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|16°53'44.84" |Leo|Zubrah|Jupiter|
 

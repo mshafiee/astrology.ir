@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:55:49 |
 | Medium Coeli | 11:55:49 |
 | Sunset | 18:59:38 |
-| Maghrib | 19:20:55 |
+| Maghrib | 19:20:54 |
 | Isha (Night) | 20:16:07 |
 | Sharia Midnight | 23:05:46 |
 | Imum Coeli | 23:55:51 |
@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:55:49 |
 | Sunset | 18:59:38 |
 | Maghrib | 19:00:51 |
-| Isha (Night) | 20:41:29 |
+| Isha (Night) | 20:41:30 |
 | Sharia Midnight | 23:04:47 |
 | Imum Coeli | 23:55:51 |
 {{< /tab >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°19'42.65" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|22°12'48.21" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|2°10'30.53" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°46'24.55" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|3°19'22.79" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|9°28'27.18" |Taurus|Dabaran|Mercury|
-|☾ Moon|Direct|10°15'35.12" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|0°46'24.57" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|3°19'22.80" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|9°28'27.19" |Taurus|Dabaran|Mercury|
+|☾ Moon|Direct|10°15'5.57" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°19'42.70" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°12'48.07" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°10'30.53" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|0°46'24.55" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|3°19'22.79" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|22°12'48.06" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°10'30.55" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|0°46'24.56" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|3°19'22.76" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|9°28'27.18" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|10°15'35.12" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|10°15'4.26" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:07:03 |
 | Dhuhr (Noon) | 13:02:44 |
 | Medium Coeli | 13:02:44 |
-| Sunset | 20:59:25 |
+| Sunset | 20:59:24 |
 | Maghrib | 21:01:12 |
 | Isha (Night) | 00:15:42 |
 | Sharia Midnight | Circumpolar Angle |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:07:03 |
 | Dhuhr (Noon) | 13:02:44 |
 | Medium Coeli | 13:02:44 |
-| Sunset | 20:59:24 |
+| Sunset | 20:59:25 |
 | Maghrib | 21:01:12 |
 | Isha (Night) | 00:36:49 |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:07:03 |
 | Dhuhr (Noon) | 13:02:44 |
 | Medium Coeli | 13:02:44 |
-| Sunset | 20:59:24 |
+| Sunset | 20:59:25 |
 | Maghrib | 21:01:12 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°52'7.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°24'18.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°38'25.43" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|26°14'50.77" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|27°42'32.10" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|29°20'2.66" |Aries|Thurayya|Venus|
-|☾ Moon|Direct|0°45'23.41" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|21°24'19.02" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°38'25.53" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|26°14'51.07" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|27°42'32.35" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|29°20'4.84" |Aries|Thurayya|Venus|
+|☾ Moon|Direct|1°4'55.81" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
