@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:16 |
+| Sunset | 20:20:17 |
 | Maghrib | 20:40:14 |
 | Isha (Night) | 21:44:10 |
 | Sharia Midnight | 00:15:40 |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:16 |
+| Sunset | 20:20:17 |
 | Maghrib | 20:43:14 |
 | Isha (Night) | 21:44:10 |
 | Sharia Midnight | 00:09:22 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:17 |
+| Sunset | 20:20:16 |
 | Maghrib | 20:21:34 |
 | Isha (Night) | 22:05:42 |
 | Sharia Midnight | 00:08:13 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:17 |
+| Sunset | 20:20:16 |
 | Maghrib | 20:21:34 |
 | Isha (Night) | 21:51:11 |
-| Sharia Midnight | 00:19:16 |
+| Sharia Midnight | 00:19:15 |
 | Imum Coeli | 01:04:51 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:17 |
+| Sunset | 20:20:16 |
 | Maghrib | 20:21:34 |
 | Isha (Night) | 22:09:27 |
 | Sharia Midnight | 00:02:20 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:30:28|Night duration: 09:28:52|
+|Duration of the day: 14:30:27|Night duration: 09:28:53|
 |Every hour duration: 02:04:21|Every hour duration: 01:21:16|
 
  
@@ -270,18 +270,18 @@ Timetable of septet day and night planetary hours
 |Noon|Saturn|Servant|12:02:52|14:07:12|
 |Early afternoon|Jupiter|Servant|14:07:13|16:11:33|
 |Mid-afternoon|Mars|Servant|16:11:34|18:15:54|
-|Late afternoon|Sun|Servant|18:15:55|20:20:16|
+|Late afternoon|Sun|Servant|18:15:55|20:20:15|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|20:20:17|21:41:32|
-|Late evening|Sun|Servant|21:41:33|23:02:48|
-|Midnight|Venus|Servant|23:02:49|00:24:04|
-|Late at night|Mercury|Servant|00:24:05|01:45:20|
-|Rooster song|Moon|Servant|01:45:21|03:06:36|
-|False Dawn|Saturn|Servant|03:06:37|04:27:52|
-|Dawn|Jupiter|Servant|04:27:53|05:49:08|
+|Evening|Mars|Ruler|20:20:16|21:41:31|
+|Late evening|Sun|Servant|21:41:32|23:02:47|
+|Midnight|Venus|Servant|23:02:48|00:24:03|
+|Late at night|Mercury|Servant|00:24:04|01:45:19|
+|Rooster song|Moon|Servant|01:45:20|03:06:35|
+|False Dawn|Saturn|Servant|03:06:36|04:27:51|
+|Dawn|Jupiter|Servant|04:27:52|05:49:08|
 
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°28'41.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°28'41.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|22°29'33.35" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°21'37.73" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|2°17'40.09" |Taurus|Thurayya|Mercury|

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|10°57'44.92" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|21°33'51.25" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|29°20'56.28" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|27°9'13.11" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|28°50'4.94" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|1°23'7.82" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|15°20'38.43" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|27°9'11.96" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|28°50'1.04" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|1°23'6.39" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|14°57'42.25" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Saturn|
 |♀ Venus|Mars|Mars|Saturn|Venus|
 |☿ Mercury|Venus|Venus|Venus|Moon|
-|☾ Moon|Jupiter|Jupiter|Mercury|Mercury|
+|☾ Moon|Jupiter|Mercury|Mercury|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Venus|Saturn|Taurus|Moon|Venus|
-|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|27°9'11.96" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|28°50'1.04" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|1°23'6.39" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|15°20'38.43" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|14°57'42.25" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mercury|Pisces|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
+|☾ Moon|Jupiter|Saturn|Scorpio|Sun|Mercury|
 
 
 {{< /tab >}}

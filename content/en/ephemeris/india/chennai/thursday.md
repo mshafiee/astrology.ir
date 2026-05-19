@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:25:29 |
+| Fajr (Dawn) | 04:25:28 |
 | Sunrise | 05:42:02 |
 | Dhuhr (Noon) | 12:05:27 |
 | Medium Coeli | 12:05:27 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°15'0.05" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°4'12.46" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°33'37.54" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|29°59'8.26" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|2°20'45.54" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|7°44'1.78" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|28°54'1.89" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|22°4'12.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°33'37.52" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|29°59'8.27" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|2°20'45.58" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|7°44'1.79" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|28°54'3.00" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°15'0.05" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°4'12.46" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|1°33'37.54" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|29°59'8.26" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|2°20'45.54" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|7°44'1.78" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|28°54'1.89" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|11°14'59.99" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°4'12.61" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|1°33'37.52" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|29°59'8.27" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|2°20'45.58" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|7°44'1.79" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|28°54'3.00" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

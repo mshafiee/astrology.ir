@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:34:33 |
 | Sunset | 20:03:18 |
 | Maghrib | 20:05:45 |
-| Isha (Night) | 22:11:45 |
+| Isha (Night) | 22:11:46 |
 | Sharia Midnight | 23:19:45 |
 | Imum Coeli | 00:34:34 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|10°58'6.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|21°34'28.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°23'40.83" |Pisces|Rescha|Mars|
-|☉ Sun|Direct|27°12'46.13" |Aries|Thurayya|Venus|
-|♀ Venus|Direct|28°54'23.17" |Taurus|HaqAh|Saturn|
-|☿ Mercury|Direct|1°31'0.04" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|16°42'43.22" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|21°34'27.95" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°23'39.23" |Pisces|Rescha|Mars|
+|☉ Sun|Direct|27°12'41.58" |Aries|Thurayya|Venus|
+|♀ Venus|Direct|28°54'19.61" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|1°30'56.39" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|16°9'15.90" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Aquarius|Moon|Saturn|
 |♀ Venus|Sun|Mercury|Aries|Sun|Saturn|
 |☿ Mercury|Venus|Saturn|Taurus|Moon|Venus|
-|☾ Moon|Saturn|Mercury|Scorpio|Sun|Saturn|
+|☾ Moon|Saturn|Venus|Scorpio|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|10°58'6.52" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|21°34'27.79" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|29°23'39.25" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|27°12'41.56" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|28°54'19.57" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|1°30'56.38" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|16°9'16.56" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|10°58'6.46" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|21°34'26.78" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|29°23'39.93" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|27°12'40.37" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|28°54'16.43" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|1°30'55.08" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|15°49'4.50" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
