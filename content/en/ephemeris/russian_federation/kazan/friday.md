@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 03:19:57 |
 | Dhuhr (Noon) | 11:40:09 |
 | Medium Coeli | 11:40:09 |
-| Sunset | 20:01:29 |
+| Sunset | 20:01:30 |
 | Maghrib | 20:04:00 |
 | Isha (Night) | 21:34:00 |
 | Sharia Midnight | Circumpolar Angle |
@@ -339,7 +339,7 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°20'46.29" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°14'45.63" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|22°14'45.42" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|2°18'52.45" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|0°57'6.48" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|3°32'39.59" |Cancer|Nathrah|Venus|

@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:48:11 |
 | Medium Coeli | 13:48:11 |
 | Sunset | 21:12:04 |
-| Maghrib | 21:13:30 |
+| Maghrib | 21:13:31 |
 | Isha (Night) | 23:10:13 |
 | Sharia Midnight | 00:40:05 |
 | Imum Coeli | 01:48:14 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:48:11 |
 | Medium Coeli | 13:48:11 |
 | Sunset | 21:12:04 |
-| Maghrib | 21:13:31 |
-| Isha (Night) | 22:43:31 |
+| Maghrib | 21:13:30 |
+| Isha (Night) | 22:43:30 |
 | Sharia Midnight | 00:44:39 |
 | Imum Coeli | 01:48:14 |
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°33'2.15" |Aries|Sharatain|Sun|
 |♃ Jupiter|Direct|22°37'50.38" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°56'25.25" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°2'21.00" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°7'47.10" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|14°22'43.97" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°38'52.48" |Virgo|Awwa|Venus|
+|♂ Mars|Direct|3°56'25.15" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°2'20.92" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°7'47.19" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|14°22'43.95" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°41'30.31" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

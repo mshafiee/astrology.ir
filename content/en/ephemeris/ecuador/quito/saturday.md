@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:08:17 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:13:26 |
+| Sunset | 18:13:25 |
 | Maghrib | 18:30:54 |
 | Isha (Night) | 19:11:36 |
 | Sharia Midnight | 23:33:50 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:08:17 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:13:26 |
+| Sunset | 18:13:25 |
 | Maghrib | 18:17:45 |
 | Isha (Night) | 19:24:30 |
 | Sharia Midnight | 23:33:11 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:08:17 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:13:25 |
+| Sunset | 18:13:26 |
 | Maghrib | 18:17:45 |
 | Isha (Night) | 19:15:54 |
-| Sharia Midnight | 23:39:38 |
+| Sharia Midnight | 23:39:39 |
 | Imum Coeli | 00:10:54 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:08:17 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:13:26 |
+| Sunset | 18:13:25 |
 | Maghrib | 18:17:45 |
 | Isha (Night) | 19:26:40 |
 | Sharia Midnight | 23:29:57 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:08:17 |
 | Dhuhr (Noon) | 12:10:51 |
 | Medium Coeli | 12:10:51 |
-| Sunset | 18:13:26 |
+| Sunset | 18:13:25 |
 | Maghrib | 18:17:45 |
 | Isha (Night) | 19:28:49 |
 | Sharia Midnight | 23:33:11 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:05:09|Night duration: 11:54:57|
+|Duration of the day: 12:05:08|Night duration: 11:54:58|
 |Every hour of day duration: 01:00:26|Every hour of night duration: 00:59:35|
 
  
@@ -219,28 +219,28 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|06:08:17|07:08:41|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|07:08:42|08:09:07|Peace among people|
 |3|Mars|Servant|08:09:08|09:09:33|Vengeful and evil deeds|
-|4|Sun|Servant|09:09:34|10:09:59|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:10:00|11:10:24|Auspicious|
+|4|Sun|Servant|09:09:34|10:09:58|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:09:59|11:10:24|Auspicious|
 |6|Mercury|Servant|11:10:25|12:10:50|Writing, swapping and making promises|
-|7|Moon|Servant|12:10:51|13:11:16|Not suitable for any task|
-|8|Saturn|Ruler|13:11:17|14:11:42|Destruction of enemies|
-|9|Jupiter|Servant|14:11:43|15:12:07|All good deeds|
-|10|Mars|Servant|15:12:08|16:12:33|Doing evil deeds|
-|11|Sun|Servant|16:12:34|17:12:59|Acceptance of reconciliation between couples|
-|12|Venus|Servant|17:13:00|18:13:25|For gaining dignity|
+|7|Moon|Servant|12:10:51|13:11:15|Not suitable for any task|
+|8|Saturn|Ruler|13:11:16|14:11:41|Destruction of enemies|
+|9|Jupiter|Servant|14:11:42|15:12:07|All good deeds|
+|10|Mars|Servant|15:12:08|16:12:32|Doing evil deeds|
+|11|Sun|Servant|16:12:33|17:12:58|Acceptance of reconciliation between couples|
+|12|Venus|Servant|17:12:59|18:13:24|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|18:13:26|19:12:59|Related to talismans, amulets and responses|
-|2|Moon|Servant|19:13:00|20:12:34|Peace among people|
-|3|Saturn|Servant|20:12:35|21:12:09|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:12:10|22:11:44|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:11:45|23:11:18|Auspicious|
+|1|Mercury|Ruler|18:13:25|19:12:58|Related to talismans, amulets and responses|
+|2|Moon|Servant|19:12:59|20:12:33|Peace among people|
+|3|Saturn|Servant|20:12:34|21:12:08|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:12:09|22:11:43|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:11:44|23:11:18|Auspicious|
 |6|Sun|Servant|23:11:19|00:10:53|Writing, swapping and making promises|
-|7|Venus|Servant|00:10:54|01:10:28|Not suitable for any task|
-|8|Mercury|Ruler|01:10:29|02:10:03|Destruction of enemies|
-|9|Moon|Servant|02:10:04|03:09:37|All good deeds|
+|7|Venus|Servant|00:10:54|01:10:27|Not suitable for any task|
+|8|Mercury|Ruler|01:10:28|02:10:02|Destruction of enemies|
+|9|Moon|Servant|02:10:03|03:09:37|All good deeds|
 |10|Saturn|Servant|03:09:38|04:09:12|Doing evil deeds|
 |11|Jupiter|Servant|04:09:13|05:08:47|Acceptance of reconciliation between couples|
 |12|Mars|Servant|05:08:48|06:08:22|For gaining dignity|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°34'36.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°40'51.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°9'1.42" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|3°18'34.41" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|6°27'50.17" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°57'5.58" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|15°13'10.20" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|11°34'36.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°40'51.33" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°9'1.43" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|3°18'34.39" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|6°27'50.13" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|14°57'5.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|15°13'9.89" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°34'36.14" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°40'51.47" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°9'1.42" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°18'34.41" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°27'50.17" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|14°57'5.58" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|15°13'10.20" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|11°34'36.20" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°40'51.33" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°9'1.43" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°18'34.39" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°27'50.13" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|14°57'5.55" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|15°13'9.89" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

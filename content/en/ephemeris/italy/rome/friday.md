@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:06:36 |
 | Sunset | 20:30:19 |
 | Maghrib | 20:31:50 |
-| Isha (Night) | 22:24:54 |
+| Isha (Night) | 22:24:55 |
 | Sharia Midnight | 00:04:53 |
 | Imum Coeli | 01:06:39 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°21'34.94" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°16'15.28" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|2°25'14.56" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|1°5'18.00" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|3°42'48.08" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|10°9'55.15" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|14°43'32.41" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|11°21'34.99" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°16'15.14" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|2°25'14.58" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°5'17.99" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|3°42'48.04" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|10°9'55.14" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|14°43'31.12" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

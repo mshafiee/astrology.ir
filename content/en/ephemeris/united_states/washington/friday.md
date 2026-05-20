@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:17 |
+| Sunset | 20:20:16 |
 | Maghrib | 20:40:14 |
 | Isha (Night) | 21:44:10 |
 | Sharia Midnight | 00:15:40 |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:17 |
+| Sunset | 20:20:16 |
 | Maghrib | 20:43:14 |
 | Isha (Night) | 21:44:10 |
 | Sharia Midnight | 00:09:22 |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:16 |
+| Sunset | 20:20:17 |
 | Maghrib | 20:21:34 |
 | Isha (Night) | 21:51:11 |
-| Sharia Midnight | 00:19:15 |
+| Sharia Midnight | 00:19:16 |
 | Imum Coeli | 01:04:51 |
 {{< /tab >}}
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°28'41.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|11°28'41.60" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|22°29'33.35" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|3°21'37.73" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|2°17'40.09" |Taurus|Thurayya|Mercury|

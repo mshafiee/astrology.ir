@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:17:44 |
+| Fajr (Dawn) | 03:17:43 |
 | Sunrise | 05:05:19 |
 | Dhuhr (Noon) | 12:16:10 |
 | Medium Coeli | 12:16:10 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°32'57.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°37'41.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°55'48.97" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|3°1'34.76" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|6°6'49.68" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°21'4.87" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°30'25.66" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|22°37'42.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°55'48.54" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|3°1'34.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|6°6'50.66" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|14°21'5.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°44'59.83" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°32'57.62" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°37'41.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°55'48.97" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°1'34.76" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°6'49.68" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|14°21'4.87" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°30'25.66" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|11°32'57.67" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°37'41.74" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°55'48.98" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°1'34.74" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°6'49.63" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|14°21'4.84" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°30'25.22" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

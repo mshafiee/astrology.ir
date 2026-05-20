@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:21:40 |
 | Medium Coeli | 13:21:40 |
 | Sunset | 20:33:42 |
-| Maghrib | 20:35:55 |
+| Maghrib | 20:35:54 |
 | Isha (Night) | 22:23:34 |
 | Sharia Midnight | 00:26:37 |
 | Imum Coeli | 01:21:42 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°15'42.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°5'29.27" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|1°39'7.78" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|0°6'6.83" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|2°29'30.23" |Gemini|HaqAh|Jupiter|
-|☿ Mercury|Direct|7°59'43.40" |Taurus|Thurayya|Mercury|
-|☾ Moon|Direct|0°1'10.89" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|22°5'29.98" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|1°39'10.67" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|0°6'14.08" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|2°29'35.09" |Gemini|HaqAh|Jupiter|
+|☿ Mercury|Direct|7°59'49.14" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|0°30'0.19" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
