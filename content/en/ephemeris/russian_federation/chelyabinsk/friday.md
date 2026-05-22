@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:50:56 |
 | Sunset | 21:08:22 |
 | Maghrib | 21:40:52 |
-| Isha (Night) | 00:34:40 |
+| Isha (Night) | 00:34:41 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:50:58 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:50:56 |
 | Sunset | 21:08:22 |
 | Maghrib | 21:45:59 |
-| Isha (Night) | 00:34:40 |
+| Isha (Night) | 00:34:41 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:50:58 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°26'16.43" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°25'0.06" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°2'23.01" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|1°52'56.49" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°41'51.12" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|11°53'44.32" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|25°52'43.56" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|22°24'59.97" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°2'22.97" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°52'56.21" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°41'50.78" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|11°53'44.04" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|25°49'55.27" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

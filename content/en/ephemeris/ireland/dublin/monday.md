@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:21:55 |
 | Sunset | 21:33:58 |
 | Maghrib | 22:04:22 |
-| Isha (Night) | 00:16:57 |
+| Isha (Night) | 00:16:58 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:21:58 |
 {{< /tab >}}

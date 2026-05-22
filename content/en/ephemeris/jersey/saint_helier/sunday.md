@@ -59,7 +59,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunset | 20:56:34 |
 | Maghrib | 21:26:28 |
 | Isha (Night) | 22:56:14 |
-| Sharia Midnight | 23:38:06 |
+| Sharia Midnight | 23:38:05 |
 | Imum Coeli | 01:05:18 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°32'59.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°37'45.74" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°56'5.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|3°1'55.31" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|6°7'16.22" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|14°21'51.08" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|11°37'12.35" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|11°32'59.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°37'45.88" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°56'5.64" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|3°1'55.33" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|6°7'16.26" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|14°21'51.11" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°37'12.80" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°32'59.68" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°37'45.74" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°56'5.66" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°1'55.31" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|6°7'16.22" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|14°21'51.08" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°37'12.35" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|11°32'59.62" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°37'45.88" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°56'5.64" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°1'55.33" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|6°7'16.26" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|14°21'51.11" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°37'12.80" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
