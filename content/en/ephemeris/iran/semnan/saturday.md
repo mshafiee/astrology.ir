@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:00:06 |
 | Maghrib | 19:05:55 |
 | Isha (Night) | 20:38:21 |
-| Sharia Midnight | 23:00:33 |
+| Sharia Midnight | 23:00:34 |
 | Imum Coeli | 23:53:12 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'41.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°25'46.18" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°5'38.18" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|1°57'8.45" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|4°47'1.38" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°2'45.60" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|26°52'24.56" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|11°26'41.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°25'46.04" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°5'38.20" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|1°57'8.44" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|4°47'1.33" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°2'45.58" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|26°52'23.59" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'41.10" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°25'46.18" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°5'38.18" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|1°57'8.45" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°47'1.38" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°2'45.60" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|26°52'24.56" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|11°26'41.16" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°25'46.04" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°5'38.20" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|1°57'8.44" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°47'1.33" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°2'45.58" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|26°52'23.59" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

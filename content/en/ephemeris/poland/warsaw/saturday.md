@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:32:41 |
 | Medium Coeli | 12:32:41 |
 | Sunset | 20:36:21 |
-| Maghrib | 20:39:21 |
+| Maghrib | 20:39:20 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:32:44 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:32:41 |
 | Medium Coeli | 12:32:41 |
 | Sunset | 20:36:21 |
-| Maghrib | 20:39:21 |
+| Maghrib | 20:39:20 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:32:44 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'58.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°26'18.42" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°7'52.75" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|2°0'2.21" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|4°50'41.69" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°9'6.14" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°26'11.92" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|11°26'58.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°26'18.28" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°7'54.40" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|2°0'2.10" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|4°50'38.00" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°9'4.77" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|27°31'36.30" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°26'58.13" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°26'19.81" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°7'52.75" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|11°26'58.19" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°26'18.28" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°7'54.40" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|2°0'2.21" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|4°50'41.69" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|12°9'6.14" |Gemini|HanAh|Mars|

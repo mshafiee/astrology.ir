@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:59:10 |
+| Fajr (Dawn) | 05:59:09 |
 | Sunrise | 07:22:32 |
 | Dhuhr (Noon) | 12:17:15 |
 | Medium Coeli | 12:17:15 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°53'17.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°18'9.56" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°53'17.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°18'9.42" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°42'28.48" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°36'0.76" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°32'3.01" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|21°42'24.47" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|27°36'52.56" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|6°36'0.73" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°32'2.97" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|21°42'24.43" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|27°36'52.60" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°53'17.45" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°18'9.56" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°53'17.50" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°18'9.42" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°42'28.48" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°36'0.76" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|10°32'3.01" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|21°42'24.47" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|27°36'52.56" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|6°36'0.73" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|10°32'2.97" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|21°42'24.43" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|27°36'52.60" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

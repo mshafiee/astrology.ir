@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:05:49 |
-| Sunrise | 07:34:33 |
+| Sunrise | 07:34:32 |
 | Dhuhr (Noon) | 12:39:39 |
 | Medium Coeli | 12:39:39 |
 | Sunset | 17:44:32 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 06:03:21 |
-| Sunrise | 07:34:33 |
+| Sunrise | 07:34:32 |
 | Dhuhr (Noon) | 12:39:39 |
 | Medium Coeli | 12:39:39 |
 | Sunset | 17:44:32 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 10:09:59|Night duration: 13:50:39|
+|Duration of the day: 10:10:00|Night duration: 13:50:39|
 |Every hour of day duration: 00:50:50|Every hour of night duration: 01:09:13|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|07:34:33|08:25:21|Creating corruption, hatred and enmity|
+|1|Mars|Ruler|07:34:32|08:25:21|Creating corruption, hatred and enmity|
 |2|Sun|Servant|08:25:22|09:16:11|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|09:16:12|10:07:01|Attracting connection and suitors|
 |4|Mercury|Servant|10:07:02|10:57:51|Attracting material wealth, earnings and business prosperity|
@@ -256,20 +256,20 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 10:09:59|Night duration: 13:50:39|
-|Every hour duration: 01:27:08|Every hour duration: 01:58:40|
+|Duration of the day: 10:10:00|Night duration: 13:50:39|
+|Every hour duration: 01:27:09|Every hour duration: 01:58:40|
 
  
  
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|07:34:33|09:01:40|
-|Mid-morning|Sun|Servant|09:01:41|10:28:48|
-|Late morning|Venus|Servant|10:28:49|11:55:57|
-|Noon|Mercury|Servant|11:55:58|13:23:05|
-|Early afternoon|Moon|Servant|13:23:06|14:50:14|
-|Mid-afternoon|Saturn|Servant|14:50:15|16:17:22|
+|Early morning|Mars|Ruler|07:34:32|09:01:39|
+|Mid-morning|Sun|Servant|09:01:40|10:28:48|
+|Late morning|Venus|Servant|10:28:49|11:55:56|
+|Noon|Mercury|Servant|11:55:57|13:23:05|
+|Early afternoon|Moon|Servant|13:23:06|14:50:13|
+|Mid-afternoon|Saturn|Servant|14:50:14|16:17:22|
 |Late afternoon|Jupiter|Servant|16:17:23|17:44:31|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°51'6.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°13'38.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°24'7.16" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°12'14.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°2'49.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|20°55'21.89" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|23°44'13.06" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|11°51'6.29" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°13'39.82" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°24'13.37" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|6°12'30.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°2'59.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|20°55'34.82" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|22°38'42.83" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°51'6.23" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°13'39.96" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°51'6.29" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°13'39.82" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°24'13.37" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°12'30.14" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|6°12'30.11" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|10°2'59.52" |Cancer|Nathrah|Mercury|
 |☿ Mercury|Direct|20°55'34.86" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|22°38'42.73" |Libra|Jubana|Jupiter|

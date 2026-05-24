@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 17:34:32 |
 | Maghrib | 17:49:06 |
 | Isha (Night) | 18:32:11 |
-| Sharia Midnight | 22:57:08 |
+| Sharia Midnight | 22:57:07 |
 | Imum Coeli | 23:30:18 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°49'43.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°10'51.05" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°12'45.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|5°57'44.74" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|9°44'44.69" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|20°25'58.30" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|19°28'45.03" |Virgo|Simak|Venus|
+|♄ Saturn|Direct|11°49'43.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°10'51.10" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°12'43.67" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|5°57'41.45" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|9°44'43.80" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|20°25'56.20" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|19°55'50.13" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°49'43.54" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°10'51.05" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°10'50.92" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°12'45.66" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|5°57'44.74" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|9°44'44.69" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|20°25'58.30" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|19°28'45.03" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|5°57'44.72" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|9°44'44.64" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°25'58.26" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|19°28'45.16" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

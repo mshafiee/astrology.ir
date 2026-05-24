@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:17 |
+| Sunset | 20:20:16 |
 | Maghrib | 20:43:14 |
 | Isha (Night) | 21:44:10 |
 | Sharia Midnight | 00:09:22 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:49:49 |
 | Dhuhr (Noon) | 13:04:49 |
 | Medium Coeli | 13:04:49 |
-| Sunset | 20:20:17 |
+| Sunset | 20:20:16 |
 | Maghrib | 20:21:34 |
 | Isha (Night) | 22:05:42 |
 | Sharia Midnight | 00:08:13 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:30:28|Night duration: 09:28:52|
+|Duration of the day: 14:30:27|Night duration: 09:28:53|
 |Every hour of day duration: 01:12:32|Every hour of night duration: 00:47:24|
 
  
@@ -218,30 +218,30 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Venus|Ruler|05:49:49|07:02:20|Love, creating love and attracting hearts|
 |2|Mercury|Servant|07:02:21|08:14:52|Attracting auspiciousness|
-|3|Moon|Servant|08:14:53|09:27:25|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:27:26|10:39:57|Unfortunate hour|
+|3|Moon|Servant|08:14:53|09:27:24|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:27:25|10:39:57|Unfortunate hour|
 |5|Jupiter|Servant|10:39:58|11:52:29|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:52:30|13:05:02|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|13:05:03|14:17:34|Promotion and attracting wealth|
-|8|Venus|Ruler|14:17:35|15:30:06|Auspicious and ultimate happiness and fortune|
-|9|Mercury|Servant|15:30:07|16:42:39|Causing separation and homelessness|
-|10|Moon|Servant|16:42:40|17:55:11|Extremely unfortunate|
-|11|Saturn|Servant|17:55:12|19:07:43|Creating an unfortunate horoscope for anyone|
-|12|Jupiter|Servant|19:07:44|20:20:16|Suitable for asking for a need|
+|6|Mars|Servant|11:52:30|13:05:01|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|13:05:02|14:17:33|Promotion and attracting wealth|
+|8|Venus|Ruler|14:17:34|15:30:06|Auspicious and ultimate happiness and fortune|
+|9|Mercury|Servant|15:30:07|16:42:38|Causing separation and homelessness|
+|10|Moon|Servant|16:42:39|17:55:10|Extremely unfortunate|
+|11|Saturn|Servant|17:55:11|19:07:42|Creating an unfortunate horoscope for anyone|
+|12|Jupiter|Servant|19:07:43|20:20:15|Suitable for asking for a need|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|20:20:17|21:07:40|Love, creating love and attracting hearts|
-|2|Sun|Servant|21:07:41|21:55:04|Attracting auspiciousness|
-|3|Venus|Servant|21:55:05|22:42:29|Attracting misfortune, no task is suitable|
-|4|Mercury|Servant|22:42:30|23:29:53|Unfortunate hour|
-|5|Moon|Servant|23:29:54|00:17:17|Achieving position and status and attracting job fortune|
-|6|Saturn|Servant|00:17:18|01:04:42|Creating attraction and acceptance among dignitaries|
-|7|Jupiter|Servant|01:04:43|01:52:06|Promotion and attracting wealth|
-|8|Mars|Ruler|01:52:07|02:39:30|Auspicious and ultimate happiness and fortune|
-|9|Sun|Servant|02:39:31|03:26:55|Causing separation and homelessness|
-|10|Venus|Servant|03:26:56|04:14:19|Extremely unfortunate|
+|1|Mars|Ruler|20:20:16|21:07:39|Love, creating love and attracting hearts|
+|2|Sun|Servant|21:07:40|21:55:03|Attracting auspiciousness|
+|3|Venus|Servant|21:55:04|22:42:28|Attracting misfortune, no task is suitable|
+|4|Mercury|Servant|22:42:29|23:29:52|Unfortunate hour|
+|5|Moon|Servant|23:29:53|00:17:17|Achieving position and status and attracting job fortune|
+|6|Saturn|Servant|00:17:18|01:04:41|Creating attraction and acceptance among dignitaries|
+|7|Jupiter|Servant|01:04:42|01:52:05|Promotion and attracting wealth|
+|8|Mars|Ruler|01:52:06|02:39:30|Auspicious and ultimate happiness and fortune|
+|9|Sun|Servant|02:39:31|03:26:54|Causing separation and homelessness|
+|10|Venus|Servant|03:26:55|04:14:19|Extremely unfortunate|
 |11|Mercury|Servant|04:14:20|05:01:43|Creating an unfortunate horoscope for anyone|
 |12|Moon|Servant|05:01:44|05:49:08|Suitable for asking for a need|
 
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 14:30:28|Night duration: 09:28:52|
+|Duration of the day: 14:30:27|Night duration: 09:28:53|
 |Every hour duration: 02:04:21|Every hour duration: 01:21:16|
 
  
@@ -270,18 +270,18 @@ Timetable of septet day and night planetary hours
 |Noon|Saturn|Servant|12:02:52|14:07:12|
 |Early afternoon|Jupiter|Servant|14:07:13|16:11:33|
 |Mid-afternoon|Mars|Servant|16:11:34|18:15:54|
-|Late afternoon|Sun|Servant|18:15:55|20:20:16|
+|Late afternoon|Sun|Servant|18:15:55|20:20:15|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|20:20:17|21:41:32|
-|Late evening|Sun|Servant|21:41:33|23:02:48|
-|Midnight|Venus|Servant|23:02:49|00:24:04|
-|Late at night|Mercury|Servant|00:24:05|01:45:20|
-|Rooster song|Moon|Servant|01:45:21|03:06:36|
-|False Dawn|Saturn|Servant|03:06:37|04:27:52|
-|Dawn|Jupiter|Servant|04:27:53|05:49:08|
+|Evening|Mars|Ruler|20:20:16|21:41:31|
+|Late evening|Sun|Servant|21:41:32|23:02:47|
+|Midnight|Venus|Servant|23:02:48|00:24:03|
+|Late at night|Mercury|Servant|00:24:04|01:45:19|
+|Rooster song|Moon|Servant|01:45:20|03:06:35|
+|False Dawn|Saturn|Servant|03:06:36|04:27:51|
+|Dawn|Jupiter|Servant|04:27:52|05:49:08|
 
 {{< /tab >}}
 
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°28'41.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|22°29'33.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°21'39.24" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|2°17'42.99" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|5°12'28.54" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°47'7.02" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|1°26'17.41" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°21'37.72" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|2°17'40.11" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|5°12'27.25" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°47'4.92" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|1°35'1.27" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

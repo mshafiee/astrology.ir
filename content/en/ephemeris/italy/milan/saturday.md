@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:19:59 |
 | Sunset | 20:56:01 |
 | Maghrib | 20:58:37 |
-| Isha (Night) | 23:12:31 |
+| Isha (Night) | 23:12:30 |
 | Sharia Midnight | 23:59:38 |
 | Imum Coeli | 01:20:01 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°27'15.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°26'51.61" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|3°10'14.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|2°3'2.70" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|4°54'21.05" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|12°15'33.63" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|28°13'36.97" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|11°27'15.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°26'51.47" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|3°10'14.67" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|2°3'2.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|4°54'21.01" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|12°15'33.60" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|28°13'36.05" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°27'15.80" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°26'51.61" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|3°10'14.66" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|2°3'2.70" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|4°54'21.05" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|12°15'33.63" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|28°13'36.97" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|11°27'15.86" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°26'51.47" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|3°10'14.67" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|2°3'2.68" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|4°54'21.01" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|12°15'33.60" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|28°13'36.05" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
