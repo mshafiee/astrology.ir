@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:54:12 |
+| Fajr (Dawn) | 01:54:13 |
 | Sunrise | 05:03:51 |
 | Dhuhr (Noon) | 12:59:14 |
 | Medium Coeli | 12:59:14 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°38'16.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°47'59.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°38'44.92" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|3°56'44.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|7°15'7.70" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|16°17'35.61" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|23°47'19.61" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|22°48'0.24" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°38'45.81" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|3°56'46.93" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|7°15'9.64" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|16°17'37.76" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|23°46'41.61" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

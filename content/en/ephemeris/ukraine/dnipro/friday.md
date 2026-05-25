@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:37:13 |
 | Sunset | 20:30:24 |
 | Maghrib | 20:32:21 |
-| Isha (Night) | 23:11:51 |
+| Isha (Night) | 23:11:50 |
 | Sharia Midnight | 23:06:53 |
 | Imum Coeli | 00:37:17 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°59'33.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°31'13.30" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°59'33.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°31'13.43" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°35'12.57" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°43'57.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°56'1.34" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°55'26.59" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|12°9'15.59" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|7°43'57.91" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°56'1.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°55'26.63" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°9'15.76" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°59'33.18" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°31'13.30" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°59'33.13" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°31'13.43" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°35'12.57" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°43'57.88" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°56'1.34" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|23°55'26.59" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|12°9'15.59" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|7°43'57.91" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°56'1.38" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|23°55'26.63" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|12°9'15.76" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°56'8.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°24'3.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°6'16.19" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°6'38.44" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°10'2.87" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°42'59.76" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°23'19.90" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|23°24'3.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°6'22.20" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°6'48.69" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°10'5.78" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°43'6.31" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°0'48.36" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Aran'estad, Oran'estad, Oranestad, Oraniestat, Oranjestad, Oranjestad pa Aruba, Oranjestad på Aruba, Oranjestadas, Oranjestade, Oranjestado, Oranjested, Oranjestêd, ao la nie si ta de, awrnjstad, olanyeseutateu, oraniesutaddo, oraniyecuttatu, oranjestada, xo ran yes tad, Οράνιεστατ, Араньестад, Оранестад, Ораньестад, Ораньєстад, Орањестад, אורנייסטאד, أورنجستاد, اورنجستاد, اورنجسٹیڈ، اروبا, ओरांजेश्टाड, ஒரானியெசுத்தாடு, โอรันเยสตัด, ორანესტადი, オラニエスタッド, 奥拉涅斯塔德, 오라녜스타트

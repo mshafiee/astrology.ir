@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°57'53.55" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°27'46.60" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°21'14.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°25'55.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°33'53.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°20'40.59" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|9°33'21.87" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|11°57'55.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°27'46.80" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°21'21.47" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°26'8.19" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°33'57.75" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°20'49.17" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|8°0'53.88" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:07:18 |
 | Sunset | 19:14:06 |
 | Maghrib | 19:15:19 |
-| Isha (Night) | 20:57:16 |
+| Isha (Night) | 20:57:15 |
 | Sharia Midnight | 23:15:40 |
 | Imum Coeli | 00:07:22 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°52'58.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°17'31.09" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°52'58.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°17'31.22" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°39'53.43" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°32'40.20" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°27'56.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|21°35'48.55" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|27°2'42.71" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|6°32'40.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°27'56.17" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|21°35'48.60" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|27°2'42.66" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°52'58.88" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°17'31.09" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°52'58.83" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°17'31.22" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°39'53.43" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°32'40.20" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|10°27'56.13" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|21°35'48.55" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|27°2'42.71" |Libra|Akleel|Jupiter|
+|☉ Sun|Direct|6°32'40.22" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|10°27'56.17" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|21°35'48.60" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|27°2'42.66" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

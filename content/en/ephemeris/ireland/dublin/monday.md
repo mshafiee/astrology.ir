@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:21:55 |
 | Sunset | 21:33:58 |
 | Maghrib | 22:04:22 |
-| Isha (Night) | 00:16:57 |
+| Isha (Night) | 00:16:58 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:21:58 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°38'31.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°48'29.95" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°40'49.69" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|3°59'24.57" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|7°18'26.23" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|16°23'11.58" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|24°23'51.71" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|11°38'31.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°48'29.80" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°40'49.70" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|3°59'24.55" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|7°18'26.19" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|16°23'11.55" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|24°23'51.65" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°38'31.66" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°48'29.95" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°40'49.69" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|3°59'24.57" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°18'26.23" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|11°38'31.72" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°48'29.80" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°40'49.70" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|3°59'24.55" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°18'26.19" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|16°23'11.55" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|24°23'51.65" |Virgo|Simak|Mercury|
 

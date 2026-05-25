@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°27'43.38" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°21'7.50" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|7°25'50.28" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°33'35.52" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°20'14.10" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|7°56'11.81" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°33'30.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°20'5.60" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|9°27'58.86" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°57'53.42" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°27'43.29" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°21'0.71" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°25'37.88" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°33'30.99" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|23°20'5.64" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|9°27'58.97" |Scorpio|Qalb|Mars|
+|♄ Saturn|Direct|11°57'53.47" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°27'43.25" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°21'7.50" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|7°25'50.25" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°33'35.48" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|23°20'14.06" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|7°56'11.70" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Sun|Mercury|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Niukalofa, Noukoualopha, Nucualofa, Nukalofa, Nuku'alofa, Nuku`alofa, Nuku`aloia, Nukualofa, Nukuʻalofa, Nuku‘alofa, Nuku‘aloia, Nuku’alofa, TBU, nu ku a luo fa, nu kuxalofa, nukuallopa, nukuarofa, Νουκουαλόφα, Нукуалофа, נוקואלופה, นูกูอะโลฟา, ኑኩአሎፋ, ヌクアロファ, 努库阿洛法, 努庫阿洛發, 누쿠알로파
