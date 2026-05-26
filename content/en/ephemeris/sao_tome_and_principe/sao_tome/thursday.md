@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:19:44 |
+| Fajr (Dawn) | 04:19:43 |
 | Sunrise | 05:26:03 |
 | Dhuhr (Noon) | 11:30:21 |
 | Medium Coeli | 11:30:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°55'4.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°21'51.37" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°57'27.63" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°55'19.91" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°55'54.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°20'33.09" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°33'51.80" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|11°55'4.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°21'51.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°57'25.65" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|6°55'16.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°55'53.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°20'31.04" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°0'45.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

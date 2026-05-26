@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:16:46 |
 | Sunset | 18:50:25 |
 | Maghrib | 18:51:26 |
-| Isha (Night) | 19:57:48 |
+| Isha (Night) | 19:57:49 |
 | Sharia Midnight | 23:43:04 |
 | Imum Coeli | 00:16:50 |
 {{< /tab >}}
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°50'41.15" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°12'48.39" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°20'44.41" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°8'0.81" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|9°57'26.80" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|20°46'36.16" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|21°43'16.64" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|6°7'45.54" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|9°57'18.72" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|20°46'24.48" |Taurus|Dabaran|Saturn|
+|☾ Moon|Direct|23°9'42.97" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Jupiter|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°50'41.15" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°12'48.39" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°50'41.10" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°12'48.53" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°20'44.41" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°8'0.81" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|9°57'26.80" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|20°46'36.16" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|21°43'16.64" |Libra|Jubana|Jupiter|
+|☉ Sun|Direct|6°8'0.84" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|9°57'26.84" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°46'36.20" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|21°43'16.53" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

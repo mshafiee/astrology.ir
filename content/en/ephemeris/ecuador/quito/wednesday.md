@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°56'20.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°24'29.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°8'5.51" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°9'2.12" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°12'50.26" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°47'26.97" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°25'31.76" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|11°56'20.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°24'29.43" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°7'59.15" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°8'51.21" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°12'47.06" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°47'19.95" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°52'29.88" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°56'20.72" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°24'29.25" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°56'20.67" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°24'29.39" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°8'5.51" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°9'2.12" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°12'50.26" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|22°47'26.97" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°25'31.76" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°9'2.15" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°12'50.30" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|22°47'27.01" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°25'31.82" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

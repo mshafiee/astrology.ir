@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:33:53 |
 | Sunset | 18:51:56 |
 | Maghrib | 18:53:23 |
-| Isha (Night) | 20:23:26 |
+| Isha (Night) | 20:23:25 |
 | Sharia Midnight | 22:48:05 |
 | Imum Coeli | 23:33:57 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°3'22.78" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°39'21.33" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°7'46.67" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°25'59.68" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°47'53.56" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°15'51.36" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|20°44'44.78" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|23°39'21.18" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°7'46.82" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°25'59.88" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°47'53.54" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°15'51.44" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|20°42'50.75" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°3'22.78" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°39'21.33" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°7'46.67" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°25'59.68" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°47'53.56" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|25°15'51.36" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°44'44.78" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|23°39'21.18" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°7'46.82" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°25'59.88" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°47'53.54" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|25°15'51.48" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|20°42'50.75" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

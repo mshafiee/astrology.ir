@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:44:21 |
 | Sunrise | 05:59:12 |
-| Dhuhr (Noon) | 11:58:23 |
-| Medium Coeli | 11:58:23 |
+| Dhuhr (Noon) | 11:58:22 |
+| Medium Coeli | 11:58:22 |
 | Sunset | 17:57:32 |
 | Maghrib | 17:58:29 |
 | Isha (Night) | 19:08:07 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:57:17 |
 | Sunrise | 05:59:12 |
-| Dhuhr (Noon) | 11:58:22 |
-| Medium Coeli | 11:58:22 |
+| Dhuhr (Noon) | 11:58:23 |
+| Medium Coeli | 11:58:23 |
 | Sunset | 17:57:32 |
 | Maghrib | 17:58:29 |
 | Isha (Night) | 18:59:29 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°4'11.63" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°41'5.80" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°14'43.49" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°34'59.13" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°58'57.41" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°32'49.47" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|22°16'56.00" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|12°4'11.68" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°41'5.67" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°14'43.48" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°34'59.10" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°58'57.37" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°32'49.43" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|22°16'55.67" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

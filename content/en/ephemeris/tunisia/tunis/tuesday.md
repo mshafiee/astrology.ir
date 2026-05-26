@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:16:22 |
 | Medium Coeli | 12:16:22 |
 | Sunset | 19:28:54 |
-| Maghrib | 19:51:12 |
+| Maghrib | 19:51:13 |
 | Isha (Night) | 20:49:58 |
 | Sharia Midnight | 23:23:01 |
 | Imum Coeli | 00:16:25 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°43'59.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°59'18.27" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°25'26.45" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|4°56'49.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|8°29'27.39" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|18°22'11.42" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°55'46.07" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|22°59'16.30" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°25'25.72" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|4°56'42.68" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|8°29'19.05" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|18°22'4.20" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°25'9.18" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Gemini|Moon|Venus|
 |♀ Venus|Moon|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}

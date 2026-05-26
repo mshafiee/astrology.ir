@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:11:33 |
+| Fajr (Dawn) | 05:11:32 |
 | Sunrise | 06:30:59 |
 | Dhuhr (Noon) | 12:09:00 |
 | Medium Coeli | 12:09:00 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'15.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°34'50.13" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°1'15.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°34'50.26" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°49'42.14" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°2'41.76" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°19'6.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|24°31'22.73" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°35'13.99" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|8°2'41.79" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°19'6.16" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|24°31'22.77" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°35'14.22" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'15.77" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°34'50.13" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°1'15.72" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°34'50.26" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°49'42.14" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°2'41.76" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°19'6.12" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°31'22.73" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|15°35'14.90" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°2'41.79" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°19'6.16" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°31'22.77" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|15°35'14.22" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°45'24.03" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°2'6.43" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°36'59.89" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|5°11'42.13" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|8°47'49.16" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|18°52'37.39" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|9°45'7.23" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|5°11'25.71" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|8°47'39.64" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|18°52'24.51" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|10°56'13.62" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Moon|
 |♀ Venus|Jupiter|Jupiter|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Mercury|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Saturn|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Jupiter|Virgo|Sun|Mercury|
 |☿ Mercury|Jupiter|Mercury|Sagittarius|Sun|Saturn|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°45'24.03" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°2'6.43" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°45'23.98" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°2'6.57" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°36'59.89" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|5°11'42.13" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|5°11'42.15" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|8°47'49.16" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|18°52'37.39" |Gemini|Dhira|Mars|
 |☾ Moon|Direct|9°45'7.23" |Libra|Ghafr|Moon|

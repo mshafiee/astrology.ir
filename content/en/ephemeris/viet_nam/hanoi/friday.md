@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:47:59 |
+| Fajr (Dawn) | 03:47:58 |
 | Sunrise | 05:14:55 |
 | Dhuhr (Noon) | 11:54:00 |
 | Medium Coeli | 11:54:00 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°4'1.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°40'44.73" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°13'20.08" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°33'10.86" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°56'44.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°29'26.14" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|22°2'21.06" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|12°4'1.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°40'44.86" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°13'20.09" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°33'10.89" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°56'44.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°29'26.18" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|22°2'21.38" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°4'1.89" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°40'44.73" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°13'20.08" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°33'10.86" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°56'44.55" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°29'26.14" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|22°2'21.06" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|12°4'1.84" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°40'44.86" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°13'20.09" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°33'10.89" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°56'44.59" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°29'26.18" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|22°2'21.38" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 20:41:59 |
 | Isha (Night) | 21:46:24 |
 | Sharia Midnight | 00:15:30 |
-| Imum Coeli | 01:05:03 |
+| Imum Coeli | 01:05:02 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 20:45:00 |
 | Isha (Night) | 21:46:24 |
 | Sharia Midnight | 00:09:07 |
-| Imum Coeli | 01:05:02 |
+| Imum Coeli | 01:05:03 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 20:23:13 |
 | Isha (Night) | 22:15:49 |
 | Sharia Midnight | 00:07:57 |
-| Imum Coeli | 01:05:03 |
+| Imum Coeli | 01:05:02 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 20:23:13 |
 | Isha (Night) | 21:53:13 |
 | Sharia Midnight | 00:05:59 |
-| Imum Coeli | 01:05:02 |
+| Imum Coeli | 01:05:03 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°39'49.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°51'1.93" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|4°51'20.33" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|4°12'56.48" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|7°35'9.52" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|16°51'23.98" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|11°39'49.28" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°51'2.07" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|4°51'20.32" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|4°12'56.50" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|7°35'9.57" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|16°51'24.02" |Taurus|Dabaran|Moon|
 |☾ Moon|Direct|27°15'25.76" |Leo|Sarfrah|Mars|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°39'49.33" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°51'1.93" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|4°51'20.33" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|4°12'56.48" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|7°35'9.52" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|16°51'23.98" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|11°39'49.28" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°51'2.07" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|4°51'20.32" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|4°12'56.50" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|7°35'9.57" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|16°51'24.02" |Gemini|HanAh|Mars|
 |☾ Moon|Direct|27°15'25.76" |Virgo|Simak|Mercury|
 
 

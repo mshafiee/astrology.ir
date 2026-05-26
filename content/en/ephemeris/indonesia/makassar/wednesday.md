@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:59:23 |
 | Sunset | 17:55:06 |
 | Maghrib | 17:56:04 |
-| Isha (Night) | 18:56:58 |
+| Isha (Night) | 18:56:59 |
 | Sharia Midnight | 23:28:30 |
 | Imum Coeli | 23:59:26 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°53'26.56" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°18'27.86" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|6°43'44.62" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°37'38.91" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|10°34'3.08" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|21°45'37.61" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|27°46'42.77" |Libra|Akleel|Jupiter|
+|♃ Jupiter|Direct|23°18'28.21" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|6°43'44.41" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|6°37'39.14" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|10°34'3.86" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|21°45'38.13" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|27°51'19.67" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

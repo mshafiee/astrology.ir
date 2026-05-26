@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 11:59:21 |
 | Medium Coeli | 11:59:21 |
 | Sunset | 18:19:51 |
-| Maghrib | 18:37:00 |
+| Maghrib | 18:36:59 |
 | Isha (Night) | 19:19:23 |
 | Sharia Midnight | 23:21:13 |
 | Imum Coeli | 23:59:25 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'30.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°35'21.52" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°1'30.48" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°35'21.39" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°51'47.54" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°5'23.33" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°22'25.88" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|24°36'32.65" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|16°11'39.82" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|8°5'23.30" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°22'25.84" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|24°36'32.61" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|16°11'39.58" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'30.43" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°35'21.52" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°1'30.48" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°35'21.39" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°51'47.54" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°5'23.33" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°22'25.88" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°36'32.65" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°11'39.82" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°5'23.30" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°22'25.84" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°36'32.61" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°11'39.58" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

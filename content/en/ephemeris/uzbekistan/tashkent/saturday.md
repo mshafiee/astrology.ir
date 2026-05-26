@@ -226,7 +226,7 @@ Timetable of twelve day and night planetary hours
 |8|Saturn|Ruler|13:35:23|14:49:56|Destruction of enemies|
 |9|Jupiter|Servant|14:49:57|16:04:29|All good deeds|
 |10|Mars|Servant|16:04:30|17:19:02|Doing evil deeds|
-|11|Sun|Servant|17:19:03|18:33:35|The moon is in Scorpio, Not suitable for doing anything.|
+|11|Sun|Servant|17:19:03|18:33:35|Acceptance of reconciliation between couples|
 |12|Venus|Servant|18:33:36|19:48:09|The moon is in Scorpio, Not suitable for doing anything.|
 
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°9'33.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°52'43.15" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°9'33.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°52'43.28" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|9°0'54.50" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|9°34'35.65" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|14°12'31.67" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|27°24'6.71" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|5°0'14.66" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°34'35.67" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|14°12'31.70" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|27°24'6.74" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°0'15.18" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°9'33.19" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°52'43.15" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°9'33.14" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°52'43.28" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°0'54.50" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|9°34'35.65" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|9°34'35.67" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|14°12'31.70" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|27°24'6.74" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|5°0'15.18" |Sagittarius|NaAaem|Mercury|

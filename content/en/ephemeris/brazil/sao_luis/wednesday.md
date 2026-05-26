@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|7°3'40.51" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°6'12.94" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|22°36'56.63" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°18'2.51" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°18'2.46" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°55'51.01" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°23'27.59" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°55'51.06" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°23'27.45" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°3'55.97" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°3'40.51" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°6'12.94" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|22°36'56.63" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°18'2.51" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°3'40.48" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°6'12.89" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|22°36'56.59" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°18'2.46" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Maranham, Maranhao, Maranhão, SLZ, San Luisas, San-Luis, Sao Louis, Sao Luis, Sao Luis do Maranhao, Sao Luiz, Sao Luiz de Maranhao, Sao Luiz do Maranhao, Saun Luis, Saun Luís, São Luis, São Luiz, São Luiz de Maranhão, São Luiz do Maranhão, São Luís, São Luís do Maranhão, cavo luyicu, sa'o lu'isa, san-luisi, sanglu-iseu, saw lwyys, saw lwyz, sayw lwyys  maranhaw, sheng lu yi si, Σάο Λουίς, Сан-Луис, Сан-Луіс, Сан-Луїс, Сао Луис, סאו לואיס, ساؤ لوئیس, ساؤ لوئیس، مارانہاؤ, سائو لوئیس، مارانهاو, ساو لويز, साओ लुईस, সাও লুইস, சாவோ லூயிசு, სან-ლუისი, サン・ルイス, 圣路易斯, 상루이스

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'39.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°35'39.97" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°1'39.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°35'40.10" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°53'1.96" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°6'59.27" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°24'24.36" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|24°39'36.30" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|16°32'12.58" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|8°6'59.29" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°24'24.29" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|24°39'33.23" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|17°30'36.03" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'39.22" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°35'39.97" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°1'39.17" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°35'40.10" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°53'1.96" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°6'59.27" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°24'24.36" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°39'36.30" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°32'12.58" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°6'59.29" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°24'24.40" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°39'36.34" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°32'12.82" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:58:54 |
 | Medium Coeli | 13:58:54 |
 | Sunset | 21:20:40 |
-| Maghrib | 21:21:59 |
+| Maghrib | 21:22:00 |
 | Isha (Night) | 23:18:35 |
 | Sharia Midnight | 00:59:54 |
 | Imum Coeli | 01:58:58 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:58:54 |
 | Medium Coeli | 13:58:54 |
 | Sunset | 21:20:40 |
-| Maghrib | 21:21:59 |
-| Isha (Night) | 22:51:59 |
+| Maghrib | 21:22:00 |
+| Isha (Night) | 22:52:00 |
 | Sharia Midnight | 00:57:49 |
 | Imum Coeli | 01:58:58 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°0'11.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°32'33.55" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°40'34.45" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°50'53.75" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°4'34.25" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|24°8'46.97" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|13°29'29.12" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|12°0'11.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°32'33.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°40'34.57" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°50'53.84" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°4'34.12" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|24°8'46.94" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|13°27'55.68" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

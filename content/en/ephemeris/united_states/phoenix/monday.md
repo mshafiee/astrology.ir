@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°45'52.41" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°3'3.79" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|5°40'54.75" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|5°16'43.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|8°54'3.06" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|19°2'55.34" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|10°57'35.42" |Virgo|Awwa|Venus|
+|♄ Saturn|Direct|11°45'52.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°3'3.65" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|5°40'54.76" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|5°16'43.39" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|8°54'4.22" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|19°2'56.28" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|11°2'45.74" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°45'52.41" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°3'3.79" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|23°3'4.09" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°40'54.75" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|5°16'43.42" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°54'3.06" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|19°2'55.34" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|10°57'35.42" |Libra|Ghafr|Saturn|
+|☉ Sun|Direct|5°16'44.18" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°54'4.22" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°2'56.28" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|11°2'45.74" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Mercury|Venus|Saturn|Venus|
+|☾ Moon|Mercury|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

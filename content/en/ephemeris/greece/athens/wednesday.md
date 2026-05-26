@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:22:14 |
 | Sunset | 20:38:26 |
 | Maghrib | 20:40:40 |
-| Isha (Night) | 22:27:02 |
+| Isha (Night) | 22:27:01 |
 | Sharia Midnight | 00:20:08 |
 | Imum Coeli | 01:22:17 |
 {{< /tab >}}
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|5°52'6.68" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|9°37'48.67" |Gemini|HanAh|Jupiter|
 |☿ Mercury|Direct|20°14'41.58" |Taurus|Dabaran|Saturn|
-|☾ Moon|Direct|18°59'53.82" |Virgo|Simak|Venus|
+|☾ Moon|Direct|18°31'29.29" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°49'11.97" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°9'46.81" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°49'11.92" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°9'46.95" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°8'24.27" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|5°52'6.65" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|9°37'48.63" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|20°14'41.54" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|18°31'29.42" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|5°52'6.68" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|9°37'48.67" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°14'39.32" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|18°26'18.85" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

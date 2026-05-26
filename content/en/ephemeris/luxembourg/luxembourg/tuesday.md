@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:06:38 |
+| Fajr (Dawn) | 03:06:39 |
 | Sunrise | 05:38:08 |
 | Dhuhr (Noon) | 13:32:31 |
 | Medium Coeli | 13:32:31 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°43'53.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|22°59'5.91" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°43'53.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|22°59'5.77" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|5°24'37.45" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|4°55'44.67" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|8°28'7.70" |Gemini|HanAh|Jupiter|
-|☿ Mercury|Direct|18°20'0.76" |Taurus|Dabaran|Moon|
-|☾ Moon|Direct|6°36'30.94" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|4°55'44.65" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|8°28'7.66" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|18°20'0.72" |Taurus|Dabaran|Moon|
+|☾ Moon|Direct|6°36'31.07" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°43'53.48" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|22°59'5.91" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°43'53.54" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|22°59'5.77" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|5°24'37.45" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|4°55'44.67" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|8°28'7.70" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|18°20'0.76" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|6°36'30.94" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|4°55'44.65" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|8°28'7.66" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|18°20'0.72" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|6°36'31.07" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

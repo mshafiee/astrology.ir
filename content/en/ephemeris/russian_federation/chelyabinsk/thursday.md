@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 04:26:23 |
 | Dhuhr (Noon) | 12:51:32 |
 | Medium Coeli | 12:51:32 |
-| Sunset | 21:17:36 |
+| Sunset | 21:17:37 |
 | Maghrib | 21:51:27 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 04:26:23 |
 | Dhuhr (Noon) | 12:51:32 |
 | Medium Coeli | 12:51:32 |
-| Sunset | 21:17:36 |
+| Sunset | 21:17:37 |
 | Maghrib | 21:56:50 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 04:26:23 |
 | Dhuhr (Noon) | 12:51:32 |
 | Medium Coeli | 12:51:32 |
-| Sunset | 21:17:37 |
+| Sunset | 21:17:36 |
 | Maghrib | 21:22:27 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 04:26:23 |
 | Dhuhr (Noon) | 12:51:32 |
 | Medium Coeli | 12:51:32 |
-| Sunset | 21:17:36 |
+| Sunset | 21:17:37 |
 | Maghrib | 21:22:27 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
