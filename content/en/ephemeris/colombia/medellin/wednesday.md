@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°56'15.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°24'18.84" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°7'23.70" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°8'7.50" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°11'42.55" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°45'40.43" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°12'50.65" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|11°56'15.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°24'18.98" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°7'23.54" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°8'7.93" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°11'43.46" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°45'41.12" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|4°15'28.95" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인

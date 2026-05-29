@@ -219,7 +219,7 @@ Timetable of twelve day and night planetary hours
 |1|Saturn|Ruler|05:42:29|06:45:59|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|06:46:00|07:49:31|Peace among people|
 |3|Mars|Servant|07:49:32|08:53:03|Vengeful and evil deeds|
-|4|Sun|Servant|08:53:04|09:56:35|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Sun|Servant|08:53:04|09:56:35|Dominance, judgment and issuing verdict|
 |5|Venus|Servant|09:56:36|11:00:07|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Mercury|Servant|11:00:08|12:03:39|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|12:03:40|13:07:10|The moon is in Scorpio, Not suitable for doing anything.|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°57'53.73" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°27'43.77" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°21'9.68" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°25'53.16" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°33'38.95" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°20'19.49" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|7°55'32.89" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|11°57'53.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°27'43.90" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°21'3.14" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°25'41.77" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°33'35.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°20'12.07" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|9°24'22.81" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°57'53.73" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°27'43.77" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°21'9.68" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°25'53.16" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°33'38.95" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|23°20'19.49" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|7°55'32.89" |Scorpio|Akleel|Mars|
+|♄ Saturn|Direct|11°57'53.68" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°27'43.90" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°21'9.69" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|7°25'53.19" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°33'38.99" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|23°20'19.53" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|7°55'33.00" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: FUN, Fongafale, Fongafale (atolon de Funafuti), Fongafale (atolón de Funafuti), Funafuti, Phounaphouti, punaputi, Φουναφούτι, 푸나푸티

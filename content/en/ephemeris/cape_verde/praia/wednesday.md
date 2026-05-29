@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°55'26.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°22'36.03" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°0'28.30" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°59'12.42" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°0'42.23" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°28'11.22" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|2°26'23.12" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|11°55'26.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°22'35.05" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°0'26.26" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|6°59'6.28" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°0'37.18" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°28'5.55" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|2°48'42.07" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Capricorn|Sun|Saturn|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°55'26.32" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°22'36.03" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°55'26.27" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°22'36.17" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°0'28.30" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°59'12.42" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°0'42.23" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|22°28'11.22" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°26'23.12" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°59'12.45" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°0'42.27" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|22°28'11.26" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|2°26'23.15" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Braia, Cidade da Praia, Municipio da Praia, Município da Praia, Pragia, Praia, Praja, Praje, Prajo, Prajė, Praya, RAI, braya, pei ya, peulaia, pirxa, pra'i'a, pra'iya, praya, prayya, puraia, Πράγια, Πράια, Прая, Праја, Պրայա, פראיה, برايا, پرائا, پرائیا, پرايا, پرایا, پڕایا, प्राईया, ਪ੍ਰਾਈਆ, ไปรอา, ཕུ་ར་ཡ།, პრაია, ፕራያ, プライア, 培亞, 프라이아

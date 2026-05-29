@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 13:07:53 |
 | Medium Coeli | 13:07:53 |
 | Sunset | 20:44:55 |
-| Maghrib | 21:11:32 |
+| Maghrib | 21:11:33 |
 | Isha (Night) | 22:25:13 |
 | Sharia Midnight | 23:59:36 |
 | Imum Coeli | 01:07:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°10'19.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°54'25.49" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°10'19.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°54'25.62" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|9°7'39.20" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|9°43'18.33" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|14°23'16.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|27°40'7.80" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|6°50'53.48" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°43'18.35" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|14°23'16.48" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|27°40'7.83" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|6°50'54.02" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°10'19.82" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°54'25.49" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°10'19.77" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°54'25.62" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°7'39.20" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|9°43'18.33" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|14°23'16.44" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|27°40'7.80" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|6°50'53.48" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|9°43'18.35" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|14°23'16.48" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|27°40'7.83" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|6°50'54.02" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

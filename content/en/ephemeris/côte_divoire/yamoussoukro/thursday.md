@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:18:23 |
 | Sunset | 18:32:57 |
 | Maghrib | 18:35:09 |
-| Isha (Night) | 19:44:55 |
+| Isha (Night) | 19:44:56 |
 | Sharia Midnight | 23:40:11 |
 | Imum Coeli | 00:18:26 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°55'13.19" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°22'8.73" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|6°58'37.89" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°56'50.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°57'46.53" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°23'31.41" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|1°54'2.41" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|11°55'13.14" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°22'8.86" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|6°58'37.87" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|6°56'50.34" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°57'46.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°23'31.31" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|1°54'5.64" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

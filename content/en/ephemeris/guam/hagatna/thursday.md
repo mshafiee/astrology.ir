@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°58'16.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°28'30.96" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°58'16.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°28'31.09" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°24'19.80" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°29'57.94" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°38'41.71" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°28'15.99" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|8°50'50.85" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|7°29'57.97" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°38'41.74" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°28'16.03" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|8°50'50.97" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°58'16.20" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°28'30.96" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°58'16.15" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°28'31.09" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°24'19.80" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°29'57.94" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°38'41.71" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|23°28'15.99" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°50'50.85" |Scorpio|Qalb|Mars|
+|☉ Sun|Direct|7°29'57.97" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°38'41.74" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|23°28'16.03" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|8°50'50.97" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Agadna, Agana, Agana -1998, Agania, Aganija, Aganja, Agano, Agaña, Aguana, Akashi, Akashi - JP renamed WW2, Ankana, City of Ignacio de Agana, City of Saint Ignacio de Agana, Ciudad de San Ignacio de Agana, Hagadna, Hagatna, Hagåtña, Haqatna, Jagatna, Khagatna, San Ignacio de Agana *, Ville d'Agana, Vjoska Agan'ja, a jia ni ya, akatna, ha katya, hagania, hagasnya, hagatna, hagatnya, haghatnya, hegatn'ya, Αγκάνα, Вёска Аганья, Хагатна, Хагатња, Հագատնա, هاغاتنيا, هاگاتنا, هاگاتنیا, हेगात्न्या, அகாத்ன, ฮากาตญา, ჰაგატნა, ハガニア, 阿加尼亚, 하갓냐

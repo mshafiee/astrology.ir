@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 13:01:50 |
 | Sunset | 20:48:11 |
 | Maghrib | 21:12:48 |
-| Isha (Night) | 22:39:07 |
+| Isha (Night) | 22:39:06 |
 | Sharia Midnight | 23:55:03 |
 | Imum Coeli | 01:01:53 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 13:01:50 |
 | Sunset | 20:48:11 |
 | Maghrib | 21:16:33 |
-| Isha (Night) | 22:39:06 |
+| Isha (Night) | 22:39:07 |
 | Sharia Midnight | 23:43:51 |
 | Imum Coeli | 01:01:53 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°54'22.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°20'23.47" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|11°54'22.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°20'23.60" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°51'32.06" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|6°47'39.59" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°46'28.51" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°5'30.99" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|6°47'39.62" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|10°46'28.55" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°5'31.03" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|0°20'57.34" |Libra|Ghafr|Moon|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°54'22.28" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°20'23.47" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°54'22.23" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°20'23.60" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°51'32.06" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°47'39.59" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|10°46'28.51" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|22°5'30.99" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|6°47'39.62" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|10°46'28.55" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|22°5'31.03" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|0°20'57.34" |Scorpio|Akleel|Mars|
 
 

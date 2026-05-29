@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:04:09 |
 | Sunset | 19:13:21 |
 | Maghrib | 19:19:13 |
-| Isha (Night) | 20:51:50 |
+| Isha (Night) | 20:51:49 |
 | Sharia Midnight | 23:11:29 |
 | Imum Coeli | 00:04:13 |
 {{< /tab >}}
@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:04:09 |
 | Sunset | 19:13:21 |
 | Maghrib | 19:19:13 |
-| Isha (Night) | 20:38:38 |
+| Isha (Night) | 20:38:37 |
 | Sharia Midnight | 23:21:29 |
 | Imum Coeli | 00:04:13 |
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|9°38'17.57" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|14°17'4.82" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|27°30'54.17" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|5°40'27.16" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|5°40'26.63" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

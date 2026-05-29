@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°14'14.25" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|12°14'14.30" |Aries|Sharatain|Sun|
 |♃ Jupiter|Direct|24°3'4.51" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°41'44.52" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|10°27'22.81" |Gemini|HanAh|Mars|

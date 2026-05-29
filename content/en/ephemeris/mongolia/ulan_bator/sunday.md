@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:50:06 |
 | Medium Coeli | 12:50:06 |
 | Sunset | 20:41:49 |
-| Maghrib | 20:49:33 |
+| Maghrib | 20:49:34 |
 | Isha (Night) | 22:52:02 |
 | Sharia Midnight | 23:44:55 |
 | Imum Coeli | 00:50:10 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:50:06 |
 | Medium Coeli | 12:50:06 |
 | Sunset | 20:41:49 |
-| Maghrib | 20:49:34 |
+| Maghrib | 20:49:33 |
 | Isha (Night) | 23:38:00 |
 | Sharia Midnight | 23:21:56 |
 | Imum Coeli | 00:50:10 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:50:06 |
 | Medium Coeli | 12:50:06 |
 | Sunset | 20:41:49 |
-| Maghrib | 20:49:33 |
-| Isha (Night) | 22:19:33 |
+| Maghrib | 20:49:34 |
+| Isha (Night) | 22:19:34 |
 | Sharia Midnight | 23:16:37 |
 | Imum Coeli | 00:50:10 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°14'2.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°2'36.80" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°39'57.29" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|10°24'58.45" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|15°14'42.15" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|28°55'58.20" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|16°24'39.07" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|24°2'38.02" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°39'59.95" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|10°25'6.46" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|15°14'48.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|28°56'6.00" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°33'26.16" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

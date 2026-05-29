@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:58:54 |
 | Medium Coeli | 13:58:54 |
 | Sunset | 21:20:40 |
-| Maghrib | 21:22:00 |
+| Maghrib | 21:21:59 |
 | Isha (Night) | 23:10:30 |
 | Sharia Midnight | 00:59:54 |
 | Imum Coeli | 01:58:58 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:58:54 |
 | Medium Coeli | 13:58:54 |
 | Sunset | 21:20:40 |
-| Maghrib | 21:22:00 |
+| Maghrib | 21:21:59 |
 | Isha (Night) | 23:18:35 |
 | Sharia Midnight | 00:59:54 |
 | Imum Coeli | 01:58:58 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:58:54 |
 | Medium Coeli | 13:58:54 |
 | Sunset | 21:20:40 |
-| Maghrib | 21:22:00 |
-| Isha (Night) | 22:52:00 |
+| Maghrib | 21:21:59 |
+| Isha (Night) | 22:51:59 |
 | Sharia Midnight | 00:57:49 |
 | Imum Coeli | 01:58:58 |
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|7°40'34.57" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|7°50'53.84" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|12°4'34.12" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°8'46.94" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|13°27'55.68" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|24°8'47.01" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|13°29'29.31" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

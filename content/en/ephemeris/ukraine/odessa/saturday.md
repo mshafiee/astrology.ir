@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:08:23 |
+| Fajr (Dawn) | 02:08:22 |
 | Sunrise | 05:09:02 |
 | Dhuhr (Noon) | 12:54:33 |
 | Medium Coeli | 12:54:33 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°4'52.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°42'33.65" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°20'33.86" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°42'29.34" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|13°8'15.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°47'3.68" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|24°17'37.91" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|12°4'52.40" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°42'33.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°20'33.77" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°42'29.51" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|13°8'16.04" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°47'4.02" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|24°17'55.12" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°4'52.35" |Aries|Sharatain|Sun|
 |♃ Jupiter|Direct|23°42'33.65" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°20'33.74" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°42'29.31" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|13°8'15.80" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°47'3.78" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°18'34.87" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|8°20'33.86" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°42'29.34" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°8'15.59" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°47'3.68" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°17'37.91" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

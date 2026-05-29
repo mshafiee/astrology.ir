@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 20:30:24 |
 | Maghrib | 20:32:21 |
 | Isha (Night) | 23:20:49 |
-| Sharia Midnight | 22:39:35 |
+| Sharia Midnight | 22:39:34 |
 | Imum Coeli | 00:37:17 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°59'33.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°31'13.22" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°35'12.66" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°43'57.83" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°56'1.07" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°55'26.42" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|12°7'59.35" |Libra|Ghafr|Saturn|
+|♄ Saturn|Direct|11°59'33.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°31'13.30" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°35'12.57" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°43'57.88" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°56'1.34" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°55'26.59" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°9'15.59" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

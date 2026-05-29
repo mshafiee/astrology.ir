@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 10:43:54|Night duration: 13:16:34|
-|Every hour of day duration: 00:53:39|Every hour of night duration: 01:06:23|
+|Every hour of day duration: 00:53:40|Every hour of night duration: 01:06:23|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°57'15.25" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°26'21.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°15'41.27" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°18'42.43" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°24'52.42" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°6'33.85" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|7°21'54.03" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|23°26'23.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°15'45.38" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°18'54.88" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°25'2.57" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°6'45.36" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|6°30'34.19" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}

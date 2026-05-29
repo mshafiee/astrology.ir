@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°56'1.59" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°23'49.69" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°5'25.35" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°5'35.21" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°8'35.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°40'42.81" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|3°47'46.20" |Libra|Ghafr|Moon|
+|☉ Sun|Direct|7°5'19.87" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°8'27.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°40'30.98" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°22'1.32" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°56'1.59" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°23'49.69" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°56'1.64" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°23'49.56" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°5'25.35" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°5'35.21" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°8'35.27" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|22°40'42.81" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°47'46.20" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°5'35.18" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°8'35.23" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|22°40'42.77" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°47'46.15" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Amalienborg, Amalienburg, Carlota Amalia, Carlotamalio, Charlotte Amalia, Charlotte Amalie, Charlotte Amalie pa Dei amerikanske Jomfruoyane, Charlotte Amalie på Dei amerikanske Jomfruøyane, Di Dorp, Dorp, Het Dorp, Saint Thomas, Saint Thomas City, Sanct Thomas, Sarlot Amali, Sarlote Amalija, Sarlotta Amaliya, Savan, Scharlotte Amelia, Sharlot Amali, Sharlota Amalija, Sharlota-Amalija, Sharlotta-Amalija, Tap House, Tap Hus, Taphuis, Taphus, Taphuus, Taphys, Tappus, Wirtshaus, Zapfhaus, charlxttxa mali, sarlata ameli, sharlwt amaly, srlwt ʼmʼly, syalleos-amallie, xia luo te a ma li ya, Ĉarlotamalio, Şarlotta Amaliya, Šarlotė Amalija, Σαρλότ Αμαλί, Шарлот Амали, Шарлота Амалия, Шарлота Амалија, Шарлота-Амалія, Шарлотта-Амалия, Шарлотта-Амалія, שרלוט אמאלי, شارلوت آمالی, شارلوت أمالي, شارلٹ ایملی, शार्लट आमेली, ชาร์ลอตต์อะมาลี, შარლოტა-ამალია, シャーロット・アマリー, 夏洛特阿马利亚, 샬럿아말리에

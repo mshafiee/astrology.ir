@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°55'59.70" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°23'45.50" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°5'7.14" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°5'12.88" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°8'10.96" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°40'1.60" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°9'53.43" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|7°5'8.94" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°5'14.17" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°8'9.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°40'1.24" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|3°41'50.30" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°55'59.65" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°23'45.63" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°55'59.70" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°23'45.50" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°5'8.94" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°5'14.19" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°8'9.14" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|22°40'1.28" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°41'50.34" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|7°5'14.17" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|11°8'9.10" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|22°40'1.24" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°41'50.30" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
 
 ---
 Alternate Names: Arx Gallica, FDF, Fod Fwans, For d'o Frans, For de Frans, For de Fransas, For-de-Frans, For-nte-Frans, Fordefransa, Fort Royal, Fort Royale, Fort-de-France, Fort-de-Frans, Fort-deh-Frans, Fòd Fwans, Fôrt-de-France, Le Fort-de-France, f xr-dex-fr xngs, fa lan xi bao, foru=do=furansu, fwr dw frans, fwr-dw-frans, phorta-de-phransa, pirancuk kottai, poleudeupeulangseu, por-de-pransi, Φορ-ντε-Φρανς, Фор де Франс, Фор дьо Франс, Фор-де-Франс, Форт-де-Франс, Форт-дэ-Франс, Ֆոր դե Ֆրանս, פור-דה-פראנס, فور دو فرانس, فور-دو-فرانس, فورٹ ڈی فرانس, फोर्ट-दे-फ्रान्स, பிரான்சுக் கோட்டை, ฟอร์-เดอ-ฟร็องส์, ფორ-დე-ფრანსი, フォール＝ド＝フランス, 法兰西堡, 포르드프랑스

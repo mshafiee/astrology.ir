@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°56'18.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°24'23.99" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°7'43.79" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°8'33.96" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°12'15.70" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°46'32.27" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°21'38.17" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|23°24'21.68" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°7'38.89" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°8'19.22" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°12'3.71" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°46'18.70" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°20'14.03" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Cancer|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Moon|Aquarius|Sun|Saturn|
-|☾ Moon|Mercury|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티

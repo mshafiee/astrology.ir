@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'42.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°35'44.16" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°53'21.65" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°7'16.65" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°24'52.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|24°40'23.72" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|17°51'15.89" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|12°1'42.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°35'46.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°53'26.48" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°7'30.83" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°25'3.43" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|24°40'36.84" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|16°39'46.14" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'42.04" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°35'46.23" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°1'42.09" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°35'46.09" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°53'26.48" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°7'30.86" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°25'3.47" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°40'36.88" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°39'46.38" |Scorpio|Qalb|Sun|
+|☉ Sun|Direct|8°7'30.83" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°25'3.43" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°40'36.84" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°39'46.14" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

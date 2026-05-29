@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:11:28 |
 | Medium Coeli | 12:11:28 |
 | Sunset | 20:15:39 |
-| Maghrib | 20:44:07 |
+| Maghrib | 20:44:08 |
 | Isha (Night) | 22:35:18 |
 | Sharia Midnight | 22:41:04 |
 | Imum Coeli | 00:11:31 |
@@ -302,7 +302,7 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|11°58'58.49" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°30'0.46" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|7°30'19.32" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°37'39.50" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|7°37'39.47" |Taurus|Thurayya|Mercury|
 |♀ Venus|Direct|11°48'14.39" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|23°43'15.71" |Taurus|HaqAh|Saturn|
 |☾ Moon|Direct|10°52'59.18" |Libra|Ghafr|Saturn|

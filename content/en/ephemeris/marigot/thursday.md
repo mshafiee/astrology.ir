@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:09:37 |
 | Sunset | 18:43:18 |
 | Maghrib | 19:01:11 |
-| Isha (Night) | 19:45:55 |
+| Isha (Night) | 19:45:54 |
 | Sharia Midnight | 23:29:20 |
 | Imum Coeli | 00:09:41 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'16.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°34'52.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°49'50.32" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°2'51.85" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|12°19'19.19" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|24°31'43.19" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°43'21.54" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|12°1'16.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°34'52.11" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°49'50.31" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°2'51.82" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|12°19'19.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|24°31'43.15" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°43'21.32" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°1'16.64" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°34'52.25" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|7°49'50.32" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°2'51.85" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|12°19'19.19" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°31'43.19" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|15°43'21.54" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|12°1'16.69" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°34'52.11" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|7°49'50.31" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°2'51.82" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|12°19'19.15" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°31'43.15" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|15°43'21.32" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

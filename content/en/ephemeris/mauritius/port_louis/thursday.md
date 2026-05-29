@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°20'33.35" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|6°52'11.80" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|6°48'32.87" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|10°47'31.68" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|22°7'10.96" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|0°8'58.49" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|10°47'31.72" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|22°7'11.00" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|0°8'58.48" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°54'27.19" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°20'33.35" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°54'27.14" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°20'33.49" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|6°52'11.80" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|6°48'32.87" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|10°47'31.68" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|22°7'10.96" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°8'58.49" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|6°48'32.90" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|10°47'31.72" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|22°7'11.00" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°8'58.48" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>✱ Sextile|<sub> |<sub> |<sub>☌ Conjunction|<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>☍ Opposition|<sub> |<sub>△ Trine|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>□ Square|<sub> |<sub>△ Trine|<sub>□ Square|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Bort Lois, Po-Loui, Por Loui, Por-Loui, Port Lois, Port Louis, Port Louis Town, Port Lui, Port Luis, Port Luisas, Port Luiz, Port-Louis, Port-Lui, Port-Luiso, Port-lui, Portlui, Portluī, Portus Ludovici, Puerto Louis, Pò-Loui, bwr lwys, lu yi gang, phxrt hluys, porata lu'i, port luyis, porta lu'i, porta lu'isa, poteulu-iseu, potoruisu, pwr lwʼy, Πορ Λουί, Πορ-Λουί, Порт Луи, Порт Луис, Порт-Луи, Порт-Луі, Порт-Луї, Պորտ Լուի, פור לואי, بور لويس, پورت‌لوئیس, پورٹ لوئس, پورٹ لوئی, پۆرت لویس, पोर्ट लुई, पोर्ट लुईस, পোর্ট লুইস, ਪੋਰਟ ਲੂਈ, ପୋର୍ଟ ଲୁଇସ, போர்ட் லூயிஸ், പോർട്ട് ലൂയിസ്, พอร์ตหลุยส์, ལོ་ཡི་སི་གྲུ་ཁ།, პორტ-ლუი, ፖርት ሉዊስ, ポートルイス, 路易港, 포트루이스

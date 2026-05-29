@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:41:05 |
+| Fajr (Dawn) | 05:41:06 |
 | Sunrise | 06:56:27 |
 | Dhuhr (Noon) | 13:02:36 |
 | Medium Coeli | 13:02:36 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:41:06 |
+| Fajr (Dawn) | 05:41:05 |
 | Sunrise | 06:56:27 |
 | Dhuhr (Noon) | 13:02:36 |
 | Medium Coeli | 13:02:36 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°14'27.67" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°3'35.02" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|9°43'37.99" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|10°29'50.76" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|15°20'42.04" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|29°4'38.53" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|16°24'52.23" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|24°3'34.23" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|9°43'41.13" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|10°29'54.51" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|15°20'41.07" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|29°4'39.61" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°4'23.10" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

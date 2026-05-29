@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:00:33 |
 | Sunset | 18:28:52 |
 | Maghrib | 18:33:29 |
-| Isha (Night) | 19:49:52 |
+| Isha (Night) | 19:49:53 |
 | Sharia Midnight | 23:20:03 |
 | Imum Coeli | 00:00:37 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|11°59'43.93" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°31'35.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|7°36'36.62" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|7°45'43.77" |Taurus|Thurayya|Mercury|
-|♀ Venus|Direct|11°58'19.59" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|23°59'1.59" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|13°37'6.34" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|23°31'35.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|7°36'42.92" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|7°45'56.27" |Taurus|Thurayya|Mercury|
+|♀ Venus|Direct|11°58'25.19" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|23°59'10.69" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|12°11'4.32" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Libra|Sun|Mercury|
 |☿ Mercury|Mars|Sun|Aquarius|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Pisces|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|11°59'43.98" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°31'35.81" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|11°59'43.93" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°31'35.60" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|7°36'36.63" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|7°45'43.79" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|11°58'19.59" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|23°59'1.59" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°58'19.63" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|23°59'1.63" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|13°37'6.51" |Scorpio|Qalb|Sun|
 
 

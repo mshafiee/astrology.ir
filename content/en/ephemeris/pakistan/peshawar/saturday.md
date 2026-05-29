@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:34:11 |
-| Sunrise | 05:04:08 |
+| Sunrise | 05:04:09 |
 | Dhuhr (Noon) | 12:11:11 |
 | Medium Coeli | 12:11:11 |
 | Sunset | 19:18:32 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:21:04 |
-| Sunrise | 05:04:08 |
+| Sunrise | 05:04:09 |
 | Dhuhr (Noon) | 12:11:11 |
 | Medium Coeli | 12:11:11 |
 | Sunset | 19:18:32 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:40:34 |
-| Sunrise | 05:04:08 |
+| Sunrise | 05:04:09 |
 | Dhuhr (Noon) | 12:11:11 |
 | Medium Coeli | 12:11:11 |
 | Sunset | 19:18:32 |
@@ -210,13 +210,13 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 14:14:24|Night duration: 09:45:16|
+|Duration of the day: 14:14:23|Night duration: 09:45:16|
 |Every hour of day duration: 01:11:12|Every hour of night duration: 00:48:46|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|05:04:08|06:15:19|Related to talismans, amulets and responses|
+|1|Saturn|Ruler|05:04:09|06:15:19|Related to talismans, amulets and responses|
 |2|Jupiter|Servant|06:15:20|07:26:31|Peace among people|
 |3|Mars|Servant|07:26:32|08:37:43|Vengeful and evil deeds|
 |4|Sun|Servant|08:37:44|09:48:55|Dominance, judgment and issuing verdict|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°4'25.44" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°41'35.65" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°16'42.67" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°37'32.09" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|13°2'10.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°37'42.53" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|23°14'57.63" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|12°4'25.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°41'35.51" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°16'42.63" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°37'31.66" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|13°2'7.21" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°37'40.44" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°4'55.65" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
