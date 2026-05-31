@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:44:20 |
+| Fajr (Dawn) | 04:44:19 |
 | Sunrise | 06:07:05 |
 | Dhuhr (Noon) | 13:02:14 |
 | Medium Coeli | 13:02:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°22'13.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°21'11.11" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°22'13.58" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°21'11.23" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°52'29.05" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°58'54.91" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°10'19.70" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|1°41'11.70" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|4°41'46.30" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|11°58'54.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°10'20.27" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|1°41'12.29" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|4°38'1.99" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°22'13.63" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°21'11.11" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°22'13.58" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°21'11.23" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°52'29.05" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°58'54.91" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°10'19.70" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°41'11.70" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°41'46.30" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|11°58'54.92" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|17°10'19.72" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°41'11.73" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°41'46.63" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:12:43 |
 | Sunrise | 05:42:41 |
-| Dhuhr (Noon) | 12:17:25 |
-| Medium Coeli | 12:17:25 |
+| Dhuhr (Noon) | 12:17:26 |
+| Medium Coeli | 12:17:26 |
 | Sunset | 18:52:18 |
 | Maghrib | 18:53:19 |
 | Isha (Night) | 20:12:25 |
@@ -134,8 +134,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 04:17:42 |
 | Sunrise | 05:42:41 |
-| Dhuhr (Noon) | 12:17:25 |
-| Medium Coeli | 12:17:25 |
+| Dhuhr (Noon) | 12:17:26 |
+| Medium Coeli | 12:17:26 |
 | Sunset | 18:52:18 |
 | Maghrib | 18:53:19 |
 | Isha (Night) | 20:23:19 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°16'43.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°8'39.27" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°16'43.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°8'39.39" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°3'37.46" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|10°55'41.25" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|15°52'27.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|29°50'41.48" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|21°30'10.33" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|10°55'41.27" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|15°52'19.28" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|29°50'29.30" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|23°0'34.94" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Saturn|Saturn|Cancer|Sun|Sun|
+|☾ Moon|Saturn|Saturn|Leo|Sun|Sun|
 
 
 {{< /tab >}}

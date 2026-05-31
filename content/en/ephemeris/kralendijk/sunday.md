@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:30:46 |
 | Sunset | 18:54:40 |
 | Maghrib | 18:55:38 |
-| Isha (Night) | 20:11:05 |
+| Isha (Night) | 20:11:06 |
 | Sharia Midnight | 23:47:55 |
 | Imum Coeli | 00:30:51 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°16'48.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°8'50.97" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°4'22.74" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|10°56'40.04" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|15°53'39.62" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|29°52'25.37" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|21°39'37.23" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|24°8'50.73" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°4'18.05" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|10°56'31.44" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|15°53'36.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|29°52'19.40" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|22°26'54.01" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

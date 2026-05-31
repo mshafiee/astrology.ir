@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|11°36'38.42" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|16°42'55.81" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|1°2'41.62" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|1°34'27.07" |Sagittarius|Shaulah|Mercury|
+|☾ Moon|Direct|0°20'17.49" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°20'17.96" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°16'45.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°35'17.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°36'38.41" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|16°42'55.78" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°2'41.59" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°20'17.03" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|12°20'17.91" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°16'45.55" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°35'16.00" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°36'34.40" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|16°42'53.12" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°2'38.03" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°44'21.88" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BUD, Boedapes, Boedapest, Boudapes, Boudapeste, Boudapès, Budaipeist, Budapescht, Budapeshha, Budapesht, Budapesht osh, Budapest, Budapesta, Budapestas, Budapeste, Budapesti, Budapestinum, Budapesto, Budapeszt, Budapeŝto, Budapeşt, Budapeşte, Budapešt, Budapešta, Budapeštas, Budapešť, Budapèst, Budapésht, Budimpeshta, Budimpesta, Budimpešta, Bùdapest, Bùdapeszt, Búdaipeist, Búdapest, bu da pei si, budapaisata, budapeseuteu, budapesrr, budapest, budapesta, budapesuto, bwdabst, bwdabyst, bwdapst, bwdpst, putapest, Βουδαπέστη, Будапешт, Будапешт ош, Будапеща, Будимпешта, Բուդապեշտ, בודאפעשט, בודפשט, بودابست, بودابيست, بوداپست, بوداپێست, بوډاپسټ, बुडापेस्ट, बुदापेस्त, বুদাপেস্ট, ਬੁਦਾਪੈਸਤ, બુડાપેસ્ટ, ବୁଦାପେଷ୍ଟ, புடாபெஸ்ட், ಬುಡಾಪೆಸ್ಟ್, ബുഡാപെസ്റ്റ്, บูดาเปสต์, བུ་ད་ཕེ་སིད།, ဗူးဒပက်မြို့, ბუდაპეშტი, ቡዳፔስት, ブダペスト, 布达佩斯, 부다페스트

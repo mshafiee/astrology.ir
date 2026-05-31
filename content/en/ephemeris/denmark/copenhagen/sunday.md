@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:07:24 |
 | Medium Coeli | 13:07:24 |
 | Sunset | 21:40:59 |
-| Maghrib | 21:43:09 |
+| Maghrib | 21:43:10 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:07:29 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:07:24 |
 | Medium Coeli | 13:07:24 |
 | Sunset | 21:40:59 |
-| Maghrib | 21:43:09 |
+| Maghrib | 21:43:10 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:07:29 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:07:24 |
 | Medium Coeli | 13:07:24 |
 | Sunset | 21:40:59 |
-| Maghrib | 21:43:09 |
-| Isha (Night) | 23:13:09 |
+| Maghrib | 21:43:10 |
+| Isha (Night) | 23:13:10 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:07:29 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°10'7.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°53'58.73" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°10'7.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°53'58.85" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|9°5'53.40" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|9°41'0.70" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|14°20'27.92" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|27°35'57.19" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|6°35'26.26" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|9°41'0.72" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|14°20'27.95" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|27°35'57.22" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|6°35'26.79" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

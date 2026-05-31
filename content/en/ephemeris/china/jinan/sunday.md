@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:09:38 |
 | Sunset | 19:24:28 |
 | Maghrib | 19:46:56 |
-| Isha (Night) | 20:46:17 |
+| Isha (Night) | 20:46:18 |
 | Sharia Midnight | 23:15:45 |
 | Imum Coeli | 00:09:43 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°14'1.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°2'36.43" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°39'54.18" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|10°24'59.74" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|15°14'39.46" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|28°55'52.36" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|15°21'33.31" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|12°14'1.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°2'36.71" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°39'53.57" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|10°24'59.14" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|15°14'39.83" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|28°55'52.32" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|15°24'53.31" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°14'1.68" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°2'36.43" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°14'1.63" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°2'36.56" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°39'54.18" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|10°24'59.74" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|15°14'39.46" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|28°55'52.36" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|15°21'33.31" |Sagittarius|NaAaem|Moon|
+|☉ Sun|Direct|10°24'59.76" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|15°14'39.49" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|28°55'52.39" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|15°21'33.93" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

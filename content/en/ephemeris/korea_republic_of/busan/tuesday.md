@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°23'53.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°25'1.41" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°23'53.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°25'1.53" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°7'22.43" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|12°18'11.56" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°34'3.70" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|2°14'12.96" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|8°46'17.70" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|12°18'11.57" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°34'3.73" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|2°14'12.98" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|8°46'17.90" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°23'53.23" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°25'1.41" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°23'53.18" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°25'1.53" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°7'22.43" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|12°18'11.56" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°34'3.70" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|2°14'12.96" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|8°46'17.70" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°18'11.57" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|17°34'3.73" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|2°14'12.98" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°46'17.90" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bousan, Busan, Busan-si, Busán, Fousan, Fusan, Fuzan, PUS, Phu San, Phủ San, Pusan, Pusana, Pusano, Tsau-liang-hai, busan, busangwang-yeogsi, busansi, fu shan, fu shan guang yu shi, fu shan shi, pu san, Μπούσαν, Пусан, ปูซาน, 釜山, 釜山市, 釜山广域市, 釜山広域市, 부산, 부산광역시, 부산시

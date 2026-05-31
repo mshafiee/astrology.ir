@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:48:46 |
+| Fajr (Dawn) | 00:48:45 |
 | Sunrise | 04:43:52 |
 | Dhuhr (Noon) | 12:37:21 |
 | Medium Coeli | 12:37:21 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°4'46.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|23°42'21.75" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°19'46.98" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|8°41'28.66" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|13°7'0.90" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|25°45'9.68" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|24°7'2.93" |Libra|Jubana|Jupiter|
+|♄ Saturn|Direct|12°4'46.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|23°42'21.88" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|8°19'46.99" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|8°41'28.68" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|13°7'0.93" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|25°45'9.72" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|24°7'3.28" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°4'46.92" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°42'21.75" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°19'46.98" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°41'28.66" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|13°7'0.90" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°45'9.68" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°7'2.93" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Direct|12°4'46.87" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°42'21.88" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°19'46.99" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°41'28.68" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|13°7'0.93" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°45'9.72" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°7'3.28" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

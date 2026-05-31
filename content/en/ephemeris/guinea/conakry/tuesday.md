@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°21'4.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°18'32.45" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°21'4.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°18'32.57" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°42'12.30" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°45'37.08" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°53'56.63" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°18'13.08" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|1°47'10.18" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|11°45'37.09" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°53'56.66" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°18'13.11" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|1°47'10.59" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°21'4.64" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°18'32.45" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°21'4.59" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°18'32.57" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°42'12.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°45'37.08" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|16°53'56.63" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°18'13.08" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°47'10.18" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|11°45'37.09" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|16°53'56.66" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°18'13.11" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°47'10.59" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CKY, Conacri, Conakry, Konakri, Konakrio, Konakris, Konakry, ke na ke li, konakeuli, konakuri, Κόνακρι, Конакри, קונאקרי, コナクリ, 科納克里, 코나크리

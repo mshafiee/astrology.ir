@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:59:14 |
 | Sunset | 18:42:12 |
 | Maghrib | 18:43:15 |
-| Isha (Night) | 20:03:19 |
+| Isha (Night) | 20:03:20 |
 | Sharia Midnight | 23:16:03 |
 | Imum Coeli | 23:59:19 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|23°52'26.31" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|8°59'47.31" |Aries|Sharatain|Mars|
 |☉ Sun|Direct|9°33'9.87" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|14°10'44.61" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|27°21'26.51" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|4°28'35.95" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|14°10'37.59" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|27°21'18.04" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|5°23'43.20" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Jupiter|Leo|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |☿ Mercury|Sun|Mercury|Pisces|Sun|Saturn|
-|☾ Moon|Sun|Sun|Sagittarius|Moon|Mars|
+|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°9'24.36" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|23°52'24.44" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|8°59'41.25" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|9°32'54.32" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|14°10'33.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|27°21'12.77" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|6°4'35.16" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|12°9'25.47" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|23°52'26.31" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|8°59'47.31" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|9°33'0.71" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|14°10'37.59" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|27°21'18.04" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|5°23'43.20" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

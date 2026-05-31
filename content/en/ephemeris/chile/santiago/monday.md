@@ -235,7 +235,7 @@ Timetable of twelve day and night planetary hours
 |1|Venus|Ruler|17:42:31|18:52:11|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Mercury|Servant|18:52:12|20:01:52|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Moon|Servant|20:01:53|21:11:33|Marriage connection is good|
-|4|Saturn|Servant|21:11:34|22:21:15|The moon is in Scorpio, Not suitable for doing anything.|
+|4|Saturn|Servant|21:11:34|22:21:15|Repelling and destroying enemies and discharging enemy energy|
 |5|Jupiter|Servant|22:21:16|23:30:56|Answering needs, attracting love and wealth|
 |6|Mars|Servant|23:30:57|00:40:37|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|00:40:38|01:50:18|Making promises|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°22'7.86" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°20'56.24" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°51'31.50" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°57'33.54" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°8'47.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°39'3.08" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°51'32.62" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|24°20'58.06" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°51'37.51" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°57'48.62" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|17°8'57.56" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°39'16.77" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°22'34.70" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Saturn|Aquarius|Moon|Saturn|
 
 
 {{< /tab >}}

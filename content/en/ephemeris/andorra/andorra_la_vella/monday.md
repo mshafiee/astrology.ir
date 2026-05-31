@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:19:29 |
 | Dhuhr (Noon) | 13:51:44 |
 | Medium Coeli | 13:51:44 |
-| Sunset | 21:24:23 |
+| Sunset | 21:24:24 |
 | Maghrib | 21:31:11 |
 | Isha (Night) | 23:27:15 |
-| Sharia Midnight | 00:45:23 |
+| Sharia Midnight | 00:45:24 |
 | Imum Coeli | 01:51:49 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:19:29 |
 | Dhuhr (Noon) | 13:51:44 |
 | Medium Coeli | 13:51:44 |
-| Sunset | 21:24:23 |
+| Sunset | 21:24:24 |
 | Maghrib | 21:31:11 |
 | Isha (Night) | 23:37:00 |
-| Sharia Midnight | 00:45:23 |
+| Sharia Midnight | 00:45:24 |
 | Imum Coeli | 01:51:49 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:19:29 |
 | Dhuhr (Noon) | 13:51:44 |
 | Medium Coeli | 13:51:44 |
-| Sunset | 21:24:23 |
+| Sunset | 21:24:24 |
 | Maghrib | 21:31:11 |
 | Isha (Night) | 23:01:11 |
 | Sharia Midnight | 00:42:51 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°15'35.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°6'6.21" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|9°53'37.80" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|10°42'44.40" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|15°36'31.91" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|29°27'41.48" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|19°6'44.67" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|12°15'35.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°6'5.42" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|9°53'32.39" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|10°42'32.05" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|15°36'24.69" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|29°27'31.27" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|20°22'44.82" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Mars|Mars|Saturn|Venus|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Sun|Mercury|Aries|Sun|Saturn|
-|☾ Moon|Moon|Jupiter|Gemini|Sun|Sun|
+|☾ Moon|Moon|Saturn|Cancer|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°15'35.47" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°6'6.21" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|9°53'37.80" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|10°42'44.40" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|15°36'31.91" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|29°27'41.48" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|19°6'44.67" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|12°15'35.42" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°6'6.34" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|9°53'37.81" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|10°42'44.42" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|15°36'31.94" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|29°27'41.50" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|19°6'45.28" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

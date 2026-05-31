@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°20'48.59" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°51'1.05" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|11°57'1.60" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°7'59.43" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°37'52.57" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|4°28'47.81" |Sagittarius|NaAaem|Mercury|
+|♀ Venus|Direct|17°7'59.38" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°37'52.59" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|4°28'48.15" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,11 +338,11 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°22'3.84" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°20'48.47" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°51'1.05" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°57'1.59" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°7'59.40" |Cancer|Tarf|Mercury|
+|♄ Saturn|Direct|12°22'3.79" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°20'48.59" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°50'56.44" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°56'55.15" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|17°7'59.38" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|1°37'52.59" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|4°28'48.15" |Capricorn|SaadAlDhabib|Jupiter|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: MGA, Managoua, Managua, Managuae, Managva, Managvo, Managûa, Manahuac, Manankoua, Manaqua, Manawa, Manágua, Mānāhuac, ma na gua, managhwa, managu'a, managua, managva, managwa, manakaw, manakuva, Μανάγκουα, Μανάγουα, Манагва, Манагуæ, Манагуа, Մանագուա, מנגואה, ماناغوا, ماناگوآ, ماناگوا, ماناگۇئا, मानाग्वा, ਮਾਨਾਗੁਆ, மனாகுவா, มานากัว, མ་ན་གུ་འ།, მანაგუა, ማናጓ, マナグア, 馬拿瓜, 馬納瓜, 마나과

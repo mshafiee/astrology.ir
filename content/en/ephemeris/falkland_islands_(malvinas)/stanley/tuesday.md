@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°27'5.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°32'29.88" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°27'5.19" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°32'30.00" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°36'15.29" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|12°55'36.67" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|18°20'6.07" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|3°17'23.08" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|16°35'34.56" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|18°20'6.10" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|3°17'23.10" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|16°35'34.48" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°27'5.24" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°32'29.88" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°36'14.44" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|12°55'30.05" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|18°19'57.69" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|3°17'14.32" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|17°38'24.05" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|12°27'5.19" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°32'30.00" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°36'15.29" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|12°55'36.67" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|18°20'6.10" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|3°17'23.10" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|16°35'34.48" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Moon|Leo|Moon|Moon|
-|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Sun|Venus|Cancer|Sun|Venus|
 
 
 {{< /tab >}}

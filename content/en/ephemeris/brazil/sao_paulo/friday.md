@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 17:44:10 |
 | Isha (Night) | 18:30:33 |
 | Sharia Midnight | 23:28:10 |
-| Imum Coeli | 00:04:01 |
+| Imum Coeli | 00:04:02 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 17:46:31 |
 | Isha (Night) | 18:30:33 |
 | Sharia Midnight | 23:24:17 |
-| Imum Coeli | 00:04:01 |
+| Imum Coeli | 00:04:02 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:32:32 |
 | Isha (Night) | 18:35:08 |
 | Sharia Midnight | 23:30:27 |
-| Imum Coeli | 00:04:01 |
+| Imum Coeli | 00:04:02 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:32:32 |
 | Isha (Night) | 19:02:32 |
 | Sharia Midnight | 23:22:28 |
-| Imum Coeli | 00:04:01 |
+| Imum Coeli | 00:04:02 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°6'30.25" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|23°46'4.73" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|8°34'29.79" |Aries|Sharatain|Mars|
-|☉ Sun|Direct|9°0'29.40" |Taurus|Dabaran|Mercury|
-|♀ Venus|Direct|13°30'32.11" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|26°20'54.12" |Taurus|HaqAh|Saturn|
-|☾ Moon|Direct|28°22'11.95" |Libra|Akleel|Jupiter|
+|♂ Mars|Direct|8°34'33.59" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|9°0'35.38" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|13°30'33.15" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|26°20'57.53" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|27°37'0.86" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Venus|Moon|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Saturn|Mars|Saturn|Venus|
-|☾ Moon|Mars|Mars|Mercury|Sun|
+|☾ Moon|Venus|Mars|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

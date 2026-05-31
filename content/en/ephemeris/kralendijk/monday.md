@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|24°20'14.31" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°48'47.88" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|11°54'9.17" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°4'27.16" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°32'58.30" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|3°34'18.92" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|17°4'23.96" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°32'52.35" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|4°12'57.56" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°21'48.89" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°20'14.42" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°48'47.55" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°54'8.95" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°4'27.51" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°32'58.44" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|3°33'21.49" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|24°20'14.31" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°48'43.19" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°54'0.61" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|17°4'23.96" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°32'52.35" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°12'57.56" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

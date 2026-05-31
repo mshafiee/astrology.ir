@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°21'53.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°20'23.75" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|24°20'23.87" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°49'25.62" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°54'50.77" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°5'26.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|11°54'50.78" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°5'26.74" |Gemini|HanAh|Mars|
 |☿ Mercury|Direct|1°34'22.50" |Gemini|HaqAh|Jupiter|
 |☾ Moon|Direct|5°15'28.49" |Sagittarius|NaAaem|Mercury|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: KIN, Kin'nkston, Kingston, jing si dui, kingseuteon, kingusuton, kyngstwn, Κίνγκστον, Кингстон, کینگستون, キングストン, 京斯敦, 킹스턴
