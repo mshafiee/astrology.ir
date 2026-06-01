@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°20'24.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°16'57.76" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°36'8.81" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°37'39.84" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°44'11.27" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°4'31.03" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|1°22'31.57" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|24°16'59.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°36'11.06" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|11°37'49.29" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°44'20.91" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°4'41.65" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°12'23.13" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Khartum, Al Kharţūm, Al Khurtum, Al Khurţūm, Cartum, Cartúm, Chartoum, Chartum, Chartumas, Chartúm, Hartum, Hartumo, Jartum, KRT, Kartum, Kartúm, Khartoem, Khartoum, Khartoun, Khartum, Khartun - alkhrtwm, Khartún - الخرطوم, haleutum, harutsumu, hrtwm, karttaum, ke tu mu, khartwm, khrtwm, Ĥartumo, Χαρτούμ, Картум, Хартум, חרטום, خارطوم, خرطوم, கார்த்தௌம், ཁར་ཏུམ, ካርቱም, ハルツーム, 喀土穆, 하르툼

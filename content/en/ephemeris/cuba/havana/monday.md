@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°21'56.31" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°20'31.42" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|10°49'54.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°55'34.94" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|12°21'54.97" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°20'31.68" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|10°49'48.81" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|11°55'25.96" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|17°6'11.42" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|1°35'21.68" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|4°30'52.97" |Capricorn|SaadAlDhabib|Jupiter|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: A Habana, Abana, Gavana, Gavanae, Gavane, HAV, Habana, Hafana, Hahvaxnaz, Havan, Havana, Havanna, Havano, Hawana, Khavana, L'Avana, LAvan-a, LAvana, LAvann-a, LHabana, LHavana, La Ahuana, La Avan, La Avàn, La Habana, La Havana, La Havane, abana, avana, ha wa na, habana, habhana, hafana, havana, hawana, xia wan na, Ħavana, ŁAvana, Αβάνα, Гaванa, Гаванæ, Гавана, Гаване, Хавана, Ҳавана, Հավանա, האוואנע, הוואנה, هافانا, هاوانا, ہوانا, हवाना, হাভানা, ਹਵਾਨਾ, ହାଭାନା, அவானா, ഹവാന, ฮาวานา, ཧ་ཝན, ဟာဗားနားမြို့, ჰავანა, ሀቫና, ሀኖይ, ハバナ, 哈瓦那, 夏灣拿, 아바나

@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|04:05:20|05:37:01|Creating corruption, hatred and enmity|
+|1|Mars|Ruler|04:05:20|05:37:01|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Sun|Servant|05:37:02|07:08:43|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|07:08:44|08:40:26|Attracting connection and suitors|
 |4|Mercury|Servant|08:40:27|10:12:08|Attracting material wealth, earnings and business prosperity|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|12°20'8.45" |Aries|Sharatain|Sun|
 |♃ Jupiter|Direct|24°16'24.57" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°33'54.17" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°34'55.03" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|16°40'47.26" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|0°59'39.25" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|29°35'58.72" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|11°34'49.29" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|16°40'42.83" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|0°59'33.76" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°12'19.24" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Mars|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}

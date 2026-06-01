@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°23'16.21" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°23'36.17" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°1'44.72" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|12°10'54.59" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°25'12.65" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|2°1'53.41" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|7°21'4.52" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|24°23'34.51" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°1'43.39" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|12°10'47.96" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|17°25'5.24" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|2°1'45.44" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°13'32.43" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아
