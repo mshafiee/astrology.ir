@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Sun|Servant|00:58:15|01:36:31|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Venus|Ruler|01:36:32|02:14:48|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Mercury|Servant|02:14:49|02:53:05|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Moon|Servant|02:53:06|03:31:22|Good for any task|
+|10|Moon|Servant|02:53:06|03:31:22|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Saturn|Servant|03:31:23|04:09:39|Creating enmity and negative energy|
 |12|Jupiter|Servant|04:09:40|04:47:56|Heart tenderness|
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|12°15'28.82" |Aries|Sharatain|Sun|
 |♃ Jupiter|Direct|24°5'51.65" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|9°52'40.20" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|10°41'29.24" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|15°35'0.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|29°25'28.62" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|19°0'31.98" |Sagittarius|Baldah|Moon|
+|☉ Sun|Direct|10°41'32.91" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|15°35'4.54" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|29°25'33.07" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|18°35'29.40" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Mercury|Saturn|Mars|Mercury|
+|☾ Moon|Mercury|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

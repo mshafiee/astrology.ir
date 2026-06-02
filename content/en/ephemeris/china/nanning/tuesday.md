@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°24'16.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°25'54.55" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°24'16.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°25'54.43" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°10'47.72" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|12°22'38.11" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°39'30.95" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|2°21'45.60" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|9°34'1.02" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|12°22'38.10" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°39'30.93" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|2°21'45.58" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|9°34'0.85" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°24'16.07" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°25'54.55" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°24'16.12" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°25'54.43" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°10'47.72" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|12°22'38.11" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|17°39'30.95" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|2°21'45.60" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°34'1.02" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|12°22'38.10" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|17°39'30.93" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|2°21'45.58" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|10°52'15.86" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Venus|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Jupiter|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Mars|Taurus|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

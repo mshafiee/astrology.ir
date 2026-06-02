@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°20'39.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°17'35.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°38'30.06" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°40'49.49" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°48'2.44" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°9'54.20" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|0°46'6.50" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|12°20'39.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°17'34.48" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°38'29.67" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|11°40'46.15" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°47'58.14" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°9'49.85" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|1°14'8.36" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: BGF, Bangi, Bangis, Bangui, Mpan'nkoui, ban ji, bang-gi, bangi, bangwyy, Μπανγκουί, Банги, Бангі, בנגואי, بانگوئی, ባንጊ, バンギ, 班基, 방기

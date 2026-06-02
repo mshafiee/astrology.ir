@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:27:38|06:39:01|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mars|Ruler|05:27:38|06:39:01|Creating corruption, hatred and enmity|
 |2|Sun|Servant|06:39:02|07:50:26|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|07:50:27|09:01:50|Attracting connection and suitors|
 |4|Mercury|Servant|09:01:51|10:13:15|Attracting material wealth, earnings and business prosperity|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°20'13.44" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|24°16'35.64" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°34'38.68" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°35'48.03" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°41'50.00" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°1'10.03" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|0°0'24.21" |Sagittarius|Shaulah|Mercury|
+|♂ Mars|Direct|10°34'37.24" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|11°35'47.03" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°41'51.40" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°1'10.52" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|29°57'51.85" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|11°35'47.03" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|16°41'51.40" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|1°1'10.52" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|29°57'51.85" |Sagittarius|Baldah|Saturn|
+|☾ Moon|Direct|0°14'9.76" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Mars|Jupiter|Capricorn|Sun|Mars|
 |☿ Mercury|Moon|Moon|Cancer|Moon|Moon|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}

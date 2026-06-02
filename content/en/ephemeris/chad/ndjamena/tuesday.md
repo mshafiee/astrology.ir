@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°20'39.85" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°17'35.89" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°20'39.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°17'35.77" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°38'31.74" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°40'51.50" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°48'5.13" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°9'48.13" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|1°54'30.15" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|11°40'51.49" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°48'5.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°9'57.99" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°48'47.77" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|11°40'51.50" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|16°48'5.13" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|1°9'58.02" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°54'30.15" |Capricorn|SaadAlDhabib|Jupiter|
+|☾ Moon|Direct|0°48'48.20" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나

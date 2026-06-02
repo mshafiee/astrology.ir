@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°24'5.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°25'30.34" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|11°9'13.99" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|12°20'36.55" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|17°37'1.55" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|2°18'19.06" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|9°13'11.27" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Direct|12°24'4.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°25'29.47" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|11°9'7.16" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|12°20'22.18" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|17°37'1.52" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|2°18'19.04" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|9°10'31.72" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
 
 ---
 Alternate Names: FOC, Focheum, Foochow, Foutsoou, Fouzhou, Fu-chou, Fu-chou-shih, Fu-cou, Fu-čou, Fuchau, Fucheu, Fuchzhou, Fucsou, Fudzhou, Fudzou, Fudžou, Fugouo, Fuk-chu-su, Fuk-chû-sṳ, Futsjou, Fuzcouh, Fuzhou, Fuĝoŭo, Hok-chiu-chhi, Hok-chiu-chhī, Hok-ciu, Hók-ciŭ, Lin-sen, Lin-sen-hsien, Min Hsien, Min-hou, Min-hou-hsien, Min-hou-hsien-ch'eng, Min-hou-hsien-ch’eng, Minhow, Minhow-hsien, Phuc Chau, Phúc Châu, fu zhou, fu zhou shi, fuco, fujho'u, fwjw, fwzhw, phucau, pujeou si, Φουτσόου, Фуджоу, Фучжоу, Фуџоу, فوجو, فوزهو, فوژو, فۇجو شەھىرى, फ़ूझोउ, फूचौ, ਫ਼ੂਚੋ, ဖူကျိုးမြို့, 福州, 福州市, 푸저우 시

@@ -216,7 +216,7 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|04:05:20|05:37:01|The moon is in Scorpio, Not suitable for doing anything.|
+|1|Mars|Ruler|04:05:20|05:37:01|Creating corruption, hatred and enmity|
 |2|Sun|Servant|05:37:02|07:08:43|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|07:08:44|08:40:26|Attracting connection and suitors|
 |4|Mercury|Servant|08:40:27|10:12:08|Attracting material wealth, earnings and business prosperity|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°20'8.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°16'24.57" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|10°33'54.17" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°34'49.29" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°40'42.83" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|0°59'33.76" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|0°12'19.24" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Direct|12°20'8.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°16'24.45" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|10°33'56.24" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|11°34'55.03" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°40'47.26" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|0°59'39.25" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|29°35'58.72" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Mercury|
 |♀ Venus|Venus|Venus|Venus|Mars|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Saturn|Saturn|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Virgo|Moon|Venus|
 |♀ Venus|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 |☿ Mercury|Mercury|Venus|Gemini|Sun|Mercury|
-|☾ Moon|Jupiter|Mars|Sagittarius|Sun|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}

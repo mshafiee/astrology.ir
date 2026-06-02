@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°20'21.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°16'54.11" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°20'21.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°16'53.99" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|10°35'49.20" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|11°37'19.56" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|16°43'46.12" |Gemini|HanAh|Mars|
-|☿ Mercury|Direct|1°3'43.55" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|1°25'47.50" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|11°37'19.55" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|16°43'46.10" |Gemini|HanAh|Mars|
+|☿ Mercury|Direct|1°3'52.64" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|0°25'16.29" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°20'21.47" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°16'54.11" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°20'21.53" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°16'53.99" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|10°35'49.20" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|11°37'19.56" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|16°43'37.46" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|1°3'43.55" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°25'47.50" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|11°37'19.55" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|16°43'46.10" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|1°3'52.64" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°25'16.29" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub>☍ Opposition|<sub>△ Trine|<sub> |<sub>☍ Opposition|<sub>☍ Opposition</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub> |<sub> |<sub>☍ Opposition|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보
