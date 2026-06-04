@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:49:16 |
 | Medium Coeli | 13:49:16 |
 | Sunset | 21:50:25 |
-| Maghrib | 21:52:07 |
+| Maghrib | 21:52:08 |
 | Isha (Night) | 01:05:49 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:49:22 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:49:16 |
 | Medium Coeli | 13:49:16 |
 | Sunset | 21:50:25 |
-| Maghrib | 21:52:07 |
+| Maghrib | 21:52:08 |
 | Isha (Night) | 01:28:09 |
 | Sharia Midnight | 00:00:24 |
 | Imum Coeli | 01:49:22 |
@@ -138,7 +138,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Medium Coeli | 13:49:16 |
 | Sunset | 21:50:25 |
 | Maghrib | 21:52:08 |
-| Isha (Night) | 23:22:07 |
+| Isha (Night) | 23:22:08 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:49:22 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°39'52.08" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°3'23.30" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|13°34'17.37" |Aries|Butain|Sun|
-|☉ Sun|Direct|15°28'43.32" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|21°28'12.53" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|7°23'10.47" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|19°56'21.39" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|12°39'52.03" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°3'23.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|13°34'17.27" |Aries|Butain|Sun|
+|☉ Sun|Direct|15°28'47.33" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|21°28'18.84" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|7°23'17.03" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|19°2'20.35" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

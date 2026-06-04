@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°25'44.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°29'21.27" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°25'44.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°29'21.40" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°24'7.86" |Aries|Sharatain|Sun|
 |☉ Sun|Direct|12°39'51.67" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|18°0'46.51" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|2°51'0.71" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|13°46'28.55" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|18°0'46.53" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|2°51'0.73" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|13°46'28.59" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°25'44.65" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°29'21.27" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|11°24'7.86" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|12°39'51.67" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|18°0'46.53" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|2°51'0.73" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|13°46'28.59" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|12°25'44.60" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°29'22.50" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|11°24'9.38" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|12°39'57.25" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|18°0'51.88" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|2°51'6.88" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|13°5'52.63" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Moon|Moon|Leo|Moon|Moon|
-|☾ Moon|Sun|Venus|Gemini|Moon|Saturn|
+|☾ Moon|Sun|Mars|Gemini|Moon|Saturn|
 
 
 {{< /tab >}}

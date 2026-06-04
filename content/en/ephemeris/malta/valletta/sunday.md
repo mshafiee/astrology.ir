@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'30.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°15'4.12" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°18'21.40" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°26'6.42" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°38'36.42" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°49'56.79" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|1°25'52.62" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|25°15'3.65" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°18'15.11" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°25'54.45" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°38'31.55" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°49'47.82" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|1°10'3.72" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'30.92" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°15'4.12" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°18'21.40" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°26'6.42" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°38'36.42" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°49'56.79" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°25'52.62" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|25°15'3.65" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°18'15.11" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°25'54.45" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°38'31.55" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°49'47.82" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°10'3.72" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: A Valeta, A Valletta, Baleta, Baletta, La Valet, La Valeta, La Valeto, La Valetta, La Valette, La Valletta, La Valèt, La Valëtta, La-Valeto, MLA, Vaileite, Valeta, Valetta, Valleta, Vallett, Valletta, Valletta osh, Vallettae, Waleta, balleta, baretta, bhaleta, bhalletta, falyta, hua lie ta, valaita, valerra, valletta, vheleta, wa lai ta, wal let ta, walta, wlth, Ła Vałeta, Βαλέτα, Βαλέττα, Валета, Валлеттæ, Валлетта, Валлетта ош, Ла Валета, Վալետա, וואלעטא, ולטה, فاليتا, والتا, والیٹا, ولیٹا, ڤالێتا, भलेट, व्हॅलेटा, ভাল্লেত্তা, ਵਲੈਟਾ, வல்லெட்டா, വലേറ്റ, วัลเลตตา, ཝ་ལེ་ཐ།, ვალეტა, ቫሌታ, バレッタ, 瓦莱塔, 華列他, 발레타

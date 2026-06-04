@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°29'15.73" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°37'37.98" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°29'15.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°37'37.86" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|11°56'1.54" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|13°21'9.78" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|18°51'30.42" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|3°59'49.90" |Gemini|HaqAh|Jupiter|
-|☾ Moon|Direct|22°35'59.81" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°21'15.71" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|18°51'37.23" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|3°59'57.33" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|21°43'21.66" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |☿ Mercury|Mercury|Mars|Cancer|Sun|Mercury|
-|☾ Moon|Moon|Venus|Virgo|Moon|Mercury|
+|☾ Moon|Moon|Venus|Leo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°29'15.73" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°37'37.98" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°29'15.78" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°37'37.86" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|11°56'1.54" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|13°21'15.72" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|18°51'37.25" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|3°59'57.34" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|21°43'21.40" |Capricorn|SaadAlBula|Sun|
+|☉ Sun|Direct|13°21'15.71" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|18°51'37.23" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|3°59'57.33" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|21°43'21.66" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

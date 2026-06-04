@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'3.46" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°16'26.73" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°23'31.85" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°32'51.38" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°46'51.64" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°59'56.38" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°51'13.30" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|25°16'26.74" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°23'29.73" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°32'48.13" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°46'51.11" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°59'54.57" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°35'54.49" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: CKY, Conacri, Conakry, Konakri, Konakrio, Konakris, Konakry, ke na ke li, konakeuli, konakuri, Κόνακρι, Конакри, קונאקרי, コナクリ, 科納克里, 코나크리

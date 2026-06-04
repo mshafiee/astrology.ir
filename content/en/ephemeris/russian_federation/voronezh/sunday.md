@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|25°13'46.44" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°13'29.19" |Aries|Butain|Sun|
 |☉ Sun|Direct|16°19'45.18" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°30'50.30" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°40'30.24" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|0°6'47.41" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|22°30'49.13" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°40'30.29" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°36'18.59" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'0.23" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°13'46.44" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°13'29.19" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°19'45.18" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°30'50.30" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°40'30.24" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°6'47.41" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|25°13'46.06" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°13'31.43" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°19'47.48" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°30'49.13" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°40'30.29" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°36'18.59" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: VOZ, Voronej, Voronez, Voroneza, Voronezas, Voronezh, Voronezhskaja oblast', Voronezj, Voroneĵ, Voronež, Voronežas, Voroněž, Voroņeža, Woronesch, Woronesh, Woronez, Woroneż, bolonesi, vu~oroneji, Воронеж, Воронежская область, ヴォロネジ, 보로네시

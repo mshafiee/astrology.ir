@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|12°44'21.11" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°14'39.08" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°16'47.07" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°24'4.60" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°36'3.58" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°46'50.66" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|0°53'48.48" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|16°23'59.92" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°36'3.61" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°46'50.68" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°53'48.86" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'21.16" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°14'39.08" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°16'47.07" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°24'4.60" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°36'5.95" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°46'54.51" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°55'1.95" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|12°44'21.11" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°14'38.70" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°16'44.76" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°23'59.92" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°36'3.61" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°46'50.68" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°53'48.86" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ASM, Asmar, Asmara, Asmaro, Asmehra, Asmera, Aszmara, a si ma la, asamara, aseumala, asmara, asmera, asmrh, asmrt, asumara, yەsmەrە, Əsməra, Ασμάρα, Асмара, Асмэра, Асмєра, Ասմարա, אסמרה, أسمرة, ئەسمەرە, اسمارا, اسمره, अस्मारा, ਅਸਮਾਰਾ, அஸ்மாரா, അസ്മാറ, แอสมารา, ཨཱ་སི་མི་ར།, ასმერა, አስመራ, ኣስመራ, アスマラ, 阿斯馬拉, 아스마라

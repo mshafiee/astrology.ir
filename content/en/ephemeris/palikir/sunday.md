@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°47'28.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°22'37.04" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°46'36.54" |Aries|Butain|Sun|
-|☉ Sun|Direct|17°2'49.60" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|23°23'46.76" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°44'4.00" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|9°3'14.45" |Aquarius|SaadAlAkhbia|Venus|
+|♃ Jupiter|Direct|25°22'37.72" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°46'43.69" |Aries|Butain|Sun|
+|☉ Sun|Direct|17°3'2.97" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|23°23'52.07" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|9°44'13.97" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|9°35'53.45" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°47'28.34" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°22'37.61" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°46'43.68" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|12°47'28.29" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°22'37.72" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°46'43.69" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|17°3'2.97" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°23'52.04" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°44'13.95" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°35'52.50" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|23°23'52.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°44'13.97" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|9°35'53.45" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Palakir, Palikir, Palikyras, Palirik, Pallikir, pa li ji er, pa liki r, pallikileu, parikiru, plyqyr, Παλιρίκ, Паликир, Պալիկիր, פליקיר, ปาลีกีร์, ፓሊኪር, パリキール, 帕利基尔, 팔리키르

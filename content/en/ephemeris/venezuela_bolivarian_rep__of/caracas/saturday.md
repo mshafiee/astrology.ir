@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'44.03" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°18'10.22" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°30'0.58" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°41'17.21" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°57'11.78" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°12'23.43" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|4°43'40.86" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|12°45'44.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°18'10.10" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°30'0.57" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°41'17.20" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°57'11.75" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|9°12'23.41" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|4°43'40.23" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'44.03" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°18'9.99" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°29'53.92" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°41'5.64" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°57'8.21" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°12'15.66" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°9'18.74" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|12°45'44.08" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°18'10.22" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°30'0.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°41'17.21" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°57'11.78" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°12'23.43" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°43'40.86" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CCS, Caracae, Caracas, Caraques, Karakas, Karakasa, Karakasas, Karakaso, ka la ka si, ka raka s, kalakaseu, karakas, karakasa, karakasu, karakkas, kraks, Καράκας, Каракас, Կարակաս, קאראקאס, קראקס, كاراكاس, کاراکاس, کراکس, काराकास, কারাকাস, ਕਾਰਾਕਾਸ, કારાકાસ, କାରାକାସ, கரகஸ், ಕರಾಕಸ್, കാരക്കാസ്, การากัส, ཁ་ར་ཁ་སི, ကရာကက်စ်မြို့, კარაკასი, ካራካስ, カラカス, 卡拉卡斯, 카라카스

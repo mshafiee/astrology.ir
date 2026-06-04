@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'34.59" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°15'13.35" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°44'34.54" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°15'13.47" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|14°18'56.61" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°26'51.31" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°39'32.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°51'4.58" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°39'30.91" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|16°26'51.32" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°39'32.61" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°51'4.60" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°39'31.32" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: GCI, Saint Peter Port, Saint Pierre Port, Saint-Pierre-Port, Sanktapetrurbo, Sejnt Pitur Port, Sent Piter Port, Sent Piter Portas, Sent-Pitehr-Port, Sent-Piter-Port, Sentpiterporta, Sentpīterporta, St Peter Port, St. Peter Port, san bytr bwrt, seinteupiteopoteu, sent pi texr phxrt, sheng bi de gang, sn ptr pwrt, snt pytr pwrt, Сейнт Питър Порт, Сент Питер Порт, Сент-Питер-Порт, Сент-Пітер-Порт, Сент-Пітэр-Порт, סנט פיטר פורט, سان بيتر بورت, سن پتر پورت, سینٹ پیٹر پورٹ, เซนต์ปีเตอร์พอร์ต, სენტ-პიტერ-პორტი, セント・ピーター・ポート, 圣彼得港, 세인트피터포트

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:56:04 |
+| Fajr (Dawn) | 03:56:03 |
 | Sunrise | 06:03:08 |
 | Dhuhr (Noon) | 13:23:23 |
 | Medium Coeli | 13:23:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°30'10.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°39'48.91" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°30'10.77" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°39'49.03" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|12°4'25.09" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|13°32'7.55" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|19°5'0.10" |Gemini|Dhira|Mars|
-|☿ Mercury|Direct|4°17'51.55" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|24°12'49.91" |Sagittarius|Baldah|Saturn|
+|☉ Sun|Direct|13°32'7.56" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|19°5'0.12" |Gemini|Dhira|Mars|
+|☿ Mercury|Direct|4°17'51.57" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|24°12'49.58" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°30'10.82" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°39'48.91" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°30'10.77" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°39'49.03" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°4'25.09" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|13°32'7.55" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|19°5'0.10" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|4°17'51.55" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|13°32'7.56" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|19°5'0.12" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|4°17'51.57" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|24°12'49.58" |Capricorn|SaadAlBula|Sun|
 
 
