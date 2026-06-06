@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:19:18 |
 | Dhuhr (Noon) | 12:37:10 |
 | Medium Coeli | 12:37:10 |
-| Sunset | 19:55:17 |
+| Sunset | 19:55:18 |
 | Maghrib | 20:18:06 |
 | Isha (Night) | 21:18:41 |
-| Sharia Midnight | 23:42:07 |
+| Sharia Midnight | 23:42:08 |
 | Imum Coeli | 00:37:16 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:19:18 |
 | Dhuhr (Noon) | 12:37:10 |
 | Medium Coeli | 12:37:10 |
-| Sunset | 19:55:17 |
+| Sunset | 19:55:18 |
 | Maghrib | 19:56:35 |
 | Isha (Night) | 21:40:08 |
 | Sharia Midnight | 23:40:59 |
@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:19:18 |
 | Dhuhr (Noon) | 12:37:10 |
 | Medium Coeli | 12:37:10 |
-| Sunset | 19:55:17 |
+| Sunset | 19:55:18 |
 | Maghrib | 19:56:35 |
 | Isha (Night) | 21:43:53 |
-| Sharia Midnight | 23:35:06 |
+| Sharia Midnight | 23:35:07 |
 | Imum Coeli | 00:37:16 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:19:18 |
 | Dhuhr (Noon) | 12:37:10 |
 | Medium Coeli | 12:37:10 |
-| Sunset | 19:55:17 |
+| Sunset | 19:55:18 |
 | Maghrib | 19:56:35 |
 | Isha (Night) | 21:47:40 |
 | Sharia Midnight | 23:40:59 |
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:19:18 |
 | Dhuhr (Noon) | 12:37:10 |
 | Medium Coeli | 12:37:10 |
-| Sunset | 19:55:17 |
+| Sunset | 19:55:18 |
 | Maghrib | 19:56:35 |
 | Isha (Night) | 21:26:35 |
-| Sharia Midnight | 23:39:03 |
+| Sharia Midnight | 23:39:04 |
 | Imum Coeli | 00:37:16 |
 {{< /tab >}}
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|24°51'2.15" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|12°47'20.61" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|14°27'49.53" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|20°13'26.82" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|5°47'52.22" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|5°55'47.82" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|20°13'26.99" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|5°47'52.38" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°54'21.43" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'56.59" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°18'42.32" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°32'1.01" |Aries|Butain|Sun|
+|♂ Mars|Direct|14°32'1.08" |Aries|Butain|Sun|
 |☉ Sun|Direct|16°43'54.12" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|23°0'23.92" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°16'14.19" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|5°17'57.02" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|23°0'23.77" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|9°16'14.07" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|5°19'54.28" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|25°18'42.32" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|14°32'1.01" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|16°43'54.12" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°0'20.93" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°16'7.16" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°39'51.38" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|23°0'23.92" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°16'14.19" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|5°17'57.02" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

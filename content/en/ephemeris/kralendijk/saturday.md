@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'44.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°18'11.34" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°30'4.80" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°41'14.26" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°57'15.49" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°12'25.53" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|4°24'50.43" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|12°45'44.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°18'11.22" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°30'4.79" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°41'22.65" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°57'18.47" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|9°12'31.48" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|4°45'5.61" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'44.46" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°18'11.34" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°30'4.80" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°41'22.66" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°57'18.50" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°12'31.50" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|4°45'6.24" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|12°45'44.51" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°18'11.22" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°30'4.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°41'22.65" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°57'18.47" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°12'31.48" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|4°45'5.61" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kralendajk, Kralendehjk, Kralendeikas, Kralendejk, Kralendijk, Kralendiyk, Kralentik, Playa, ke la lun dai ke, keulallendeikeu, kralndyk, kralyndayk, kurarendaiku, Κράλεντικ, Кралендайк, Кралендајк, Кралендейк, Кралендэйк, Կրալենդիյկ, كراليندايك, کرالندیک, کرالن‌دیک, კრალენდეიკი, クラレンダイク, 克拉伦代克, 크랄렌데이크

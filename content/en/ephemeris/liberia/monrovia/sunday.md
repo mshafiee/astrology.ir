@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|12°45'2.34" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°16'23.86" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°23'21.03" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°32'37.37" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°46'34.38" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°59'35.56" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|2°23'47.74" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|16°32'26.47" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°46'31.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°59'28.30" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|2°17'9.78" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'2.34" |Aries|Sharatain|Sun|
 |♃ Jupiter|Direct|25°16'23.86" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°23'19.25" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°32'35.50" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°46'35.29" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°59'35.48" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°23'47.74" |Pisces|FarghAlMuqaddam|Saturn|
+|♂ Mars|Direct|14°23'21.03" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°32'37.37" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°46'34.38" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°59'35.56" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°47'51.51" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MLW, Manrovija, Monrobia, Monrofia, Monrovi, Monrovia, Monrovii, Monrovija, Monrovio, Monroviya, Monrowia, Monròvia, Monróvia, Monróvía, manarobhiya, manroweiy, manrwwya, meng luo wei ya, monarovi'a, monlobia, monrobia, monrovhiya, monrovia, monroviya, mwnrwbyh, mwnrwfya, mwnrwwya, Μονρόβια, Манровія, Монрови, Монровия, Монровија, Монровія, Մոնրովիա, מאנראוויע, מונרוביה, مانروویا, مونروفيا, مونروویا, مۆنرۆڤیا, मोन्रोव्हिया, মনরোভিয়া, ਮੋਨਰੋਵੀਆ, மொன்றோவியா, มันโรเวีย, མོང་རོ་ཝི་ཡ།, მონროვია, ሞንሮቪያ, モンロビア, 蒙罗维亚, 蒙羅維亞, 몬로비아

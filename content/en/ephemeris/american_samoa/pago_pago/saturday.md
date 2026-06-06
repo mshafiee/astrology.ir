@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|16°59'31.77" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|23°19'33.17" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|9°39'6.59" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|8°48'10.85" |Aquarius|SaadAlAkhbia|Venus|
+|☾ Moon|Direct|8°45'24.58" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°47'11.48" |Aries|Sharatain|Sun|
 |♃ Jupiter|Direct|25°21'54.44" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°44'1.41" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°59'31.77" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°19'33.17" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°39'6.59" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|8°48'10.85" |Pisces|FarghAlMuakhar|Saturn|
+|♂ Mars|Direct|14°43'54.37" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°59'16.35" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°19'24.34" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°38'52.96" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°45'24.58" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

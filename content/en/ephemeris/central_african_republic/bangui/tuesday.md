@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:33:53 |
 | Dhuhr (Noon) | 11:45:01 |
 | Medium Coeli | 11:45:01 |
-| Sunset | 17:56:10 |
+| Sunset | 17:56:09 |
 | Maghrib | 18:11:04 |
 | Isha (Night) | 18:55:04 |
-| Sharia Midnight | 23:11:13 |
+| Sharia Midnight | 23:11:12 |
 | Imum Coeli | 23:45:07 |
 {{< /tab >}}
 
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:33:53 |
 | Dhuhr (Noon) | 11:45:01 |
 | Medium Coeli | 11:45:01 |
-| Sunset | 17:56:10 |
+| Sunset | 17:56:09 |
 | Maghrib | 18:13:16 |
 | Isha (Night) | 18:55:04 |
 | Sharia Midnight | 23:07:25 |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:33:53 |
 | Dhuhr (Noon) | 11:45:01 |
 | Medium Coeli | 11:45:01 |
-| Sunset | 17:56:10 |
+| Sunset | 17:56:09 |
 | Maghrib | 17:59:00 |
 | Isha (Night) | 19:08:23 |
 | Sharia Midnight | 23:06:45 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:33:53 |
 | Dhuhr (Noon) | 11:45:01 |
 | Medium Coeli | 11:45:01 |
-| Sunset | 17:56:10 |
+| Sunset | 17:56:09 |
 | Maghrib | 17:59:00 |
 | Isha (Night) | 19:12:50 |
 | Sharia Midnight | 23:06:45 |
@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:22:17|Night duration: 11:37:53|
+|Duration of the day: 12:22:16|Night duration: 11:37:54|
 |Every hour of day duration: 01:01:51|Every hour of night duration: 00:58:09|
 
  
@@ -220,24 +220,24 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|06:35:44|07:37:34|Attracting misfortune, no task is suitable|
 |3|Venus|Servant|07:37:35|08:39:26|Attracting connection and suitors|
 |4|Mercury|Servant|08:39:27|09:41:17|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|09:41:18|10:43:09|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|10:43:10|11:45:00|Repelling negative energy of evil eye|
+|5|Moon|Servant|09:41:18|10:43:08|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|10:43:09|11:45:00|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|11:45:01|12:46:51|Attracting love and hearts|
-|8|Mars|Ruler|12:46:52|13:48:43|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|13:48:44|14:50:34|Heart tenderness|
-|10|Venus|Servant|14:50:35|15:52:26|Attracting misfortune, no task is suitable|
-|11|Mercury|Servant|15:52:27|16:54:17|Attracting connection and suitors|
-|12|Moon|Servant|16:54:18|17:56:09|Hatred, corruption and creating negative energy for disruption|
+|8|Mars|Ruler|12:46:52|13:48:42|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|13:48:43|14:50:34|Heart tenderness|
+|10|Venus|Servant|14:50:35|15:52:25|Attracting misfortune, no task is suitable|
+|11|Mercury|Servant|15:52:26|16:54:16|Attracting connection and suitors|
+|12|Moon|Servant|16:54:17|17:56:08|Hatred, corruption and creating negative energy for disruption|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|17:56:10|18:54:18|Creating corruption, hatred and enmity|
-|2|Jupiter|Servant|18:54:19|19:52:27|Attracting misfortune, no task is suitable|
-|3|Mars|Servant|19:52:28|20:50:37|Attracting connection and suitors|
-|4|Sun|Servant|20:50:38|21:48:46|Attracting material wealth, earnings and business prosperity|
-|5|Venus|Servant|21:48:47|22:46:56|Attracting misfortune, no task is suitable|
-|6|Mercury|Servant|22:46:57|23:45:05|Repelling negative energy of evil eye|
+|1|Saturn|Ruler|17:56:09|18:54:17|Creating corruption, hatred and enmity|
+|2|Jupiter|Servant|18:54:18|19:52:27|Attracting misfortune, no task is suitable|
+|3|Mars|Servant|19:52:28|20:50:36|Attracting connection and suitors|
+|4|Sun|Servant|20:50:37|21:48:46|Attracting material wealth, earnings and business prosperity|
+|5|Venus|Servant|21:48:47|22:46:55|Attracting misfortune, no task is suitable|
+|6|Mercury|Servant|22:46:56|23:45:05|Repelling negative energy of evil eye|
 |7|Moon|Servant|23:45:06|00:43:14|Attracting love and hearts|
 |8|Saturn|Ruler|00:43:15|01:41:24|Creating corruption, destroying enemies, making enemies sick|
 |9|Jupiter|Servant|01:41:25|02:39:33|Heart tenderness|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°53'45.25" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°39'3.88" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°48'0.65" |Aries|Butain|Sun|
-|☉ Sun|Direct|18°22'53.63" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|25°1'38.96" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°37'22.62" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|28°42'34.74" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°39'3.94" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°48'0.79" |Aries|Butain|Sun|
+|☉ Sun|Direct|18°22'53.97" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|25°1'38.93" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°37'22.60" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|27°57'7.33" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°53'45.25" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|25°39'3.94" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|15°48'0.79" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|18°22'53.97" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|25°1'39.19" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°37'22.95" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|27°57'21.91" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|12°53'45.30" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|25°39'3.82" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|15°48'0.78" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|18°22'53.96" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|25°1'39.16" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°37'22.93" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|27°57'20.32" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

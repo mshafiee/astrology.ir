@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'2.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°16'23.46" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|12°45'2.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°16'23.58" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°23'20.04" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°32'35.78" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°46'32.78" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°59'33.54" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|2°48'40.75" |Aquarius|SaadAlSaud|Venus|
+|☉ Sun|Direct|16°32'35.79" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°46'32.81" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°59'22.65" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|3°41'30.06" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Sun|Mars|Pisces|Moon|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Saturn|Venus|Pisces|Sun|Saturn|
+|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°45'2.26" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°16'23.46" |Cancer|Tarf|Moon|
+|♄ Saturn|Direct|12°45'2.21" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°16'23.58" |Cancer|Tarf|Moon|
 |♂ Mars|Direct|14°23'20.04" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°32'35.78" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°46'32.78" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°59'33.54" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°48'40.75" |Pisces|FarghAlMuqaddam|Saturn|
+|☉ Sun|Direct|16°32'35.79" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°46'32.81" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°59'33.56" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°48'41.25" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트

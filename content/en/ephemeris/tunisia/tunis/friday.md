@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:57:08 |
+| Fajr (Dawn) | 02:57:07 |
 | Sunrise | 05:00:23 |
 | Dhuhr (Noon) | 12:17:49 |
 | Medium Coeli | 12:17:49 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°35'10.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|24°51'50.91" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|12°50'26.96" |Aries|Sharatain|Sun|
-|☉ Sun|Direct|14°31'51.47" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|20°18'23.97" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|5°54'16.85" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|6°46'59.19" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Direct|12°35'10.63" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|24°51'49.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|12°50'25.80" |Aries|Sharatain|Sun|
+|☉ Sun|Direct|14°31'44.69" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|20°18'16.12" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|5°54'8.10" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|7°48'21.10" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mercury|Sun|
-|☾ Moon|Mercury|Mercury|Saturn|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Libra|Moon|Venus|
 |♀ Venus|Mars|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Moon|Mars|Leo|Sun|Mercury|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°35'10.68" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|24°51'50.91" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|12°50'26.96" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|12°35'10.63" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|24°51'51.03" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|12°50'26.97" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|14°31'51.47" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|20°18'23.97" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|5°54'16.85" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|6°46'59.19" |Aquarius|SaadAlSaud|Venus|
+|♀ Venus|Direct|20°18'23.99" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|5°54'16.87" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|6°46'58.68" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

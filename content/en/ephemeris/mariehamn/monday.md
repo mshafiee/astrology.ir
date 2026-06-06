@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:57 |
+| Sunset | 22:59:56 |
 | Maghrib | 23:54:08 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:57 |
+| Sunset | 22:59:56 |
 | Maghrib | 23:02:59 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:57 |
+| Sunset | 22:59:56 |
 | Maghrib | 23:02:59 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:57 |
+| Sunset | 22:59:56 |
 | Maghrib | 23:02:59 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°48'37.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°25'37.94" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°57'58.38" |Aries|Butain|Sun|
-|☉ Sun|Direct|17°17'38.52" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|23°41'48.53" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|10°5'23.84" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|12°58'30.61" |Aquarius|SaadAlAkhbia|Mercury|
+|♂ Mars|Direct|14°58'1.67" |Aries|Butain|Sun|
+|☉ Sun|Direct|17°17'44.19" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|23°41'50.36" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|10°5'27.72" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°21'0.67" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Venus|Mars|
-|☾ Moon|Venus|Venus|Mercury|Moon|
+|☾ Moon|Jupiter|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

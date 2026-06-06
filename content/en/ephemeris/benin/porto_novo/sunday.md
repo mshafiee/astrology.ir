@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'51.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°15'57.47" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°21'41.84" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°30'28.30" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°43'46.35" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°56'12.31" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|3°15'13.48" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|25°15'55.38" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°21'39.20" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°30'18.31" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°43'46.33" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°56'12.29" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|3°15'13.03" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'51.97" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°15'57.47" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°21'41.84" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|12°44'52.02" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°15'57.36" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°21'41.83" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|16°30'28.30" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°43'56.14" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°56'24.30" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°19'14.63" |Pisces|FarghAlMuqaddam|Saturn|
+|♀ Venus|Direct|22°43'56.12" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°56'24.28" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°19'14.16" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Borto-Novo, Porta-Nova, Porto Neuvo, Porto Nobo, Porto Novas, Porto Novo, Porto-Novo, Portonovo, Portus Novus, Poto-Novo, Pòrto Neuvo, Pòto-Novo, Pôrto-Novo, bo duo nuo fu, bo tu nu bu, bwrtw nwfw, poleutonobo, porato-novo, porto-novho, porutonobo, pwrtw nwbw, pwrtw nwww, pxr to-no wo, xin gang, Πόρτο Νόβο, Πόρτο-Νόβο, Порта-Нова, Порто Ново, Порто-Ново, Պորտո Նովո, פארטא-נאווא, פורטו נובו, بورتو نوفو, پورتو نووو, پورٹو نووو, پۆرتۆ نۆڤۆ, पोर्तो-नोव्हो, ਪੋਰਤੋ-ਨੋਵੋ, ปอร์โต-โนโว, པོར་ཊོ་-ནོ་བོ།, პორტო-ნოვო, ፖርቶ ኖቮ, ポルトノボ, 新港, 波圖奴埠, 波多诺伏, 포르토노보

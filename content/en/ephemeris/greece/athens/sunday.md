@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'22.66" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°14'43.17" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°17'2.62" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°24'23.80" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°36'30.75" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°47'24.30" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|1°3'47.14" |Aquarius|SaadAlSaud|Venus|
+|♂ Mars|Direct|14°17'2.42" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°24'21.75" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°36'28.01" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°47'21.27" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|1°24'40.78" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'22.66" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°14'43.17" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°17'2.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°24'23.80" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°36'30.75" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°47'24.30" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|1°3'47.14" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|25°14'42.58" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°17'2.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°24'21.75" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°36'28.01" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°47'21.27" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|1°24'40.78" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ATH, Afina, Afini, Afiny, An Aithin, Ateena, Atehny, Aten, Atena, Atenai, Atenas, Atenas - Athena, Atenas - Αθήνα, Atene, Atenes, Ateni, Ateno, Atenoj, Ateny, Athen, Athena, Athenae, Athenai, Athene, Athenes, Athens, Atheny, Athina, Athinai, Athinia, Athènes, Athén, Athénes, Athény, Athína, Athínai, Atina, Atény, Atēnas, Atėnai, Aþena, Kota Athena, Lungsod ng Athina, Lungsod ng Athína, atene, atene si, ateni, athensa, athyna, atn, etens, xethens, ya dian, Αθήνα, Αθήναι, Αθηνα, Αθηναι, Атина, Атэны, Афины, Афіни, Аѳины, Աթենք, אתונה, آتن, أثينا, ئافېنا, ܐܬܝܢܐ, अथेन्स, ஏதென்ஸ், เอเธนส์, ათენი, Ἀθῆναι, アテネ, 雅典, 아테네, 아테네 시

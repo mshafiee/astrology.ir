@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|12°43'52.32" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°13'26.05" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°12'12.21" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°18'7.23" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°28'47.47" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°38'1.35" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|29°35'25.12" |Capricorn|SaadAlSaud|Sun|
+|☉ Sun|Direct|16°17'58.51" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°28'39.80" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°37'51.61" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°15'15.62" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Sun|Mars|Aquarius|Moon|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°43'52.32" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°13'26.05" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°12'12.21" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°18'7.23" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°28'47.47" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°38'1.35" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|29°35'25.12" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°13'24.53" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°12'9.48" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°17'58.51" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°28'39.80" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°37'51.61" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°15'15.62" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: CMB, Colombo, Columbo, Columbum, Kalomba, Kolombas, Kolombo, Kolompo, Kolonbo, ge lin bao, kalambo, kalombo, ke lun po, kealambea, kholambo, klmbw, kolabo, kolambo, kollombo, kolumpu, kolunbu, koronbo, kwlmbw, kwlwmbw, qwlwmbw, Κολόμπο, Каломба, Коломбо, Կոլոմբո, קולומבו, كولمبو, كولومبو, کلمبو, کولمبو, ކޮޅުނބު, कोलंबो, कोलम्बो, কলম্বো, ਕੋਲੰਬੋ, કોલંબો, କଲୋମ୍ବୋ, கொழும்பு, కొలంబో, ಕೊಲಂಬೊ, കൊളംബോ, කොළඹ, ෙකාළඹ, โคลัมโบ, ཁོ་ལུམ་པོ།, ကိုလံဘိုမြို့, კოლომბო, ኮሎምቦ, コロンボ, 可倫坡, 哥林堡, 콜롬보

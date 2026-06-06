@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|12°47'12.52" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|25°21'57.14" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°44'11.51" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°59'27.79" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|23°19'38.10" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°39'9.48" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|9°6'43.61" |Aquarius|SaadAlAkhbia|Venus|
+|☉ Sun|Direct|16°59'44.85" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|23°19'49.29" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|9°39'25.72" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|8°51'18.46" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|16°59'44.85" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|23°19'49.29" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|9°39'25.72" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|9°6'43.61" |Pisces|FarghAlMuakhar|Saturn|
+|☾ Moon|Direct|8°51'18.46" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

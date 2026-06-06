@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|14°17'6.81" |Aries|Butain|Sun|
 |☉ Sun|Direct|16°24'28.88" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|22°36'37.45" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°47'32.31" |Gemini|HanAh|Jupiter|
+|☿ Mercury|Direct|8°47'21.77" |Gemini|HanAh|Jupiter|
 |☾ Moon|Direct|2°9'47.81" |Aquarius|SaadAlSaud|Venus|
 
 
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'23.07" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°14'44.28" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°17'6.81" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°24'28.88" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°36'37.45" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|25°14'42.46" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°17'5.50" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°24'21.06" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°36'28.32" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|8°47'21.77" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|2°9'47.81" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Bosna-Sarai, SJJ, Saarayego, Saireavo, Sairéavó, Saraeva, Saraevo, Saraevo osh, Saragebo, Saragiebo, Saragievo, Sarajeva, Sarajevas, Sarajevo, Sarajevs, Sarajevu, Sarajevó, Sarajewo, Sarajèvo, Saraxevo, Saraybosna, Sarayevo, Sarayevu, Seraium, Serayevo, Szarajevo, Szarajevó, Vrh Bosna, carayevo, sa la re wo, sai la ye fu, salayebo, saraevo, saraevu~o, sarajyww, sarayavea, sarayebho, sarayevho, sarayevo, sarayewo, sarayh ww, sarayww, sarayyfw, srayyfw, srayyww, sryybw, Σαράγεβο, Σαράγιεβο, Σαραγιεβο, Сараева, Сараево, Сараево ош, Сараєво, Сарајево, Сараѥво, Սարաևո, סאראיעווא, סרייבו, ساراجیوو, ساراييفو, سارايېۋو, سارایه وو, سارایوو, سارایێڤۆ, سرائیوو, سراييفو, सारायेव्हो, সারায়েভো, ਸਾਰਾਯੇਵੋ, சாரயேவோ, സരയാവോ, ซาราเยโว, ས་ར་ཇི་བོ།, სარაევო, ሳራዬቮ, サラエヴォ, 塞拉耶佛, 薩拉熱窩, 사라예보
