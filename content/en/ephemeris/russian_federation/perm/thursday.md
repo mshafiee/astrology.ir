@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:12:44 |
+| Sunrise | 04:12:45 |
 | Dhuhr (Noon) | 13:14:37 |
 | Medium Coeli | 13:14:37 |
 | Sunset | 22:17:03 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:12:44 |
+| Sunrise | 04:12:45 |
 | Dhuhr (Noon) | 13:14:37 |
 | Medium Coeli | 13:14:37 |
 | Sunset | 22:17:03 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:12:44 |
+| Sunrise | 04:12:45 |
 | Dhuhr (Noon) | 13:14:37 |
 | Medium Coeli | 13:14:37 |
 | Sunset | 22:17:03 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:12:44 |
+| Sunrise | 04:12:45 |
 | Dhuhr (Noon) | 13:14:37 |
 | Medium Coeli | 13:14:37 |
 | Sunset | 22:17:03 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:12:44 |
+| Sunrise | 04:12:45 |
 | Dhuhr (Noon) | 13:14:37 |
 | Medium Coeli | 13:14:37 |
 | Sunset | 22:17:03 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Direct|13°5'50.31" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|26°12'12.54" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°49'58.38" |Aries|Butain|Sun|
-|☉ Sun|Direct|21°2'7.94" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|28°16'19.05" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|15°5'21.17" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|6°42'50.54" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|21°2'9.68" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|28°16'21.39" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|15°5'24.00" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|6°40'2.74" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°5'50.31" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|26°12'12.54" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|17°49'58.38" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°2'7.94" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|28°16'19.05" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|15°5'21.17" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|6°42'50.54" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°12'13.03" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|17°49'58.55" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°2'9.68" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|28°16'21.39" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|15°5'24.00" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|6°40'2.74" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

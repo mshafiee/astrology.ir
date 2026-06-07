@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:56 |
+| Sunset | 22:59:57 |
 | Maghrib | 23:54:08 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:56 |
+| Sunset | 22:59:57 |
 | Maghrib | 23:02:59 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:56 |
+| Sunset | 22:59:57 |
 | Maghrib | 23:02:59 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:19:32 |
 | Dhuhr (Noon) | 13:39:18 |
 | Medium Coeli | 13:39:18 |
-| Sunset | 22:59:56 |
+| Sunset | 22:59:57 |
 | Maghrib | 23:02:59 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -300,7 +300,7 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°48'37.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°25'37.94" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|25°25'38.18" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|14°58'1.67" |Aries|Butain|Sun|
 |☉ Sun|Direct|17°17'44.19" |Taurus|Dabaran|Moon|
 |♀ Venus|Direct|23°41'50.36" |Gemini|Dhira|Sun|

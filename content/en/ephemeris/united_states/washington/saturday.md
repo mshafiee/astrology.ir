@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°45'39.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°17'58.93" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°29'18.39" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°40'21.10" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°56'4.48" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|9°11'2.14" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|4°35'28.00" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|25°17'59.04" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°29'19.65" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°40'23.04" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°56'4.89" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|9°11'3.27" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|4°44'24.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: District of Columbia, Federal Capital, Federal City, Federal Town, Ouasinkton, Ranatakariahshne, Ranatakariáhshne, Territory of Columbia, Vashington, Vasingtonas, Vasingtonia, Vašingtonas, WAS, Washington, Washington City, Washington D. C., Washington D.C., Washington DC, Waszyngton, hua sheng dun te qu, wosingteon D.C., wosingteon DC, Ουάσιγκτον, Вашингтон, 华盛顿特区, 워싱턴 D.C., 워싱턴 DC

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°43'59.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°13'45.57" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°13'20.39" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°19'36.16" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°30'42.72" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°40'19.46" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|29°18'26.63" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|25°13'44.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°13'22.89" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°19'37.94" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°30'40.08" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°40'18.16" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|0°1'44.00" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Mercury|
 |♀ Venus|Mars|Mars|Saturn|Jupiter|
 |☿ Mercury|Jupiter|Jupiter|Mercury|Sun|
-|☾ Moon|Mars|Mars|Mercury|Jupiter|
+|☾ Moon|Mercury|Saturn|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Scorpio|Sun|Saturn|
 |♀ Venus|Sun|Mars|Pisces|Moon|Jupiter|
 |☿ Mercury|Saturn|Jupiter|Virgo|Sun|Mercury|
-|☾ Moon|Moon|Mercury|Sagittarius|Sun|Venus|
+|☾ Moon|Saturn|Venus|Aquarius|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°44'0.00" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°13'44.37" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°13'24.04" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°19'38.59" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°30'38.66" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°40'17.31" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|0°23'43.04" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Direct|12°43'59.64" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°13'44.77" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°13'22.86" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°19'37.99" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°30'40.20" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°40'18.26" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|0°0'37.44" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Asterabad, Asterābād, GBT, Gorgan, Gorgān, Gurgan, Gurgon, Gūrgān, Hirkanio, aastir abad, grgan, gwrgan, Горган, Гургон, اَستِر آباد, گرگان, گورگان

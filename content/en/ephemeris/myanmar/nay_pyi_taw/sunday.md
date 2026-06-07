@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°48'11.11" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°24'26.07" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°53'35.28" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|17°11'52.32" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|23°34'41.27" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|9°57'1.94" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|12°37'54.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|12°48'10.99" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|25°24'27.97" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°53'36.47" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|17°12'0.09" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|23°34'50.63" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|9°57'12.81" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|11°37'44.54" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Venus|Jupiter|Moon|Saturn|
-|☾ Moon|Jupiter|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Kyatpyay, Kyetpyay, NYT, Naipidau, Nay Pyi Taw, Naypyidaw, Naypyitaw, Ne Pyi Daw, Pyinmana, naepido, nepido, 내피도, 네피도

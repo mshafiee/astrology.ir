@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'25.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°14'51.25" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|14°17'32.62" |Aries|Butain|Sun|
-|☉ Sun|Direct|16°25'4.05" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|22°37'18.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|8°48'22.72" |Gemini|HanAh|Jupiter|
-|☾ Moon|Direct|1°7'21.08" |Aquarius|SaadAlSaud|Venus|
+|♃ Jupiter|Direct|25°14'50.86" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|14°17'31.22" |Aries|Butain|Sun|
+|☉ Sun|Direct|16°25'1.00" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|22°37'16.77" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|8°48'20.00" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|1°9'42.32" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,10 +339,10 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'25.90" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°14'50.86" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°17'31.22" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°25'1.00" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°37'16.77" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|25°14'51.25" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°17'32.62" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°25'4.05" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°37'18.59" |Cancer|Tarf|Moon|
 |☿ Mercury|Direct|8°48'20.00" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|1°9'42.32" |Pisces|FarghAlMuqaddam|Saturn|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

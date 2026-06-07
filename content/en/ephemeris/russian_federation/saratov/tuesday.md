@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:25:14 |
+| Fajr (Dawn) | 01:25:15 |
 | Sunrise | 04:39:16 |
 | Dhuhr (Noon) | 12:55:11 |
 | Medium Coeli | 12:55:11 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°53'1.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°37'7.33" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|15°40'48.36" |Aries|Butain|Sun|
-|☉ Sun|Direct|18°13'27.64" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|24°50'8.76" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|11°24'20.68" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|25°44'28.72" |Aquarius|FarghAlMuqaddam|Moon|
+|♃ Jupiter|Direct|25°37'7.44" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°40'48.43" |Aries|Butain|Sun|
+|☉ Sun|Direct|18°13'28.07" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|24°50'9.28" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|11°24'21.30" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|25°41'49.49" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Sagittarius|Sun|Saturn|
 |♀ Venus|Sun|Venus|Pisces|Moon|Jupiter|
 |☿ Mercury|Saturn|Saturn|Libra|Sun|Mercury|
-|☾ Moon|Moon|Venus|Sagittarius|Moon|Mars|
+|☾ Moon|Mercury|Venus|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}

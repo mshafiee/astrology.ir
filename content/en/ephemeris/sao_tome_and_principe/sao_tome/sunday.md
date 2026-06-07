@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°44'50.82" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|25°15'54.52" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|14°21'28.82" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|16°30'11.02" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°43'37.95" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|8°56'1.29" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|2°2'3.68" |Pisces|FarghAlMuqaddam|Saturn|
+|♃ Jupiter|Direct|25°15'54.53" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|14°21'30.73" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|16°30'13.94" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°43'38.43" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|8°56'2.90" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|2°15'43.52" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>✱ Sextile|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub>☌ Conjunction|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub> |<sub>□ Square|<sub>△ Trine|<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>△ Trine|<sub>✱ Sextile|<sub>□ Square|<sub>△ Trine|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Salazar, San Tomas, San Tome, San Tomé, San Tomė, San-Tameh, San-Tome, Santo Tome, Santo Tomé, Santome, Sao Thome, Sao Tome, Sao Tomee, Sao Tomé, Sao-Tomeo, Soeo Tome, Svaety Tomas, Svätý Tomáš, Sào Thomé, São Tomé, Söo Tomé, TMS, Urbs Sancti Thomae, cavo tome, sa'o tome, sangtume, santome, savea team, saw twmy, saywtwmh, sea tu me, sheng duo mei, Σάο Τομέ, Сан-Тамэ, Сан-Томе, Сао Томе, Սան Տոմե, סאו טומה, ساؤ ٹومے, سائوتومه, ساو تومي, ساو تۆمێ, ساو ٹومے, साओ टोमे, সাও টোমে, ਸਾਓ ਤੋਮੇ, சாவோ தொமே, സാവോ ടോം, เซาตูเม, སའོ་ཊོ་མེ།, სან-ტომე, ሳን ቶሜ, サントメ, 圣多美, 聖多美, 상투메

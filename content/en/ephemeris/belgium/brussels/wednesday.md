@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 13:42:03 |
 | Medium Coeli | 13:42:03 |
 | Sunset | 21:55:18 |
-| Maghrib | 22:29:04 |
+| Maghrib | 22:29:05 |
 | Isha (Night) | 00:27:15 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:42:09 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|12°57'58.56" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|25°50'24.37" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|16°29'59.57" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°17'37.92" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°8'38.89" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|12°51'34.56" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°51'36.79" |Aries|Sharatain|Sun|
+|♄ Saturn|Direct|12°57'58.51" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|25°50'24.48" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|16°29'59.58" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°17'37.93" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|26°8'38.92" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|12°51'34.58" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°51'38.02" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
