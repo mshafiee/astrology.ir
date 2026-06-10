@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:29:30 |
 | Dhuhr (Noon) | 13:41:51 |
 | Medium Coeli | 13:41:51 |
-| Sunset | 21:54:35 |
+| Sunset | 21:54:34 |
 | Maghrib | 22:28:16 |
 | Isha (Night) | 00:25:33 |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:29:30 |
 | Dhuhr (Noon) | 13:41:51 |
 | Medium Coeli | 13:41:51 |
-| Sunset | 21:54:35 |
+| Sunset | 21:54:34 |
 | Maghrib | 21:56:25 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:29:30 |
 | Dhuhr (Noon) | 13:41:51 |
 | Medium Coeli | 13:41:51 |
-| Sunset | 21:54:35 |
+| Sunset | 21:54:34 |
 | Maghrib | 21:56:25 |
 | Isha (Night) | 00:49:36 |
-| Sharia Midnight | 00:14:21 |
+| Sharia Midnight | 00:14:20 |
 | Imum Coeli | 01:41:57 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:29:30 |
 | Dhuhr (Noon) | 13:41:51 |
 | Medium Coeli | 13:41:51 |
-| Sunset | 21:54:35 |
+| Sunset | 21:54:34 |
 | Maghrib | 21:56:25 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|12°53'32.92" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|25°38'31.52" |Cancer|Tarf|Moon|
-|♂ Mars|Direct|15°46'0.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|18°20'15.31" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|24°58'27.64" |Cancer|Tarf|Moon|
-|☿ Mercury|Direct|11°33'45.64" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|27°16'30.81" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|25°38'31.85" |Cancer|Tarf|Moon|
+|♂ Mars|Direct|15°46'0.49" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|18°20'15.89" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|24°58'29.07" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|11°33'47.07" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|27°3'24.53" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

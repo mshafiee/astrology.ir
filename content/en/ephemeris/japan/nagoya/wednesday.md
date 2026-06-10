@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 19:06:25 |
 | Maghrib | 19:07:40 |
 | Isha (Night) | 20:51:13 |
-| Sharia Midnight | 22:52:02 |
+| Sharia Midnight | 22:52:03 |
 | Imum Coeli | 23:51:50 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°0'54.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°58'26.19" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|16°59'33.03" |Aries|Butain|Sun|
-|☉ Sun|Direct|19°56'14.83" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°55'49.54" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|13°42'12.24" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°23'36.08" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|13°0'54.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°58'26.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|16°59'33.01" |Aries|Butain|Sun|
+|☉ Sun|Direct|19°56'14.82" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°55'49.52" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|13°42'12.23" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|20°23'35.29" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°0'54.64" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|25°58'26.19" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|16°59'33.03" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°56'14.83" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°55'49.54" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|13°42'12.24" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|20°23'36.08" |Aries|Butain|Venus|
+|♄ Saturn|Direct|13°0'54.69" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|25°58'26.09" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|16°59'33.01" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°56'14.82" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|26°55'49.52" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°42'12.23" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|20°23'35.29" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

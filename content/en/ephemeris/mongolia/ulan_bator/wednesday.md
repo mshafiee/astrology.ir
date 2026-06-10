@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:40:58 |
+| Fajr (Dawn) | 01:40:59 |
 | Sunrise | 04:54:01 |
 | Dhuhr (Noon) | 12:51:51 |
 | Medium Coeli | 12:51:51 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°1'8.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|25°59'4.14" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°1'52.47" |Aries|Butain|Sun|
-|☉ Sun|Direct|19°59'16.19" |Taurus|Dabaran|Moon|
-|♀ Venus|Direct|26°59'25.31" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|13°45'57.62" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°51'2.39" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|13°1'8.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|25°59'4.03" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°1'52.46" |Aries|Butain|Sun|
+|☉ Sun|Direct|19°59'16.18" |Taurus|Dabaran|Moon|
+|♀ Venus|Direct|26°59'32.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|13°46'7.02" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|21°2'35.94" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°1'8.34" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°1'8.39" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|25°59'4.14" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|17°1'49.81" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|19°59'8.09" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|26°59'25.31" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|13°45'57.62" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|20°51'2.39" |Aries|Butain|Venus|
+|♂ Mars|Direct|17°1'52.47" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|19°59'16.19" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|26°59'32.14" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°46'7.03" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|21°2'36.70" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Saturn|Venus|Jupiter|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mars|Mercury|Jupiter|Saturn|
+|☾ Moon|Mars|Mars|Jupiter|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

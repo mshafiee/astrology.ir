@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:25:12 |
 | Sunset | 19:09:22 |
 | Maghrib | 19:10:26 |
-| Isha (Night) | 20:36:21 |
+| Isha (Night) | 20:36:20 |
 | Sharia Midnight | 23:41:46 |
 | Imum Coeli | 00:25:18 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°1'17.12" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|25°59'28.15" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|17°3'20.49" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|20°1'12.59" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|27°1'52.62" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|13°48'36.23" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|21°41'44.88" |Aries|Butain|Venus|
+|♃ Jupiter|Direct|25°59'26.45" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|17°3'17.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|20°1'2.78" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|27°1'44.35" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|13°48'24.85" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|21°26'54.40" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
