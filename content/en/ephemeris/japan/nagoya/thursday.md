@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 11:51:56 |
 | Sunset | 19:06:52 |
 | Maghrib | 19:08:07 |
-| Isha (Night) | 20:48:15 |
+| Isha (Night) | 20:48:16 |
 | Sharia Midnight | 22:57:43 |
 | Imum Coeli | 23:52:03 |
 {{< /tab >}}
@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:37:41 |
+| Fajr (Dawn) | 02:37:40 |
 | Sunrise | 04:37:10 |
 | Dhuhr (Noon) | 11:51:56 |
 | Medium Coeli | 11:51:56 |
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°43'26.81" |Aries|Butain|Sun|
 |☉ Sun|Direct|20°53'37.46" |Taurus|Dabaran|Saturn|
 |♀ Venus|Direct|28°5'53.92" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|14°54'50.31" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|4°49'32.68" |Aries|Sharatain|Mars|
+|☿ Mercury|Direct|14°54'50.20" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|4°50'23.79" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°5'12.46" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|26°10'25.34" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|17°43'26.74" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|20°53'37.51" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|28°5'54.14" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|14°54'50.53" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°47'59.65" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|26°10'25.29" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|17°43'26.81" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|20°53'37.46" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|28°5'53.92" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|14°54'50.31" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|4°49'32.68" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

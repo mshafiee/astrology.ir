@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:43:57 |
+| Fajr (Dawn) | 03:43:56 |
 | Sunrise | 05:35:33 |
 | Dhuhr (Noon) | 13:17:09 |
 | Medium Coeli | 13:17:09 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°3'25.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°3'25.21" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|26°5'24.22" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|17°25'6.14" |Aries|Butain|Sun|
 |☉ Sun|Direct|20°29'37.77" |Taurus|Dabaran|Saturn|

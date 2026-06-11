@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:19:55 |
 | Sunset | 17:07:28 |
 | Maghrib | 17:26:51 |
-| Isha (Night) | 18:21:37 |
+| Isha (Night) | 18:21:36 |
 | Sharia Midnight | 23:37:40 |
 | Imum Coeli | 00:20:01 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:19:55 |
 | Sunset | 17:07:28 |
 | Maghrib | 17:29:40 |
-| Isha (Night) | 18:21:37 |
+| Isha (Night) | 18:21:36 |
 | Sharia Midnight | 23:33:11 |
 | Imum Coeli | 00:20:01 |
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°9'45.71" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|26°23'26.28" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|18°30'48.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°55'36.71" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|29°21'31.52" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|16°9'44.93" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|20°52'50.02" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|13°9'45.74" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|26°23'26.27" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|18°30'48.52" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°55'36.65" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|29°21'30.98" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|16°9'44.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|20°56'6.64" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

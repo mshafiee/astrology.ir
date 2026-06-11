@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 17:45:42 |
 | Isha (Night) | 18:56:14 |
 | Sharia Midnight | 00:04:43 |
-| Imum Coeli | 00:42:10 |
+| Imum Coeli | 00:42:11 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 17:45:42 |
 | Isha (Night) | 19:11:16 |
 | Sharia Midnight | 23:57:12 |
-| Imum Coeli | 00:42:10 |
+| Imum Coeli | 00:42:11 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:45:42 |
 | Isha (Night) | 19:15:42 |
 | Sharia Midnight | 23:55:57 |
-| Imum Coeli | 00:42:10 |
+| Imum Coeli | 00:42:11 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|13°3'48.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|26°6'28.51" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°29'0.92" |Aries|Butain|Sun|
-|☉ Sun|Direct|20°34'45.69" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|27°42'51.59" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|14°31'18.15" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|0°5'52.62" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|26°6'28.50" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°28'55.32" |Aries|Butain|Sun|
+|☉ Sun|Direct|20°34'37.12" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|27°42'50.32" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|14°31'13.28" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|28°41'21.46" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Saturn|Venus|
 |♀ Venus|Saturn|Saturn|Saturn|Jupiter|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Jupiter|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Moon|Capricorn|Sun|Saturn|
 |♀ Venus|Venus|Mercury|Taurus|Moon|Jupiter|
 |☿ Mercury|Jupiter|Saturn|Scorpio|Sun|Mercury|
-|☾ Moon|Mars|Mars|Aries|Sun|Mars|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
