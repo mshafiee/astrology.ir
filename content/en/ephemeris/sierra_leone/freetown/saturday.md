@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:34:26 |
 | Dhuhr (Noon) | 12:53:01 |
 | Medium Coeli | 12:53:01 |
-| Sunset | 19:11:37 |
+| Sunset | 19:11:36 |
 | Maghrib | 19:12:35 |
 | Isha (Night) | 20:15:56 |
-| Sharia Midnight | 00:20:57 |
+| Sharia Midnight | 00:20:56 |
 | Imum Coeli | 00:53:07 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:34:26 |
 | Dhuhr (Noon) | 12:53:01 |
 | Medium Coeli | 12:53:01 |
-| Sunset | 19:11:37 |
+| Sunset | 19:11:36 |
 | Maghrib | 19:12:35 |
 | Isha (Night) | 20:27:20 |
 | Sharia Midnight | 00:10:39 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:34:26 |
 | Dhuhr (Noon) | 12:53:01 |
 | Medium Coeli | 12:53:01 |
-| Sunset | 19:11:37 |
+| Sunset | 19:11:36 |
 | Maghrib | 19:12:35 |
 | Isha (Night) | 20:29:37 |
 | Sharia Midnight | 00:14:06 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 12:37:11|Night duration: 11:23:00|
+|Duration of the day: 12:37:10|Night duration: 11:23:01|
 |Every hour duration: 01:48:10|Every hour duration: 01:37:34|
 
  
@@ -270,16 +270,16 @@ Timetable of septet day and night planetary hours
 |Noon|Sun|Servant|11:58:56|13:47:05|
 |Early afternoon|Venus|Servant|13:47:06|15:35:15|
 |Mid-afternoon|Mercury|Servant|15:35:16|17:23:25|
-|Late afternoon|Moon|Servant|17:23:26|19:11:36|
+|Late afternoon|Moon|Servant|17:23:26|19:11:35|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mercury|Ruler|19:11:37|20:49:10|
-|Late evening|Moon|Servant|20:49:11|22:26:44|
-|Midnight|Saturn|Servant|22:26:45|00:04:18|
-|Late at night|Jupiter|Servant|00:04:19|01:41:53|
-|Rooster song|Mars|Servant|01:41:54|03:19:27|
+|Evening|Mercury|Ruler|19:11:36|20:49:09|
+|Late evening|Moon|Servant|20:49:10|22:26:43|
+|Midnight|Saturn|Servant|22:26:44|00:04:18|
+|Late at night|Jupiter|Servant|00:04:19|01:41:52|
+|Rooster song|Mars|Servant|01:41:53|03:19:27|
 |False Dawn|Sun|Servant|03:19:28|04:57:01|
 |Dawn|Venus|Servant|04:57:02|06:34:36|
 
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°11'19.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|13°11'19.67" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|26°27'59.19" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|18°47'17.64" |Aries|Butain|Sun|
 |☉ Sun|Direct|22°17'12.95" |Taurus|HaqAh|Saturn|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°11'19.67" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°11'19.67" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|26°27'59.19" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|18°47'17.64" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°17'12.95" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|29°47'50.42" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|16°34'57.61" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|26°47'36.34" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|29°47'46.96" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|16°34'49.38" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|25°9'49.18" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Jupiter|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Saturn|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Saturn|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Saturn|
+|☾ Moon|Mars|Sun|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}

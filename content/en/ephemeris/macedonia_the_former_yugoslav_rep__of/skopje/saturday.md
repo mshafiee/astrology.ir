@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:03:19 |
+| Fajr (Dawn) | 03:03:20 |
 | Sunrise | 04:58:00 |
 | Dhuhr (Noon) | 12:34:19 |
 | Medium Coeli | 12:34:19 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°10'42.04" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|26°26'9.72" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|18°40'41.49" |Aries|Butain|Sun|
-|☉ Sun|Direct|22°8'32.63" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|29°37'17.83" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°10'42.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|26°26'9.61" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|18°40'41.47" |Aries|Butain|Sun|
+|☉ Sun|Direct|22°8'32.62" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|29°37'17.81" |Gemini|Dhira|Sun|
 |☿ Mercury|Direct|16°24'53.82" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|24°12'23.15" |Aries|Butain|Venus|
+|☾ Moon|Direct|24°12'22.93" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°10'42.04" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|26°26'9.72" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|18°40'41.49" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|22°8'32.63" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|29°37'17.83" |Cancer|Jabhah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|13°10'42.08" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|26°26'9.61" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|18°40'41.47" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|22°8'32.62" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|29°37'17.81" |Cancer|Jabhah|Moon|
 |☿ Mercury|Direct|16°24'53.82" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|24°12'23.15" |Taurus|HaqAh|Saturn|
+|☾ Moon|Direct|24°12'22.93" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
