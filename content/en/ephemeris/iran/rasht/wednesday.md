@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:12:33 |
 | Sunset | 19:34:35 |
 | Maghrib | 19:54:43 |
-| Isha (Night) | 20:59:49 |
+| Isha (Night) | 20:59:50 |
 | Sharia Midnight | 23:22:42 |
 | Imum Coeli | 00:12:39 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°26'24.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°14'7.20" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°32'26.61" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|13°26'24.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°14'7.30" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°32'26.63" |Aries|Butain|Venus|
 |☉ Sun|Direct|25°54'3.63" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|4°11'37.95" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|20°21'46.54" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°0'42.78" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°11'37.96" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°21'46.52" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|24°0'42.48" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°26'24.29" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°14'7.46" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|21°32'26.91" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°54'4.52" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°11'38.74" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|20°21'47.71" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|24°7'5.77" |Cancer|Tarf|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|13°26'24.25" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°14'7.30" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|21°32'26.80" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°54'3.75" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°11'37.76" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°21'46.40" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|23°59'54.29" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:04:24 |
 | Sunset | 21:00:08 |
 | Maghrib | 21:01:59 |
-| Isha (Night) | 23:48:55 |
+| Isha (Night) | 23:48:56 |
 | Sharia Midnight | 23:07:36 |
 | Imum Coeli | 01:04:31 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°6'21.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|26°13'41.34" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|17°55'22.13" |Aries|Butain|Sun|
-|☉ Sun|Direct|21°9'12.40" |Taurus|Dabaran|Saturn|
-|♀ Venus|Direct|28°24'55.92" |Gemini|Dhira|Sun|
-|☿ Mercury|Direct|15°14'1.48" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|8°41'21.12" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|13°6'21.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|26°13'41.24" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|17°55'22.11" |Aries|Butain|Sun|
+|☉ Sun|Direct|21°9'12.39" |Taurus|Dabaran|Saturn|
+|♀ Venus|Direct|28°24'55.90" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|15°14'1.47" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|8°41'20.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°6'21.68" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|26°13'41.34" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|17°55'22.13" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°9'12.40" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|28°24'55.92" |Cancer|Jabhah|Moon|
-|☿ Mercury|Direct|15°14'1.48" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°41'21.12" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|13°6'21.72" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|26°13'41.24" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|17°55'22.11" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°9'12.39" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|28°24'55.90" |Cancer|Jabhah|Moon|
+|☿ Mercury|Direct|15°14'1.47" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|8°41'20.83" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

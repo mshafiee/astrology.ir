@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 11:53:07 |
 | Medium Coeli | 11:53:07 |
 | Sunset | 19:13:48 |
-| Maghrib | 19:16:10 |
+| Maghrib | 19:16:11 |
 | Isha (Night) | 21:00:06 |
 | Sharia Midnight | 22:56:12 |
 | Imum Coeli | 23:53:14 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 11:53:07 |
 | Medium Coeli | 11:53:07 |
 | Sunset | 19:13:48 |
-| Maghrib | 19:16:10 |
+| Maghrib | 19:16:11 |
 | Isha (Night) | 20:45:21 |
 | Sharia Midnight | 23:07:26 |
 | Imum Coeli | 23:53:14 |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|25°53'20.53" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|4°10'45.61" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|20°21'6.37" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|23°53'53.34" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°49'53.79" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|13°26'21.37" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°13'58.15" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|21°31'54.03" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°53'21.08" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°10'46.10" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|20°21'7.10" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|23°53'53.34" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|27°13'58.05" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|21°31'53.86" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°53'20.53" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°10'45.61" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°21'6.37" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|23°49'53.79" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
