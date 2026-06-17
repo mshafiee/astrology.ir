@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:05:45 |
 | Sunset | 19:13:20 |
 | Maghrib | 19:14:32 |
-| Isha (Night) | 20:55:14 |
+| Isha (Night) | 20:55:15 |
 | Sharia Midnight | 23:14:53 |
 | Imum Coeli | 00:05:51 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°29'30.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°24'11.67" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|22°8'2.90" |Aries|Butain|Venus|
-|☉ Sun|Direct|26°40'57.06" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|5°8'31.29" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|21°4'15.55" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|6°1'45.07" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|13°29'30.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°24'11.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|22°8'2.92" |Aries|Butain|Venus|
+|☉ Sun|Direct|26°40'57.05" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|5°8'31.30" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|21°4'15.54" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|6°1'45.33" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°29'30.47" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°24'11.67" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|22°8'2.90" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|26°40'57.06" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°8'31.29" |Leo|Jabhah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|21°4'15.55" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°1'45.07" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°29'30.42" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°24'11.48" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|22°8'3.04" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|26°40'56.29" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|5°8'29.84" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|21°4'13.77" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|5°50'40.77" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Mercury|Sun|Venus|
+|☾ Moon|Jupiter|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

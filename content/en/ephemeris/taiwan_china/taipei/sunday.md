@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°43'51.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°43'51.27" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°13'57.27" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°1'43.99" |Aries|Butain|Venus|
 |☉ Sun|Direct|0°30'21.37" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|9°46'4.04" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|23°55'33.81" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°42'26.46" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|23°55'41.99" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°4'40.00" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Venus|Jupiter|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Mars|Mars|Mars|Mars|
+|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Jupiter|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°43'51.27" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°43'51.27" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°13'57.27" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|25°1'43.99" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|0°30'21.37" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|9°46'4.04" |Leo|Zubrah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|23°55'41.99" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°55'41.99" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|0°4'40.00" |Libra|Ghafr|Moon|
 
 

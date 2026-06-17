@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°40'24.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°40'24.18" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°1'27.66" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|24°18'27.08" |Aries|Butain|Venus|
 |☉ Sun|Direct|29°33'4.95" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|8°36'54.20" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|23°18'46.11" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|23°18'46.11" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|17°15'24.64" |Leo|Zubrah|Jupiter|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°40'24.18" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°40'24.18" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°1'27.66" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|24°18'27.08" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|29°33'4.95" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|8°36'54.20" |Leo|Zubrah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|23°18'46.11" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|16°46'49.83" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°18'46.11" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|17°15'24.64" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Jupiter|Saturn|Saturn|
+|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Mercury|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}

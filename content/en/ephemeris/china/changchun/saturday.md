@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 11:40:13 |
 | Sunset | 19:24:34 |
 | Maghrib | 19:27:55 |
-| Isha (Night) | 21:18:35 |
+| Isha (Night) | 21:18:36 |
 | Sharia Midnight | 22:43:18 |
 | Imum Coeli | 23:40:20 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°40'14.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°40'14.08" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°0'51.82" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|24°16'22.76" |Aries|Butain|Venus|
 |☉ Sun|Direct|29°30'19.60" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|8°33'35.47" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|23°16'52.25" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|23°16'52.25" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|16°35'15.84" |Leo|Zubrah|Jupiter|
 
 
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°40'14.08" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°0'51.82" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|24°16'22.76" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|13°40'14.41" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°0'51.36" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|24°16'23.53" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|29°30'19.60" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|8°33'35.47" |Leo|Jabhah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|23°16'52.25" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|23°16'52.25" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|16°35'15.84" |Virgo|Awwa|Venus|
 
 

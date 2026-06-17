@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°22'30.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°22'30.17" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|27°1'45.30" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|20°48'31.28" |Aries|Butain|Venus|
-|☉ Sun|Direct|24°56'17.04" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|3°1'27.70" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|19°26'8.64" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|8°52'10.72" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|24°56'14.01" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|3°1'24.70" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|19°26'4.40" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|8°29'5.41" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Sun|Aquarius|Sun|Saturn|
 |♀ Venus|Moon|Moon|Leo|Moon|Moon|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°22'30.17" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°1'45.30" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|20°48'31.28" |Taurus|Dabaran|Saturn|
+|♄ Saturn|Direct|13°22'30.21" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°1'45.20" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|20°48'31.26" |Taurus|Dabaran|Saturn|
 |☉ Sun|Direct|24°56'17.04" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°1'27.70" |Leo|Jabhah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|19°26'8.64" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°52'10.72" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|3°1'27.69" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|19°26'8.65" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|8°52'11.59" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

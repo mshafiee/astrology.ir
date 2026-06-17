@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:05:52 |
 | Medium Coeli | 12:05:52 |
 | Sunset | 19:22:58 |
-| Maghrib | 19:29:00 |
+| Maghrib | 19:28:59 |
 | Isha (Night) | 21:10:26 |
 | Sharia Midnight | 23:04:38 |
 | Imum Coeli | 00:05:59 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:05:52 |
 | Medium Coeli | 12:05:52 |
 | Sunset | 19:22:58 |
-| Maghrib | 19:29:00 |
-| Isha (Night) | 20:59:00 |
+| Maghrib | 19:28:59 |
+| Isha (Night) | 20:58:59 |
 | Sharia Midnight | 23:08:30 |
 | Imum Coeli | 00:05:59 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°37'29.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°37'29.65" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|27°51'12.32" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°42'45.75" |Aries|Butain|Venus|
 |☉ Sun|Direct|28°45'54.16" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°39'52.27" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|22°45'20.56" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|22°45'20.56" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|6°21'11.69" |Leo|Jabhah|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°37'29.65" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°51'12.32" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|23°42'45.75" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|28°45'54.16" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°39'52.27" |Leo|Jabhah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|22°45'20.56" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°21'11.69" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|13°37'29.65" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°51'12.36" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|23°42'45.60" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|28°45'54.41" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°39'52.96" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°45'21.38" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|6°27'25.18" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

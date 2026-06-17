@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:40:21 |
-| Sunrise | 05:04:05 |
+| Sunrise | 05:04:06 |
 | Dhuhr (Noon) | 12:48:09 |
 | Medium Coeli | 12:48:09 |
 | Sunset | 20:32:13 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:30:11 |
-| Sunrise | 05:04:06 |
+| Sunrise | 05:04:05 |
 | Dhuhr (Noon) | 12:48:09 |
 | Medium Coeli | 12:48:09 |
 | Sunset | 20:32:13 |
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°37'45.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°37'45.23" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|27°52'6.74" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|23°45'55.55" |Aries|Butain|Venus|
 |☉ Sun|Direct|28°50'4.43" |Taurus|HaqAh|Saturn|
 |♀ Venus|Direct|7°44'55.55" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|22°48'23.74" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|22°48'23.74" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|7°17'19.65" |Leo|Jabhah|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°37'45.23" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°52'6.71" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|23°45'57.32" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|28°50'6.37" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°44'54.84" |Leo|Jabhah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|22°48'24.14" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°0'4.85" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|13°37'45.23" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°52'6.74" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|23°45'55.55" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|28°50'4.43" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°44'55.55" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°48'23.74" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|7°17'19.65" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
