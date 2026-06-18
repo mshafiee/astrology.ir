@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:38:22 |
-| Sunrise | 05:07:14 |
+| Sunrise | 05:07:13 |
 | Dhuhr (Noon) | 12:22:54 |
 | Medium Coeli | 12:22:54 |
 | Sunset | 19:38:38 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:13:25 |
-| Sunrise | 05:07:14 |
+| Sunrise | 05:07:13 |
 | Dhuhr (Noon) | 12:22:54 |
 | Medium Coeli | 12:22:54 |
 | Sunset | 19:38:38 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 14:31:24|Night duration: 09:28:43|
+|Duration of the day: 14:31:25|Night duration: 09:28:43|
 |Every hour duration: 02:04:29|Every hour duration: 01:21:15|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|05:07:14|07:11:42|
-|Mid-morning|Moon|Servant|07:11:43|09:16:11|
-|Late morning|Saturn|Servant|09:16:12|11:20:40|
-|Noon|Jupiter|Servant|11:20:41|13:25:09|
+|Early morning|Mercury|Ruler|05:07:13|07:11:41|
+|Mid-morning|Moon|Servant|07:11:42|09:16:10|
+|Late morning|Saturn|Servant|09:16:11|11:20:39|
+|Noon|Jupiter|Servant|11:20:40|13:25:09|
 |Early afternoon|Mars|Servant|13:25:10|15:29:38|
 |Mid-afternoon|Sun|Servant|15:29:39|17:34:07|
 |Late afternoon|Venus|Servant|17:34:08|19:38:37|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°26'26.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|13°26'26.92" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|27°14'15.87" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|21°32'56.94" |Aries|Butain|Venus|
 |☉ Sun|Direct|25°54'43.64" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°26'26.92" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°26'26.92" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|27°14'15.87" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|21°32'56.94" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|25°54'43.64" |Gemini|Dhira|Sun|

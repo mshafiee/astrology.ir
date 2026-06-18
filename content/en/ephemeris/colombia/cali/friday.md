@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:42:22 |
+| Fajr (Dawn) | 04:42:23 |
 | Sunrise | 05:57:59 |
 | Dhuhr (Noon) | 12:07:30 |
 | Medium Coeli | 12:07:30 |
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'55.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°56'13.07" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°0'13.05" |Aries|Butain|Venus|
-|☉ Sun|Direct|29°8'59.09" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|8°7'46.22" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|13°38'55.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°56'13.05" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°0'13.14" |Aries|Butain|Venus|
+|☉ Sun|Direct|29°8'59.12" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|8°7'46.07" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|23°2'2.58" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|11°46'29.55" |Leo|Zubrah|Jupiter|
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°38'55.49" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°38'55.49" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|27°56'13.05" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|24°0'13.14" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|29°8'59.12" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|8°7'46.07" |Leo|Jabhah|Saturn|
 |☿ Mercury|Direct|23°2'2.58" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|11°48'18.87" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|11°46'29.55" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

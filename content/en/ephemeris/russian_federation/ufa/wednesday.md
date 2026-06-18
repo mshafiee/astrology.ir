@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:17:01 |
 | Medium Coeli | 13:17:01 |
 | Sunset | 21:56:21 |
-| Maghrib | 22:00:39 |
+| Maghrib | 22:00:38 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:17:08 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 13:17:01 |
 | Medium Coeli | 13:17:01 |
 | Sunset | 21:56:21 |
-| Maghrib | 22:00:39 |
+| Maghrib | 22:00:38 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:17:08 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°29'55.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|13°29'55.16" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|27°25'33.34" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|22°12'50.70" |Aries|Butain|Venus|
 |☉ Sun|Direct|26°47'14.73" |Taurus|HaqAh|Saturn|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°29'55.16" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°29'55.16" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|27°25'33.34" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|22°12'50.70" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|26°47'14.73" |Gemini|Dhira|Sun|

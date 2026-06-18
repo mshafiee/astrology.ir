@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:53:07 |
 | Medium Coeli | 11:53:07 |
 | Sunset | 19:13:48 |
-| Maghrib | 19:16:10 |
+| Maghrib | 19:16:11 |
 | Isha (Night) | 20:46:11 |
 | Sharia Midnight | 22:54:14 |
 | Imum Coeli | 23:53:14 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°26'21.42" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°13'57.95" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|21°31'53.84" |Aries|Butain|Venus|
-|☉ Sun|Direct|25°53'20.54" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|4°10'45.60" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|20°21'6.38" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|23°49'54.10" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°26'21.37" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°13'58.05" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|21°31'53.86" |Aries|Butain|Venus|
+|☉ Sun|Direct|25°53'20.53" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|4°10'45.61" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|20°21'6.37" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°49'53.79" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°26'21.42" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°13'57.95" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|21°31'53.84" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|25°53'20.54" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°10'45.60" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|20°21'6.38" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|23°49'54.10" |Cancer|Tarf|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|13°26'21.37" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°13'58.05" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|21°31'53.86" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|25°53'20.53" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°10'45.61" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|20°21'6.37" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|23°49'53.79" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
