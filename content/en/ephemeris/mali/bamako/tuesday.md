@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:57:21 |
+| Fajr (Dawn) | 04:57:22 |
 | Sunrise | 06:08:04 |
 | Dhuhr (Noon) | 12:34:15 |
 | Medium Coeli | 12:34:15 |
@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°48'27.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°31'13.83" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|13°48'27.91" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°31'13.73" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|26°1'14.29" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|1°49'13.33" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|11°21'8.91" |Cancer|Nathrah|Mercury|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°48'27.87" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°48'27.87" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°31'13.83" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|26°1'14.29" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°49'13.33" |Cancer|Nathrah|Venus|

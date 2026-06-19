@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:24:45 |
+| Sunrise | 04:24:46 |
 | Dhuhr (Noon) | 13:11:19 |
 | Medium Coeli | 13:11:19 |
 | Sunset | 21:57:55 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:24:45 |
+| Sunrise | 04:24:46 |
 | Dhuhr (Noon) | 13:11:19 |
 | Medium Coeli | 13:11:19 |
 | Sunset | 21:57:55 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:24:45 |
+| Sunrise | 04:24:46 |
 | Dhuhr (Noon) | 13:11:19 |
 | Medium Coeli | 13:11:19 |
 | Sunset | 21:57:55 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 17:33:10|Night duration: 06:27:01|
+|Duration of the day: 17:33:09|Night duration: 06:27:01|
 |Every hour of day duration: 01:27:46|Every hour of night duration: 00:32:15|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Saturn|Ruler|04:24:45|05:52:29|Related to talismans, amulets and responses|
-|2|Jupiter|Servant|05:52:30|07:20:15|Peace among people|
-|3|Mars|Servant|07:20:16|08:48:01|Vengeful and evil deeds|
-|4|Sun|Servant|08:48:02|10:15:47|Dominance, judgment and issuing verdict|
-|5|Venus|Servant|10:15:48|11:43:33|Auspicious|
+|1|Saturn|Ruler|04:24:46|05:52:30|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|05:52:31|07:20:16|Peace among people|
+|3|Mars|Servant|07:20:17|08:48:02|Vengeful and evil deeds|
+|4|Sun|Servant|08:48:03|10:15:48|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|10:15:49|11:43:33|Auspicious|
 |6|Mercury|Servant|11:43:34|13:11:19|Writing, swapping and making promises|
-|7|Moon|Servant|13:11:20|14:39:04|Not suitable for any task|
-|8|Saturn|Ruler|14:39:05|16:06:50|Destruction of enemies|
-|9|Jupiter|Servant|16:06:51|17:34:36|All good deeds|
+|7|Moon|Servant|13:11:20|14:39:05|Not suitable for any task|
+|8|Saturn|Ruler|14:39:06|16:06:51|Destruction of enemies|
+|9|Jupiter|Servant|16:06:52|17:34:36|All good deeds|
 |10|Mars|Servant|17:34:37|19:02:22|Doing evil deeds|
 |11|Sun|Servant|19:02:23|20:30:08|Acceptance of reconciliation between couples|
 |12|Venus|Servant|20:30:09|21:57:54|For gaining dignity|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°37'39.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°51'46.00" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°44'43.69" |Aries|Butain|Venus|
-|☉ Sun|Direct|28°48'28.61" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°43'0.66" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°47'12.59" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|6°50'25.10" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|13°37'39.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°51'46.09" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°44'43.68" |Aries|Butain|Venus|
+|☉ Sun|Direct|28°48'28.56" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°43'0.63" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|22°47'12.55" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|6°50'25.00" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°37'39.31" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°51'46.00" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|23°44'43.69" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|28°48'28.61" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°43'0.66" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°47'12.59" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°50'25.10" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|13°37'39.27" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°51'46.09" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|23°44'43.68" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|28°48'28.56" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°43'0.63" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|22°47'12.55" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|6°50'25.00" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

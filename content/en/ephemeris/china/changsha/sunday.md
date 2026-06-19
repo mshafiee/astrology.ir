@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:53:32 |
+| Fajr (Dawn) | 03:53:31 |
 | Sunrise | 05:31:36 |
 | Dhuhr (Noon) | 12:29:51 |
 | Medium Coeli | 12:29:51 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°43'55.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°43'55.10" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°14'11.36" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°2'32.73" |Aries|Butain|Venus|
 |☉ Sun|Direct|0°31'25.80" |Gemini|HaqAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°43'55.10" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°14'11.36" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|25°2'32.73" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°31'25.80" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|9°47'21.93" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|23°56'21.03" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°18'55.91" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|13°43'55.10" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°14'10.87" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|25°2'31.94" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°31'23.14" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|9°47'19.42" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|23°56'17.03" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°11'17.71" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

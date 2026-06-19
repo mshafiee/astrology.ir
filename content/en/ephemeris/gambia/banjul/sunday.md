@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:17:26 |
+| Fajr (Dawn) | 05:17:27 |
 | Sunrise | 06:40:19 |
 | Dhuhr (Noon) | 13:08:08 |
 | Medium Coeli | 13:08:08 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°41'47.70" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°6'27.08" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°35'46.11" |Aries|Butain|Venus|
+|♄ Saturn|Direct|13°41'47.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°6'27.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°35'46.13" |Aries|Butain|Venus|
 |☉ Sun|Direct|29°55'59.70" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|9°4'34.61" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|23°34'2.06" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|22°26'19.14" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|9°4'34.62" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°34'2.05" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|22°26'20.03" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°41'47.70" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°6'27.08" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|24°35'46.11" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|13°41'47.66" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°6'27.17" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|24°35'46.13" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|29°55'59.70" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°4'34.61" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|23°34'2.06" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|22°26'19.14" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|9°4'35.81" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|23°34'0.53" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|23°9'29.04" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Mercury|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:21:49 |
-| Sunrise | 05:35:26 |
+| Sunrise | 05:35:25 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:11:50 |
-| Sunrise | 05:35:26 |
+| Sunrise | 05:35:25 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 13:12:41|Night duration: 10:47:33|
+|Duration of the day: 13:12:42|Night duration: 10:47:33|
 |Every hour of day duration: 01:06:03|Every hour of night duration: 00:53:58|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:35:26|06:41:28|Creating corruption, hatred and enmity|
-|2|Sun|Servant|06:41:29|07:47:31|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|07:47:32|08:53:35|Attracting connection and suitors|
-|4|Mercury|Servant|08:53:36|09:59:38|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|09:59:39|11:05:42|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|11:05:43|12:11:45|Repelling negative energy of evil eye|
+|1|Mars|Ruler|05:35:25|06:41:27|Creating corruption, hatred and enmity|
+|2|Sun|Servant|06:41:28|07:47:31|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|07:47:32|08:53:34|Attracting connection and suitors|
+|4|Mercury|Servant|08:53:35|09:59:38|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|09:59:39|11:05:41|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|11:05:42|12:11:45|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|12:11:46|13:17:48|Attracting love and hearts|
 |8|Mars|Ruler|13:17:49|14:23:52|Creating corruption, destroying enemies, making enemies sick|
 |9|Sun|Servant|14:23:53|15:29:55|Heart tenderness|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°50'41.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°50'41.84" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°39'51.53" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|26°30'49.13" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|2°28'28.50" |Gemini|HaqAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°50'41.84" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°50'41.84" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°39'51.53" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|26°30'49.13" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|2°28'28.50" |Cancer|Nathrah|Venus|
