@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:28:02|Night duration: 08:32:08|
+|Duration of the day: 15:28:02|Night duration: 08:32:07|
 |Every hour duration: 02:12:35|Every hour duration: 01:13:10|
 
  
@@ -277,11 +277,11 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Mars|Ruler|20:31:58|21:45:06|
 |Late evening|Sun|Servant|21:45:07|22:58:16|
-|Midnight|Venus|Servant|22:58:17|00:11:26|
-|Late at night|Mercury|Servant|00:11:27|01:24:35|
-|Rooster song|Moon|Servant|01:24:36|02:37:45|
-|False Dawn|Saturn|Servant|02:37:46|03:50:55|
-|Dawn|Jupiter|Servant|03:50:56|05:04:05|
+|Midnight|Venus|Servant|22:58:17|00:11:25|
+|Late at night|Mercury|Servant|00:11:26|01:24:35|
+|Rooster song|Moon|Servant|01:24:36|02:37:44|
+|False Dawn|Saturn|Servant|02:37:45|03:50:54|
+|Dawn|Jupiter|Servant|03:50:55|05:04:04|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°34'8.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°39'39.89" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°2'30.66" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|13°34'8.92" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°39'39.79" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°2'30.64" |Aries|Butain|Venus|
 |☉ Sun|Direct|27°52'38.32" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°35'24.75" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°4'18.89" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|22°23'8.97" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°35'24.74" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°4'18.90" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|22°23'8.43" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°34'8.92" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°39'41.76" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|23°2'32.01" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|27°52'46.77" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°35'35.04" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°4'33.30" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|23°39'51.29" |Leo|Sarfrah|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|13°34'8.97" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°39'41.66" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|23°2'31.99" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|27°52'38.32" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°35'24.75" |Leo|Jabhah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°4'18.90" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|22°23'8.43" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Venus|Venus|Libra|Sun|Sun|
 |☿ Mercury|Venus|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}

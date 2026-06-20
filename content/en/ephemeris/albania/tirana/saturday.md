@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:42:18 |
 | Sunset | 20:17:27 |
 | Maghrib | 20:19:46 |
-| Isha (Night) | 22:24:18 |
+| Isha (Night) | 22:24:19 |
 | Sharia Midnight | 23:28:34 |
 | Imum Coeli | 00:42:24 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°37'45.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°52'7.98" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°46'1.44" |Aries|Butain|Venus|
-|☉ Sun|Direct|28°50'11.39" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°45'3.04" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°48'27.59" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|7°6'11.40" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°37'45.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°52'8.38" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°46'1.26" |Aries|Butain|Venus|
+|☉ Sun|Direct|28°50'12.14" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°45'4.68" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°48'29.54" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|7°19'51.21" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°37'45.75" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|27°52'8.29" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|23°46'1.25" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°37'45.71" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|27°52'8.38" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|23°46'1.26" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|28°50'12.14" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°45'4.66" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°48'29.55" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°19'50.62" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|7°45'4.68" |Leo|Jabhah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°48'29.54" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|7°19'51.21" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

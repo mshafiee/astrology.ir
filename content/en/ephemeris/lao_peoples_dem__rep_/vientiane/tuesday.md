@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:11:50 |
-| Sunrise | 05:35:26 |
+| Sunrise | 05:35:25 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°50'41.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°39'51.53" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°30'49.13" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|2°28'28.50" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|12°8'24.54" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°58'49.55" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°30'47.57" |Virgo|Simak|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|13°50'41.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°39'51.62" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°30'49.15" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|2°28'20.55" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|12°8'18.24" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|24°58'38.23" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°42'31.86" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°50'41.84" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°39'51.53" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|26°30'49.13" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°50'41.80" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°39'51.62" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|26°30'49.15" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|2°28'28.50" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|12°8'24.54" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°58'49.55" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|25°30'47.57" |Libra|Jubana|Jupiter|
+|♀ Venus|Direct|12°8'24.56" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|24°58'49.54" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|25°42'31.86" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

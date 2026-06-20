@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°34'41.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°41'30.93" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°8'53.51" |Aries|Butain|Venus|
-|☉ Sun|Direct|28°1'12.04" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|6°45'49.86" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°11'17.16" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|26°11'20.60" |Cancer|Jabhah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|13°34'41.28" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°41'31.43" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°8'56.14" |Aries|Butain|Venus|
+|☉ Sun|Direct|28°1'15.10" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|6°45'48.95" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°11'18.00" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°52'32.13" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Saturn|Venus|
 |♀ Venus|Mars|Jupiter|Moon|Saturn|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Saturn|Venus|Jupiter|Mercury|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°34'41.28" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°34'41.28" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|27°41'31.43" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|23°8'56.14" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|28°1'3.66" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°45'45.47" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°11'8.29" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|25°53'29.57" |Leo|Sarfrah|Mars|
+|☉ Sun|Direct|28°1'15.10" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°45'48.95" |Leo|Jabhah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|22°11'18.00" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|25°52'32.13" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

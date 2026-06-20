@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 19:56:24 |
 | Maghrib | 19:57:43 |
 | Isha (Night) | 21:44:48 |
-| Sharia Midnight | 23:35:18 |
+| Sharia Midnight | 23:35:17 |
 | Imum Coeli | 00:33:29 |
 {{< /tab >}}
 
@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 19:56:24 |
 | Maghrib | 19:57:43 |
 | Isha (Night) | 21:52:46 |
-| Sharia Midnight | 23:35:18 |
+| Sharia Midnight | 23:35:17 |
 | Imum Coeli | 00:33:29 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°36'43.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°48'32.54" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|23°33'28.60" |Aries|Butain|Venus|
-|☉ Sun|Direct|28°33'38.05" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|7°25'1.91" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|22°36'12.91" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°27'11.52" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°36'43.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°48'32.66" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|23°33'28.69" |Aries|Butain|Venus|
+|☉ Sun|Direct|28°33'38.23" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|7°25'2.06" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|22°36'13.13" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°27'46.45" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°36'43.71" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°36'43.71" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|27°48'32.66" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|23°33'28.69" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|28°33'38.23" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|7°25'2.06" |Leo|Jabhah|Saturn|
-|☿ Mercury|Direct|22°36'13.13" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|22°36'13.13" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|3°27'46.45" |Virgo|Sarfrah|Sun|
 
 
