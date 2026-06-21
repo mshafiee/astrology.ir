@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'27.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°54'27.82" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°54'51.18" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|27°21'59.40" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|3°36'26.51" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|13°30'9.00" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°26'50.48" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|9°55'37.64" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|25°26'34.05" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|10°11'8.34" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Mercury|Venus|Venus|Mercury|
+|☾ Moon|Mercury|Venus|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Saturn|Aquarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'27.82" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°54'51.18" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|27°21'59.40" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|13°54'27.86" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°54'51.09" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°21'59.37" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|3°36'26.51" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|13°30'9.00" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°26'50.48" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°55'37.64" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|13°30'8.98" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°26'50.49" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°55'37.57" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

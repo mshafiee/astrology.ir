@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:42:16 |
 | Medium Coeli | 13:42:16 |
 | Sunset | 23:09:55 |
-| Maghrib | 23:13:05 |
+| Maghrib | 23:13:04 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:42:23 |
@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 13:42:16 |
 | Medium Coeli | 13:42:16 |
 | Sunset | 23:09:55 |
-| Maghrib | 23:13:05 |
+| Maghrib | 23:13:04 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:42:23 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:42:16 |
 | Medium Coeli | 13:42:16 |
 | Sunset | 23:09:55 |
-| Maghrib | 23:13:05 |
-| Isha (Night) | 00:43:05 |
+| Maghrib | 23:13:04 |
+| Isha (Night) | 00:43:04 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:42:23 |
 {{< /tab >}}
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°44'26.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°44'26.36" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°16'6.85" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°9'12.01" |Aries|Butain|Venus|
 |☉ Sun|Direct|0°40'12.39" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|9°57'59.80" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|24°1'35.13" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|24°1'35.13" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|2°16'43.74" |Virgo|Sarfrah|Sun|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°44'26.36" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°44'26.36" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°16'6.85" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|25°9'9.63" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°40'3.82" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|9°57'51.48" |Leo|Zubrah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|24°1'21.88" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°50'50.11" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|25°9'12.01" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°40'12.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|9°57'59.80" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|24°1'35.13" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|2°16'43.74" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

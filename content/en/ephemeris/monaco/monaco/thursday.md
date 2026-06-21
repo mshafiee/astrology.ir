@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 21:16:31 |
 | Maghrib | 21:18:20 |
 | Isha (Night) | 23:42:27 |
-| Sharia Midnight | 00:20:09 |
+| Sharia Midnight | 00:20:10 |
 | Imum Coeli | 01:33:06 |
 {{< /tab >}}
 
@@ -299,12 +299,12 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'33.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|13°54'33.35" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°55'13.59" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|27°23'15.64" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|3°38'8.02" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|13°32'10.79" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°27'27.94" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|25°27'27.94" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|10°15'40.74" |Libra|Ghafr|Saturn|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'33.35" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°54'33.35" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°55'13.59" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|27°23'15.64" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|3°38'8.02" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|13°32'10.79" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°27'27.94" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°15'40.74" |Scorpio|Qalb|Sun|
+|☿ Mercury|Direct|25°27'26.96" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|11°10'0.50" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Jupiter|Jupiter|
+|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

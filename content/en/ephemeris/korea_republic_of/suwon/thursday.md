@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:17:06 |
+| Fajr (Dawn) | 03:17:05 |
 | Sunrise | 05:12:29 |
 | Dhuhr (Noon) | 12:34:33 |
 | Medium Coeli | 12:34:33 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°56'39.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°3'52.36" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°52'38.51" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|4°17'13.60" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|14°19'6.42" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°40'42.72" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|18°20'15.06" |Libra|Jubana|Saturn|
+|♄ Saturn|Direct|13°56'39.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°3'52.49" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°52'38.61" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|4°17'13.84" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|14°19'6.67" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°40'43.11" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|18°19'44.42" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°56'39.88" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°3'52.36" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|27°52'38.51" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|13°56'39.84" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°3'52.44" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°52'38.54" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|4°17'13.60" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°19'6.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°40'42.72" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|18°20'15.06" |Scorpio|Qalb|Sun|
+|♀ Venus|Direct|14°19'6.43" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°40'42.71" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|18°20'14.77" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

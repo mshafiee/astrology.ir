@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°51'23.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°42'34.44" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°40'6.49" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|2°40'47.89" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|12°23'14.91" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°4'20.83" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|28°10'52.93" |Virgo|Simak|Mercury|
+|♄ Saturn|Direct|13°51'23.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°42'33.39" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°39'59.76" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|2°40'35.12" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|12°23'9.58" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|25°4'6.84" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|29°21'4.80" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -323,7 +323,7 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Venus|Mars|Leo|Moon|Jupiter|
 |♃ Jupiter|Venus|Mercury|Taurus|Moon|Jupiter|
-|♂ Mars|Jupiter|Jupiter|Aquarius|Moon|Saturn|
+|♂ Mars|Jupiter|Mars|Aquarius|Moon|Saturn|
 |☉ Sun|Mercury|Venus|Cancer|Sun|Mercury|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°51'23.37" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°51'23.37" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°42'34.44" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|26°40'6.49" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|2°40'47.89" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|12°23'14.91" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°4'20.83" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|25°4'20.83" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|28°10'52.93" |Libra|Akleel|Jupiter|
 
 

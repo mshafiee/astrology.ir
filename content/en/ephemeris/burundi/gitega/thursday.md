@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'35.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°55'22.61" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°23'45.94" |Aries|Thurayya|Venus|
+|♄ Saturn|Direct|13°54'35.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°55'22.52" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°23'45.92" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|3°38'49.60" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|13°32'59.29" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°27'46.02" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|10°13'25.93" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|13°32'59.28" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°27'46.03" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|10°13'25.89" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'35.63" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°55'22.58" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|27°23'41.16" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|3°38'43.33" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|13°32'59.95" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°27'41.89" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|11°19'41.51" |Scorpio|Qalb|Sun|
+|♄ Saturn|Direct|13°54'35.66" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°55'22.52" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°23'45.92" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|3°38'49.60" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|13°32'59.28" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°27'46.03" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°13'25.89" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

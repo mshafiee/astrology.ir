@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:38:36 |
 | Sunset | 21:01:45 |
 | Maghrib | 21:33:08 |
-| Isha (Night) | 00:17:19 |
+| Isha (Night) | 00:17:20 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:38:43 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'21.06" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°54'23.20" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|27°20'26.62" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|3°34'20.74" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|13°27'37.22" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°25'59.59" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|9°22'7.24" |Libra|Ghafr|Moon|
+|♄ Saturn|Direct|13°54'21.06" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°54'23.84" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|27°20'26.42" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|3°34'22.41" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|13°27'40.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°26'3.71" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|9°33'38.13" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°54'21.09" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°54'23.75" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|27°20'26.39" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Direct|13°54'21.06" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°54'23.84" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|27°20'26.42" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|3°34'22.41" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|13°27'40.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°26'3.71" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°33'38.05" |Scorpio|Qalb|Mars|
+|♀ Venus|Direct|13°27'40.43" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°26'3.71" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|9°33'38.13" |Scorpio|Qalb|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°39'2.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|27°56'37.52" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|24°1'33.63" |Aries|Butain|Venus|
-|☉ Sun|Direct|29°10'43.85" |Taurus|HaqAh|Saturn|
-|♀ Venus|Direct|8°10'2.75" |Cancer|Nathrah|Venus|
-|☿ Mercury|Pre-Retrograde Shadow|23°3'16.07" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|12°47'4.51" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|13°39'2.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|27°56'37.75" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|24°1'39.28" |Aries|Butain|Venus|
+|☉ Sun|Direct|29°10'52.25" |Taurus|HaqAh|Saturn|
+|♀ Venus|Direct|8°10'3.65" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|23°3'21.83" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|12°9'45.82" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mercury|Aries|Sun|Saturn|
 |♀ Venus|Saturn|Mercury|Libra|Moon|Moon|
 |☿ Mercury|Sun|Mars|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
+|☾ Moon|Mercury|Moon|Sagittarius|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°39'2.52" |Aries|Butain|Sun|
+|♄ Saturn|Direct|13°39'2.52" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|27°56'37.75" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|24°1'39.28" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|29°10'52.25" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°10'3.65" |Leo|Jabhah|Saturn|
-|☿ Mercury|Pre-Retrograde Shadow|23°3'21.83" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°9'45.82" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|29°10'38.45" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°9'53.50" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|23°3'4.19" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|11°34'46.79" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
