@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:03 |
+| Sunset | 20:03:02 |
 | Maghrib | 20:19:53 |
 | Isha (Night) | 21:11:40 |
 | Sharia Midnight | 00:32:28 |
@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:03 |
+| Sunset | 20:03:02 |
 | Maghrib | 20:22:24 |
 | Isha (Night) | 21:11:40 |
-| Sharia Midnight | 00:27:46 |
+| Sharia Midnight | 00:27:45 |
 | Imum Coeli | 01:12:11 |
 {{< /tab >}}
 
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:02 |
+| Sunset | 20:03:03 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:28:02 |
-| Sharia Midnight | 00:26:55 |
+| Sharia Midnight | 00:26:56 |
 | Imum Coeli | 01:12:11 |
 {{< /tab >}}
 
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:03 |
+| Sunset | 20:03:02 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:17:04 |
-| Sharia Midnight | 00:35:12 |
+| Sharia Midnight | 00:35:11 |
 | Imum Coeli | 01:12:11 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:02 |
+| Sunset | 20:03:03 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:30:48 |
 | Sharia Midnight | 00:22:41 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:02 |
+| Sunset | 20:03:03 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:34:08 |
 | Sharia Midnight | 00:25:31 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°58'26.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°11'20.33" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°17'51.91" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|4°50'47.09" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|14°59'31.13" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°50'17.40" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|26°39'15.15" |Libra|Akleel|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|13°58'26.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°11'21.08" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°17'58.48" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|4°50'57.84" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|14°59'33.71" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|25°50'28.36" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°13'50.36" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Cancer|Sun|Mercury|
 |♀ Venus|Mars|Mars|Sagittarius|Moon|Moon|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Leo|Moon|Moon|
+|☾ Moon|Mars|Venus|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°58'27.03" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°11'20.99" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|28°17'58.45" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°58'26.99" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°11'21.08" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|28°17'58.48" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|4°50'57.84" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°59'33.70" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°50'28.37" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°13'50.89" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|14°59'33.71" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|25°50'28.36" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°13'50.36" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

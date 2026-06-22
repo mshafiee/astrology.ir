@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°44'57.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°18'2.87" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°15'52.05" |Aries|Butain|Venus|
-|☉ Sun|Direct|0°49'3.72" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|10°8'37.53" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°6'51.62" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|4°1'33.40" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°44'57.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°18'3.26" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°15'50.78" |Aries|Butain|Venus|
+|☉ Sun|Direct|0°49'4.29" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|10°8'41.21" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Direct|24°6'55.45" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°37'28.72" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Saturn|Libra|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°44'57.82" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°44'57.82" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°18'2.87" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|25°15'52.05" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|0°49'3.72" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|10°8'37.53" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°6'51.62" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|4°1'33.40" |Libra|Ghafr|Moon|
+|♂ Mars|Direct|25°15'51.83" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|0°49'4.21" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|10°8'38.80" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Direct|24°6'53.12" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|4°11'39.98" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

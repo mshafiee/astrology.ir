@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:10 |
+| Sunset | 01:05:09 |
 | Maghrib | Circumpolar Angle |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:10 |
+| Sunset | 01:05:09 |
 | Maghrib | Circumpolar Angle |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:10 |
+| Sunset | 01:05:09 |
 | Maghrib | 01:11:34 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:10 |
+| Sunset | 01:05:09 |
 | Maghrib | 01:11:34 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:10 |
+| Sunset | 01:05:09 |
 | Maghrib | 01:11:34 |
 | Isha (Night) | 02:41:34 |
 | Sharia Midnight | Circumpolar Angle |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°48'17.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|13°48'17.17" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°30'33.50" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°58'56.37" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|1°46'7.20" |Gemini|HaqAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°48'17.17" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°48'17.17" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°30'33.50" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|25°58'56.37" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°46'7.20" |Cancer|Nathrah|Venus|

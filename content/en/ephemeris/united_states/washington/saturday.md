@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 13:09:47 |
 | Sunset | 20:36:58 |
 | Maghrib | 20:38:18 |
-| Isha (Night) | 22:38:04 |
+| Isha (Night) | 22:38:03 |
 | Sharia Midnight | 00:09:20 |
 | Imum Coeli | 01:09:53 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°42'13.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|13°42'13.83" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°8'1.72" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|24°41'14.27" |Aries|Butain|Venus|
 |☉ Sun|Direct|0°3'12.97" |Gemini|HaqAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°42'13.83" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°42'13.83" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|28°8'1.72" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|24°41'14.27" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|0°3'12.97" |Cancer|Nathrah|Venus|

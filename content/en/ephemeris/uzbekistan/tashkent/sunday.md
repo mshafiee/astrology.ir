@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:41:27 |
-| Sunrise | 04:50:07 |
+| Sunrise | 04:50:06 |
 | Dhuhr (Noon) | 12:24:54 |
 | Medium Coeli | 12:24:54 |
 | Sunset | 19:59:41 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:38:28 |
-| Sunrise | 04:50:07 |
+| Sunrise | 04:50:06 |
 | Dhuhr (Noon) | 12:24:54 |
 | Medium Coeli | 12:24:54 |
 | Sunset | 19:59:41 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:06:15 |
-| Sunrise | 04:50:07 |
+| Sunrise | 04:50:06 |
 | Dhuhr (Noon) | 12:24:54 |
 | Medium Coeli | 12:24:54 |
 | Sunset | 19:59:41 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:22:42 |
-| Sunrise | 04:50:07 |
+| Sunrise | 04:50:06 |
 | Dhuhr (Noon) | 12:24:54 |
 | Medium Coeli | 12:24:54 |
 | Sunset | 19:59:41 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:38:28 |
-| Sunrise | 04:50:07 |
+| Sunrise | 04:50:06 |
 | Dhuhr (Noon) | 12:24:54 |
 | Medium Coeli | 12:24:54 |
 | Sunset | 19:59:41 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
-|Duration of the day: 15:09:34|Night duration: 08:50:39|
+|Duration of the day: 15:09:35|Night duration: 08:50:39|
 |Every hour of day duration: 01:15:48|Every hour of night duration: 00:44:13|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|04:50:07|06:05:53|Love and attraction of capital|
-|2|Venus|Servant|06:05:54|07:21:41|Unfortunate, no task is suitable|
-|3|Mercury|Servant|07:21:42|08:37:29|Operations of tenderness and attraction of love|
-|4|Moon|Servant|08:37:30|09:53:17|Unfortunate and repelling goodness|
-|5|Saturn|Servant|09:53:18|11:09:05|Separation, vengeful and hostile deeds|
-|6|Jupiter|Servant|11:09:06|12:24:53|Suitable for all good deeds|
-|7|Mars|Servant|12:24:54|13:40:40|No task is suitable, causes misfortune|
+|1|Sun|Ruler|04:50:06|06:05:52|Love and attraction of capital|
+|2|Venus|Servant|06:05:53|07:21:40|Unfortunate, no task is suitable|
+|3|Mercury|Servant|07:21:41|08:37:28|Operations of tenderness and attraction of love|
+|4|Moon|Servant|08:37:29|09:53:16|Unfortunate and repelling goodness|
+|5|Saturn|Servant|09:53:17|11:09:04|Separation, vengeful and hostile deeds|
+|6|Jupiter|Servant|11:09:05|12:24:52|Suitable for all good deeds|
+|7|Mars|Servant|12:24:53|13:40:40|No task is suitable, causes misfortune|
 |8|Sun|Ruler|13:40:41|14:56:28|Extremely auspicious and attracts happiness|
 |9|Venus|Servant|14:56:29|16:12:16|Summoning the person of interest, attracting hearts, heart tenderness|
 |10|Mercury|Servant|16:12:17|17:28:04|Attracting happiness, solving financial problems|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°44'14.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|13°44'14.65" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|28°15'23.29" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°6'41.64" |Aries|Butain|Venus|
 |☉ Sun|Direct|0°36'54.79" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|9°53'59.65" |Cancer|Nathrah|Venus|
 |☿ Mercury|Direct|23°59'39.00" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|1°31'52.71" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|1°31'53.83" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°44'14.69" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°15'23.29" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|25°6'41.64" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°44'14.65" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°15'23.38" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|25°6'41.66" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|0°36'54.79" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|9°53'48.32" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|23°59'20.63" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°59'6.26" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|9°53'59.67" |Leo|Zubrah|Saturn|
+|☿ Mercury|Direct|23°59'38.99" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°31'53.83" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

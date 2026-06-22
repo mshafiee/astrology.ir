@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 12:09:14 |
 | Medium Coeli | 12:09:14 |
 | Sunset | 17:29:48 |
-| Maghrib | 17:34:32 |
+| Maghrib | 17:34:31 |
 | Isha (Night) | 18:47:07 |
 | Sharia Midnight | 23:28:22 |
 | Imum Coeli | 00:09:21 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 12:09:14 |
 | Medium Coeli | 12:09:14 |
 | Sunset | 17:29:48 |
-| Maghrib | 17:34:32 |
+| Maghrib | 17:34:31 |
 | Isha (Night) | 18:37:54 |
 | Sharia Midnight | 23:35:17 |
 | Imum Coeli | 00:09:21 |
@@ -105,7 +105,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Dhuhr (Noon) | 12:09:14 |
 | Medium Coeli | 12:09:14 |
 | Sunset | 17:29:48 |
-| Maghrib | 17:34:32 |
+| Maghrib | 17:34:31 |
 | Isha (Night) | 18:49:25 |
 | Sharia Midnight | 23:24:56 |
 | Imum Coeli | 00:09:21 |
@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°58'22.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°11'4.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°17'0.17" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|4°49'40.27" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|14°58'1.05" |Cancer|Tarf|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|13°58'22.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°11'3.97" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°17'0.32" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|4°49'40.32" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|14°58'0.79" |Cancer|Tarf|Mercury|
 |☿ Mercury|Direct|25°50'7.86" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|25°0'39.62" |Libra|Jubana|Jupiter|
 
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|13°58'22.94" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°58'22.94" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|29°11'3.97" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|28°17'0.32" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|4°49'40.32" |Cancer|Nathrah|Venus|
