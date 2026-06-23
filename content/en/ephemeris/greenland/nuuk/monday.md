@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:09 |
+| Sunset | 01:05:10 |
 | Maghrib | 01:11:34 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:10 |
+| Sunset | 01:05:09 |
 | Maghrib | 01:11:34 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 03:52:30 |
 | Dhuhr (Noon) | 14:28:56 |
 | Medium Coeli | 14:28:56 |
-| Sunset | 01:05:09 |
+| Sunset | 01:05:10 |
 | Maghrib | 01:11:34 |
 | Isha (Night) | 02:41:34 |
 | Sharia Midnight | Circumpolar Angle |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|25°58'56.37" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|1°46'7.20" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|11°17'28.30" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°38'9.86" |Gemini|Dhira|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|24°38'9.86" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|16°43'16.22" |Virgo|Awwa|Venus|
 
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|13°48'17.17" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°30'33.50" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|25°58'56.37" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°46'7.20" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|11°17'28.30" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°38'9.86" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|16°43'16.22" |Libra|Jubana|Saturn|
+|♃ Jupiter|Direct|28°30'32.87" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|25°58'58.20" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|1°46'7.23" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|11°17'24.33" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|24°38'6.19" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|16°0'56.96" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Saturn|Jupiter|Aries|Moon|Moon|
+|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
 
 
 {{< /tab >}}

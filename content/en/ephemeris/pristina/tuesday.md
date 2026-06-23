@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 15:19:12|Night duration: 08:41:06|
-|Every hour of day duration: 01:16:36|Every hour of night duration: 00:43:25|
+|Every hour of day duration: 01:16:36|Every hour of night duration: 00:43:26|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°48'1.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°29'34.14" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°55'32.58" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|1°41'39.86" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|11°12'2.17" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°35'57.11" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|15°28'47.11" |Virgo|Awwa|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|13°48'1.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°29'33.78" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°55'31.25" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|1°41'37.21" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|11°12'0.77" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|24°35'54.08" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|15°37'9.47" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|25°55'31.25" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°41'37.21" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|11°12'0.77" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°35'54.08" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|24°35'54.08" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|15°37'9.47" |Libra|Jubana|Saturn|
 
 

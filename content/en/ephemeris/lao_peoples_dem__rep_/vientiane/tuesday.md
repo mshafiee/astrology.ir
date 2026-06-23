@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:13:20 |
-| Sunrise | 05:35:26 |
+| Sunrise | 05:35:25 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:11:50 |
-| Sunrise | 05:35:26 |
+| Sunrise | 05:35:25 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:04:15 |
-| Sunrise | 05:35:25 |
+| Sunrise | 05:35:26 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:11:50 |
-| Sunrise | 05:35:25 |
+| Sunrise | 05:35:26 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:09:19 |
-| Sunrise | 05:35:25 |
+| Sunrise | 05:35:26 |
 | Dhuhr (Noon) | 12:11:47 |
 | Medium Coeli | 12:11:47 |
 | Sunset | 18:48:07 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|26°30'49.15" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|2°28'28.50" |Gemini|HaqAh|Jupiter|
 |♀ Venus|Direct|12°8'24.56" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°58'49.54" |Gemini|Dhira|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|24°58'49.54" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|25°30'48.31" |Virgo|Simak|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°30'49.15" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|2°28'28.50" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|12°8'24.56" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°58'49.54" |Cancer|Tarf|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|24°58'49.54" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|25°30'48.31" |Libra|Jubana|Jupiter|
 
 

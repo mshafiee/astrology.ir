@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:05:40 |
+| Fajr (Dawn) | 03:05:41 |
 | Sunrise | 05:02:54 |
 | Dhuhr (Noon) | 12:15:40 |
 | Medium Coeli | 12:15:40 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°44'16.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°15'30.06" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|25°7'4.66" |Aries|Butain|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|13°44'16.52" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°15'29.97" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|25°7'4.64" |Aries|Butain|Venus|
 |☉ Sun|Direct|0°37'25.64" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|9°54'36.44" |Cancer|Nathrah|Venus|
-|☿ Mercury|Direct|23°59'58.11" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|1°38'25.26" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|9°54'36.42" |Cancer|Nathrah|Venus|
+|☿ Mercury|Pre-Retrograde Shadow|23°59'58.12" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|1°38'24.14" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°44'16.48" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°15'30.06" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|25°7'4.66" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°44'16.52" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°15'29.97" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|25°7'4.64" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|0°37'25.64" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|9°54'36.44" |Leo|Zubrah|Saturn|
-|☿ Mercury|Direct|23°59'58.11" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|1°38'25.26" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|9°54'36.42" |Leo|Zubrah|Saturn|
+|☿ Mercury|Pre-Retrograde Shadow|23°59'58.12" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°38'24.14" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

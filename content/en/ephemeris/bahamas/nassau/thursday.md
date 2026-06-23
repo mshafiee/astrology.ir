@@ -56,10 +56,10 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:02 |
+| Sunset | 20:03:03 |
 | Maghrib | 20:22:24 |
 | Isha (Night) | 21:11:40 |
-| Sharia Midnight | 00:27:45 |
+| Sharia Midnight | 00:27:46 |
 | Imum Coeli | 01:12:11 |
 {{< /tab >}}
 
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:03 |
+| Sunset | 20:03:02 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:28:02 |
-| Sharia Midnight | 00:26:56 |
+| Sharia Midnight | 00:26:55 |
 | Imum Coeli | 01:12:11 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:03 |
+| Sunset | 20:03:02 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:33:36 |
-| Sharia Midnight | 00:26:56 |
+| Sharia Midnight | 00:26:55 |
 | Imum Coeli | 01:12:11 |
 {{< /tab >}}
 
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:21:05 |
 | Dhuhr (Noon) | 13:12:05 |
 | Medium Coeli | 13:12:05 |
-| Sunset | 20:03:03 |
+| Sunset | 20:03:02 |
 | Maghrib | 20:04:08 |
 | Isha (Night) | 21:34:08 |
 | Sharia Midnight | 00:25:31 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°17'58.48" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|4°50'57.84" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|14°59'33.71" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°50'28.36" |Gemini|Dhira|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|25°50'28.36" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|25°13'50.36" |Libra|Jubana|Jupiter|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|28°17'58.48" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|4°50'57.84" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|14°59'33.71" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°50'28.36" |Cancer|Jabhah|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|25°50'28.36" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|25°13'50.36" |Scorpio|Shaulah|Venus|
 
 

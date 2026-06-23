@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Sun|Servant|19:36:29|20:26:06|Attracting auspiciousness|
 |3|Venus|Servant|20:26:07|21:15:44|Attracting misfortune, no task is suitable|
 |4|Mercury|Servant|21:15:45|22:05:22|Unfortunate hour|
-|5|Moon|Servant|22:05:23|22:55:00|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Moon|Servant|22:05:23|22:55:00|Achieving position and status and attracting job fortune|
 |6|Saturn|Servant|22:55:01|23:44:38|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Jupiter|Servant|23:44:39|00:34:16|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mars|Ruler|00:34:17|01:23:54|The moon is in Scorpio, Not suitable for doing anything.|
@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°1'34.95" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|4°29'8.00" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|14°33'23.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°44'20.47" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°45'3.43" |Libra|Jubana|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|25°44'20.48" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|20°45'3.81" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°57'17.87" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°6'30.66" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|28°1'34.98" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°29'7.99" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°33'23.17" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°44'20.47" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|20°45'3.43" |Scorpio|Qalb|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|13°57'17.91" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°6'30.57" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|28°1'34.95" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°29'8.00" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°33'23.16" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|25°44'20.48" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|20°45'3.81" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

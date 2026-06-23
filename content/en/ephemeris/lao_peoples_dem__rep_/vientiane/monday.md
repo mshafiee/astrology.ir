@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 13:12:43|Night duration: 10:47:30|
+|Duration of the day: 13:12:43|Night duration: 10:47:31|
 |Every hour duration: 01:53:15|Every hour duration: 01:32:30|
 
  
@@ -281,7 +281,7 @@ Timetable of septet day and night planetary hours
 |Late at night|Saturn|Servant|23:25:25|00:57:54|
 |Rooster song|Jupiter|Servant|00:57:55|02:30:24|
 |False Dawn|Mars|Servant|02:30:25|04:02:54|
-|Dawn|Sun|Servant|04:02:55|05:35:24|
+|Dawn|Sun|Servant|04:02:55|05:35:25|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°47'25.62" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°27'16.82" |Gemini|Dhira|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|13°47'25.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°27'16.74" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|25°47'40.06" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|1°31'13.40" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|10°59'27.94" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°30'27.97" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|13°19'19.38" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|1°31'13.45" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|10°59'27.97" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|24°30'28.00" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|13°19'18.95" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°47'25.62" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°27'16.82" |Cancer|Jabhah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|13°47'25.66" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°27'16.74" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|25°47'40.06" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|1°31'13.40" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|10°59'27.94" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°30'27.97" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|13°19'19.38" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|1°31'13.45" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|10°59'27.97" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|24°30'23.38" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|13°16'43.31" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

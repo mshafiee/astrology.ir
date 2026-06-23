@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
 |Duration of the day: 14:16:18|Night duration: 09:44:01|
-|Every hour of day duration: 01:11:21|Every hour of night duration: 00:48:40|
+|Every hour of day duration: 01:11:22|Every hour of night duration: 00:48:40|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°15'57.58" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|4°48'16.53" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|14°56'20.63" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°49'44.53" |Gemini|Dhira|Sun|
+|☿ Mercury|Pre-Retrograde Shadow|25°49'44.53" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|24°43'32.47" |Libra|Jubana|Jupiter|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|28°15'57.58" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|4°48'16.53" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|14°56'20.63" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°49'44.53" |Cancer|Jabhah|Moon|
+|☿ Mercury|Pre-Retrograde Shadow|25°49'44.53" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|24°43'32.47" |Scorpio|Shaulah|Venus|
 
 

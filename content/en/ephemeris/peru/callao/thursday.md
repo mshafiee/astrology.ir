@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|28°19'59.11" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|4°53'38.82" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|15°2'46.37" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|25°51'11.53" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°44'16.90" |Libra|Akleel|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|25°51'11.40" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°47'32.27" |Libra|Akleel|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°58'35.48" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°11'56.72" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|28°19'59.11" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°58'35.45" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°11'56.81" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|28°19'59.14" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|4°53'38.82" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°2'44.28" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|25°51'1.69" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|27°4'15.33" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|15°2'46.38" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|25°51'11.41" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°47'32.81" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Saturn|Saturn|Moon|Saturn|
+|☾ Moon|Saturn|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Sun|Leo|Moon|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Saturn|Virgo|Sun|Sun|
 
 
 {{< /tab >}}

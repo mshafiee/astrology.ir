@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|28°30'54.32" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|26°0'7.53" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|1°47'44.91" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|11°19'24.20" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Direct|24°39'6.32" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°26'54.84" |Virgo|Simak|Venus|
+|♀ Venus|Direct|11°19'22.25" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|24°39'5.72" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°50'57.14" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Saturn|Saturn|
+|☾ Moon|Venus|Jupiter|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Gemini|Sun|Mercury|
 |♀ Venus|Jupiter|Venus|Scorpio|Moon|Moon|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Mercury|Pisces|Sun|Moon|
+|☾ Moon|Jupiter|Mercury|Pisces|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°48'22.79" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|28°30'54.41" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|26°0'7.55" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°48'22.83" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|28°30'54.32" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|26°0'7.53" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|1°47'44.91" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|11°19'22.26" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|24°39'5.72" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|16°50'58.20" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|11°19'22.25" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|24°39'5.72" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|16°50'57.14" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

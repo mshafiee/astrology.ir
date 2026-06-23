@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°0'42.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°21'1.22" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°50'33.71" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|5°34'24.12" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°51'44.17" |Cancer|Tarf|Mercury|
-|☿ Mercury|Direct|26°0'39.50" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|5°9'58.62" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°0'42.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°21'1.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°50'38.09" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|5°34'29.18" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|15°51'42.52" |Cancer|Tarf|Mercury|
+|☿ Mercury|Pre-Retrograde Shadow|26°0'42.36" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|4°14'53.32" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Mars|Leo|Sun|Mercury|
 |♀ Venus|Mars|Mars|Capricorn|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Sun|Sun|Capricorn|Moon|Mars|
+|☾ Moon|Mars|Sun|Sagittarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°0'42.50" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°21'1.17" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|28°50'38.09" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|29°21'1.25" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|28°50'38.12" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|5°34'29.18" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°51'42.52" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Direct|26°0'42.36" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|15°51'42.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Pre-Retrograde Shadow|26°0'42.34" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|4°14'53.32" |Sagittarius|Shaulah|Mercury|
 
 
