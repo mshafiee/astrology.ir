@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:57:32 |
 | Medium Coeli | 12:57:32 |
 | Sunset | 21:38:27 |
-| Maghrib | 22:14:59 |
+| Maghrib | 22:15:00 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:57:38 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°5'46.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°43'41.01" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°6'47.72" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°16'7.63" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°53'15.58" |Cancer|Tarf|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|26°14'11.22" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°36'51.15" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°5'46.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°43'41.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°6'47.76" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|7°16'7.93" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|17°53'16.01" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°14'11.85" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°36'52.03" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°5'46.50" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°43'41.09" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°6'47.74" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°5'46.53" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°43'41.08" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°6'47.73" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|7°16'7.63" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|17°53'15.58" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|26°14'11.22" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°36'51.15" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|26°14'11.24" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°36'52.03" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

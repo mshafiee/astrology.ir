@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°51'55.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|28°44'42.86" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|26°47'25.46" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|2°50'30.26" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|12°34'56.13" |Cancer|Nathrah|Mercury|
-|☿ Mercury|Pre-Retrograde Shadow|25°8'33.02" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°17'53.35" |Libra|Ghafr|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|13°51'55.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|28°44'42.79" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|26°47'27.04" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|2°50'31.91" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|12°34'55.31" |Cancer|Nathrah|Mercury|
+|☿ Mercury|Retrograde|25°8'33.42" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|29°54'20.64" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Venus|Jupiter|Mars|Moon|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Cancer|Sun|Mercury|
 |♀ Venus|Jupiter|Venus|Sagittarius|Moon|Moon|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|26°47'25.46" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|2°50'30.26" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|12°34'56.13" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Pre-Retrograde Shadow|25°8'33.02" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°8'33.02" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|0°17'53.35" |Scorpio|Akleel|Mars|
 
 
