@@ -222,7 +222,7 @@ Timetable of twelve day and night planetary hours
 |4|Mars|Servant|09:02:57|10:12:02|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Sun|Servant|10:12:03|11:21:08|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|11:21:09|12:30:14|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mercury|Servant|12:30:15|13:39:20|Making promises|
+|7|Mercury|Servant|12:30:15|13:39:20|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Moon|Ruler|13:39:21|14:48:26|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:48:27|15:57:32|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:57:33|17:06:38|Good for any task|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°5'52.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°44'7.66" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°8'16.10" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°18'7.62" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°55'37.16" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°14'24.22" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°38'7.37" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|29°44'7.73" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°8'15.99" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|7°18'7.76" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|17°55'37.65" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°14'24.75" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°38'9.27" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

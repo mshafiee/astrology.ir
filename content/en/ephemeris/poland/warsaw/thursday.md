@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:38:36 |
 | Sunset | 21:01:45 |
 | Maghrib | 21:33:08 |
-| Isha (Night) | 00:17:20 |
+| Isha (Night) | 00:17:19 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:38:43 |
 {{< /tab >}}
@@ -58,7 +58,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Medium Coeli | 12:38:36 |
 | Sunset | 21:01:45 |
 | Maghrib | 21:38:05 |
-| Isha (Night) | 00:17:20 |
+| Isha (Night) | 00:17:19 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:38:43 |
 {{< /tab >}}
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|28°54'23.84" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|27°20'26.42" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|3°34'22.41" |Gemini|HaqAh|Jupiter|
-|♀ Venus|Direct|13°27'37.24" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|25°25'59.58" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|9°22'7.32" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|13°27'40.43" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|25°26'3.71" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|9°33'38.13" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

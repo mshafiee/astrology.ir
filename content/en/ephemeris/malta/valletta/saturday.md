@@ -91,7 +91,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunset | 20:22:38 |
 | Maghrib | 20:24:30 |
 | Isha (Night) | 21:51:57 |
-| Sharia Midnight | 00:20:29 |
+| Sharia Midnight | 00:20:30 |
 | Imum Coeli | 01:05:07 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°0'36.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°20'34.68" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°49'9.11" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|5°32'30.27" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°49'20.49" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°0'16.95" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°53'42.26" |Scorpio|Akleel|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°0'36.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°20'34.77" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°49'9.13" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|5°32'30.26" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|15°49'20.50" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°0'16.93" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°53'41.50" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°0'36.38" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°20'34.68" |Cancer|Jabhah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|14°0'36.34" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°20'34.77" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|28°49'9.13" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|5°32'30.26" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|15°49'20.50" |Leo|Zubrah|Jupiter|

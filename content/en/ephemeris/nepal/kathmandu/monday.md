@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 19:08:31 |
 | Isha (Night) | 20:38:31 |
 | Sharia Midnight | 23:18:36 |
-| Imum Coeli | 00:07:16 |
+| Imum Coeli | 00:07:15 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -222,7 +222,7 @@ Timetable of twelve day and night planetary hours
 |4|Mars|Servant|08:39:05|09:48:25|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Sun|Servant|09:48:26|10:57:45|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Venus|Servant|10:57:46|12:07:06|The moon is in Scorpio, Not suitable for doing anything.|
-|7|Mercury|Servant|12:07:07|13:16:27|The moon is in Scorpio, Not suitable for doing anything.|
+|7|Mercury|Servant|12:07:07|13:16:27|Making promises|
 |8|Moon|Ruler|13:16:28|14:25:47|Reconciliation of two persons, attracting love|
 |9|Saturn|Servant|14:25:48|15:35:08|Attracting and repelling enemies and causing separation|
 |10|Jupiter|Servant|15:35:09|16:44:28|Good for any task|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°8'31.16" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°56'34.87" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°49'51.96" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|8°13'45.99" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°8'31.20" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°56'34.79" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°49'51.93" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|8°13'46.01" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|19°1'59.02" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°15'17.19" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|7°59'3.55" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|26°15'30.03" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|7°11'32.17" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}
