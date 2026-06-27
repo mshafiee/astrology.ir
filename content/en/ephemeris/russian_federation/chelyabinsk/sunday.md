@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:57:32 |
 | Medium Coeli | 12:57:32 |
 | Sunset | 21:38:27 |
-| Maghrib | 22:14:59 |
+| Maghrib | 22:15:00 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:57:38 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°5'46.50" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°43'40.74" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°6'47.89" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°16'6.86" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|17°53'13.91" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°14'9.18" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|25°39'5.87" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|29°43'41.17" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°6'47.76" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|7°16'7.93" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|17°53'16.01" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°14'11.85" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|25°35'36.26" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°5'46.53" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°43'41.08" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°6'47.73" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|7°16'7.94" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°5'46.50" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°43'41.17" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°6'47.76" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|7°16'7.93" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|17°53'16.01" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°14'11.87" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°35'37.14" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|26°14'11.85" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°35'36.26" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

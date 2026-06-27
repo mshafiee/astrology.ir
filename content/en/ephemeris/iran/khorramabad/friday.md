@@ -235,7 +235,7 @@ Timetable of twelve day and night planetary hours
 |1|Mars|Ruler|19:30:07|20:18:20|Love, creating love and attracting hearts|
 |2|Sun|Servant|20:18:21|21:06:34|Attracting auspiciousness|
 |3|Venus|Servant|21:06:35|21:54:49|Attracting misfortune, no task is suitable|
-|4|Mercury|Servant|21:54:50|22:43:03|Unfortunate hour|
+|4|Mercury|Servant|21:54:50|22:43:03|The moon is in Scorpio, Not suitable for doing anything.|
 |5|Moon|Servant|22:43:04|23:31:17|The moon is in Scorpio, Not suitable for doing anything.|
 |6|Saturn|Servant|23:31:18|00:19:32|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Jupiter|Servant|00:19:33|01:07:46|The moon is in Scorpio, Not suitable for doing anything.|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|13°57'21.21" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°6'44.62" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|28°2'22.33" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|4°30'10.90" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°34'38.78" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°44'38.67" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|20°59'29.89" |Scorpio|Qalb|Venus|
+|♃ Jupiter|Direct|29°6'44.68" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|28°2'22.10" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|4°30'10.82" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°34'39.17" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°44'38.95" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|21°3'4.96" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Jupiter|Moon|Saturn|
+|☾ Moon|Jupiter|Mercury|Moon|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 01:31:17 |
+| Fajr (Dawn) | 01:31:18 |
 | Sunrise | 04:55:07 |
 | Dhuhr (Noon) | 12:55:17 |
 | Medium Coeli | 12:55:17 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°59'45.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°16'56.36" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°36'52.12" |Aries|Thurayya|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|13°59'45.69" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°16'56.28" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°36'52.09" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|5°16'7.12" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°29'43.74" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|25°56'39.67" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°38'49.64" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|15°29'43.73" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|25°56'39.68" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°38'50.32" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°59'45.66" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°16'56.36" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|28°36'52.12" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|13°59'45.69" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°16'56.28" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|28°36'52.09" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|5°16'7.12" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°29'43.74" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°56'39.67" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°38'49.64" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|15°29'43.73" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°56'39.68" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°38'50.32" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

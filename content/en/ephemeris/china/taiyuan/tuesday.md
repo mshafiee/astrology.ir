@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:55:53 |
 | Maghrib | 20:01:47 |
 | Isha (Night) | 21:31:47 |
-| Sharia Midnight | 23:33:03 |
+| Sharia Midnight | 23:33:02 |
 | Imum Coeli | 00:33:29 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°10'54.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°8'12.53" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°28'33.45" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°5'35.23" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°3'41.51" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|26°12'35.48" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|18°2'58.33" |Sagittarius|Baldah|Moon|
+|♃ Jupiter|Direct|0°8'12.42" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°28'33.24" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°5'34.58" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°3'41.01" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|26°12'34.44" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|18°6'51.30" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°10'54.38" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°8'12.34" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|1°28'33.21" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|9°5'34.60" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°3'41.02" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|26°12'34.46" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|18°6'51.53" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°10'54.35" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°8'12.42" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°28'33.24" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|9°5'34.58" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°3'41.01" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|26°12'34.44" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|18°6'51.30" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

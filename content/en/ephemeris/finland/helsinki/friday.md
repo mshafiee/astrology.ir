@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 18:54:43|Night duration: 05:05:58|
+|Duration of the day: 18:54:42|Night duration: 05:05:59|
 |Every hour duration: 02:42:06|Every hour duration: 00:43:43|
 
  
@@ -270,16 +270,16 @@ Timetable of septet day and night planetary hours
 |Noon|Saturn|Servant|12:01:53|14:43:58|
 |Early afternoon|Jupiter|Servant|14:43:59|17:26:04|
 |Mid-afternoon|Mars|Servant|17:26:05|20:08:10|
-|Late afternoon|Sun|Servant|20:08:11|22:50:17|
+|Late afternoon|Sun|Servant|20:08:11|22:50:16|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Mars|Ruler|22:50:18|23:33:59|
-|Late evening|Sun|Servant|23:34:00|00:17:42|
-|Midnight|Venus|Servant|00:17:43|01:01:24|
-|Late at night|Mercury|Servant|01:01:25|01:45:07|
-|Rooster song|Moon|Servant|01:45:08|02:28:49|
+|Evening|Mars|Ruler|22:50:17|23:33:58|
+|Late evening|Sun|Servant|23:33:59|00:17:41|
+|Midnight|Venus|Servant|00:17:42|01:01:24|
+|Late at night|Mercury|Servant|01:01:25|01:45:06|
+|Rooster song|Moon|Servant|01:45:07|02:28:49|
 |False Dawn|Saturn|Servant|02:28:50|03:12:32|
 |Dawn|Jupiter|Servant|03:12:33|03:56:15|
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|13°57'15.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°6'20.91" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°1'2.75" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|4°28'21.84" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|14°32'30.81" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|25°43'59.10" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|21°4'25.36" |Libra|Jubana|Jupiter|
+|♃ Jupiter|Direct|29°6'21.27" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°1'3.51" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|4°28'24.06" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|14°32'32.70" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|25°44'2.51" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|20°56'46.20" |Libra|Jubana|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Sun|
 |♀ Venus|Mercury|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

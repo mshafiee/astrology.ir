@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:09:00 |
+| Fajr (Dawn) | 04:08:59 |
 | Sunrise | 05:25:06 |
 | Dhuhr (Noon) | 11:41:10 |
 | Medium Coeli | 11:41:10 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°10'56.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°8'20.25" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°28'59.21" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°6'10.27" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°4'22.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|26°12'34.30" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|18°2'27.40" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|14°10'55.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°8'20.33" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°28'59.18" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°6'10.03" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°4'22.28" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|26°12'33.86" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|18°3'51.19" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°10'56.01" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°8'20.25" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|1°28'59.21" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|9°6'10.27" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°10'55.97" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°8'20.33" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°28'59.23" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|9°6'10.25" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|20°4'22.54" |Leo|Zubrah|Mars|
 |☿ Mercury|Retrograde|26°12'34.28" |Cancer|Jabhah|Moon|
 |☾ Moon|Direct|18°2'27.18" |Capricorn|SaadAlBula|Mars|

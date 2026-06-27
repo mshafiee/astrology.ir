@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 04:29:00 |
 | Dhuhr (Noon) | 13:09:34 |
 | Medium Coeli | 13:09:34 |
-| Sunset | 21:49:52 |
+| Sunset | 21:49:53 |
 | Maghrib | 21:53:07 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°2'51.86" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°30'29.48" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°22'33.00" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|6°17'1.00" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|16°42'38.05" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|29°30'29.90" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°22'33.43" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|6°17'2.71" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|16°42'39.92" |Cancer|Tarf|Mercury|
 |☿ Mercury|Retrograde|26°8'5.01" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|13°21'31.42" |Scorpio|Qalb|Sun|
 

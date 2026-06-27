@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Mars|Servant|02:10:55|03:04:47|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Sun|Servant|03:04:48|03:58:40|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Venus|Servant|03:58:41|04:52:33|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Mercury|Servant|04:52:34|05:46:26|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Mercury|Servant|04:52:34|05:46:26|Finding the fugitive and discovering the thief|
 
  
  
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°6'58.84" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°49'14.94" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°25'28.54" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|7°40'59.70" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°22'55.80" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°15'1.26" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|1°34'24.93" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|29°49'17.34" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°25'31.63" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|7°41'12.40" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°23'9.41" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°15'24.21" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°21'44.88" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

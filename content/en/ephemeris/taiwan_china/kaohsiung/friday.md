@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 18:47:14 |
 | Maghrib | 18:48:18 |
 | Isha (Night) | 20:14:57 |
-| Sharia Midnight | 23:17:48 |
+| Sharia Midnight | 23:17:49 |
 | Imum Coeli | 00:01:39 |
 {{< /tab >}}
 
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|13°59'48.34" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°17'7.66" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|28°37'30.03" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|5°16'58.86" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|15°30'44.38" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|25°56'54.80" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°35'16.82" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|29°17'7.59" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|28°37'29.88" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|5°16'58.77" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|15°30'44.49" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|25°56'54.84" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°36'55.25" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|13°59'48.34" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°17'7.66" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|28°37'30.03" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|5°16'58.86" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°30'44.38" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|25°56'54.80" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°35'16.82" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|13°59'48.38" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°17'7.58" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|28°37'30.01" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|5°16'58.87" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°30'44.37" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|25°56'54.81" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°35'17.49" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
