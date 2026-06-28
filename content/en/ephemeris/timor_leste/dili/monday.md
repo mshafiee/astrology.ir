@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:44:41 |
 | Sunrise | 06:52:03 |
-| Dhuhr (Noon) | 12:41:08 |
-| Medium Coeli | 12:41:08 |
+| Dhuhr (Noon) | 12:41:07 |
+| Medium Coeli | 12:41:07 |
 | Sunset | 18:30:13 |
 | Maghrib | 18:45:07 |
 | Isha (Night) | 19:28:51 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:49:03 |
 | Sunrise | 06:52:03 |
-| Dhuhr (Noon) | 12:41:08 |
-| Medium Coeli | 12:41:08 |
+| Dhuhr (Noon) | 12:41:07 |
+| Medium Coeli | 12:41:07 |
 | Sunset | 18:30:13 |
 | Maghrib | 18:31:11 |
 | Isha (Night) | 19:33:12 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°8'20.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°8'20.70" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|29°55'44.75" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|0°47'4.63" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|8°10'2.36" |Gemini|HanAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°8'20.74" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°55'44.67" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°47'4.60" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|8°10'2.38" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|14°8'20.70" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°55'44.75" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°47'4.63" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|8°10'2.36" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|18°57'32.09" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°15'35.06" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|6°20'6.47" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|26°15'35.03" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|6°20'5.85" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:04:30 |
+| Fajr (Dawn) | 05:04:29 |
 | Sunrise | 06:21:58 |
 | Dhuhr (Noon) | 12:38:04 |
 | Medium Coeli | 12:38:04 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°10'36.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°6'41.12" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°23'26.24" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°58'40.79" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|19°55'38.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°12'55.72" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°46'34.81" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|14°10'36.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°6'42.30" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°23'33.56" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°58'53.82" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|19°55'43.23" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°13'12.68" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|16°30'58.77" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Mercury|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Mercury|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Mercury|Mercury|Cancer|Moon|Mercury|
+|☾ Moon|Venus|Sun|Gemini|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°10'36.16" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°10'36.16" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°6'42.30" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|1°23'33.56" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|8°58'53.82" |Cancer|Nathrah|Venus|

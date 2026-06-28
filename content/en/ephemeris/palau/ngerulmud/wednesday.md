@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°13'24.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°20'52.55" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°10'33.00" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|10°1'54.89" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|21°10'38.23" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|26°5'13.67" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°47'11.18" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|14°13'24.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°20'51.39" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°10'31.94" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|10°1'49.51" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|21°10'31.77" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|26°5'3.32" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°26'46.56" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Mars|Mars|Sun|Venus|
+|☾ Moon|Mercury|Venus|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Scorpio|Moon|Mercury|
+|☾ Moon|Saturn|Saturn|Capricorn|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°13'24.80" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°13'24.80" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°20'52.55" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|2°10'33.00" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|10°1'54.89" |Cancer|Nathrah|Mercury|

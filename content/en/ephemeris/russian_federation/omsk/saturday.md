@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 04:29:00 |
 | Dhuhr (Noon) | 13:09:34 |
 | Medium Coeli | 13:09:34 |
-| Sunset | 21:49:52 |
+| Sunset | 21:49:53 |
 | Maghrib | 21:53:07 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 04:29:00 |
 | Dhuhr (Noon) | 13:09:34 |
 | Medium Coeli | 13:09:34 |
-| Sunset | 21:49:52 |
+| Sunset | 21:49:53 |
 | Maghrib | 21:53:07 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:29:00 |
 | Dhuhr (Noon) | 13:09:34 |
 | Medium Coeli | 13:09:34 |
-| Sunset | 21:49:52 |
+| Sunset | 21:49:53 |
 | Maghrib | 21:53:07 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 04:29:00 |
 | Dhuhr (Noon) | 13:09:34 |
 | Medium Coeli | 13:09:34 |
-| Sunset | 21:49:52 |
+| Sunset | 21:49:53 |
 | Maghrib | 21:53:07 |
 | Isha (Night) | 23:23:07 |
 | Sharia Midnight | Circumpolar Angle |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°2'51.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°2'51.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|29°30'29.90" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|29°22'33.43" |Aries|Thurayya|Venus|
 |☉ Sun|Direct|6°17'2.71" |Gemini|HanAh|Jupiter|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°2'51.86" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°2'51.86" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|29°30'29.90" |Cancer|Jabhah|Moon|
 |♂ Mars|Direct|29°22'33.43" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|6°17'2.71" |Cancer|Nathrah|Venus|

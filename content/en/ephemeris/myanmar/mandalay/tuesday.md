@@ -107,7 +107,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunset | 18:53:13 |
 | Maghrib | 18:54:43 |
 | Isha (Night) | 20:17:27 |
-| Sharia Midnight | 23:22:00 |
+| Sharia Midnight | 23:21:59 |
 | Imum Coeli | 00:09:24 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°11'5.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°9'8.49" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°31'39.53" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°9'44.92" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°8'38.17" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|26°12'12.87" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|18°50'50.66" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Direct|14°11'5.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°9'8.57" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°31'39.55" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°9'44.90" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°8'38.16" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|26°12'12.85" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|18°50'50.47" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°11'5.71" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°9'8.49" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|1°31'39.53" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|9°9'44.92" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°8'38.17" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|26°12'12.87" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|18°50'50.66" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Direct|14°11'5.68" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°9'8.57" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°31'39.55" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|9°9'44.90" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°8'38.16" |Leo|Zubrah|Mars|
+|☿ Mercury|Retrograde|26°12'12.85" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|18°50'50.47" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

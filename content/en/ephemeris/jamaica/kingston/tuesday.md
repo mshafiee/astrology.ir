@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°12'20.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°15'23.39" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°52'23.02" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°37'32.28" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°41'40.71" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|26°8'57.50" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|24°40'6.02" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Direct|14°12'20.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°15'21.27" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°52'17.52" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°37'18.08" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°41'29.99" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|26°8'34.55" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|26°7'19.53" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Saturn|Saturn|Sun|Venus|
+|☾ Moon|Mars|Mars|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Saturn|Pisces|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
+|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°12'20.38" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°12'20.38" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°15'23.39" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|1°52'23.02" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|9°37'32.28" |Cancer|Nathrah|Venus|

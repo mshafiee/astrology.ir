@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:00:13 |
+| Fajr (Dawn) | 03:00:12 |
 | Sunrise | 04:51:02 |
 | Dhuhr (Noon) | 12:07:34 |
 | Medium Coeli | 12:07:34 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°3'12.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°32'1.33" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|29°27'40.73" |Aries|Thurayya|Venus|
-|☉ Sun|Direct|6°23'54.19" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|14°3'12.43" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°32'1.41" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|29°27'40.76" |Aries|Thurayya|Venus|
+|☉ Sun|Direct|6°23'54.18" |Gemini|HanAh|Jupiter|
 |♀ Venus|Direct|16°50'50.61" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°9'6.45" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|14°30'18.97" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|26°9'6.43" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|14°30'18.06" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°3'12.46" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°32'1.33" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|29°27'40.73" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|6°23'54.19" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°50'51.35" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°9'7.25" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°31'20.82" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Direct|14°3'12.43" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°32'1.94" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|29°27'39.75" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|6°23'54.49" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°50'53.51" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°9'9.04" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|14°40'3.14" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
