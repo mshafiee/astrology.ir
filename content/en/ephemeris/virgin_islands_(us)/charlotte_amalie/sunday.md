@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:59:53 |
 | Maghrib | 19:00:55 |
 | Isha (Night) | 20:18:31 |
-| Sharia Midnight | 23:41:20 |
+| Sharia Midnight | 23:41:21 |
 | Imum Coeli | 00:23:09 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°6'58.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|29°49'14.94" |Gemini|Dhira|Sun|
-|♂ Mars|Direct|0°25'28.54" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°40'59.70" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|18°22'55.80" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°15'1.26" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|1°34'24.93" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|14°6'58.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|29°49'15.40" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|0°25'24.24" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|7°40'56.73" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|18°23'0.63" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°15'2.20" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|2°2'28.87" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°6'58.84" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°49'17.34" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°25'31.63" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|7°41'12.40" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°6'58.87" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°49'17.25" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°25'31.60" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|7°41'12.41" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|18°23'9.41" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°15'24.21" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°21'44.88" |Capricorn|SaadAlDhabib|Jupiter|
+|☿ Mercury|Retrograde|26°15'24.23" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°21'45.66" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

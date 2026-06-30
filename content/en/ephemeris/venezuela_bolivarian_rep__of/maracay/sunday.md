@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Sun|The ruler of the night: Jupiter|
 |Duration of the day: 12:43:09|Night duration: 11:17:06|
-|Every hour of day duration: 01:03:36|Every hour of night duration: 00:56:25|
+|Every hour of day duration: 01:03:36|Every hour of night duration: 00:56:26|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°7'1.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°7'1.80" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|29°49'31.15" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|0°26'18.02" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|7°42'14.35" |Gemini|HanAh|Jupiter|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°7'1.80" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°49'31.15" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°26'18.02" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|7°42'14.35" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°24'22.88" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°15'25.87" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|0°32'47.06" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°7'1.80" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°49'31.21" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°26'17.92" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|7°42'14.44" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°24'23.27" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|26°15'26.26" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|0°32'44.47" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

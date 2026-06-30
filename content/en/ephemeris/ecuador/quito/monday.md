@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°9'49.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°2'53.09" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°10'47.37" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|8°41'45.55" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|19°35'29.68" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°14'12.23" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|14°2'3.59" |Sagittarius|NaAaem|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|14°9'49.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°2'53.90" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°10'54.05" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|8°41'56.30" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|19°35'32.04" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°14'24.81" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|12°58'19.05" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Mercury|Sun|
 |♀ Venus|Jupiter|Mercury|Mars|Moon|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Venus|Mercury|Mars|Mercury|
+|☾ Moon|Venus|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Virgo|Sun|Mercury|
 |♀ Venus|Sun|Jupiter|Aquarius|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Sun|Taurus|Sun|Jupiter|
+|☾ Moon|Venus|Moon|Taurus|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°9'49.60" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°9'49.60" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°2'53.90" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|1°10'54.05" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|8°41'56.30" |Cancer|Nathrah|Venus|

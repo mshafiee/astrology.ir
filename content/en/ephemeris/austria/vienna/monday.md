@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 02:19:19 |
 | Sunrise | 04:56:42 |
-| Dhuhr (Noon) | 12:57:59 |
-| Medium Coeli | 12:57:59 |
+| Dhuhr (Noon) | 12:58:00 |
+| Medium Coeli | 12:58:00 |
 | Sunset | 20:59:03 |
 | Maghrib | 21:25:43 |
 | Isha (Night) | 23:05:17 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°6'11.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°6'11.86" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|29°45'38.43" |Gemini|Dhira|Sun|
 |♂ Mars|Direct|0°13'20.06" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|7°24'54.47" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|18°3'44.86" |Cancer|Tarf|Mercury|
-|☿ Mercury|Retrograde|26°14'46.48" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|27°10'53.90" |Scorpio|Shaulah|Venus|
+|☉ Sun|Direct|7°24'52.86" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|18°3'42.03" |Cancer|Tarf|Mercury|
+|☿ Mercury|Retrograde|26°14'42.73" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|27°17'3.14" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°6'11.86" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|29°45'38.43" |Cancer|Jabhah|Moon|
-|♂ Mars|Direct|0°13'20.06" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|7°24'52.86" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°6'11.89" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|29°45'38.34" |Cancer|Jabhah|Moon|
+|♂ Mars|Direct|0°13'20.03" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|7°24'52.87" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|18°3'42.03" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|26°14'42.73" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|27°17'3.14" |Sagittarius|Baldah|Saturn|
+|☿ Mercury|Retrograde|26°14'42.75" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|27°17'3.99" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
