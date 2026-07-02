@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°20'41.56" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°20'41.69" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°0'54.27" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|4°22'13.45" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|12°59'3.38" |Cancer|Tarf|Mercury|

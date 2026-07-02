@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:05:51 |
+| Fajr (Dawn) | 05:05:50 |
 | Sunrise | 06:31:41 |
 | Dhuhr (Noon) | 13:07:48 |
 | Medium Coeli | 13:07:48 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°11'54.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°13'12.80" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|1°45'10.28" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|9°27'51.96" |Gemini|HanAh|Jupiter|
-|♀ Venus|Direct|20°30'10.85" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|26°10'12.92" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|22°37'55.29" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|14°11'54.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°13'12.88" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|1°45'10.30" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|9°27'47.04" |Gemini|HanAh|Jupiter|
+|♀ Venus|Direct|20°30'11.01" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|26°10'7.66" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°1'29.52" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°11'54.56" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°13'12.80" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|1°45'10.28" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|9°27'51.96" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°11'54.53" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°13'12.88" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|1°45'10.30" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|9°27'51.95" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|20°30'10.85" |Leo|Zubrah|Mars|
-|☿ Mercury|Retrograde|26°10'12.92" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|22°37'55.29" |Capricorn|SaadAlBula|Sun|
+|☿ Mercury|Retrograde|26°10'12.90" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|22°37'55.23" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
