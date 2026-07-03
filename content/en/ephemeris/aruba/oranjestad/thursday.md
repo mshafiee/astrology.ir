@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°17'12.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°40'59.57" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°16'59.18" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|11°31'2.14" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°56'22.31" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°44'12.26" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°30'15.71" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|14°17'12.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°41'2.09" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°17'3.51" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|11°31'16.93" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°56'36.62" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°44'38.95" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|18°54'32.38" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°17'12.11" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°17'12.11" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°41'2.09" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|3°17'3.51" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|11°31'16.93" |Cancer|Nathrah|Mercury|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°24'15.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°22'42.27" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|5°33'20.00" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|14°35'3.32" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°33'29.60" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°31'4.56" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|29°59'1.25" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|14°24'15.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°22'40.02" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°33'16.37" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|14°34'50.52" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°33'16.79" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|24°30'40.94" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°51'46.43" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Saturn|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Saturn|Mars|Venus|Mercury|
+|☾ Moon|Venus|Venus|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Mercury|Saturn|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Moon|Mercury|Capricorn|Moon|Mars|
+|☾ Moon|Jupiter|Moon|Pisces|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°24'15.23" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°24'15.23" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°22'40.02" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|5°33'16.37" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|14°34'50.52" |Cancer|Tarf|Mercury|

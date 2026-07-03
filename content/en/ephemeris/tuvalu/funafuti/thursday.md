@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:07:12 |
 | Sunset | 17:56:28 |
 | Maghrib | 17:57:26 |
-| Isha (Night) | 18:59:22 |
+| Isha (Night) | 18:59:23 |
 | Sharia Midnight | 23:35:50 |
 | Imum Coeli | 00:07:18 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°15'36.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°32'22.48" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|2°48'35.70" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|10°52'51.75" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°11'9.75" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°54'16.95" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|12°20'43.62" |Capricorn|SaadAlDhabib|Mars|
+|♄ Saturn|Direct|14°15'36.76" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°32'24.07" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|2°48'33.75" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|10°52'55.98" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°11'21.11" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°54'29.15" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|11°19'8.52" |Capricorn|SaadAlDhabib|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Mercury|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°15'36.76" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°15'36.76" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°32'25.10" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|2°48'40.64" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|10°53'7.18" |Cancer|Nathrah|Mercury|
 |♀ Venus|Direct|22°11'23.81" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°54'44.00" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|12°20'43.62" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|10°42'34.06" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Venus|Mercury|Moon|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

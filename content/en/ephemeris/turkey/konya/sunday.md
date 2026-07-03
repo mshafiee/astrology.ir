@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°21'0.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°2'44.56" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°28'15.10" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|13°7'10.10" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°49'57.63" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°11'6.65" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|10°3'40.09" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°21'0.38" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°2'44.48" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°28'15.08" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|13°7'10.11" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°49'59.78" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°11'8.23" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|9°47'22.13" |Aquarius|SaadAlAkhbia|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Mercury|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°21'0.35" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°21'0.35" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°2'44.56" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|4°28'15.10" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|13°7'10.10" |Cancer|Tarf|Mercury|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°17'18.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°41'35.31" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°18'57.76" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|11°33'42.66" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|22°59'28.91" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°43'32.61" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|20°52'41.13" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Direct|14°17'18.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°41'37.44" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°18'59.77" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|11°33'53.36" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|22°59'41.82" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°43'53.47" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|19°28'19.29" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Saturn|Mercury|Jupiter|
+|☾ Moon|Venus|Saturn|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Libra|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Venus|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°17'18.53" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°17'18.53" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°41'37.44" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|3°18'59.77" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|11°33'53.36" |Cancer|Nathrah|Mercury|

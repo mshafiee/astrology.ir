@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:05:13 |
 | Maghrib | 19:11:25 |
 | Isha (Night) | 20:41:25 |
-| Sharia Midnight | 22:45:32 |
+| Sharia Midnight | 22:45:33 |
 | Imum Coeli | 23:45:00 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°16'16.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°35'57.96" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°0'22.56" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|11°8'50.03" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|14°16'16.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|0°35'57.88" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°0'22.54" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|11°8'50.05" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|22°30'2.07" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°50'45.68" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|14°11'32.77" |Capricorn|SaadAlBula|Mars|
+|☿ Mercury|Retrograde|25°50'45.69" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|14°13'13.98" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°16'16.32" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°35'58.01" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|3°0'22.77" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|11°8'50.45" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|22°30'2.27" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|25°50'46.29" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°11'32.77" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°16'16.35" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°35'57.88" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°0'22.54" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|11°8'50.05" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|22°30'2.07" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|25°50'45.69" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|14°13'13.98" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

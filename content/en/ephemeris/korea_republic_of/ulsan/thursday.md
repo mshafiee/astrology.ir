@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°15'48.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°15'48.07" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|0°33'25.77" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|2°52'0.98" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|10°57'35.85" |Gemini|HanAh|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°15'48.07" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°33'25.77" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|2°52'0.98" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|10°57'35.85" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|22°16'42.97" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|25°53'36.34" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|11°47'41.62" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Direct|14°15'48.27" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°33'24.18" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|2°51'59.17" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|10°57'27.78" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|22°16'33.87" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|25°53'21.07" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|12°47'27.04" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Venus|Mercury|Mercury|Moon|
+|☾ Moon|Venus|Venus|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Cancer|Sun|Saturn|
 
 
 {{< /tab >}}

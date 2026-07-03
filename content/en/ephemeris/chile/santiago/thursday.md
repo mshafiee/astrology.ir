@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:46:42 |
 | Sunset | 17:46:08 |
 | Maghrib | 17:50:35 |
-| Isha (Night) | 19:01:04 |
+| Isha (Night) | 19:01:05 |
 | Sharia Midnight | 00:09:16 |
 | Imum Coeli | 00:46:47 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°17'20.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°17'20.70" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|0°41'49.51" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|3°19'39.39" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|11°34'45.71" |Gemini|HanAh|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°17'20.70" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°17'20.70" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°41'49.51" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|3°19'39.39" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|11°34'45.71" |Cancer|Nathrah|Mercury|
 |♀ Venus|Direct|23°0'44.69" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°43'34.27" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|19°50'19.75" |Aquarius|SaadAlAkhbia|Mercury|
+|☾ Moon|Direct|21°0'58.32" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Jupiter|Mars|Moon|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Jupiter|Venus|Mercury|Moon|
+|☾ Moon|Mars|Jupiter|Venus|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Mercury|Saturn|Taurus|Sun|Mars|
-|☾ Moon|Venus|Jupiter|Virgo|Moon|Mars|
+|☾ Moon|Venus|Mars|Libra|Moon|Mars|
 
 
 {{< /tab >}}

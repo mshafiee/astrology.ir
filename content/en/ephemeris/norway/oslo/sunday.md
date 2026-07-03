@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°20'57.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°2'28.58" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°27'18.40" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|13°5'54.18" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°48'36.58" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°11'27.64" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|9°24'11.93" |Aquarius|SaadAlAkhbia|Venus|
+|♄ Saturn|Direct|14°20'57.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°2'28.20" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°27'21.93" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|13°5'56.86" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°48'32.72" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°11'29.33" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|10°0'7.10" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Venus|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Mercury|Saturn|Saturn|
+|☾ Moon|Venus|Mercury|Mercury|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Mars|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Mars|Saturn|Gemini|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°20'57.54" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°20'57.54" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°2'28.20" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|4°27'21.93" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|13°5'56.86" |Cancer|Tarf|Mercury|
