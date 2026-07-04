@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:33:57 |
 | Medium Coeli | 12:33:57 |
 | Sunset | 21:15:19 |
-| Maghrib | 21:19:31 |
+| Maghrib | 21:19:32 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:34:02 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°18'36.36" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°48'51.91" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|3°42'47.75" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|12°5'53.44" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|23°37'35.67" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|25°33'44.11" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|26°45'56.98" |Aquarius|FarghAlMuqaddam|Moon|
+|♄ Saturn|Direct|14°18'36.57" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°48'51.76" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°42'48.33" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|12°5'53.45" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|23°37'34.35" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|25°33'43.36" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|26°54'43.17" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:16:30 |
+| Sunrise | 04:16:29 |
 | Dhuhr (Noon) | 14:31:51 |
 | Medium Coeli | 14:31:51 |
 | Sunset | 00:45:09 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:16:30 |
+| Sunrise | 04:16:29 |
 | Dhuhr (Noon) | 14:31:51 |
 | Medium Coeli | 14:31:51 |
 | Sunset | 00:45:09 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:16:30 |
+| Sunrise | 04:16:29 |
 | Dhuhr (Noon) | 14:31:51 |
 | Medium Coeli | 14:31:51 |
 | Sunset | 00:45:09 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 04:16:30 |
+| Sunrise | 04:16:29 |
 | Dhuhr (Noon) | 14:31:51 |
 | Medium Coeli | 14:31:51 |
 | Sunset | 00:45:09 |
@@ -210,21 +210,21 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 20:28:39|Night duration: 03:33:55|
+|Duration of the day: 20:28:40|Night duration: 03:33:55|
 |Every hour of day duration: 01:42:23|Every hour of night duration: 00:17:50|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|04:16:30|05:58:52|Creating corruption, hatred and enmity|
-|2|Sun|Servant|05:58:53|07:41:15|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|07:41:16|09:23:38|Attracting connection and suitors|
-|4|Mercury|Servant|09:23:39|11:06:02|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|11:06:03|12:48:25|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|12:48:26|14:30:48|Repelling negative energy of evil eye|
+|1|Mars|Ruler|04:16:29|05:58:51|Creating corruption, hatred and enmity|
+|2|Sun|Servant|05:58:52|07:41:14|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|07:41:15|09:23:38|Attracting connection and suitors|
+|4|Mercury|Servant|09:23:39|11:06:01|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|11:06:02|12:48:24|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|12:48:25|14:30:48|Repelling negative energy of evil eye|
 |7|Jupiter|Servant|14:30:49|16:13:11|Attracting love and hearts|
-|8|Mars|Ruler|16:13:12|17:55:35|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|17:55:36|19:37:58|Heart tenderness|
+|8|Mars|Ruler|16:13:12|17:55:34|Creating corruption, destroying enemies, making enemies sick|
+|9|Sun|Servant|17:55:35|19:37:58|Heart tenderness|
 |10|Venus|Servant|19:37:59|21:20:21|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|21:20:22|23:02:44|Attracting connection and suitors|
 |12|Moon|Servant|23:02:45|00:45:08|Hatred, corruption and creating negative energy for disruption|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°27'20.90" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°43'15.71" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°40'0.55" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|16°5'16.99" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°19'27.84" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|23°41'52.58" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|21°18'30.95" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|1°43'15.29" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°40'2.60" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|16°5'17.11" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|28°19'23.32" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°41'51.35" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|22°3'35.21" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Saturn|Scorpio|Sun|Jupiter|
+|☾ Moon|Moon|Saturn|Scorpio|Sun|Jupiter|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°20'35.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°0'19.53" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|4°20'20.89" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|12°56'31.08" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|24°37'22.98" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°15'24.86" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|7°37'43.99" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Direct|14°20'35.80" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°0'19.77" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|4°20'20.57" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|12°56'31.30" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|24°37'24.18" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°15'25.78" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|7°28'59.07" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Venus|Saturn|Aries|Sun|Mars|
 |☿ Mercury|Sun|Venus|Aries|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°20'35.83" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°0'19.53" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|4°20'20.89" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|12°56'31.08" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|24°37'22.98" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|25°15'24.86" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|7°37'43.99" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|14°20'35.80" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°0'19.61" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|4°20'20.92" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|12°56'31.07" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|24°37'23.00" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|25°15'24.87" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|7°37'44.67" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 18:14:19|Night duration: 05:47:11|
+|Duration of the day: 18:14:19|Night duration: 05:47:10|
 |Every hour of day duration: 01:31:12|Every hour of night duration: 00:28:56|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|23:26:15|23:55:10|For all tasks, extremely auspicious|
 |5|Saturn|Servant|23:55:11|00:24:06|Creating negative energy and disrupting peace|
 |6|Jupiter|Servant|00:24:07|00:53:02|Outer and inner journey|
-|7|Mars|Servant|00:53:03|01:21:58|Attracting love and hearts and fortune|
-|8|Sun|Ruler|01:21:59|01:50:54|Being invisible to the people|
-|9|Venus|Servant|01:50:55|02:19:50|Separation, causing enmity|
-|10|Mercury|Servant|02:19:51|02:48:46|Dominating the great ones|
-|11|Moon|Servant|02:48:47|03:17:42|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|03:17:43|03:46:38|Creating evil and hatred|
+|7|Mars|Servant|00:53:03|01:21:57|Attracting love and hearts and fortune|
+|8|Sun|Ruler|01:21:58|01:50:53|Being invisible to the people|
+|9|Venus|Servant|01:50:54|02:19:49|Separation, causing enmity|
+|10|Mercury|Servant|02:19:50|02:48:45|Dominating the great ones|
+|11|Moon|Servant|02:48:46|03:17:41|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|03:17:42|03:46:37|Creating evil and hatred|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 18:14:19|Night duration: 05:47:11|
+|Duration of the day: 18:14:19|Night duration: 05:47:10|
 |Every hour duration: 02:36:20|Every hour duration: 00:49:36|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Sun|Ruler|21:59:28|22:49:02|
 |Late evening|Venus|Servant|22:49:03|23:38:38|
 |Midnight|Mercury|Servant|23:38:39|00:28:14|
-|Late at night|Moon|Servant|00:28:15|01:17:50|
-|Rooster song|Saturn|Servant|01:17:51|02:07:26|
-|False Dawn|Jupiter|Servant|02:07:27|02:57:02|
-|Dawn|Mars|Servant|02:57:03|03:46:38|
+|Late at night|Moon|Servant|00:28:15|01:17:49|
+|Rooster song|Saturn|Servant|01:17:50|02:07:25|
+|False Dawn|Jupiter|Servant|02:07:26|02:57:01|
+|Dawn|Mars|Servant|02:57:02|03:46:37|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°27'4.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°41'19.58" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°33'44.79" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|14°27'4.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°41'19.50" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°33'44.76" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|15°56'48.30" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°9'30.99" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|23°46'49.65" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|19°16'50.18" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|28°9'30.97" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°46'49.63" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|19°16'50.32" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°27'4.07" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°41'19.58" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|6°33'44.79" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|14°27'4.10" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°41'19.50" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|6°33'44.76" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|15°56'48.30" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|28°9'30.99" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°46'49.65" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|19°16'50.18" |Aries|Butain|Sun|
+|♀ Venus|Direct|28°9'30.97" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°46'49.63" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°16'50.32" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

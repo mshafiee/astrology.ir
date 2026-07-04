@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:39:46 |
+| Sunrise | 03:39:45 |
 | Dhuhr (Noon) | 12:52:09 |
 | Medium Coeli | 12:52:09 |
 | Sunset | 22:03:43 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:39:46 |
+| Sunrise | 03:39:45 |
 | Dhuhr (Noon) | 12:52:09 |
 | Medium Coeli | 12:52:09 |
 | Sunset | 22:03:43 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:39:46 |
+| Sunrise | 03:39:45 |
 | Dhuhr (Noon) | 12:52:09 |
 | Medium Coeli | 12:52:09 |
 | Sunset | 22:03:43 |
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|14°18'40.88" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|0°49'17.55" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|3°44'11.96" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|12°7'46.51" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|23°39'48.34" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|25°33'4.09" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|27°23'1.58" |Aquarius|FarghAlMuqaddam|Moon|
+|☉ Sun|Direct|12°7'48.96" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|23°39'47.86" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|25°33'6.77" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|27°27'37.44" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

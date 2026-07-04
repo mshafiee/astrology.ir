@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:10:59 |
 | Medium Coeli | 12:10:59 |
 | Sunset | 19:16:42 |
-| Maghrib | 19:35:52 |
+| Maghrib | 19:35:53 |
 | Isha (Night) | 20:33:35 |
 | Sharia Midnight | 23:26:28 |
 | Imum Coeli | 00:11:04 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°18'40.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°49'15.56" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°44'5.02" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|12°7'39.08" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°39'39.55" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°33'14.87" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|26°52'38.22" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|0°49'15.62" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°44'5.25" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|12°7'39.21" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°39'39.33" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°33'14.92" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|26°54'13.19" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°18'40.62" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|0°49'15.54" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|3°44'5.23" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|12°7'39.22" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|23°39'39.32" |Leo|Sarfrah|Mars|
+|♄ Saturn|Direct|14°18'40.59" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|0°49'15.62" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|3°44'5.25" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|12°7'39.21" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|23°39'39.33" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|25°33'14.92" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|26°54'12.49" |Aquarius|FarghAlMuqaddam|Moon|
+|☾ Moon|Direct|26°54'13.19" |Aquarius|FarghAlMuqaddam|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

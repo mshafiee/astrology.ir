@@ -38,8 +38,8 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:20:33 |
 | Sunrise | 06:27:55 |
-| Dhuhr (Noon) | 12:15:34 |
-| Medium Coeli | 12:15:34 |
+| Dhuhr (Noon) | 12:15:35 |
+| Medium Coeli | 12:15:35 |
 | Sunset | 18:03:15 |
 | Maghrib | 18:18:10 |
 | Isha (Night) | 19:01:54 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:11:51 |
 | Sunrise | 06:27:55 |
-| Dhuhr (Noon) | 12:15:34 |
-| Medium Coeli | 12:15:34 |
+| Dhuhr (Noon) | 12:15:35 |
+| Medium Coeli | 12:15:35 |
 | Sunset | 18:03:15 |
 | Maghrib | 18:04:14 |
 | Isha (Night) | 19:14:57 |
@@ -86,8 +86,8 @@ __Islamic Society of North America (ISNA) Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:24:55 |
 | Sunrise | 06:27:55 |
-| Dhuhr (Noon) | 12:15:34 |
-| Medium Coeli | 12:15:34 |
+| Dhuhr (Noon) | 12:15:35 |
+| Medium Coeli | 12:15:35 |
 | Sunset | 18:03:15 |
 | Maghrib | 18:04:14 |
 | Isha (Night) | 19:06:15 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:05:20 |
 | Sunrise | 06:27:55 |
-| Dhuhr (Noon) | 12:15:34 |
-| Medium Coeli | 12:15:34 |
+| Dhuhr (Noon) | 12:15:35 |
+| Medium Coeli | 12:15:35 |
 | Sunset | 18:03:15 |
 | Maghrib | 18:04:14 |
 | Isha (Night) | 19:17:08 |
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°18'11.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|0°46'28.70" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|3°34'54.69" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|11°55'14.08" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|23°25'8.21" |Cancer|Tarf|Moon|
-|☿ Mercury|Retrograde|25°36'54.66" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|0°46'30.30" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|3°34'54.67" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|11°55'14.09" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|23°25'8.20" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|25°36'54.67" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|24°52'48.36" |Capricorn|SaadAlBula|Sun|
 
 
