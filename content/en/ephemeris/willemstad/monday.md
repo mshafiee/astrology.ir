@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°25'49.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'49.53" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|1°32'55.61" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|6°6'31.99" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|15°19'58.90" |Gemini|HanAh|Mars|
 |♀ Venus|Direct|27°26'16.68" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°7'18.63" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|9°50'11.90" |Pisces|FarghAlMuakhar|Saturn|
+|☿ Mercury|Retrograde|24°7'37.02" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|10°28'36.09" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Jupiter|Jupiter|Venus|
+|☾ Moon|Venus|Jupiter|Moon|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°25'49.50" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'49.53" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°32'55.61" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|6°6'26.64" |Gemini|HanAh|Jupiter|
+|♂ Mars|Direct|6°6'31.99" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|15°19'58.90" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|27°26'16.68" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|24°7'26.23" |Cancer|Tarf|Moon|
+|☿ Mercury|Retrograde|24°7'37.02" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|10°28'36.09" |Aries|Sharatain|Sun|
 
 

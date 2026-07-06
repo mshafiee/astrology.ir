@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 08:38:01 |
 | Dhuhr (Noon) | 13:40:26 |
 | Medium Coeli | 13:40:26 |
-| Sunset | 18:43:01 |
+| Sunset | 18:43:00 |
 | Maghrib | 18:48:08 |
 | Isha (Night) | 20:09:33 |
 | Sharia Midnight | 00:52:14 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 08:38:01 |
 | Dhuhr (Noon) | 13:40:26 |
 | Medium Coeli | 13:40:26 |
-| Sunset | 18:43:01 |
+| Sunset | 18:43:00 |
 | Maghrib | 18:48:08 |
 | Isha (Night) | 20:12:01 |
 | Sharia Midnight | 00:55:56 |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 08:38:01 |
 | Dhuhr (Noon) | 13:40:26 |
 | Medium Coeli | 13:40:26 |
-| Sunset | 18:43:01 |
+| Sunset | 18:43:00 |
 | Maghrib | 18:48:08 |
 | Isha (Night) | 20:18:08 |
 | Sharia Midnight | 00:54:42 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°29'39.27" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°59'45.53" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°33'11.66" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|17°17'27.12" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|29°44'3.13" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|22°57'52.11" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|7°57'53.47" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°29'39.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°59'46.69" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°33'17.80" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|17°17'36.97" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|29°44'5.49" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|22°58'8.48" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|9°8'20.06" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Mars|Pisces|Moon|Jupiter|
-|☾ Moon|Sun|Mercury|Cancer|Sun|Mars|
+|☾ Moon|Venus|Mercury|Cancer|Sun|Mars|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°29'39.30" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°29'39.27" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°59'45.61" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|7°33'11.69" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|17°17'27.12" |Cancer|Tarf|Mercury|

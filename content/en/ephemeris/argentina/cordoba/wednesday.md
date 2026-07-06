@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 06:46:02 |
+| Fajr (Dawn) | 06:46:03 |
 | Sunrise | 08:15:51 |
 | Dhuhr (Noon) | 13:21:51 |
 | Medium Coeli | 13:21:51 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°29'37.65" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°59'34.64" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°32'39.01" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|14°29'37.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°59'34.56" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°32'38.99" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|17°16'44.36" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|29°43'3.94" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|22°58'41.98" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°55'33.64" |Aries|Sharatain|Mars|
+|♀ Venus|Direct|29°43'3.92" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|22°58'41.96" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|8°55'33.79" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°29'37.65" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°59'34.64" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|7°32'39.01" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°29'37.67" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°59'34.56" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|7°32'38.99" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|17°16'44.36" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|29°43'3.94" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°58'41.98" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°55'33.64" |Taurus|Dabaran|Mercury|
+|♀ Venus|Direct|29°43'3.92" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°58'41.96" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°55'33.79" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

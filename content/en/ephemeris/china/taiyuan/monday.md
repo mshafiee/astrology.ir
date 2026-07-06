@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°24'44.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°25'50.87" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|5°43'34.38" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|14°48'53.32" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|26°49'44.19" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°24'1.64" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°25'26.29" |Pisces|FarghAlMuqaddam|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|14°24'44.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°25'50.90" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°43'33.65" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|14°48'53.11" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|26°49'45.43" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|24°24'1.83" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°12'8.36" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Scorpio|Sun|Mercury|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Moon|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°24'44.61" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°25'50.98" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|5°43'34.38" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|14°48'53.32" |Cancer|Tarf|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|14°24'44.64" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°25'50.90" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°43'33.65" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|14°48'53.11" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|26°49'44.19" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|24°24'1.64" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|3°25'26.29" |Aries|Sharatain|Mars|

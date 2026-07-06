@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°25'14.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°29'5.46" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|5°54'5.37" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'14.54" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°29'5.55" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°54'5.40" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|15°3'6.38" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°6'29.34" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°16'30.26" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|6°34'45.84" |Pisces|FarghAlMuakhar|Saturn|
+|♀ Venus|Direct|27°6'29.36" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|24°16'21.35" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|7°25'40.65" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Sun|Taurus|Moon|Jupiter|
+|☾ Moon|Mars|Mercury|Taurus|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°25'14.57" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°29'5.55" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|5°54'5.40" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'14.57" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°29'5.46" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°54'5.37" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|15°3'6.38" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|27°6'29.36" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|24°16'30.28" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|27°6'29.34" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|24°16'30.26" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|6°34'45.84" |Aries|Sharatain|Mars|
 
 

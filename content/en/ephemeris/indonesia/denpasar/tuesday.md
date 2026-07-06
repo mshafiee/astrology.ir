@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°26'49.12" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°26'49.12" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|1°39'36.87" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|6°28'11.74" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|15°49'19.00" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°0'41.10" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|23°51'16.74" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°40'5.23" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|28°0'41.39" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°51'16.84" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°37'12.08" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°26'49.12" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°39'36.87" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|6°28'11.74" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|15°49'19.00" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|28°0'42.17" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°51'16.98" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|17°29'1.48" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°26'49.12" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°39'36.78" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|6°28'12.11" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|15°49'19.06" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|28°0'41.39" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°51'16.84" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|17°37'12.08" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mars|Capricorn|Sun|Mars|
 |♀ Venus|Mars|Jupiter|Cancer|Moon|Venus|
 |☿ Mercury|Venus|Saturn|Aries|Sun|Mars|
-|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Scorpio|Moon|Saturn|
 
 
 {{< /tab >}}

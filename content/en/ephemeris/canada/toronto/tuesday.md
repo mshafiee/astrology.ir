@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 15:18:09|Night duration: 08:42:34|
+|Duration of the day: 15:18:08|Night duration: 08:42:34|
 |Every hour duration: 02:11:10|Every hour duration: 01:14:39|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mars|Ruler|05:43:23|07:54:31|
-|Mid-morning|Sun|Servant|07:54:32|10:05:41|
-|Late morning|Venus|Servant|10:05:42|12:16:51|
-|Noon|Mercury|Servant|12:16:52|14:28:01|
+|Early morning|Mars|Ruler|05:43:24|07:54:32|
+|Mid-morning|Sun|Servant|07:54:33|10:05:42|
+|Late morning|Venus|Servant|10:05:43|12:16:52|
+|Noon|Mercury|Servant|12:16:53|14:28:01|
 |Early afternoon|Moon|Servant|14:28:02|16:39:11|
 |Mid-afternoon|Saturn|Servant|16:39:12|18:50:21|
 |Late afternoon|Jupiter|Servant|18:50:22|21:01:31|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°27'41.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°45'40.45" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°47'48.12" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|16°15'52.59" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°31'51.01" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|23°35'49.31" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|23°53'57.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°27'41.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°45'40.37" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°47'48.10" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|16°15'52.60" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|28°31'51.34" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°35'49.42" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°50'42.97" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°27'41.75" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°27'41.75" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°45'40.45" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|6°47'48.12" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|16°15'52.59" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|28°31'51.01" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|23°35'49.31" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|23°53'57.67" |Aries|Butain|Venus|
+|☾ Moon|Direct|23°50'43.18" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

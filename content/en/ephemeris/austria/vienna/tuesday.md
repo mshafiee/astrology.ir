@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:59:27 |
 | Sunset | 20:56:22 |
 | Maghrib | 20:59:57 |
-| Isha (Night) | 23:53:36 |
+| Isha (Night) | 23:53:37 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 00:59:31 |
 {{< /tab >}}
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°25'13.64" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'13.64" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|1°28'59.41" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|5°53'45.98" |Taurus|Thurayya|Mercury|
 |☉ Sun|Direct|15°2'40.92" |Gemini|HanAh|Mars|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°25'13.64" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'13.64" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°28'59.41" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|5°53'45.98" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|15°2'40.92" |Cancer|Tarf|Mercury|
