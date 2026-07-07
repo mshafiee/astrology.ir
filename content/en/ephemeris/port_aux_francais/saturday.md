@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°32'25.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°21'21.90" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|8°42'37.56" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|18°51'54.04" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|1°34'4.85" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|14°32'25.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°21'21.98" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°42'37.59" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|18°51'54.03" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|1°34'4.86" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|21°56'39.96" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°6'0.38" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°6'0.85" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°32'25.48" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°21'21.90" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|8°42'37.56" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°32'25.45" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°21'20.87" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|8°42'38.11" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|18°51'49.94" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|1°33'56.71" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Retrograde|21°56'32.18" |Cancer|Tarf|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Port o Franse, Port o Fransė, Port-aux-Francais, Port-aux-Français, Port-o-Franse, Port-o-Franseh, Portofranse, Portofransē, fa lan xi gang, poleutopeulangsye, porutofuranse, Порт-о-Франсе, Порт-о-Франсэ, ปอโรฟร็องแซ, ポルトーフランセ, 法兰西港, 포르토프랑셰

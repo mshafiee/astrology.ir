@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°33'0.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°26'13.31" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|8°58'9.94" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|19°13'6.39" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|1°58'43.88" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|21°42'37.16" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°58'19.78" |Taurus|Dabaran|Mercury|
+|♃ Jupiter|Direct|2°26'13.36" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°58'10.11" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|19°13'6.69" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|1°58'44.01" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|21°42'37.68" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|9°0'31.89" |Taurus|Dabaran|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°33'0.60" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°26'13.28" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|8°58'10.08" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|19°13'6.70" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|1°58'43.99" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°33'0.58" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°26'13.36" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|8°58'10.11" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|19°13'6.69" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|1°58'44.01" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Retrograde|21°42'37.68" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|9°0'31.33" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|9°0'31.89" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>✱ Sextile|<sub>△ Trine|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Angelopolis, Byen Puebla, Cuetlaxcoapan, Ehroika-Puehbla-deh-Saragosa, Heroica Puebla de Zaragoza, Heróica Puebla de Zaragoza, Lungsod ng Puebla, PBC, Pouempla, Puebl, Puebla, Puebla City, Puebla de Saragosa, Puebla de Zaragoza, Puebla de los Angeles, Puebla de los Ángeles, Puehbla-de-Saragosa, Puehblae-de-Saragosae, Yucha Nchu'u, bwybla, pu ai bu la, pu'aibala, pu'ebla, puebeulla, puebura, pwybla  pwybla, pwybla. pwybla, Πουέμπλα, Пуебла, Пуэблæ-де-Сарагосæ, Пуэбла-де-Сарагоса, Эроіка-Пуэбла-дэ-Сарагоса, פואבלה, بويبلا, پوئبلا، پوئبلا, پوئبلا٬ پوئبلا, पुएब्ला, ਪੁਐਬਲਾ, პუებლა, プエブラ, 普埃布拉, 푸에블라

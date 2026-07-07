@@ -121,7 +121,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Dhuhr (Noon) | 12:03:26 |
 | Medium Coeli | 12:03:26 |
 | Sunset | 17:37:34 |
-| Maghrib | 17:38:35 |
+| Maghrib | 17:38:34 |
 | Isha (Night) | 18:55:34 |
 | Sharia Midnight | 23:24:28 |
 | Imum Coeli | 00:03:30 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 12:03:26 |
 | Medium Coeli | 12:03:26 |
 | Sunset | 17:37:34 |
-| Maghrib | 17:38:35 |
-| Isha (Night) | 19:08:35 |
+| Maghrib | 17:38:34 |
+| Isha (Night) | 19:08:34 |
 | Sharia Midnight | 23:23:22 |
 | Imum Coeli | 00:03:30 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°30'0.61" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°2'25.74" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°41'42.91" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|17°28'57.34" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|29°57'28.20" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|22°50'22.80" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|11°8'11.08" |Aries|Sharatain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°30'0.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°2'25.82" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°41'50.02" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|17°29'13.50" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|29°57'38.71" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|22°50'51.25" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|12°7'22.33" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Venus|Sun|Jupiter|
+|☾ Moon|Mercury|Venus|Sun|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°30'0.59" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°2'23.44" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|7°41'42.88" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|17°28'57.34" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|29°57'28.18" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|22°50'22.79" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|11°8'11.16" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|2°2'25.82" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|7°41'50.02" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|17°29'13.50" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|29°57'38.71" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|22°50'51.25" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°7'22.33" |Taurus|Dabaran|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

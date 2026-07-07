@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°28'8.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°48'46.55" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°57'49.25" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|16°29'28.17" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°47'45.81" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|23°27'46.64" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|27°13'29.64" |Pisces|Rescha|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°28'8.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°48'44.38" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°57'45.67" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|16°29'15.36" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|28°47'32.86" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°27'23.04" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|27°30'43.32" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Capricorn|Sun|Jupiter|
+|☾ Moon|Saturn|Jupiter|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°28'8.26" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°48'46.55" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|6°57'49.25" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|16°29'28.17" |Cancer|Tarf|Mercury|
+|♄ Saturn|Pre-Retrograde Shadow|14°28'8.23" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°48'46.64" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|6°57'49.28" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|16°29'28.16" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|28°47'45.83" |Leo|Sarfrah|Mars|
 |☿ Mercury|Retrograde|23°27'46.65" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|27°13'29.41" |Aries|Thurayya|Venus|

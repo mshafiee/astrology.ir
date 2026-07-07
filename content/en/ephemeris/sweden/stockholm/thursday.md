@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:46:39 |
+| Sunrise | 03:46:38 |
 | Dhuhr (Noon) | 12:52:58 |
 | Medium Coeli | 12:52:58 |
 | Sunset | 21:58:13 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:46:39 |
+| Sunrise | 03:46:38 |
 | Dhuhr (Noon) | 12:52:58 |
 | Medium Coeli | 12:52:58 |
 | Sunset | 21:58:13 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:46:39 |
+| Sunrise | 03:46:38 |
 | Dhuhr (Noon) | 12:52:58 |
 | Medium Coeli | 12:52:58 |
 | Sunset | 21:58:13 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:46:39 |
+| Sunrise | 03:46:38 |
 | Dhuhr (Noon) | 12:52:58 |
 | Medium Coeli | 12:52:58 |
 | Sunset | 21:58:13 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:46:39 |
+| Sunrise | 03:46:38 |
 | Dhuhr (Noon) | 12:52:58 |
 | Medium Coeli | 12:52:58 |
 | Sunset | 21:58:13 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°28'55.26" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°54'23.90" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°15'59.30" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|16°54'5.00" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|29°16'34.22" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|23°12'41.49" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°26'26.94" |Aries|Sharatain|Mars|
+|♃ Jupiter|Direct|1°54'24.04" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°15'58.66" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|16°54'4.95" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|29°16'35.62" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°12'41.74" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°12'39.91" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Gemini|Sun|Mars|
 |☿ Mercury|Sun|Mars|Pisces|Moon|Jupiter|
-|☾ Moon|Mars|Venus|Taurus|Sun|Mars|
+|☾ Moon|Mars|Mars|Taurus|Sun|Mars|
 
 
 {{< /tab >}}

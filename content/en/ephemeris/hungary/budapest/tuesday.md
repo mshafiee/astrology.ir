@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 12:48:46 |
 | Sunset | 20:42:41 |
 | Maghrib | 20:44:51 |
-| Isha (Night) | 22:52:29 |
+| Isha (Night) | 22:52:30 |
 | Sharia Midnight | 23:44:03 |
 | Imum Coeli | 00:48:51 |
 {{< /tab >}}
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°25'12.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°28'55.60" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|5°53'29.25" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|15°2'20.45" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°5'41.34" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°16'54.82" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|5°31'31.88" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|1°28'55.35" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°53'32.57" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|15°2'22.77" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°5'37.49" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|24°16'56.85" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|6°22'46.05" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°25'13.01" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°28'55.27" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|5°53'32.54" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|15°2'22.78" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|27°5'37.47" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|24°16'56.84" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|6°22'45.92" |Aries|Sharatain|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'12.98" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°28'55.35" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|5°53'32.57" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|15°2'22.77" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|27°5'37.49" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|24°16'56.85" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|6°22'46.05" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

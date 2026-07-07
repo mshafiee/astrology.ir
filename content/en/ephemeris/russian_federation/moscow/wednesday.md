@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:56:18 |
+| Sunrise | 03:56:17 |
 | Dhuhr (Noon) | 12:34:37 |
 | Medium Coeli | 12:34:37 |
 | Sunset | 21:12:12 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:56:18 |
+| Sunrise | 03:56:17 |
 | Dhuhr (Noon) | 12:34:37 |
 | Medium Coeli | 12:34:37 |
 | Sunset | 21:12:12 |
@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:56:17 |
+| Sunrise | 03:56:18 |
 | Dhuhr (Noon) | 12:34:37 |
 | Medium Coeli | 12:34:37 |
 | Sunset | 21:12:12 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 03:56:17 |
+| Sunrise | 03:56:18 |
 | Dhuhr (Noon) | 12:34:37 |
 | Medium Coeli | 12:34:37 |
 | Sunset | 21:12:12 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 17:15:55|Night duration: 06:45:17|
+|Duration of the day: 17:15:54|Night duration: 06:45:17|
 |Every hour duration: 02:27:59|Every hour duration: 00:57:54|
 
  
@@ -264,10 +264,10 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|03:56:17|06:24:15|
-|Mid-morning|Moon|Servant|06:24:16|08:52:14|
-|Late morning|Saturn|Servant|08:52:15|11:20:13|
-|Noon|Jupiter|Servant|11:20:14|13:48:13|
+|Early morning|Mercury|Ruler|03:56:18|06:24:16|
+|Mid-morning|Moon|Servant|06:24:17|08:52:15|
+|Late morning|Saturn|Servant|08:52:16|11:20:14|
+|Noon|Jupiter|Servant|11:20:15|13:48:13|
 |Early afternoon|Mars|Servant|13:48:14|16:16:12|
 |Mid-afternoon|Sun|Servant|16:16:13|18:44:11|
 |Late afternoon|Venus|Servant|18:44:12|21:12:11|

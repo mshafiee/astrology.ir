@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:24:59 |
+| Fajr (Dawn) | 03:24:58 |
 | Sunrise | 05:20:12 |
 | Dhuhr (Noon) | 12:42:28 |
 | Medium Coeli | 12:42:28 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°33'32.62" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|2°30'45.63" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|9°12'40.79" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|19°32'53.12" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|2°21'43.91" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|21°29'14.81" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|14°5'57.04" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|9°12'40.84" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|19°32'53.27" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|2°21'44.04" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|21°29'15.08" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|14°6'43.96" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

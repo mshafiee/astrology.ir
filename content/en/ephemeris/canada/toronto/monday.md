@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 15:19:13|Night duration: 08:41:29|
+|Duration of the day: 15:19:13|Night duration: 08:41:28|
 |Every hour duration: 02:11:19|Every hour duration: 01:14:30|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Venus|Ruler|21:01:55|22:16:23|
 |Late evening|Mercury|Servant|22:16:24|23:30:53|
 |Midnight|Moon|Servant|23:30:54|00:45:23|
-|Late at night|Saturn|Servant|00:45:24|01:59:53|
-|Rooster song|Jupiter|Servant|01:59:54|03:14:23|
-|False Dawn|Mars|Servant|03:14:24|04:28:53|
-|Dawn|Sun|Servant|04:28:54|05:43:23|
+|Late at night|Saturn|Servant|00:45:24|01:59:52|
+|Rooster song|Jupiter|Servant|01:59:53|03:14:22|
+|False Dawn|Mars|Servant|03:14:23|04:28:52|
+|Dawn|Sun|Servant|04:28:53|05:43:22|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°25'46.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°32'37.34" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°5'33.06" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|15°18'38.13" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°24'42.84" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°8'15.76" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|10°11'22.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'46.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°32'37.42" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°5'33.05" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|15°18'38.09" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°24'42.81" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|24°8'15.79" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|10°11'22.53" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°25'46.75" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°32'37.34" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|6°5'33.06" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|15°18'38.13" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|27°24'42.84" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|24°8'15.76" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|10°11'22.89" |Aries|Sharatain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°25'46.71" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°32'37.42" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|6°5'33.05" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|15°18'38.09" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|27°24'42.81" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|24°8'15.79" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|10°11'22.53" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
