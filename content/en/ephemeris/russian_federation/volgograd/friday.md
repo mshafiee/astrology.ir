@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:53:41 |
+| Fajr (Dawn) | 00:53:40 |
 | Sunrise | 04:09:45 |
 | Dhuhr (Noon) | 12:07:22 |
 | Medium Coeli | 12:07:22 |
@@ -116,7 +116,7 @@ __Egyptian General Authority of Survey Calculation Method__
 __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 00:53:41 |
+| Fajr (Dawn) | 00:53:40 |
 | Sunrise | 04:09:45 |
 | Dhuhr (Noon) | 12:07:22 |
 | Medium Coeli | 12:07:22 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°30'37.89" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°7'9.29" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|7°57'1.61" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|17°49'52.21" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|0°21'46.96" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|22°37'32.31" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°6'56.44" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°30'37.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°7'9.30" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|7°57'2.12" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|17°49'52.38" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|0°21'46.13" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|22°37'32.44" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°16'7.05" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Sun|Mars|Pisces|Moon|Jupiter|
-|☾ Moon|Mercury|Mercury|Libra|Moon|Saturn|
+|☾ Moon|Moon|Mercury|Libra|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°30'37.92" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°30'37.92" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|2°7'9.22" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|7°57'2.09" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|17°49'52.38" |Cancer|Tarf|Mercury|

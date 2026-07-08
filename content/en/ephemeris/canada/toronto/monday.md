@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 15:19:13|Night duration: 08:41:29|
+|Duration of the day: 15:19:13|Night duration: 08:41:28|
 |Every hour of day duration: 01:16:36|Every hour of night duration: 00:43:27|
 
  
@@ -236,14 +236,14 @@ Timetable of twelve day and night planetary hours
 |2|Mercury|Servant|21:45:22|22:28:48|Outer and inner journey|
 |3|Moon|Servant|22:28:49|23:12:16|Marriage connection is good|
 |4|Saturn|Servant|23:12:17|23:55:43|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|23:55:44|00:39:11|Answering needs, attracting love and wealth|
-|6|Mars|Servant|00:39:12|01:22:38|Summoning the person of interest, love and dominance|
+|5|Jupiter|Servant|23:55:44|00:39:10|Answering needs, attracting love and wealth|
+|6|Mars|Servant|00:39:11|01:22:38|Summoning the person of interest, love and dominance|
 |7|Sun|Servant|01:22:39|02:06:05|Making promises|
-|8|Venus|Ruler|02:06:06|02:49:33|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|02:49:34|03:33:00|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|03:33:01|04:16:28|Good for any task|
-|11|Saturn|Servant|04:16:29|04:59:55|Creating enmity and negative energy|
-|12|Jupiter|Servant|04:59:56|05:43:23|Heart tenderness|
+|8|Venus|Ruler|02:06:06|02:49:32|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|02:49:33|03:33:00|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|03:33:01|04:16:27|Good for any task|
+|11|Saturn|Servant|04:16:28|04:59:54|Creating enmity and negative energy|
+|12|Jupiter|Servant|04:59:55|05:43:22|Heart tenderness|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°25'46.71" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°32'37.42" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°5'33.05" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|15°18'38.09" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°24'42.81" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°8'15.79" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|10°11'22.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°25'46.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°32'37.34" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°5'29.76" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|15°18'35.31" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°24'46.02" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|24°8'12.63" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|9°22'11.09" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Venus|Mars|
 |♀ Venus|Saturn|Saturn|Jupiter|Mercury|
 |☿ Mercury|Saturn|Mars|Saturn|Jupiter|
-|☾ Moon|Venus|Jupiter|Moon|Sun|
+|☾ Moon|Venus|Jupiter|Jupiter|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
 |♀ Venus|Mercury|Jupiter|Taurus|Sun|Mars|
 |☿ Mercury|Sun|Venus|Pisces|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Cancer|Moon|Jupiter|
+|☾ Moon|Sun|Mercury|Gemini|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°25'46.71" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°25'46.71" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°32'37.42" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|6°5'33.05" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|15°18'38.09" |Cancer|Tarf|Mercury|

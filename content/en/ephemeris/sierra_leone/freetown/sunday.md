@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°34'11.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Direct|14°34'11.62" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|2°36'25.43" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|9°30'45.59" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|19°57'33.79" |Gemini|Dhira|Mars|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°34'11.62" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°36'25.43" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|9°30'45.59" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|19°57'33.79" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|2°50'23.04" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|21°12'37.63" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|20°46'30.49" |Gemini|Dhira|Sun|
+|♄ Saturn|Direct|14°34'11.62" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°36'24.12" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|9°30'38.51" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|19°57'21.72" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|2°50'19.41" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|21°12'16.15" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°3'5.99" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mars|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Jupiter|Venus|Jupiter|Mercury|
-|☾ Moon|Mars|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Venus|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Mars|Mars|Aquarius|Moon|Jupiter|
+|☾ Moon|Mars|Jupiter|Capricorn|Moon|Jupiter|
 
 
 {{< /tab >}}

@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:23:49 |
 | Medium Coeli | 13:23:49 |
 | Sunset | 21:55:15 |
-| Maghrib | 21:58:30 |
+| Maghrib | 21:58:29 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:23:53 |
@@ -137,7 +137,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:23:49 |
 | Medium Coeli | 13:23:49 |
 | Sunset | 21:55:15 |
-| Maghrib | 21:58:30 |
+| Maghrib | 21:58:29 |
 | Isha (Night) | 23:28:30 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:23:53 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°25'7.76" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°28'21.06" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|5°51'41.60" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|14°59'52.17" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|27°2'41.00" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|24°18'13.66" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|5°49'0.87" |Pisces|FarghAlMuakhar|Saturn|
+|♄ Saturn|Direct|14°25'7.73" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°28'20.85" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|5°51'41.93" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|14°59'51.64" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|27°2'39.37" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|24°18'12.26" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|6°1'31.17" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°25'7.76" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°25'7.76" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|1°28'21.06" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|5°51'41.60" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|14°59'52.17" |Cancer|Tarf|Mercury|

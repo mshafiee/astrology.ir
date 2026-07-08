@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:53:19 |
-| Sunrise | 05:43:24 |
+| Sunrise | 05:43:23 |
 | Dhuhr (Noon) | 13:22:38 |
 | Medium Coeli | 13:22:38 |
 | Sunset | 21:01:32 |
@@ -210,22 +210,22 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 15:18:09|Night duration: 08:42:34|
+|Duration of the day: 15:18:08|Night duration: 08:42:34|
 |Every hour of day duration: 01:16:31|Every hour of night duration: 00:43:33|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mars|Ruler|05:43:23|06:59:52|Creating corruption, hatred and enmity|
-|2|Sun|Servant|06:59:53|08:16:23|Attracting misfortune, no task is suitable|
-|3|Venus|Servant|08:16:24|09:32:54|Attracting connection and suitors|
-|4|Mercury|Servant|09:32:55|10:49:25|Attracting material wealth, earnings and business prosperity|
-|5|Moon|Servant|10:49:26|12:05:55|Attracting misfortune, no task is suitable|
-|6|Saturn|Servant|12:05:56|13:22:26|Repelling negative energy of evil eye|
-|7|Jupiter|Servant|13:22:27|14:38:57|Attracting love and hearts|
+|1|Mars|Ruler|05:43:24|06:59:53|Creating corruption, hatred and enmity|
+|2|Sun|Servant|06:59:54|08:16:24|Attracting misfortune, no task is suitable|
+|3|Venus|Servant|08:16:25|09:32:55|Attracting connection and suitors|
+|4|Mercury|Servant|09:32:56|10:49:25|Attracting material wealth, earnings and business prosperity|
+|5|Moon|Servant|10:49:26|12:05:56|Attracting misfortune, no task is suitable|
+|6|Saturn|Servant|12:05:57|13:22:27|Repelling negative energy of evil eye|
+|7|Jupiter|Servant|13:22:28|14:38:57|Attracting love and hearts|
 |8|Mars|Ruler|14:38:58|15:55:28|Creating corruption, destroying enemies, making enemies sick|
-|9|Sun|Servant|15:55:29|17:11:58|Heart tenderness|
-|10|Venus|Servant|17:11:59|18:28:29|Attracting misfortune, no task is suitable|
+|9|Sun|Servant|15:55:29|17:11:59|Heart tenderness|
+|10|Venus|Servant|17:12:00|18:28:29|Attracting misfortune, no task is suitable|
 |11|Mercury|Servant|18:28:30|19:45:00|Attracting connection and suitors|
 |12|Moon|Servant|19:45:01|21:01:31|Hatred, corruption and creating negative energy for disruption|
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°27'41.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|1°45'40.45" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|6°47'48.12" |Taurus|Thurayya|Mercury|
-|☉ Sun|Direct|16°15'52.59" |Gemini|HanAh|Mars|
-|♀ Venus|Direct|28°31'51.01" |Cancer|Jabhah|Moon|
-|☿ Mercury|Retrograde|23°35'49.31" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|23°53'57.67" |Pisces|Rescha|Mars|
+|♄ Saturn|Direct|14°27'41.78" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|1°45'40.37" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|6°47'48.10" |Taurus|Thurayya|Mercury|
+|☉ Sun|Direct|16°15'52.60" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|28°31'50.99" |Cancer|Jabhah|Moon|
+|☿ Mercury|Retrograde|23°35'49.30" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|23°53'57.88" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°27'41.75" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|1°45'40.45" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|6°47'48.12" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|16°15'52.59" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|28°31'51.01" |Leo|Sarfrah|Mars|
-|☿ Mercury|Retrograde|23°35'49.31" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|23°53'57.67" |Aries|Butain|Venus|
+|♄ Saturn|Direct|14°27'41.78" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|1°45'40.37" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|6°47'48.10" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|16°15'52.60" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|28°31'50.99" |Leo|Sarfrah|Mars|
+|☿ Mercury|Retrograde|23°35'49.30" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|23°53'57.88" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

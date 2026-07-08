@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:38:51 |
+| Fajr (Dawn) | 02:38:50 |
 | Sunrise | 05:05:34 |
 | Dhuhr (Noon) | 13:00:02 |
 | Medium Coeli | 13:00:02 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°32'25.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°21'19.02" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|8°42'28.56" |Taurus|Dabaran|Mercury|
+|♄ Saturn|Direct|14°32'25.09" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°21'19.10" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°42'28.59" |Taurus|Dabaran|Mercury|
 |☉ Sun|Direct|18°51'42.73" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|1°33'50.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|1°33'50.99" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|21°56'52.01" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|3°12'26.33" |Taurus|Thurayya|Mercury|
+|☾ Moon|Direct|3°12'26.79" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°32'25.12" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°21'19.02" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|8°42'28.56" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|14°32'25.09" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°21'19.10" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|8°42'28.59" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|18°51'42.73" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|1°33'50.98" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|1°33'50.99" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Retrograde|21°56'52.01" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|3°12'26.33" |Gemini|HaqAh|Jupiter|
+|☾ Moon|Direct|3°12'26.79" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°32'55.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°25'33.94" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|8°56'4.27" |Taurus|Dabaran|Mercury|
-|☉ Sun|Direct|19°10'15.14" |Gemini|Dhira|Mars|
-|♀ Venus|Direct|1°55'24.51" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|21°44'32.51" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°14'35.89" |Taurus|Thurayya|Mercury|
+|♄ Saturn|Direct|14°32'55.88" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°25'33.06" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|8°55'57.98" |Taurus|Dabaran|Mercury|
+|☉ Sun|Direct|19°10'5.67" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|1°55'23.36" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|21°44'16.03" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|6°43'24.90" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Venus|Venus|Mars|
 |♀ Venus|Jupiter|Saturn|Sun|Venus|
 |☿ Mercury|Mars|Mars|Saturn|Jupiter|
-|☾ Moon|Mercury|Mercury|Venus|Moon|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Jupiter|Capricorn|Moon|Jupiter|
 |♀ Venus|Sun|Mars|Leo|Sun|Sun|
 |☿ Mercury|Sun|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Mercury|Jupiter|Leo|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°32'55.91" |Aries|Butain|Sun|
+|♄ Saturn|Direct|14°32'55.91" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|2°25'33.94" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|8°56'4.27" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|19°10'15.14" |Cancer|Tarf|Mercury|
