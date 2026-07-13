@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'54.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°52'13.12" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°21'4.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°6'17.73" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°10'3.54" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|20°26'13.68" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°57'5.52" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|14°35'54.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°52'13.20" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°21'4.33" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°6'17.72" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°10'3.56" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|20°26'13.66" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|8°57'5.97" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'54.32" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°52'13.12" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°21'4.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|21°6'17.73" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°10'3.54" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|20°26'13.68" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°57'5.52" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|14°35'54.30" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°52'13.20" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°21'4.33" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|21°6'17.72" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°10'3.56" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|20°26'13.66" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°57'5.97" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오

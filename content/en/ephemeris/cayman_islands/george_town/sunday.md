@@ -123,7 +123,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunset | 19:07:31 |
 | Maghrib | 19:08:32 |
 | Isha (Night) | 20:30:40 |
-| Sharia Midnight | 23:49:44 |
+| Sharia Midnight | 23:49:43 |
 | Imum Coeli | 00:31:15 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'52.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°51'53.97" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°20'3.52" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°4'54.81" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°8'27.44" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|20°27'10.11" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°37'49.32" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Direct|14°35'52.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°51'54.05" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°20'3.55" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°4'54.80" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°8'27.45" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|20°27'10.09" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|8°37'49.77" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'52.33" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°51'53.97" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°20'3.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|21°4'54.81" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°8'27.44" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|20°27'10.11" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°37'49.32" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|14°35'52.30" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°51'54.05" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°20'3.55" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|21°4'54.80" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°8'27.45" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|20°27'10.09" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°37'49.77" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Corctaun, Dzhordzh Taun, Dzhordzhtaun, Dzordz Taun, Dzordztaun, Dzordztaunas, Džordžtaunas, GCM, George Town, George Town pa Caymanoyane, George Town på Caymanøyane, Georgetown, Georgurbo, Tzortz Taoun, cxrc thawn, gwrg tʼwn, jarj tavun, jojitaun, jorjata'una, jwrj tawn, qiao zhi dui, qiao zhi dun, Τζωρτζ Τάουν, Џорџ Таун, Џорџтаун, Джордж Таун, Джорджтаун, Джорджтаўн, גורג טאון, جارج ٹاؤن، جزائر کیمین, جرج‌تاون، جزایر کیمن, جورج تاون, जॉर्जटाउन, ஜார்ஜ் டவுன், จอร์จทาวน์, ჯორჯტაუნი, ジョージタウン, 喬治敦, 조지타운

@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:18:05 |
+| Fajr (Dawn) | 04:18:04 |
 | Sunrise | 06:02:55 |
 | Dhuhr (Noon) | 13:00:56 |
 | Medium Coeli | 13:00:56 |
@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|2°47'34.96" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|10°6'19.43" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|20°46'7.83" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|3°46'29.21" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|20°39'22.53" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|2°17'6.87" |Gemini|HaqAh|Jupiter|
+|♀ Venus|Direct|3°46'42.70" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|20°39'46.03" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|3°35'14.46" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Mars|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
+|☾ Moon|Mercury|Mars|Cancer|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'25.09" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°47'34.88" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°6'19.41" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|20°46'7.84" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|3°46'42.69" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|20°39'22.51" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|2°17'7.36" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|14°35'25.06" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°47'34.96" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°6'19.43" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|20°46'7.83" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|3°46'42.70" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|20°39'46.03" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|3°35'14.46" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Moon|Moon|Cancer|Moon|Moon|
+|☾ Moon|Moon|Sun|Leo|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

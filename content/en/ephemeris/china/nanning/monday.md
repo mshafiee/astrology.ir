@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°36'30.09" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°58'4.25" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°39'40.08" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°36'30.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°58'4.33" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°39'40.11" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|21°31'44.45" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°39'29.54" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|20°9'16.37" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|15°42'35.51" |Gemini|HanAh|Mars|
+|♀ Venus|Direct|4°39'29.55" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|20°9'16.34" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|15°42'35.95" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°36'30.09" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°58'4.25" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°39'40.08" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|14°36'30.07" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°58'4.33" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°39'40.11" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|21°31'44.45" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°39'29.54" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|20°9'16.37" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|15°42'35.51" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|4°39'29.55" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|20°9'16.34" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°42'35.95" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

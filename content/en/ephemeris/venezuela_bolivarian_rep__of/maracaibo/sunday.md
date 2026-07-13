@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°35'50.95" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°51'40.99" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°19'21.71" |Gemini|HanAh|Mars|
+|♃ Jupiter|Direct|2°51'41.00" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°19'21.67" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|21°3'57.89" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°7'21.88" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|4°7'21.96" |Virgo|Sarfrah|Sun|
 |☿ Mercury|Retrograde|20°27'48.75" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°23'10.52" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|8°22'57.85" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MAR, Maracaibo, Marakaibas, Marakaibo, Marakaimpo, Marakajba, Marakajbo, Marakaybo, Marakaypu, ma la kai bo, ma ra ki bo, malakaibo, maraka'ibo, marakaibo, marakaybw, Μαρακάιμπο, Маракаибо, Маракайба, Маракайбо, Մարակայբո, מרקאיבו, ماراكايبو, माराकाईबो, ਮਾਰਾਕਾਈਬੋ, มาราไกโบ, მარაკაიბო, マラカイボ, 马拉开波, 마라카이보

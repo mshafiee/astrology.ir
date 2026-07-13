@@ -299,11 +299,11 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'54.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°52'13.01" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°21'3.75" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°6'16.93" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°10'2.64" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|14°35'54.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|2°52'13.00" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°21'3.47" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°6'16.58" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°10'2.72" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|20°26'13.53" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|8°53'30.30" |Gemini|HanAh|Jupiter|
 
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|2°52'13.01" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|10°21'3.75" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|21°6'16.93" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°10'2.72" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|20°26'13.53" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°53'30.30" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|4°10'2.64" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|20°26'14.19" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°56'53.49" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마
