@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'32.59" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°45'0.27" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°7'57.08" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°40'32.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°45'0.35" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°7'57.10" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°55'19.90" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°33'45.87" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°5'38.43" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|7°18'6.55" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|8°33'45.90" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°5'38.41" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|7°18'6.67" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|14°40'32.57" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°45'0.35" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|13°7'57.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°55'4.68" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°33'32.51" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°5'13.19" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°52'53.25" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|24°55'19.90" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°33'45.90" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°5'38.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°18'6.67" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Jupiter|Mercury|
 |♀ Venus|Venus|Venus|Mercury|Jupiter|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Callao, El Callao, Kajao, Kal'jaa, Kal'jao, Kalao, Kaljao, Kallao, Kallaw, Kalyao, Regio de Callao, Regió de Callao, ka ya e, kayao, kayaw, kayayw, klaw, Кальяа, Кальяо, Каляо, Каяо, Каљао, Կալյաո, كاياو, کایائو, کایاو, کلاؤ, კალიაო, カヤオ, 卡亞俄, 카야오

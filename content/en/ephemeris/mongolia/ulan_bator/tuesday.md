@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 12:58:20 |
 | Sunset | 20:48:04 |
 | Maghrib | 20:55:44 |
-| Isha (Night) | 23:39:22 |
+| Isha (Night) | 23:39:23 |
 | Sharia Midnight | 23:32:52 |
 | Imum Coeli | 00:58:23 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°37'43.01" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°10'41.48" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|11°19'41.19" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°37'43.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°10'41.40" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|11°19'41.16" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°26'32.64" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°42'47.22" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|19°33'24.96" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|29°49'42.87" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|5°42'47.20" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|19°33'24.99" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|29°49'42.28" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°37'43.01" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°10'41.48" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°19'39.05" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°26'24.86" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|5°42'38.92" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°33'11.70" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|28°53'54.47" |Cancer|Jabhah|Moon|
+|♄ Saturn|Direct|14°37'43.04" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°10'41.40" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|11°19'41.16" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°26'32.64" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|5°42'47.20" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°33'24.99" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|29°49'42.28" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

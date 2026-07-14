@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:24:07 |
+| Fajr (Dawn) | 03:24:08 |
 | Sunrise | 04:56:12 |
 | Dhuhr (Noon) | 12:04:31 |
 | Medium Coeli | 12:04:31 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°41'5.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°52'57.68" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°32'57.05" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°41'5.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°52'57.60" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°32'57.03" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|25°29'46.83" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°13'10.91" |Leo|Zubrah|Saturn|
-|☿ Mercury|Retrograde|17°48'2.25" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|15°28'13.95" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|9°13'10.88" |Leo|Zubrah|Saturn|
+|☿ Mercury|Retrograde|17°48'2.27" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|15°28'14.09" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°41'5.84" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°52'57.68" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|13°32'57.05" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|25°29'46.83" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°13'10.91" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|17°48'2.25" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|15°28'13.95" |Virgo|Awwa|Venus|
+|♃ Jupiter|Direct|3°52'57.69" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|13°32'57.24" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|25°29'47.00" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°13'10.76" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|17°48'2.62" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|15°27'7.57" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°38'24.63" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°18'19.40" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|11°43'52.86" |Taurus|Dabaran|Moon|
+|♃ Jupiter|Direct|3°18'19.32" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|11°43'52.83" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°59'36.35" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°20'55.67" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|19°12'1.29" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|6°50'36.78" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°20'55.65" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|19°12'1.31" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|6°50'36.10" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°38'24.63" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°18'22.04" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°43'58.02" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°59'52.08" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°21'10.31" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°12'28.20" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°41'20.32" |Leo|Zubrah|Saturn|
+|♄ Saturn|Direct|14°38'24.65" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°18'21.96" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|11°43'52.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°59'36.35" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°20'55.67" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°12'1.29" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|6°50'36.78" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Mercury|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티

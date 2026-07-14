@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'47.50" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°48'30.51" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|13°18'57.70" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|25°10'29.93" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°51'7.62" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|17°57'44.42" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°55'15.89" |Virgo|Awwa|Venus|
+|♂ Mars|Direct|13°18'52.07" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|25°10'16.99" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°50'58.61" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|17°57'22.41" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°0'55.17" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: APW, Apia, Apiae, Apija, Apio, Apiya, Apía, a pi ya, abya, api'a, apia, apiya, appiya, apya, xa pi xa, ΄Aπια, Απία, Апиæ, Апиа, Апия, Апија, Апіа, Апія, אפיה, آپیا, أبيا, आपिया, ਆਪੀਆ, ஆப்பியா, അപിയ, อาปีอา, ཨ་པི་ཡ།, აპია, አፒያ, アピア, 阿皮亚, 阿皮亞, 아피아

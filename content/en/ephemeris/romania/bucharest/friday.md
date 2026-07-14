@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:31:29 |
-| Sunrise | 05:46:39 |
+| Sunrise | 05:46:38 |
 | Dhuhr (Noon) | 13:21:45 |
 | Medium Coeli | 13:21:45 |
 | Sunset | 20:56:20 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:10:54 |
-| Sunrise | 05:46:38 |
+| Sunrise | 05:46:39 |
 | Dhuhr (Noon) | 13:21:45 |
 | Medium Coeli | 13:21:45 |
 | Sunset | 20:56:20 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:28:15 |
-| Sunrise | 05:46:38 |
+| Sunrise | 05:46:39 |
 | Dhuhr (Noon) | 13:21:45 |
 | Medium Coeli | 13:21:45 |
 | Sunset | 20:56:20 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 15:09:41|Night duration: 08:51:15|
+|Duration of the day: 15:09:42|Night duration: 08:51:15|
 |Every hour of day duration: 01:15:48|Every hour of night duration: 00:44:16|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:46:39|07:02:26|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:02:27|08:18:14|Attracting auspiciousness|
-|3|Moon|Servant|08:18:15|09:34:03|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:34:04|10:49:51|Unfortunate hour|
-|5|Jupiter|Servant|10:49:52|12:05:40|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|12:05:41|13:21:28|Creating attraction and acceptance among dignitaries|
+|1|Venus|Ruler|05:46:38|07:02:25|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:02:26|08:18:14|Attracting auspiciousness|
+|3|Moon|Servant|08:18:15|09:34:02|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:34:03|10:49:51|Unfortunate hour|
+|5|Jupiter|Servant|10:49:52|12:05:39|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|12:05:40|13:21:28|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|13:21:29|14:37:16|Promotion and attracting wealth|
 |8|Venus|Ruler|14:37:17|15:53:05|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|15:53:06|17:08:53|Causing separation and homelessness|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'11.35" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°40'11.78" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°52'49.89" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°34'30.27" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°9'54.70" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°16'46.51" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°12'31.95" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|14°40'11.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°40'11.86" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°52'49.91" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°34'30.26" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°9'54.72" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°16'48.13" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°9'31.40" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'11.35" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°40'11.79" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°52'49.92" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°34'30.31" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°9'54.75" |Virgo|Awwa|Sun|
+|♄ Saturn|Direct|14°40'11.32" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°40'11.86" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°52'49.91" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°34'30.26" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°9'54.72" |Virgo|Awwa|Sun|
 |☿ Mercury|Retrograde|18°16'48.13" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°9'31.81" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|2°9'31.40" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

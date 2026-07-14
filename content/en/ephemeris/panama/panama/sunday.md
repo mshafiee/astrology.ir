@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|21°5'19.95" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|4°8'56.47" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|20°26'53.75" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°45'48.01" |Gemini|HanAh|Jupiter|
+|☾ Moon|Direct|7°3'58.73" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Mars|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Leo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'52.91" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°51'59.83" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°20'21.87" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|21°5'19.95" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°8'56.47" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|20°26'53.75" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°45'48.01" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|14°35'52.93" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°51'59.75" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°20'21.85" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|21°5'19.96" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°8'56.46" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|20°26'53.78" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°45'47.57" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Ciudad de Panama, Ciudad de Panamá, Ciutat de Panama, Ciutat de Panamà, PTY, Panama, Panama City, Panama Hiria, Panama by, Panama-Stadt, Panama-Urbo, Panama-stad, Panamurbo, Panamá, Pole tou Panama, Ziuda de Panama, Ziudá de Panamá, ba na ma cheng, panama si, panama siti, panamashiti, panamasiti, pnmh syty, shhr panama, Πόλη του Παναμά, Панама, פנמה סיטי, شهر پاناما, पनामा सिटी, ปานามาซิตี, ፓናማ ከተማ, パナマシティ, 巴拿馬城, 파나마 시, 파나마시티

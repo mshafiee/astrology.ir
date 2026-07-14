@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°35'54.18" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°52'12.26" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°21'0.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°6'13.35" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°10'0.02" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|20°26'17.31" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°54'34.49" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|2°52'12.15" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°21'1.06" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°6'13.52" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°9'58.51" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|20°26'17.71" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|8°59'37.18" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: TGU, Tegousigalpa, Tegousigoualpa, Tegucigalpa, Tegucigalpo, Tegucigucigalpa, Tegusigal'pa, Tegusigalp, Tegusigalpa, Teguzigalpa, Tehgusigal'pa, Tenkousinkalpa, Tequsiqalpa, Teuctzincalpan, Tègucigalpa, de gu si jia ba, te gu xi jia er ba, tegushigarupa, tegusigalapa, tegusigalpa, tekucikalpa, tekusikalpa, tgwsygalpa, tgwsyglph, tyghwsyghalba, Τεγκουσιγκάλπα, Τεγουσιγάλπα, Тегусигалпа, Тегусигальпа, Тегусігальпа, Тэгусігальпа, Տեգուսիգալպա, טגוסיגלפה, טעגוסיגאלפע, تيغوسيغالبا, تگوسیگالپا, ٹیگوسیگلپا, तेगुसिगल्पा, তেগুসিগালপা, ਤੇਗੂਸੀਗਾਲਪਾ, டெகுசிகல்பா, ടെഗൂസിഗാൽപ, เตกูซิกัลปา, ཐེ་གུ་སི་གེ་པ།, ტეგუსიგალპა, ቴጉሲጋልፓ, テグシガルパ, 德古斯加巴, 特古西加爾巴, 테구시갈파

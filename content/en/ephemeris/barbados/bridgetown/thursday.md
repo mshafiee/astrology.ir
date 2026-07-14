@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'28.19" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°43'59.98" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°4'47.31" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°50'58.83" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°28'39.86" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°7'32.44" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|5°29'5.94" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|13°4'42.27" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°50'52.02" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°28'47.03" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°7'45.11" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|6°15'47.96" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'28.19" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°43'58.03" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|13°4'39.77" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°50'44.35" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°28'39.86" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°7'32.44" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°29'5.94" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|3°43'59.98" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|13°4'47.31" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°50'58.83" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°28'46.70" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°7'58.25" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|6°18'25.36" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

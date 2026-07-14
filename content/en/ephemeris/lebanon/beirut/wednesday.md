@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°37'59.64" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°13'42.34" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|11°29'13.76" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°37'59.62" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°13'42.42" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|11°29'13.79" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°39'38.49" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|5°57'52.63" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|19°25'7.74" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°22'47.19" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|5°57'52.64" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|19°25'7.71" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°22'47.83" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°37'59.64" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°13'42.34" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°29'13.76" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|14°37'59.62" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°13'42.42" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|11°29'13.79" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|22°39'38.49" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|5°57'52.63" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°25'5.76" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°8'7.01" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|5°57'52.64" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°25'7.71" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°22'47.83" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}

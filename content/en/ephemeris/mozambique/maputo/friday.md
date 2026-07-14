@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'15.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°41'11.71" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°55'58.20" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°38'49.49" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°14'51.68" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°14'27.04" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°13'13.14" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|3°41'11.79" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°55'58.23" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°38'45.11" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°14'54.71" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°14'17.83" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°24'36.16" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
+|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Can Pfumo, Kapfumo, Lourenco Marques, Lourenço Marques, MPM, Mabuto, Mabutu, Mapouto, Maputo, Maputu, Mapútó, ma pu to, ma pu tuo, mabwtw, maputo, maputto, maputu, mapwtw, mpwtw, Μαπούτο, Мапуто, Мапуту, Մապուտու, מפוטו, مابوتو, ماپوتو, ماپوتۆ, ماپوٹو, मापुतो, ਮਾਪੂਤੋ, மபூட்டோ, มาปูโต, མ་པུ་ཊོ།, მაპუტუ, ማፑቶ, マプト, 马普托, 마푸토, 마푸투

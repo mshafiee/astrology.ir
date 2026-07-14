@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'9.60" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°39'48.97" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°51'37.96" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°32'50.89" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°8'1.09" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°17'41.00" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|1°41'29.13" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|3°39'49.12" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°51'39.85" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°32'52.67" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°7'59.72" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°17'44.73" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|1°36'41.89" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'9.56" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°39'49.04" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°51'37.94" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°32'51.16" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°8'1.62" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°17'41.00" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°41'29.13" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|14°40'9.60" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°39'48.97" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°51'37.96" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°32'50.89" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°7'59.72" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°17'44.73" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°36'41.89" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Chijv, Civ, Cív, IEV, Kaenugardur, Keju, Kiebo, Kief, Kieu, Kiev, Kiev osh, Kievi, Kievo, Kiew, Kiiev, Kiiv, Kijev, Kijeva, Kijevas, Kijew, Kijow, Kijuw, Kijv, Kijów, Kijůw, Kiova, Kiovia, Kiyev, Kiyiw, Kiëf, Kjiv, Kueyiv, Kyev, Kyiiv, Kyiv, Kyiw, Kyjev, Kyjiv, Kyjiw, Kyèv, Kænugarður, Kíev, Kîev, Küyiv, ji fu, kheiyf, kiefu, kiv, kiva, kiyebha, kiyepeu, kyf, kyiva, kyyf, qyyb, Κίεβο, Кейӳ, Киев, Киев ош, Київ, Кијев, Кыив, Кыйив, Кіеў, Кꙑѥвъ, Կիև, קייב, קיעוו, كىيېۋ, كييف, کیف, کیێڤ, کی‌یف, कीव, क्यीव, কিয়েভ, கீவ், കീവ്, เคียฟ, ཀིབ།, ကီးယက်မြို့, კიევი, ኪየቭ, キエフ, 基輔, 키예프

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'34.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°45'26.74" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°9'20.48" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°40'34.45" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°45'26.82" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°9'20.50" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°57'14.86" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°35'57.53" |Leo|Zubrah|Saturn|
-|☿ Mercury|Retrograde|18°4'37.93" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|7°46'17.15" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|8°35'55.02" |Leo|Zubrah|Saturn|
+|☿ Mercury|Retrograde|18°4'19.08" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|7°26'50.10" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Mercury|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Scorpio|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -344,7 +344,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Direct|24°57'14.86" |Cancer|Tarf|Moon|
 |♀ Venus|Direct|8°35'57.56" |Virgo|Awwa|Sun|
 |☿ Mercury|Retrograde|18°4'37.92" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°46'17.26" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|7°26'50.10" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Moon|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Altepetl Chihuahuah, Byen Chihuahua, CUU, Chihuahua, Chihuahua City, Chihuahua by, Chiuaua, Chiuauae, Chivava, Cihuahua, Ciuaua, Dakbayan sa Chihuahua, Tsiouaoua, chiuaua, chiwawa, chyywaywa. chyywaywa, qi wa wa shi, zhi hua hua shi, Čihuahua, Čiuaua, Τσιουάουα, Чивава, Чиуауæ, Чиуауа, Чіуауа, ציוואווה, چہواہوا, چیئوائوا٬ چیئوائوا, ჩიუაუა, チワワ, 奇瓦瓦市, 芝華華市, 치와와

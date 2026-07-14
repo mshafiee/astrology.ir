@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°35'53.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|2°52'9.20" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°20'51.67" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|21°6'0.70" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°9'43.65" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|20°26'26.44" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|8°56'33.77" |Gemini|HanAh|Jupiter|
+|♃ Jupiter|Direct|2°52'7.54" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°20'51.27" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|21°5'53.09" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|4°9'31.69" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|20°26'13.32" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|8°19'2.08" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Aquarius|Moon|Jupiter|
 |♀ Venus|Sun|Venus|Virgo|Sun|Sun|
 |☿ Mercury|Mars|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☾ Moon|Moon|Jupiter|Virgo|Sun|Mercury|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°35'53.88" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|2°52'9.20" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°20'51.67" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|21°6'0.70" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°9'43.65" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Retrograde|20°26'26.44" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|8°56'33.77" |Cancer|Nathrah|Venus|
+|♄ Saturn|Direct|14°35'54.67" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|2°52'7.54" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°20'51.27" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|21°5'53.09" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|4°9'31.69" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Retrograde|20°26'13.32" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|8°19'2.08" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Mercury|Saturn|Libra|Moon|Venus|
 |☿ Mercury|Sun|Saturn|Pisces|Sun|Mars|
-|☾ Moon|Jupiter|Mercury|Libra|Moon|Moon|
+|☾ Moon|Saturn|Mercury|Libra|Moon|Moon|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>✱ Sextile|<sub>✱ Sextile|<sub>☌ Conjunction|<sub> |<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: SJO, San Chose, San Chosė, San Hose, San Jose, San Jose de Costa Rica, San Jose i Costa Rica, San José, San José de Costa Rica, San José i Costa Rica, San Joze, San Jozé, San Jusiy, San Khose, San Khoze, San Xose, San Xosé, San-Joseo, San-Khaseh, San-Khose, San-Xose, Sanhose, Sanhosē, Urbs Sancti Iosephi in Costarica, can hoce, san jwz, san khwsyh, san khwzh, san khwzے  kwsٹaryka, san-khose, sana hoje, sana hose, sana hoze, sanhose, sheng he xi, sn hwsh, syana hose, Σαν Χοσέ, Сан Хозе, Сан Хосе, Сан-Хасэ, Сан-Хосе, Սան Խոսե, סאן חוסה, סן חוסה, سان جوز, سان خوزه, سان خوزے، کوسٹاریکا, سان خوسيه, سان خوسې, सान होज़े, सान होजे, স্যান হোসে, ਸਾਨ ਹੋਸੇ, சான் ஹொசே, ซันโฮเซ, སན་ཇོ་སེ།, სან-ხოსე, ሳን ሆዜ, サンホセ, 聖荷西, 산호세

@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|11°29'17.44" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°39'43.35" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|5°57'58.39" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|19°25'3.88" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°26'27.33" |Cancer|Nathrah|Venus|
+|☿ Mercury|Retrograde|19°25'3.82" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°21'51.67" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

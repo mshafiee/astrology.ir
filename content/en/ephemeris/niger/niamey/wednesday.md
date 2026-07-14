@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°38'8.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°15'18.37" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|11°34'17.20" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°38'8.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°15'18.29" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|11°34'17.17" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|22°46'35.11" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°5'52.35" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|19°20'46.87" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|5°16'31.64" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|6°5'52.34" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|19°20'46.90" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|5°16'30.98" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°38'8.29" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°15'16.50" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°34'15.88" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°46'26.30" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°5'40.33" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°20'32.46" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°8'37.29" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|14°38'8.32" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°15'18.29" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|11°34'17.17" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°46'35.11" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°5'52.34" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°20'46.90" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|5°16'30.98" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Venus|Venus|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: NIM, Niame, Niamei, Niamej, Niameja, Niamejus, Niameo, Niamey, Niamè, Niamėjus, Nijamej, Níamey, ni ya mei, ni'ami, niame, niamei, nixame, niyame, niyami, nyamy, nyʼmyy, Νιαμέι, Νιαμέυ, Ниамей, Нијамеј, Ніамей, Ніямей, Նիամեյ, ניאמיי, نيامي, نیامی, نیامەی, ܢܝܐܡܝ, नियामे, নিয়ামে, ਨਿਆਮੀ, நியாமி, นีอาเม, ནི་ཡ་མེ།, ნიამეი, ኒያሜ, ニアメ, 尼亞美, 니아메

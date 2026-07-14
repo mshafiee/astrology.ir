@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'13.91" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°40'46.36" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°54'38.53" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°36'59.70" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°12'46.03" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°15'26.10" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°45'7.76" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|14°40'13.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°40'46.35" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°54'38.66" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°37'0.11" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°12'46.35" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°15'26.81" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°47'23.71" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'13.91" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°40'46.36" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°54'38.53" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°36'59.70" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°12'46.03" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°15'26.10" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°45'7.76" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Direct|14°40'13.93" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°40'46.35" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°54'38.52" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°37'1.19" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°12'48.65" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°15'28.20" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°0'37.51" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: An Roimh, An Ròimh, An Róimh, Erroma, Hrom, Lungsod ng Roma, Mji wa Roma, ROM, Ramma, Rhufain, Rim, Rim, Roeme, Rom, Roma, Rome, Romma, Romo, Romë, Rooma, Roum, Rym, Rzym, Råmma, Rím, Róm, Róma, Urbs, loma, luo ma shi, rm, rom, roma, romi, rwm, rwma, rym, Řím, Ρώμη, Рим, Римъ, Ром, Рым, Հռոմ, רומא, رم, روم, روما, رىم, ܪܘܡܐ, रोम, रोमा, রোম, โรม, რომი, ሮማ, ローマ, 罗马市, 로마

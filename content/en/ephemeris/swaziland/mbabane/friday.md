@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'15.75" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°41'15.40" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°56'8.72" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°39'4.60" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°15'11.53" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°14'15.41" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°21'35.28" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|14°40'16.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°41'15.58" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°56'10.14" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°39'5.87" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°15'10.51" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°14'18.02" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°17'4.24" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'16.11" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°41'15.40" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°56'8.72" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°39'4.60" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°15'11.53" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°14'15.41" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°21'35.28" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|3°41'15.58" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°56'10.14" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°39'5.87" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°15'10.51" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°14'18.02" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°17'4.24" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

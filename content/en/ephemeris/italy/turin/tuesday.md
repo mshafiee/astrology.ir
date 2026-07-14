@@ -43,7 +43,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunset | 21:14:19 |
 | Maghrib | 21:37:44 |
 | Isha (Night) | 22:57:06 |
-| Sharia Midnight | 00:34:12 |
+| Sharia Midnight | 00:34:13 |
 | Imum Coeli | 01:35:12 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°36'48.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°1'12.09" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|10°49'41.63" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°36'48.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°1'13.68" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|10°49'41.60" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|21°45'27.12" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|4°55'21.08" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|20°0'8.30" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|19°7'10.48" |Gemini|Dhira|Mars|
+|♀ Venus|Direct|4°55'21.07" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|20°0'8.32" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|19°7'10.03" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°36'48.84" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°1'13.76" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|10°49'41.63" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|14°36'48.86" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°1'13.68" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|10°49'41.60" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|21°45'27.12" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|4°55'21.08" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|20°0'8.30" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|19°7'10.48" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|4°55'21.07" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|20°0'8.32" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°7'10.03" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

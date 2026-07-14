@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Direct|14°40'52.53" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°49'42.73" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|13°22'44.65" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|25°15'30.68" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°57'1.93" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|17°54'43.60" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|11°52'47.36" |Virgo|Awwa|Venus|
+|☉ Sun|Direct|25°15'43.07" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°57'5.64" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|17°55'6.30" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°13'3.15" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Agadna, Agana, Agana -1998, Agania, Aganija, Aganja, Agano, Agaña, Aguana, Akashi, Akashi - JP renamed WW2, Ankana, City of Ignacio de Agana, City of Saint Ignacio de Agana, Ciudad de San Ignacio de Agana, Hagadna, Hagatna, Hagåtña, Haqatna, Jagatna, Khagatna, San Ignacio de Agana *, Ville d'Agana, Vjoska Agan'ja, a jia ni ya, akatna, ha katya, hagania, hagasnya, hagatna, hagatnya, haghatnya, hegatn'ya, Αγκάνα, Вёска Аганья, Хагатна, Хагатња, Հագատնա, هاغاتنيا, هاگاتنا, هاگاتنیا, हेगात्न्या, அகாத்ன, ฮากาตญา, ჰაგატნა, ハガニア, 阿加尼亚, 하갓냐
