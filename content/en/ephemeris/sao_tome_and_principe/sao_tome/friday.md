@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'18.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°41'44.95" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°57'39.81" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°41'11.84" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°17'39.61" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°13'7.55" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°11'1.67" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|3°41'44.96" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°57'42.54" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°41'13.89" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°17'36.60" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°13'12.32" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°56'43.28" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'18.28" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°41'44.96" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°57'42.54" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°41'13.89" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°17'36.60" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°13'12.32" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|3°41'42.73" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°57'34.89" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°40'58.03" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°17'27.67" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°12'44.44" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|3°56'43.28" |Virgo|Sarfrah|Sun|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Salazar, San Tomas, San Tome, San Tomé, San Tomė, San-Tameh, San-Tome, Santo Tome, Santo Tomé, Santome, Sao Thome, Sao Tome, Sao Tomee, Sao Tomé, Sao-Tomeo, Soeo Tome, Svaety Tomas, Svätý Tomáš, Sào Thomé, São Tomé, Söo Tomé, TMS, Urbs Sancti Thomae, cavo tome, sa'o tome, sangtume, santome, savea team, saw twmy, saywtwmh, sea tu me, sheng duo mei, Σάο Τομέ, Сан-Тамэ, Сан-Томе, Сао Томе, Սան Տոմե, סאו טומה, ساؤ ٹومے, سائوتومه, ساو تومي, ساو تۆمێ, ساو ٹومے, साओ टोमे, সাও টোমে, ਸਾਓ ਤੋਮੇ, சாவோ தொமே, സാവോ ടോം, เซาตูเม, སའོ་ཊོ་མེ།, სან-ტომე, ሳን ቶሜ, サントメ, 圣多美, 聖多美, 상투메

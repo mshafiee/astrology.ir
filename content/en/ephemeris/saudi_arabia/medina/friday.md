@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'11.23" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°40'10.09" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°52'44.33" |Taurus|Dabaran|Moon|
+|♄ Saturn|Direct|14°40'11.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°40'10.17" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°52'44.35" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°34'23.32" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°9'46.14" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°16'55.54" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°15'52.66" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|8°9'46.17" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°16'55.52" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°15'52.98" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'11.23" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°40'10.09" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°52'44.33" |Gemini|HanAh|Mars|
+|♄ Saturn|Direct|14°40'11.21" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°40'10.17" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°52'44.35" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|24°34'23.32" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°9'46.14" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°16'55.54" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°15'52.66" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|8°9'46.17" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°16'55.52" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°15'52.98" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Madina, Al Madinah, Al Madinah al Munawwarah, Al Madīnah, Al Madīnah al Munawwarah, Al Medina, El Medina, Lathrippa, MED, Madina, Madinah, Madinah al-Munawwarah, Madinat, Madīna, Maedinae, Mediina, Medin, Medina, Medinae, Medine, Medino, Medyna, Medzina, Medína, Medîne, Medīna, Mädinä, Médine, Mədinə, Yathrib, almdynt, almdynt almnwrh, almdynt almnwrt, ma di nah, madina, mai de na, matina, mdynh, medina, Μεδίνα, Мадина, Мадинат, Медзіна, Мединæ, Медина, Медине, Медіна, Мәдинә, Մադինա, אל-מדינה, المدينة, المدينة المنورة, المدينة المنوره, مدينه, مدینه, مدینھ, مدینہ منورہ, مەدینە, މަދީނާ, मदिना, मदीना, মদিনা, মেডিনা, ਮਦੀਨਾ, મદીના, மதீனா, మదీనా, മദീന, มะดีนะฮ์, მედინა, መዲና, マディーナ, 麥地那, 麦地那, 메디나

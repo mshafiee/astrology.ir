@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'20.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°42'19.10" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°59'30.01" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°43'41.87" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°20'26.18" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°11'52.25" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|4°32'30.95" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|3°42'18.59" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°59'25.90" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°43'36.02" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°20'26.12" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°11'40.96" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|4°26'15.05" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'20.80" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°42'19.10" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°59'30.01" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°43'41.87" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°20'26.18" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°11'52.25" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°32'30.95" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|3°42'18.59" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°59'25.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°43'36.02" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°20'26.12" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°11'40.96" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|4°26'15.05" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: NKC, Naevakjut, Nawakshot, Nawakszut, Nouakchat, Nouakchot, Nouakchott, Nouaksot, Nouaxot, Nuakchot, Nuakshot, Nuaksjott, Nuaksot, Nuaksota, Nuaksotas, Nuaksoto, Nuaksott, Nuakxot, Nuakŝoto, Nuakşot, Nuakšot, Nuakšota, Nuakšotas, Nuakšott, Nwaqcut, Nwaqcuṭ, Nävakjut, Núaksjott, huo suo, navakasuta, nu wa ke xiao te, nu'akacota, nu'oyakasuta, nuagsyoteu, nuakushotto, nuvakcut, nwakshwt, Νουακσότ, Νουαξότ, Нуакшот, Նուակշոտ, נואקשוט, نواكشوط, نواکشوت, نواکشوط, نواکشۆت, نوواکوٹ, नवाकसुत, নুওয়াকশুত, ਨੁਆਕਚੋਤ, நுவாக்சூத், นูแอกชอต, ནའུ་ཀ་ཅོ་ཊི།, ნუაქშოტი, ኑዋክሾት, ヌアクショット, 努瓦克肖特, 或索, 누악쇼트

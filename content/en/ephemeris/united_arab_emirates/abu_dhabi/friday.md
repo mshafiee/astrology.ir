@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'8.75" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°39'37.49" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°51'0.20" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°31'56.92" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°6'58.62" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°18'5.56" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|1°7'50.37" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°51'1.50" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°32'1.74" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°7'3.87" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°18'13.31" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|1°41'23.08" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|3°39'37.49" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|12°51'1.50" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|24°32'1.74" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°6'58.62" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°18'5.56" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°7'50.37" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|8°7'3.87" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°18'13.31" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°41'23.08" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: A-pu-that-pi, AEbu Saby, AUH, Aboe Dhabi, Abou Dabi, Abu Dabi, Abu Dabis, Abu Daby, Abu Daibi, Abu Dhabi, Abu Dhabi Island and Internal Islands City, Abu Dhabi emiraat, Abu Zabi, Abu Zaby, Abu Zabye, Abu Zabyo, Abu Ḍabi, Abu Ḑabi, Abu-Dabi, Abu-Dabi khot, Abu-Dabio, Abu-Dzabi, Abú Dabí, Abú Daibí, Abú Zabí, Abû Daby, Abū Dabī, Abū Z̧aby, Abū Z̧abye, Abū Z̧abyo, Abū Z̧abī, Ampou Ntampi, Ebu Dabi, Ebu Dhabi, a bu zha bi, abu dhabi, abu-dabi, abudabi, abudhabi, abw zby, abwzby, aputapi, jzyrt abwzby wjzr dakhlyt akhry, xa bud abi, Â-pu-tha̍t-pí, Äbu Saby, Əbu-Dabi, Άμπου Ντάμπι, Αμπου Νταμπι, Αμπού Ντάμπι, Абу Даби, Абу-Даби, Абу-Даби хот, Абу-Дабі, Әбу-Даби, Աբու Դաբի, אבו דאבי, أبوظبي, ئەبووزەبی, ابو ظبى, ابوظبی, ابوظہبی, جزيرة أبوظبي وجزر داخلية اخرى, अबु धाबी, अबू धाबी, আবুধাবি, ਅਬੂ ਧਾਬੀ, ଆବୁଧାବି, அபுதாபி, ಅಬು ಧಾಬಿ, അബുദാബി, අබුඩාබි, อาบูดาบี, ཨ་པོའུ་དྷ་པེ།, အဘူဒါဘီမြို့, აბუ-დაბი, አቡ ዳቢ, アブダビ, 阿布扎比, 아부다비

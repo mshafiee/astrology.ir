@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°39'6.82" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°26'35.73" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°9'59.30" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°35'34.00" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|7°2'12.26" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°50'39.94" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|17°29'31.97" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|3°26'35.59" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°9'57.40" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°35'32.18" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|7°2'13.60" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°50'36.25" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|17°27'55.24" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°39'6.82" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°26'35.73" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°9'59.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|23°35'34.00" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|7°2'12.26" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°50'39.94" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|17°29'31.97" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|3°26'35.66" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°9'57.38" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°35'32.46" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|7°2'14.13" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°50'36.66" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|17°30'44.17" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Jupiter|Scorpio|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Saturn|Mercury|Aquarius|Moon|Venus|
+|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
 
 
 {{< /tab >}}

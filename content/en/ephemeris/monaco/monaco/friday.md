@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|12°55'3.71" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°37'34.47" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|8°13'25.83" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°15'7.60" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°54'46.45" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°14'58.33" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°2'0.73" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'14.50" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°40'54.12" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°54'59.52" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°37'30.00" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°13'28.22" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°14'58.33" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°2'0.73" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|3°40'54.38" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°55'3.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°37'34.47" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°13'25.83" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°15'7.60" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°54'46.45" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MCM, Monaco, Monaco-Ville, Monako, Mònaco, Mónaco, Mónakó, monako, Μονακό, Монако, 모나코

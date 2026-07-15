@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 13:04:44 |
 | Medium Coeli | 13:04:44 |
 | Sunset | 22:05:54 |
-| Maghrib | 22:52:06 |
+| Maghrib | 22:52:07 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:04:47 |
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°37'54.78" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°12'49.25" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°26'26.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°35'47.06" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|5°53'27.18" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°27'26.60" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°0'50.37" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|14°37'54.76" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°12'49.80" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|11°26'25.82" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°35'48.78" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|5°53'30.97" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°27'29.17" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°15'39.72" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

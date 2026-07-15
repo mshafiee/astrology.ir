@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'51.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°49'30.53" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°22'6.71" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|25°14'49.10" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°56'5.13" |Leo|Zubrah|Saturn|
-|☿ Mercury|Retrograde|17°55'9.24" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|11°40'36.53" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Direct|14°40'51.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°49'30.73" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°22'8.80" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|25°14'51.62" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°56'4.41" |Leo|Zubrah|Saturn|
+|☿ Mercury|Retrograde|17°55'31.04" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|11°39'41.12" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Hie-ling-dong, Hiê-lìng-dóng, Ouellin'nkton, Ouellinkton, Te Whanga-nui-a-Tara, Ueligitone, Uelingtun, Velingtan, Velington, Velingtona, Velingtonas, Velingtono, Vellington, Vellingtonia, Vellinqton, WLG, Welinton, Welintòn, Wellington, Wellinton, Weolingtun, Weolingtūn, Whanga-nui-a-Tara, hui ling dun, oyelintana, raelintana, uelingtʼoni, u~erinton, vailigatana, velingatana, velingtana, velingtoni, velintan, vellingtan, wei ling dun, wellingtan, wellingteon, wlyngtwn, wylynghtwn, wylynjtwn, Ουέλλιγκτον, Ουέλλινγκτον, Велингтон, Веллингтон, Веллінгтон, Велінгтан, Уелингтън, Վելինգտոն, ולינגטון, װעלינגטאן, ولینگتون, ويلينجتون, ويلينغتون, ویلنگٹن, ۋېللىنگتون, वेलिंगटन, वेलिंग्टन, वेलिङ्गटन, ওয়েলিংটন, ৱেলিংটন, ਵੈਲਿੰਗਟਨ, વેલિંગ્ટન, வெலிங்டன், ವೆಲ್ಲಿಂಗ್ಟನ್, വെല്ലിംഗ്ടൺ, เวลลิงตัน, ཝེ་ལིང་ཐོན།, ဝယ်လင်တန်မြို့, ველინგთონი, უელინგტონი, ዌሊንግተን, ウェリントン, 威靈頓, 惠灵顿, 웰링턴

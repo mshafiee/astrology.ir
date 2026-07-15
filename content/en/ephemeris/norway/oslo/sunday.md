@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 04:28:47 |
 | Dhuhr (Noon) | 13:23:21 |
 | Medium Coeli | 13:23:21 |
-| Sunset | 22:16:25 |
+| Sunset | 22:16:26 |
 | Maghrib | 23:00:13 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 04:28:47 |
 | Dhuhr (Noon) | 13:23:21 |
 | Medium Coeli | 13:23:21 |
-| Sunset | 22:16:25 |
+| Sunset | 22:16:26 |
 | Maghrib | 23:07:39 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 04:28:47 |
 | Dhuhr (Noon) | 13:23:21 |
 | Medium Coeli | 13:23:21 |
-| Sunset | 22:16:25 |
+| Sunset | 22:16:26 |
 | Maghrib | 22:19:03 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 04:28:47 |
 | Dhuhr (Noon) | 13:23:21 |
 | Medium Coeli | 13:23:21 |
-| Sunset | 22:16:25 |
+| Sunset | 22:16:26 |
 | Maghrib | 22:19:03 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -305,7 +305,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Direct|26°28'17.69" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°19'59.35" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|17°21'5.30" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|28°52'11.35" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|29°14'28.70" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°41'57.30" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°6'30.00" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|14°15'22.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|26°28'21.56" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°20'3.84" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|17°21'11.07" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|29°14'28.70" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|4°6'29.24" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|14°15'22.00" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|26°28'17.69" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|10°19'59.35" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|17°21'5.30" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|28°52'11.35" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

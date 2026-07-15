@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'10.48" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°40'0.33" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°52'14.76" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°33'40.38" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°8'56.52" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°17'12.84" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°42'30.22" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|3°40'0.61" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°52'14.54" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°33'41.44" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°8'58.87" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°17'14.23" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°56'5.07" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Chisinau, Chişinău, Chișinău, KIV, Kischinew, Kiscinev, Kishinef, Kishinehu, Kishinev, Kishiniv, Kishinjov, Kishinëv, Kisinaou, Kisinev, Kisineva, Kisinevo, Kisiniovas, Kisinjev, Kisinov, Kisinyov, Kisyneu, Kiszyniow, Kiszyniów, Kiŝinevo, Kişinev, Kišiniovas, Kišinjev, Kišiněv, Kišiņeva, Kišiňov, cisina'u, cisinau, ji xi ne wu, kishinau, kisineou, kyshynaw, qysynb, qysynyʼww, qʻsʻnʻww, Κισινάου, Κισιναου, Кишинев, Кишинэу, Кишинёв, Кишињев, Кішынёў, Կիշինյով, קישינאו, קישינב, קישיניאוו, קעשענעוו, كيشيناو, चिशिनाउ, चिशिनौ, კიშინიოვი, ኪሺንው, キシナウ, 基希讷乌, 키시너우

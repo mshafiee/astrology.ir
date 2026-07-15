@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'14.59" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°40'55.69" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°55'8.10" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°37'39.81" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°13'32.31" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°15'1.65" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°48'21.61" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|3°40'55.70" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°55'8.05" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°37'39.83" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°13'32.48" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°15'1.63" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°49'15.14" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Daglas, Daglasa, Daglasas, Doolish, Douglas, Douglas pa Isle of Man, Douglas på Isle of Man, Douglas  Isle of Man, Dubh Lios, Duglas, Duqlas, Ntanklas, Port Douglas, dagalasa, daglasa, dagurasu, daklas, dao ge la si, deogeulleoseu, duglasi, dwghlas, dwglas, taklacu, Ντάγκλας, Даглас, Дуглас, Дъглас, דאגלס, دوغلاس, دوگلاس, ڈگلس, डग्लस, ਡਗਲਸ, டக்லசு, ดักลาส, დუგლასი, ダグラス, 道格拉斯, 더글러스

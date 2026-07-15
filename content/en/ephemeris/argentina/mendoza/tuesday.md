@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°38'26.05" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°18'38.20" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°44'49.17" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|23°1'1.11" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°22'30.71" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°11'39.50" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°42'51.33" |Leo|Zubrah|Saturn|
+|♂ Mars|Direct|11°44'46.05" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°0'59.32" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°22'35.03" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°11'35.35" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|8°43'53.80" |Leo|Zubrah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Capital megye, Ciuda de Mendoza, Ciudad de Mendoza, Ciudá de Mendoza, MDZ, Mendos, Mendosa, Mendosae, Mendoza, Mentosa, Vila de Mendoza, men do sa, men duo sa, mendosa, mendoza, mndwsh, mndwza, myndwza, Μεντόσα, Мендоза, Мендосæ, Мендоса, Մենդոսա, מנדוסה, مندوزا, مندوسا، ارجنٹائن, میندوزا, मेन्दोज़ा, เมนโดซา, მენდოსა, メンドーサ, 门多萨, 멘도사

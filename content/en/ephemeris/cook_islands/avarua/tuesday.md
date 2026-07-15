@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°38'42.33" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°21'45.45" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°54'40.85" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|23°14'33.89" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°38'5.81" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°3'21.00" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°17'54.65" |Leo|Zubrah|Jupiter|
+|♃ Jupiter|Direct|3°21'44.93" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|11°54'35.63" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|23°14'27.49" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°38'7.30" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°3'8.60" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|11°53'9.80" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아

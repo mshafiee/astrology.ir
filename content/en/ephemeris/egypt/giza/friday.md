@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'12.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°40'22.22" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°53'22.40" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°35'15.47" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°10'46.04" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°16'26.03" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|2°26'10.40" |Leo|Jabhah|Saturn|
+|♄ Saturn|Direct|14°40'12.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°40'22.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°53'22.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°35'15.57" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°10'46.18" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°16'26.18" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|2°26'59.15" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°40'12.11" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°40'22.24" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°53'22.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°35'15.57" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°10'46.18" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°16'26.18" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°26'59.15" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|3°40'19.93" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°53'18.71" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°35'2.33" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°10'32.29" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°16'4.66" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|0°56'55.02" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Al Jizah, Al Jīzah, El Gizeh, El-Giza, El-Gîza, Ghizeh, Giza, Gizah, Gize, Gizeh, Gizo, Gizé, Guiza, Gíza, Gîza, SPX, aljyzt, giza, jyzh, Гиза, الجيزة, جیزه, ギーザ

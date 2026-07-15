@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°38'56.12" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°24'27.55" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°3'12.91" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|23°26'17.54" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|6°51'35.02" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°56'14.79" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|15°21'38.84" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|3°24'27.58" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°3'12.99" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|23°26'17.72" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|6°51'35.14" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°56'15.11" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|15°22'42.47" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

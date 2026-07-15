@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Direct|14°38'20.68" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°17'37.32" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|11°41'36.69" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|22°56'38.07" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|6°17'26.96" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|19°14'28.68" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°50'46.24" |Leo|Jabhah|Saturn|
+|♃ Jupiter|Direct|3°17'37.26" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|11°41'37.01" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|22°56'38.04" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|6°17'26.15" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|19°14'28.76" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°48'52.30" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Filip'smpournk, Filipsburg, Filipsburgas, Great Bay, Philipsburg, fei li pu si bao, fi lipsburkh, firippusuburufu, flpsbrg, fylypsbwrg  synt martn, pilipcuparku, pillibseubwileuheu, Φίλιπσμπουργκ, Филипсбург, Філіпсбург, فلپسبرگ, فیلیپسبورگ، سینت مارتن, பிலிப்சுபர்கு, ฟีลิปส์บืร์ค, ფილიპსბურგი, フィリップスブルフ, 菲利普斯堡, 필립스뷔르흐
