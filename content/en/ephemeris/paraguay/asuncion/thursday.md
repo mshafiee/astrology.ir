@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'30.36" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'30.36" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°44'29.87" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|13°6'21.34" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°53'7.50" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°31'0.03" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°6'23.57" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|5°9'12.98" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|8°31'14.65" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°6'46.14" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|6°41'10.32" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'30.36" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'30.36" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°44'29.87" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|13°6'21.34" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°52'53.48" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°31'0.03" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°6'23.57" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|5°9'12.98" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|24°53'7.50" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°31'14.65" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°6'46.14" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|6°41'10.32" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Saturn|Aries|Sun|Mars|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Aquarius|Sun|Mars|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: ASU, Asounsion, Asounsyon, Asounsyòn, Asounthion, Assumptio, Assuncao, Assuncion, Assunção, Asuncion, Asunciono, Asunción, Asuns'jon, Asuns'on, Asunsaun, Asunsion, Asunsjon, Asunsjona, Asunsjonas, Asunson, Asunsyon, Asunsyun, Asúnsjón, Gunung Berapi Asuncion, La Muy Noble y Leal Ciudad de Nuestra Senora Santa Maria de la Asuncion, La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción, Nuestra Senora Santa Maria de la Asuncion, Nuestra Señora Santa María de la Asunción, Paraguay, acunciyon, asnshn, asunshion, asunsion, asunsioni, asunsiyona, asusi'ona, aswnsywn, xa sun si xxng, ya song sen, Ασουνθιόν, Ασουνσιόν, Асунсион, Асунсьйон, Асунсьон, Асунсьён, Ասունսյոն, אסונסיאן, אסונסיון, آسونسیون, أسونسيون, ئاسۇنسىئون, اسنشن, اسونسیون, आसुन्सियोन, ਅਸੂੰਸੀਓਨ, அசுன்சியோன், ಅಸೂನ್‌ಸಿಯಾನ್, อะซุนซิออง, ཨ་སུན་སི་འན།, ასუნსიონი, አሱንሲዮን, アスンシオン, 亞松森, 아순시온

@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:22:16 |
 | Medium Coeli | 12:22:16 |
 | Sunset | 18:34:14 |
-| Maghrib | 18:51:02 |
+| Maghrib | 18:51:01 |
 | Isha (Night) | 19:32:17 |
 | Sharia Midnight | 23:45:12 |
 | Imum Coeli | 00:22:18 |
@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°41'15.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°41'15.21" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°55'17.95" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|13°40'17.13" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|25°39'54.15" |Gemini|Dhira|Sun|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°41'15.21" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°55'17.94" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|13°40'17.16" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|25°39'54.16" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°24'44.50" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|17°43'8.97" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|17°54'12.08" |Virgo|Simak|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°41'15.21" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°55'17.95" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|13°40'17.13" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|25°39'54.15" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°24'44.57" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|17°43'8.93" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|17°54'39.27" |Virgo|Simak|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

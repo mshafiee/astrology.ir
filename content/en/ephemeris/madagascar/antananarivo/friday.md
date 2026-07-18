@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'12.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'12.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°40'32.13" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°53'53.37" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°35'57.92" |Gemini|Dhira|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'12.87" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'12.87" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°40'32.13" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|12°53'53.37" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|24°35'57.92" |Cancer|Tarf|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: Antananarifo, Antananarivo, Antananarivu, Antananariwo, Antananaryvas, Antananaryvu, Antananarywa, Antananarívó, TNR, Tana, Tananaribe, Tananarive, an ta na na li fu, anatananaribho, anrananarivea, antananalibo, antananaribho, antananaribo, antananarivho, antananarivo, antananaryfw, antananaryww, antʼananarivu, atananarivo, ta na na li fu, xan ta nana ri wo, Ανταναναρίβο, Ταναναρίβη, Антананариво, Антананариву, Антананарыву, Антананаріву, Тананариве, Անտանանարիվու, אנטאנאנאריווא, אנטננריבו, آنتاناناریوو, أنتاناناريفو, ئانتاناناریڤۆ, انٹاناناریوو, اینٹانانیریو, अंतानानारिव्हो, अन्टाननरीवो, আনতানানারিভো, আন্তানানারিভো, ਅੰਤਾਨਾਨਾਰੀਵੋ, அண்டனானரீவோ, ആന്റനനറീവൊ, อันตานานาริโว, ཨེན་ཊ་ན་ན་རི་བོ།, ანტანანარივუ, አንታናናሪቮ, アンタナナリボ, 塔那那利佛, 安塔那那利佛, 안타나나리보

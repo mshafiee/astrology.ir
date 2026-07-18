@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'21.01" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'21.01" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°42'21.91" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°59'38.80" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°43'54.02" |Gemini|Dhira|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'21.01" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'21.01" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°42'21.91" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|12°59'38.80" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|24°43'54.02" |Cancer|Tarf|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: FNA, Freetown, Frijtaun, Fritaun, Fritauna, Fritaunas, Fritauno, Fritaŭno, Fritonn, Frytaun, Frītauna, Phritaoun, Saint George, Urbs Libera, farita'una, fri thawn, frita'una, frytawn, frytwn, fu li dun, furitaun, peulitaun, phrita'una, phritaun, piritavun, zi you shi, Φρίταουν, Фрийтаун, Фритаун, Фрытаўн, Фрітаун, Ֆրիթաուն, פריטאון, فريتاون, فريتون, فری ٹاؤن, فریتاون, فری‌تاون, फ़्रीटाउन, फ्रीटाउन, ਫ਼ਰੀਟਾਊਨ, பிரீடவுன், ಫ್ರೀಟೌನ್, ฟรีทาวน์, ཕིརི་ཊའུན།, ფრიტაუნი, ፍሪታውን, フリータウン, 弗里敦, 自由市, 프리타운

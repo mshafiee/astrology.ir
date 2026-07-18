@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'14.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'14.75" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°40'57.36" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°55'12.75" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°37'47.62" |Gemini|Dhira|Sun|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'14.75" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'14.75" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°40'57.36" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|12°55'12.75" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|24°37'47.62" |Cancer|Tarf|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: GID, Gitega, Gitege, Kitega, Гитеге

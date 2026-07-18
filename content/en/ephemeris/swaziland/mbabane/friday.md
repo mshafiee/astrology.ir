@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:20:49 |
-| Sunrise | 06:42:03 |
+| Sunrise | 06:42:02 |
 | Dhuhr (Noon) | 12:01:39 |
 | Medium Coeli | 12:01:39 |
 | Sunset | 17:21:25 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:12:30 |
-| Sunrise | 06:42:03 |
+| Sunrise | 06:42:02 |
 | Dhuhr (Noon) | 12:01:39 |
 | Medium Coeli | 12:01:39 |
 | Sunset | 17:21:25 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 05:17:07 |
-| Sunrise | 06:42:03 |
+| Sunrise | 06:42:02 |
 | Dhuhr (Noon) | 12:01:39 |
 | Medium Coeli | 12:01:39 |
 | Sunset | 17:21:25 |
@@ -210,19 +210,19 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 10:39:22|Night duration: 13:20:19|
+|Duration of the day: 10:39:23|Night duration: 13:20:19|
 |Every hour of day duration: 00:53:17|Every hour of night duration: 01:06:42|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|06:42:03|07:35:18|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:35:19|08:28:35|Attracting auspiciousness|
-|3|Moon|Servant|08:28:36|09:21:52|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:21:53|10:15:09|Unfortunate hour|
-|5|Jupiter|Servant|10:15:10|11:08:26|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:08:27|12:01:43|Creating attraction and acceptance among dignitaries|
-|7|Sun|Servant|12:01:44|12:54:59|Promotion and attracting wealth|
+|1|Venus|Ruler|06:42:02|07:35:17|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:35:18|08:28:34|Attracting auspiciousness|
+|3|Moon|Servant|08:28:35|09:21:51|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:21:52|10:15:08|Unfortunate hour|
+|5|Jupiter|Servant|10:15:09|11:08:25|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:08:26|12:01:42|Creating attraction and acceptance among dignitaries|
+|7|Sun|Servant|12:01:43|12:54:59|Promotion and attracting wealth|
 |8|Venus|Ruler|12:55:00|13:48:16|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|13:48:17|14:41:33|Causing separation and homelessness|
 |10|Moon|Servant|14:41:34|15:34:50|Extremely unfortunate|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'16.11" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°41'15.40" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|12°56'8.72" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°39'4.60" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°15'11.53" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°14'15.41" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°21'35.28" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'16.13" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°41'15.49" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|12°56'10.09" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°39'5.83" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°15'10.44" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°14'18.06" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°17'3.30" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Sun|Venus|Virgo|Sun|Sun|
+|☾ Moon|Sun|Mars|Virgo|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'16.11" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°41'15.40" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°56'8.72" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°39'4.60" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°15'11.53" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°14'15.41" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°21'35.28" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'16.13" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°41'15.49" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|12°56'10.09" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°39'5.83" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°15'10.44" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°14'18.06" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°17'3.30" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Embabane, Mabane, Mbaban, Mbabane, Mbabaneh, Mbabano, Mbabanė, Mbabàn, Mpampane, QMN, ababane, ambabane, ambabany, eumbabane, impapan, mbaban, mbabane, mbabanh, mbabyn, mbbnh, mo ba ben, mubabane, xam ba bane, Μπαμπάνε, Мбабане, Мбабанэ, Մբաբանե, מבאבאנע, מבבנה, امبابانی, مبابان, مبابانه, مبابانێ, مبابین, अंबाबाने, ਅੰਬਾਬਾਨੇ, இம்பபான், อัมบาบาเน, མ་པ་པན།, მბაბანე, ምባባኔ, ムババーネ, 墨巴本, 음바바네

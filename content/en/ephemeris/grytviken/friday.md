@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°41'24.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°57'42.40" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°47'50.67" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|25°50'17.13" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|9°36'38.15" |Leo|Zubrah|Saturn|
-|☿ Mercury|Retrograde|17°38'0.82" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|19°59'5.78" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°41'24.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°57'42.71" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°47'48.02" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|25°50'17.16" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|9°36'44.44" |Leo|Zubrah|Saturn|
+|☿ Mercury|Retrograde|17°37'58.84" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|20°42'30.78" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Mercury|Jupiter|Jupiter|Sun|
+|☾ Moon|Mercury|Jupiter|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Saturn|Mercury|Pisces|Moon|Venus|
+|☾ Moon|Saturn|Venus|Aries|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°41'24.66" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°41'24.66" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°57'42.40" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|13°47'50.67" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|25°50'17.13" |Cancer|Jabhah|Moon|

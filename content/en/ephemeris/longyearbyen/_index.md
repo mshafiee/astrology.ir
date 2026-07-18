@@ -1,6 +1,6 @@
 ---
-date: 2026-07-15T00:00:00+02:00
-lastmod: 2026-07-15T00:00:00+02:00
+date: 2026-07-18T00:00:00+02:00
+lastmod: 2026-07-18T00:00:00+02:00
 title: Longyearbyen
 slug: longyearbyen
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Wednesday, 15 Jul 2026
+description: 🗓 Saturday, 18 Jul 2026
 
 toc: false
 ---
@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 11:48:59 |
 | Sunset | Circumpolar Angle |
 | Maghrib | Circumpolar Angle |
-| Isha (Night) | 16:08:45 |
+| Isha (Night) | 16:08:46 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 23:49:12 |
 {{< /tab >}}
@@ -209,41 +209,41 @@ Timetable of twelve day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mercury|The ruler of the night: Sun|
+|The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Mercury|Ruler|00:00:00|23:59:59|Acceptance of needs|
-|2|Moon|Servant|00:00:00|23:59:59|Unfortunate, no task is suitable|
-|3|Saturn|Servant|00:00:00|23:59:59|For overcoming diseases|
-|4|Jupiter|Servant|00:00:00|23:59:59|For all tasks, extremely auspicious|
-|5|Mars|Servant|00:00:00|23:59:59|Creating negative energy and disrupting peace|
-|6|Sun|Servant|00:00:00|23:59:59|Outer and inner journey|
-|7|Venus|Servant|00:00:00|23:59:59|Attracting love and hearts and fortune|
-|8|Mercury|Ruler|00:00:00|23:59:59|Being invisible to the people|
-|9|Moon|Servant|00:00:00|23:59:59|Separation, causing enmity|
-|10|Saturn|Servant|00:00:00|23:59:59|Dominating the great ones|
-|11|Jupiter|Servant|00:00:00|23:59:59|Creating financial and emotional attraction and dominance|
-|12|Mars|Servant|00:00:00|23:59:59|Creating evil and hatred|
+|1|Saturn|Ruler|00:00:00|23:59:59|Related to talismans, amulets and responses|
+|2|Jupiter|Servant|00:00:00|23:59:59|Peace among people|
+|3|Mars|Servant|00:00:00|23:59:59|Vengeful and evil deeds|
+|4|Sun|Servant|00:00:00|23:59:59|Dominance, judgment and issuing verdict|
+|5|Venus|Servant|00:00:00|23:59:59|Auspicious|
+|6|Mercury|Servant|00:00:00|23:59:59|Writing, swapping and making promises|
+|7|Moon|Servant|00:00:00|23:59:59|Not suitable for any task|
+|8|Saturn|Ruler|00:00:00|23:59:59|Destruction of enemies|
+|9|Jupiter|Servant|00:00:00|23:59:59|All good deeds|
+|10|Mars|Servant|00:00:00|23:59:59|Doing evil deeds|
+|11|Sun|Servant|00:00:00|23:59:59|Acceptance of reconciliation between couples|
+|12|Venus|Servant|00:00:00|23:59:59|For gaining dignity|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Sun|Ruler|00:00:00|23:59:59|Acceptance of needs|
-|2|Venus|Servant|00:00:00|23:59:59|Unfortunate, no task is suitable|
-|3|Mercury|Servant|00:00:00|23:59:59|For overcoming diseases|
-|4|Moon|Servant|00:00:00|23:59:59|For all tasks, extremely auspicious|
-|5|Saturn|Servant|00:00:00|23:59:59|Creating negative energy and disrupting peace|
-|6|Jupiter|Servant|00:00:00|23:59:59|Outer and inner journey|
-|7|Mars|Servant|00:00:00|23:59:59|Attracting love and hearts and fortune|
-|8|Sun|Ruler|00:00:00|23:59:59|Being invisible to the people|
-|9|Venus|Servant|00:00:00|23:59:59|Separation, causing enmity|
-|10|Mercury|Servant|00:00:00|23:59:59|Dominating the great ones|
-|11|Moon|Servant|00:00:00|23:59:59|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|00:00:00|23:59:59|Creating evil and hatred|
+|1|Mercury|Ruler|00:00:00|23:59:59|Related to talismans, amulets and responses|
+|2|Moon|Servant|00:00:00|23:59:59|Peace among people|
+|3|Saturn|Servant|00:00:00|23:59:59|Vengeful and evil deeds|
+|4|Jupiter|Servant|00:00:00|23:59:59|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|00:00:00|23:59:59|Auspicious|
+|6|Sun|Servant|00:00:00|23:59:59|Writing, swapping and making promises|
+|7|Venus|Servant|00:00:00|23:59:59|Not suitable for any task|
+|8|Mercury|Ruler|00:00:00|23:59:59|Destruction of enemies|
+|9|Moon|Servant|00:00:00|23:59:59|All good deeds|
+|10|Saturn|Servant|00:00:00|23:59:59|Doing evil deeds|
+|11|Jupiter|Servant|00:00:00|23:59:59|Acceptance of reconciliation between couples|
+|12|Mars|Servant|00:00:00|23:59:59|For gaining dignity|
 
  
  
@@ -255,7 +255,7 @@ Timetable of septet day and night planetary hours
 
 |Day|Night|
 |-|-|
-|The ruler of the day: Mercury|The ruler of the night: Sun|
+|The ruler of the day: Saturn|The ruler of the night: Mercury|
 |Duration of the day: 00:00:00|Night duration: 00:00:00|
 |Every hour duration: 00:00:00|Every hour duration: 00:00:00|
 
@@ -264,24 +264,24 @@ Timetable of septet day and night planetary hours
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Early morning|Mercury|Ruler|00:00:00|23:59:59|
-|Mid-morning|Moon|Servant|00:00:00|23:59:59|
-|Late morning|Saturn|Servant|00:00:00|23:59:59|
-|Noon|Jupiter|Servant|00:00:00|23:59:59|
-|Early afternoon|Mars|Servant|00:00:00|23:59:59|
-|Mid-afternoon|Sun|Servant|00:00:00|23:59:59|
-|Late afternoon|Venus|Servant|00:00:00|23:59:59|
+|Early morning|Saturn|Ruler|00:00:00|23:59:59|
+|Mid-morning|Jupiter|Servant|00:00:00|23:59:59|
+|Late morning|Mars|Servant|00:00:00|23:59:59|
+|Noon|Sun|Servant|00:00:00|23:59:59|
+|Early afternoon|Venus|Servant|00:00:00|23:59:59|
+|Mid-afternoon|Mercury|Servant|00:00:00|23:59:59|
+|Late afternoon|Moon|Servant|00:00:00|23:59:59|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Sun|Ruler|00:00:00|23:59:59|
-|Late evening|Venus|Servant|00:00:00|23:59:59|
-|Midnight|Mercury|Servant|00:00:00|23:59:59|
-|Late at night|Moon|Servant|00:00:00|23:59:59|
-|Rooster song|Saturn|Servant|00:00:00|23:59:59|
-|False Dawn|Jupiter|Servant|00:00:00|23:59:59|
-|Dawn|Mars|Servant|00:00:00|23:59:59|
+|Evening|Mercury|Ruler|00:00:00|23:59:59|
+|Late evening|Moon|Servant|00:00:00|23:59:59|
+|Midnight|Saturn|Servant|00:00:00|23:59:59|
+|Late at night|Jupiter|Servant|00:00:00|23:59:59|
+|Rooster song|Mars|Servant|00:00:00|23:59:59|
+|False Dawn|Sun|Servant|00:00:00|23:59:59|
+|Dawn|Venus|Servant|00:00:00|23:59:59|
 
 {{< /tab >}}
 
@@ -340,7 +340,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔

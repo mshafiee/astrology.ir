@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°42'35.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°17'52.41" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°50'59.16" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|27°17'31.63" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°15'57.43" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°1'54.50" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|9°39'38.60" |Virgo|Awwa|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'35.66" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°17'52.40" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°50'58.42" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|27°17'32.73" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°16'1.19" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°1'55.11" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°4'9.49" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°42'35.66" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'35.66" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|4°17'52.41" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|14°50'58.34" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°17'32.70" |Cancer|Jabhah|Moon|

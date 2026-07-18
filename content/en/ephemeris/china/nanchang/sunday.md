@@ -139,7 +139,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunset | 19:15:14 |
 | Maghrib | 19:16:21 |
 | Isha (Night) | 20:46:21 |
-| Sharia Midnight | 23:35:29 |
+| Sharia Midnight | 23:35:30 |
 | Imum Coeli | 00:22:56 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°42'32.87" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°17'0.14" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°48'15.01" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|27°13'46.79" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°11'44.82" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°3'16.16" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|9°16'29.89" |Virgo|Awwa|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'32.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°17'0.01" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°48'15.00" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|27°13'46.60" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°11'44.43" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°3'15.96" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|9°14'30.75" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°42'32.87" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°17'0.09" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|14°48'15.02" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'32.89" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°17'0.01" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|14°48'15.00" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°13'46.60" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|11°11'44.46" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|17°3'15.95" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|9°14'30.84" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|11°11'44.43" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|17°3'15.96" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|9°14'30.75" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

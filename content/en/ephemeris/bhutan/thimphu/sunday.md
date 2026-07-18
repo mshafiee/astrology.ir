@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°42'35.88" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°17'57.55" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°51'15.96" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|27°17'50.49" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°16'26.77" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°1'19.75" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|9°45'16.75" |Virgo|Awwa|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'36.04" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°17'59.81" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°51'21.61" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|27°18'4.77" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°16'37.94" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°1'42.74" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°11'57.62" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Saturn|Mercury|Jupiter|Sun|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Venus|Venus|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Saturn|Saturn|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Saturn|Jupiter|Sagittarius|Moon|Venus|
+|☾ Moon|Saturn|Mars|Capricorn|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°42'36.04" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'36.04" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|4°17'57.55" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|14°51'15.96" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°17'50.49" |Cancer|Jabhah|Moon|

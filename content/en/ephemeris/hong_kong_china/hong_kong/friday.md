@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'56.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'56.59" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°50'41.63" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|13°25'49.73" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|25°19'58.06" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|9°1'57.40" |Leo|Zubrah|Saturn|
 |☿ Mercury|Retrograde|17°52'56.97" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|13°12'29.03" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|13°12'29.75" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'56.59" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'56.59" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°50'41.63" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|13°25'49.73" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|25°19'58.06" |Cancer|Tarf|Moon|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: Chon'nk Kon'nk, Gankong, Gon Kong, Gonkong, HKG, Hiong-geng, Hiŏng-gē̤ng, Hong Kong, Hongkong, Honkong, Hồng Kông, Khongkong, Khonkong, Victoria, ankan, hamga kamga, hanakana, hang kang, hang kang nagaram, hangakanga, hang‌kang, hankam, heankean, hng kng, hon'ga kon'ga, hong-kʼongi, hongakonga, hongkong, honkongu, hwng kwng, hwng qwng, hwngh kwngh, hwnj kwnj, hxngkng, hʼng qʼng, shyanggang, xiang gang, Χονγκ Κονγκ, Ганконг, Гонконг, Хонгконг, Хонконг, Һoң Koң, Һоң Коң, Հոնկոնգ, האנג קאנג, הונג קונג, شياڭگاڭ, هانگ کانگ, هنگ کنگ, هونج كونج, هونغ كونغ, هونگ کونگ, ھwng kwng, ھونگ کونگ, ھۆng kۆng, ھۆنگ کۆنگ, ہang kang, ہانگ کانگ, ހޮންކޮންގު, हङकङ, हाँग काँग, हांगकांग, हांग् कांग् नगरम्, हॉन्ग कॉन्ग, হংকং, ਹਾਂਗਕਾਂਗ, હોંગકોંગ, ହଂକଂ, ஆங்காங், హాంగ్‌కాంగ్, ಹಾಂಗ್ ಕಾಂಗ್, ഹോങ്കോങ്, හොංකොං, ฮ่องกง, ཧང་ཀང་།, ཧོང་ཀོང་།, ဟောငကောင, ဟောင်ကောင်, ჰონგ-კონგი, ሆንግ ኮንግ, ហងកង, ហុងកុង, 香港, 홍콩

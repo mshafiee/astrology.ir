@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'31.20" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|3°44'39.27" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|13°6'51.84" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|24°53'44.33" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|8°32'2.29" |Leo|Jabhah|Saturn|
-|☿ Mercury|Retrograde|18°5'58.58" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|5°54'30.43" |Leo|Jabhah|Saturn|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'31.22" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|3°44'41.41" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|13°6'57.79" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|24°53'58.57" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|8°32'12.53" |Leo|Jabhah|Saturn|
+|☿ Mercury|Retrograde|18°6'22.86" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|7°1'46.82" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mars|Saturn|Jupiter|
 |♀ Venus|Venus|Mercury|Sun|Venus|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Pisces|Moon|Jupiter|
 |♀ Venus|Venus|Mercury|Scorpio|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Venus|Venus|Libra|Sun|Sun|
+|☾ Moon|Venus|Mercury|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'31.20" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|3°44'41.49" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|13°6'57.81" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'31.22" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|3°44'41.41" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|13°6'57.79" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|24°53'58.57" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°32'12.55" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°6'22.85" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°1'46.96" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|8°32'12.53" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°6'22.86" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°1'46.82" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: MDE, Medegin, Medehl'in, Medel'in, Medelim, Medelin, Medeljina, Medeljinas, Medeljino, Medellin, Medellín, mai de lin, mdlyn, mdyyn, me de yin, medein, medejin, medelini, medeyina, meteyin, mydyllyn, mydylyn, Μεδεγίν, Меделин, Медельин, Медельїн, Медељин, Медэльін, מדיין, مدلین, ميديللين, ميديلين, میڈیلن, मेदेयीन, মেদেয়িন, ਮੇਦੇਯੀਨ, மெதெயின், เมเดยิน, მედელინი, ទីក្រុងមេឌេយីណ, メデジン, 麦德林, 메데인

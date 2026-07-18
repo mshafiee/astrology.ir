@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'14.90" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'14.90" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|3°40'59.62" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|12°55'20.10" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|24°37'57.34" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|8°13'51.79" |Leo|Jabhah|Saturn|
 |☿ Mercury|Retrograde|18°14'56.66" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°12'39.06" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|3°3'43.88" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Direct|14°40'14.90" |Aries|Butain|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°40'14.90" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|3°40'59.62" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|12°55'19.38" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|24°37'57.31" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°13'53.48" |Virgo|Awwa|Sun|
-|☿ Mercury|Retrograde|18°14'56.11" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°12'39.06" |Virgo|Sarfrah|Sun|
+|♂ Mars|Direct|12°55'20.10" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|24°37'57.34" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|8°13'51.79" |Virgo|Awwa|Sun|
+|☿ Mercury|Retrograde|18°14'56.66" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|3°3'43.88" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>□ Square|<sub> |<sub> |<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> |<sub> |<sub> </sub>|
 
 ---
 Alternate Names: TUN, Tinis, Tiwnis, Tuenis, Tuinis, Tunes, Tunes tamaneɣt, Tunez, Tunis, Tunis khot, Tunis shaary, Tunis-Ville, Tunisa, Tunisas, Tunisi, Tunisin Orn, Tunisz, Tunixi, Tuniz, Tunizo, Tunus, Tynida, Tùnis, Tùnisi, Túinis, Túnez, Túnis, Túnixi, Túniz, Tûnis, Tünis, chunisu, tu ni si, tu ni si shi, tunis, tunis's, tunisa, twiniseu, twns, twnys, twwns, tyunisa, Τύνιδα, Тунис, Тунис хот, Тунис шаары, Тунисин Орн, Туніс, Թունիս, תוניס, تونس, تونس شہر, توونس, تۇنىس شەھىرى, ٹیونس نگر, ܬܘܢܣ, ट्युनिस, ट्यूनिस, ਤੂਨਿਸ, தூனிஸ், ടൂണിസ്സ്, ตูนิส, ཊུ་ནིསི།, ტუნისი, ቱኒስ, チュニス, 突尼斯, 突尼斯市, 튀니스
