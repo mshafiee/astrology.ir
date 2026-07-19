@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|17°2'56.86" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°20'38.51" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|14°43'5.73" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°20'57.24" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|19°7'44.89" |Libra|Jubana|Saturn|
+|☿ Mercury|Retrograde|16°20'59.67" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|18°44'47.57" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Mercury|Saturn|Venus|
+|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'18.57" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°0'16.01" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|17°2'58.35" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°20'39.21" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|14°43'3.29" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°20'59.67" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|18°44'47.57" |Scorpio|Qalb|Sun|
+|♄ Saturn|Pre-Retrograde Shadow|14°44'18.59" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°0'16.00" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|17°2'56.83" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°20'38.50" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|14°43'5.69" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°20'57.25" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|19°7'44.65" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Jupiter|Jupiter|Jupiter|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

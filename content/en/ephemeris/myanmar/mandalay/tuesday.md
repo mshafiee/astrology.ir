@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:12:06 |
 | Medium Coeli | 12:12:06 |
 | Sunset | 18:50:41 |
-| Maghrib | 19:06:36 |
+| Maghrib | 19:06:37 |
 | Isha (Night) | 19:54:51 |
 | Sharia Midnight | 23:35:09 |
 | Imum Coeli | 00:12:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°43'47.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°44'22.37" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°13'34.70" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|14°43'47.33" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°44'22.29" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°13'34.68" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|29°12'1.90" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°25'45.04" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°30'13.49" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|4°45'20.88" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|13°25'45.00" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°30'13.50" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|4°45'20.40" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -132,7 +132,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:54:50 |
+| Fajr (Dawn) | 05:54:51 |
 | Sunrise | 07:31:03 |
 | Dhuhr (Noon) | 12:26:23 |
 | Medium Coeli | 12:26:23 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°41'47.46" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°3'44.89" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°6'47.04" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|14°41'47.44" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°3'44.98" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°6'47.06" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|26°16'26.80" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°6'28.48" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°26'13.62" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|26°11'43.39" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|10°6'28.52" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°26'13.61" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|26°11'43.15" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°41'47.46" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°3'44.89" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|14°6'47.04" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°41'47.44" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°3'44.98" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|14°6'47.06" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|26°16'26.80" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°6'28.48" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|17°26'13.62" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|26°11'43.39" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|10°6'28.52" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|17°26'13.61" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|26°11'43.15" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

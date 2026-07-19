@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:58:59 |
+| Fajr (Dawn) | 03:58:58 |
 | Sunrise | 06:06:26 |
 | Dhuhr (Noon) | 13:33:06 |
 | Medium Coeli | 13:33:06 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°42'42.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°20'5.08" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°57'53.35" |Taurus|Dabaran|Moon|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'42.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°20'5.16" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°57'53.38" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°27'6.32" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°26'53.73" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°58'29.56" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|12°9'36.50" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|11°26'53.77" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°58'29.55" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|12°9'36.69" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°42'42.58" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°20'5.08" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|14°57'53.35" |Gemini|HanAh|Mars|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'42.56" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°20'5.16" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|14°57'53.38" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|27°27'6.32" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|11°26'53.73" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°58'29.56" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°9'36.50" |Libra|Ghafr|Saturn|
+|♀ Venus|Direct|11°26'53.77" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°58'29.55" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|12°9'36.69" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

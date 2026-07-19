@@ -299,8 +299,8 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°42'3.13" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°8'6.87" |Cancer|Nathrah|Venus|
+|♄ Saturn|Pre-Retrograde Shadow|14°42'3.15" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°8'7.83" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|14°20'30.82" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|26°35'20.62" |Gemini|Dhira|Sun|
 |♀ Venus|Direct|10°27'56.97" |Leo|Zubrah|Jupiter|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°42'3.13" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°8'7.91" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|14°20'30.59" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|26°35'25.25" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|10°28'5.55" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|17°18'11.80" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|0°37'3.91" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|4°8'6.79" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|14°20'30.79" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|26°35'20.62" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|10°27'56.94" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|17°18'6.08" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|29°47'11.74" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Mercury|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Saturn|Saturn|Venus|Mercury|
+|☾ Moon|Saturn|Mars|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Capricorn|Sun|Mars|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mercury|Leo|Sun|Moon|
 
 
 {{< /tab >}}
