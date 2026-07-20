@@ -299,7 +299,7 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'43.23" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|14°44'43.23" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|5°18'6.84" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|17°58'12.88" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°37'38.94" |Cancer|Nathrah|Venus|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'43.23" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°18'6.84" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|17°58'12.88" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°37'38.94" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°9'30.55" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°20'2.49" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|4°56'15.15" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|14°44'43.23" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°18'6.13" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|17°58'7.49" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°37'32.14" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|16°9'31.88" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°19'49.39" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|6°4'13.28" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Mars|Venus|Capricorn|Sun|Jupiter|
+|☾ Moon|Mars|Venus|Aquarius|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: MTY, Mantehrehj, Mons Regis, Monterej, Monterejo, Monterejus, Monterey, Monterrei, Monterrej, Monterreja, Monterrey, Monterrey City, Monterrey i Nuevo Leon, Monterrey i Nuevo León, Monterėjus, Tlahtoantepec, Tlahtoāntepēc, mamtere, meng te lei, montelei, montere'i, monterei, mwntry, mwntryy, mwntyry, mxn terrey, Μοντερρέι, Мантэрэй, Монтерей, Монтереј, Монтеррей, Մոնտերեյ, מונטריי, مونتری, مونتيري, مونتےرئی, माँतेरे, ਮੋਂਤੇਰੇਈ, มอนเตร์เรย์, མཱོན་ཊི་རེ།, მონტერეი, モンテレイ, 蒙特雷, 몬테레이

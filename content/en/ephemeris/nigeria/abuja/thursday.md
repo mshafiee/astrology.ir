@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'19.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°1'3.65" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°5'26.37" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|0°23'59.06" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°46'55.66" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°20'18.23" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°22'20.11" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|14°44'19.99" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°1'6.47" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°5'32.86" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°24'16.30" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°47'10.14" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°20'43.51" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|19°49'16.06" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'19.99" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|14°44'19.99" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|5°1'6.47" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|17°5'32.86" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°24'16.30" |Leo|Jabhah|Saturn|

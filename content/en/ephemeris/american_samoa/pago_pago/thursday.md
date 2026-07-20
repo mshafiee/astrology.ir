@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°44'46.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°21'14.35" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°7'53.03" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°51'3.42" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°24'36.90" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°20'36.88" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|8°46'5.19" |Scorpio|Qalb|Mars|
+|♃ Jupiter|Direct|5°21'16.39" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°7'58.88" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°51'16.16" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°24'45.24" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°20'55.90" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|7°46'32.69" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Moon|Sun|Aquarius|Moon|Venus|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Aquarius|Moon|Mars|
+|☾ Moon|Sun|Mercury|Aquarius|Moon|Mars|
 
 
 {{< /tab >}}
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Pre-Retrograde Shadow|14°44'46.47" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|5°21'16.39" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°7'53.03" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°51'3.42" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°24'36.90" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°20'36.88" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°46'5.19" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|18°7'58.88" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°51'16.16" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|16°24'45.24" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°20'55.90" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°46'32.69" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Jupiter|Venus|Pisces|Sun|Moon|
 |☿ Mercury|Mars|Mars|Capricorn|Sun|Mars|
-|☾ Moon|Sun|Mercury|Pisces|Sun|Jupiter|
+|☾ Moon|Mars|Mercury|Pisces|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: PPG, Paga-Paga, Pago Pago, Pago-Pago, PagoPago, Pagopago, Pagó Pagó, Panko Panko, Paqo Paqo, baghw baghw, pa guo pa guo, pa ko pa ko, pago pago, pagopago, pagw pagw, pako pako, pango pango, Πάγκο Πάγκο, Пага-Пага, Паго Паго, Паго-Паго, Пагопаго, Պագո Պագո, פאגו פאגו, باغو باغو, پاگو پاگو, पांगो पांगो, பாகோ பாகோ, ปาโกปาโก, პაგო-პაგო, パゴパゴ, 帕果帕果, 파고 파고, 파고파고

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'18.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°0'18.88" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°3'2.52" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|0°20'47.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°43'22.99" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°20'45.76" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|20°4'46.05" |Libra|Jubana|Jupiter|
+|♄ Saturn|Retrograde|14°44'18.68" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°0'19.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°3'6.86" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°20'52.54" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°43'21.42" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°20'56.47" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|19°10'10.95" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Jupiter|Mercury|Mercury|Sun|
+|☾ Moon|Jupiter|Mercury|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Jupiter|Mars|Gemini|Moon|Moon|
+|☾ Moon|Jupiter|Jupiter|Taurus|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'18.66" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°0'18.80" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|14°44'18.68" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°0'18.88" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|17°3'2.52" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|0°20'47.24" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|14°43'22.99" |Virgo|Awwa|Venus|

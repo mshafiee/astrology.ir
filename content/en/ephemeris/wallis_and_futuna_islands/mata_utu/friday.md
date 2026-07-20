@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'46.67" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°21'27.57" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°8'33.66" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°44'46.65" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°21'27.65" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°8'33.69" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°52'4.78" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°25'39.57" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°25'39.60" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|16°20'59.85" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|7°56'13.63" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°56'13.78" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'46.67" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°21'27.57" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°8'33.66" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°52'4.78" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°25'39.57" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°20'59.85" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°56'13.63" |Sagittarius|NaAaem|Mercury|
+|♄ Saturn|Retrograde|14°44'46.65" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°21'27.65" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°8'30.15" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°51'51.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|16°25'25.27" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°20'43.44" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|8°19'58.98" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

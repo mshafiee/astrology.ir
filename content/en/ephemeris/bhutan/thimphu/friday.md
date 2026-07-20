@@ -42,7 +42,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Medium Coeli | 12:07:58 |
 | Sunset | 18:54:33 |
 | Maghrib | 19:12:03 |
-| Isha (Night) | 20:03:14 |
+| Isha (Night) | 20:03:13 |
 | Sharia Midnight | 23:28:24 |
 | Imum Coeli | 00:07:58 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'49.25" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|14°44'49.25" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|5°24'21.87" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|18°17'32.16" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|2°4'36.72" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|16°39'40.24" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°21'46.83" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|11°19'0.51" |Scorpio|Qalb|Sun|
+|☿ Mercury|Retrograde|16°22'8.90" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°28'16.33" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mars|Mars|Moon|Saturn|
 |♀ Venus|Saturn|Venus|Jupiter|Sun|
 |☿ Mercury|Venus|Venus|Venus|Mars|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'49.25" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|14°44'49.25" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|5°24'21.87" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|18°17'32.16" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|2°4'36.72" |Leo|Jabhah|Saturn|

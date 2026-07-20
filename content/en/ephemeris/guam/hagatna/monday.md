@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°43'9.97" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°29'26.84" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°27'5.96" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|28°7'33.91" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|12°12'48.17" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°45'41.61" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|21°0'53.75" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|14°43'9.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°29'25.17" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°26'58.57" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|28°7'21.49" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|12°12'44.40" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°45'19.45" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|21°41'5.01" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Taurus|Moon|Jupiter|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Mars|Moon|Taurus|Sun|Moon|
+|☾ Moon|Sun|Moon|Taurus|Sun|Moon|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°43'9.97" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°29'25.25" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|15°26'58.60" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|28°7'21.50" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|12°12'44.44" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°45'19.43" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|14°43'9.99" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°29'26.75" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|15°27'5.94" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|28°7'33.91" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|12°12'48.13" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°45'41.62" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|21°41'5.47" |Libra|Jubana|Jupiter|
 
 

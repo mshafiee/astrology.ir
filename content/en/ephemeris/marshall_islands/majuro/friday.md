@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'46.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°21'38.85" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°9'8.49" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°44'46.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°21'38.93" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°9'8.51" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°52'53.81" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°26'34.17" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°26'34.20" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|16°21'4.94" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|8°2'50.34" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|8°2'50.50" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'46.83" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|14°44'46.83" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|5°21'38.85" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|18°9'8.49" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|1°52'53.81" |Leo|Jabhah|Saturn|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: MAJ, Madzhuro, Majur, Majuro, Mazouro, majulo, Μαζούρο, Маджуро, 마주로

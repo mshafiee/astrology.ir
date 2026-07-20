@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:24:46 |
 | Sunset | 18:57:58 |
 | Maghrib | 18:58:58 |
-| Isha (Night) | 20:14:48 |
+| Isha (Night) | 20:14:47 |
 | Sharia Midnight | 23:44:01 |
 | Imum Coeli | 00:24:48 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°42'11.60" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|14°42'11.60" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|4°10'34.33" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|14°28'8.65" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|26°45'58.74" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°40'7.34" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°13'40.66" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|3°34'24.95" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|10°40'6.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°13'55.72" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|3°3'1.01" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°42'11.60" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|14°42'11.60" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|4°10'34.33" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|14°28'8.65" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|26°45'58.74" |Cancer|Jabhah|Moon|
 |♀ Venus|Direct|10°40'6.63" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|17°13'55.72" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|3°34'24.95" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°3'1.01" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Taurus|Sun|Mars|
 |♀ Venus|Saturn|Mars|Capricorn|Moon|Venus|
 |☿ Mercury|Sun|Jupiter|Capricorn|Sun|Mars|
-|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
+|☾ Moon|Venus|Venus|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'46.51" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°21'18.40" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°8'6.68" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°51'24.88" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°24'52.72" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°20'56.05" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|7°36'55.34" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|14°44'46.53" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°21'18.60" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°8'5.95" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°51'25.89" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°24'56.20" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°20'56.16" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|7°50'1.57" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°44'46.51" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°21'18.40" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|14°44'46.53" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°21'18.60" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|18°8'6.68" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|1°51'24.88" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|16°24'52.72" |Virgo|Awwa|Venus|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

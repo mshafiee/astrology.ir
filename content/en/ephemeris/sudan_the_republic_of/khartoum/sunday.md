@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°41'59.30" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°7'2.63" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°17'3.42" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|26°30'41.10" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|10°22'46.49" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°20'7.07" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|0°2'50.64" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|14°41'59.30" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°7'2.65" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°17'6.06" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|26°30'43.23" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|10°22'43.76" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°20'12.20" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|29°36'27.16" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Saturn|Saturn|Jupiter|
 |♀ Venus|Venus|Mercury|Jupiter|Sun|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Mars|Mars|Mars|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Aries|Moon|Jupiter|
 |♀ Venus|Mercury|Moon|Sagittarius|Sun|Sun|
 |☿ Mercury|Mars|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Mercury|Saturn|Virgo|Moon|Venus|
+|☾ Moon|Mars|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,7 +338,7 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°41'59.30" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|14°41'59.30" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|4°7'2.65" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|14°17'6.06" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|26°30'43.23" |Cancer|Jabhah|Moon|

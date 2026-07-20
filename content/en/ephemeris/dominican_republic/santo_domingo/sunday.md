@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:45:55 |
 | Sunset | 19:18:54 |
 | Maghrib | 19:19:55 |
-| Isha (Night) | 20:35:38 |
+| Isha (Night) | 20:35:37 |
 | Sharia Midnight | 00:05:13 |
 | Imum Coeli | 00:45:57 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°42'54.45" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°24'1.03" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|15°10'9.63" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|27°44'6.10" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°46'11.25" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°52'51.53" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|15°54'56.34" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|14°42'54.47" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°24'0.96" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|15°10'9.60" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|27°44'6.13" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°46'11.27" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°52'51.57" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|15°55'17.43" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Pre-Retrograde Shadow|14°42'54.45" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°24'1.03" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|14°42'54.47" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°24'1.04" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|15°10'9.63" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°44'6.10" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|11°46'11.25" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°52'51.53" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|15°54'56.34" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|27°44'6.14" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|11°46'11.31" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°52'51.56" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|15°55'17.74" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
