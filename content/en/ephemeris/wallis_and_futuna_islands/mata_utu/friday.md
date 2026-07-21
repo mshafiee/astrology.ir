@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'46.65" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|5°21'27.65" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°8'30.15" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°51'51.86" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°25'25.27" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°20'43.44" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|8°19'58.98" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|18°8'33.69" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°52'4.78" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|16°25'39.60" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°20'59.85" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°56'13.78" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Jupiter|Venus|Jupiter|Moon|
+|☾ Moon|Jupiter|Jupiter|Jupiter|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Mata Utu, Mata'utu, Mata-Outou, Mata-Utu, Matauto, Matautu, Matâutu, Matāʻutu, ma ta wu tu, mata-atw, mata-awtw, mata-utu, mata-xu tu, matauto~u, matautu, Μάτα-Ούτου, Мата-Уту, ماتا-اتو, ماتا-اوتو, மாதா-உது, มาตา-อูตู, მატა-უტუ, マタウトゥ, 马塔乌图, 마타우투

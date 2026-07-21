@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'1.96" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°51'15.66" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°34'59.41" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°44'1.94" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°51'15.74" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°34'59.44" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|29°41'46.57" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°59'18.92" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|13°59'18.96" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|16°25'17.01" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|10°59'31.76" |Libra|Ghafr|Saturn|
+|☾ Moon|Direct|10°59'32.14" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'1.96" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°51'15.66" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|16°34'59.41" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|14°44'1.94" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°51'15.74" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|16°34'59.44" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°41'46.57" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|13°59'18.92" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|13°59'18.96" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|16°25'17.01" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°2'22.22" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|10°59'32.14" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Mercury|Venus|Jupiter|Jupiter|
+|☾ Moon|Venus|Venus|Jupiter|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

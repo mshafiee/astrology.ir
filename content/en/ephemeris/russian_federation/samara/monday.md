@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 04:37:17 |
 | Dhuhr (Noon) | 12:45:47 |
 | Medium Coeli | 12:45:47 |
-| Sunset | 20:53:21 |
+| Sunset | 20:53:22 |
 | Maghrib | 21:27:45 |
 | Isha (Night) | 23:26:01 |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 04:37:17 |
 | Dhuhr (Noon) | 12:45:47 |
 | Medium Coeli | 12:45:47 |
-| Sunset | 20:53:22 |
+| Sunset | 20:53:21 |
 | Maghrib | 20:56:30 |
 | Isha (Night) | 22:26:30 |
 | Sharia Midnight | Circumpolar Angle |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 16:16:05|Night duration: 07:45:21|
+|Duration of the day: 16:16:04|Night duration: 07:45:22|
 |Every hour duration: 02:19:26|Every hour duration: 01:06:29|
 
  
@@ -266,19 +266,19 @@ Timetable of septet day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Moon|Ruler|04:37:17|06:56:42|
 |Mid-morning|Saturn|Servant|06:56:43|09:16:08|
-|Late morning|Jupiter|Servant|09:16:09|11:35:35|
-|Noon|Mars|Servant|11:35:36|13:55:01|
-|Early afternoon|Sun|Servant|13:55:02|16:14:28|
-|Mid-afternoon|Venus|Servant|16:14:29|18:33:54|
-|Late afternoon|Mercury|Servant|18:33:55|20:53:21|
+|Late morning|Jupiter|Servant|09:16:09|11:35:34|
+|Noon|Mars|Servant|11:35:35|13:55:01|
+|Early afternoon|Sun|Servant|13:55:02|16:14:27|
+|Mid-afternoon|Venus|Servant|16:14:28|18:33:53|
+|Late afternoon|Mercury|Servant|18:33:54|20:53:20|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|20:53:22|21:59:49|
-|Late evening|Mercury|Servant|21:59:50|23:06:18|
-|Midnight|Moon|Servant|23:06:19|00:12:47|
-|Late at night|Saturn|Servant|00:12:48|01:19:15|
+|Evening|Venus|Ruler|20:53:21|21:59:48|
+|Late evening|Mercury|Servant|21:59:49|23:06:17|
+|Midnight|Moon|Servant|23:06:18|00:12:46|
+|Late at night|Saturn|Servant|00:12:47|01:19:15|
 |Rooster song|Jupiter|Servant|01:19:16|02:25:44|
 |False Dawn|Mars|Servant|02:25:45|03:32:13|
 |Dawn|Sun|Servant|03:32:14|04:38:42|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°42'38.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°18'42.52" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|14°53'35.62" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|27°21'9.09" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°20'8.26" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|17°0'32.19" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|10°48'35.18" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|14°42'38.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°18'42.60" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|14°53'35.64" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|27°21'9.10" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|11°20'8.30" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|17°0'32.17" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|10°48'35.33" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°42'38.29" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°18'42.52" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|14°53'35.62" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°21'9.09" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|11°20'8.26" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|17°0'32.19" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|10°48'35.18" |Libra|Ghafr|Saturn|
+|♄ Saturn|Retrograde|14°42'38.27" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°18'42.60" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|14°53'35.64" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°21'9.10" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|11°20'8.30" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|17°0'32.17" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|10°48'35.33" |Libra|Ghafr|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

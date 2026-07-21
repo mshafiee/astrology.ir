@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:23:04 |
 | Medium Coeli | 12:23:04 |
 | Sunset | 19:13:54 |
-| Maghrib | 19:30:54 |
+| Maghrib | 19:30:55 |
 | Isha (Night) | 20:23:13 |
 | Sharia Midnight | 23:43:02 |
 | Imum Coeli | 00:23:05 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'12.52" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°56'47.95" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°52'11.21" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°44'12.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°56'48.03" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°52'11.23" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|0°5'40.87" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°26'15.10" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°22'19.49" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|15°55'2.36" |Libra|Jubana|Saturn|
+|♀ Venus|Direct|14°26'15.14" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°22'20.50" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|16°0'18.94" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'12.50" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°56'48.03" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|16°52'11.23" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°5'40.87" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|14°26'15.14" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°22'20.34" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|15°58'56.40" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|4°56'48.08" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|16°52'11.22" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°5'41.05" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|14°26'15.50" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°22'20.50" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|16°0'18.94" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'46.53" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|5°21'18.60" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°8'6.68" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°51'24.88" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°24'52.72" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°20'56.05" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°36'55.34" |Sagittarius|NaAaem|Mercury|
+|♂ Mars|Direct|18°8'5.95" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°51'25.89" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|16°24'56.20" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°20'56.16" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°50'1.57" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

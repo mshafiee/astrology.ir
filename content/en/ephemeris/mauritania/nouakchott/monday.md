@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°42'48.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°22'1.48" |Cancer|Nathrah|Venus|
+|♃ Jupiter|Direct|4°22'2.30" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|15°3'59.50" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|27°35'30.00" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|11°36'22.08" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°55'37.11" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|13°25'21.51" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|11°36'22.12" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°55'37.10" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|13°25'21.75" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°42'48.56" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°22'2.22" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|15°3'58.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|27°35'32.98" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|11°36'28.66" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°55'40.14" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|14°3'5.70" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|14°42'48.54" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°22'1.48" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|15°3'59.50" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|27°35'30.00" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|11°36'22.08" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°55'37.11" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|13°25'21.51" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Saturn|Jupiter|Mercury|
 |♀ Venus|Venus|Venus|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Jupiter|Jupiter|Saturn|Venus|
+|☾ Moon|Mercury|Jupiter|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

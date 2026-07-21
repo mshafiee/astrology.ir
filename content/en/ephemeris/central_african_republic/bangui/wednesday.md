@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:20:08|Night duration: 11:39:59|
+|Duration of the day: 12:20:08|Night duration: 11:39:58|
 |Every hour of day duration: 01:01:41|Every hour of night duration: 00:58:20|
 
  
@@ -238,12 +238,12 @@ Timetable of twelve day and night planetary hours
 |4|Moon|Servant|20:57:18|21:55:37|For all tasks, extremely auspicious|
 |5|Saturn|Servant|21:55:38|22:53:57|Creating negative energy and disrupting peace|
 |6|Jupiter|Servant|22:53:58|23:52:17|Outer and inner journey|
-|7|Mars|Servant|23:52:18|00:50:37|Attracting love and hearts and fortune|
-|8|Sun|Ruler|00:50:38|01:48:57|Being invisible to the people|
-|9|Venus|Servant|01:48:58|02:47:17|Separation, causing enmity|
-|10|Mercury|Servant|02:47:18|03:45:37|Dominating the great ones|
-|11|Moon|Servant|03:45:38|04:43:57|Creating financial and emotional attraction and dominance|
-|12|Saturn|Servant|04:43:58|05:42:17|Creating evil and hatred|
+|7|Mars|Servant|23:52:18|00:50:36|Attracting love and hearts and fortune|
+|8|Sun|Ruler|00:50:37|01:48:56|Being invisible to the people|
+|9|Venus|Servant|01:48:57|02:47:16|Separation, causing enmity|
+|10|Mercury|Servant|02:47:17|03:45:36|Dominating the great ones|
+|11|Moon|Servant|03:45:37|04:43:56|Creating financial and emotional attraction and dominance|
+|12|Saturn|Servant|04:43:57|05:42:16|Creating evil and hatred|
 
  
  
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
-|Duration of the day: 12:20:08|Night duration: 11:39:59|
+|Duration of the day: 12:20:08|Night duration: 11:39:58|
 |Every hour duration: 01:45:44|Every hour duration: 01:40:00|
 
  
@@ -278,10 +278,10 @@ Timetable of septet day and night planetary hours
 |Evening|Sun|Ruler|18:02:19|19:42:17|
 |Late evening|Venus|Servant|19:42:18|21:22:17|
 |Midnight|Mercury|Servant|21:22:18|23:02:17|
-|Late at night|Moon|Servant|23:02:18|00:42:17|
-|Rooster song|Saturn|Servant|00:42:18|02:22:17|
-|False Dawn|Jupiter|Servant|02:22:18|04:02:17|
-|Dawn|Mars|Servant|04:02:18|05:42:17|
+|Late at night|Moon|Servant|23:02:18|00:42:16|
+|Rooster song|Saturn|Servant|00:42:17|02:22:16|
+|False Dawn|Jupiter|Servant|02:22:17|04:02:16|
+|Dawn|Mars|Servant|04:02:17|05:42:16|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°43'54.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°47'29.52" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°23'16.47" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°43'54.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°47'29.44" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°23'16.45" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|29°25'29.86" |Gemini|Dhira|Sun|
-|♀ Venus|Direct|13°40'57.18" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°27'48.86" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|7°35'9.05" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|13°40'57.14" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°27'48.87" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|7°35'8.61" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°43'54.15" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°47'29.52" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|16°23'16.47" |Gemini|HanAh|Mars|
+|♄ Saturn|Retrograde|14°43'54.17" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°47'29.44" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|16°23'16.45" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|29°25'29.86" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|13°40'57.18" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°27'48.86" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°35'9.05" |Scorpio|Akleel|Mars|
+|♀ Venus|Direct|13°40'57.14" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°27'48.87" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|7°35'8.61" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

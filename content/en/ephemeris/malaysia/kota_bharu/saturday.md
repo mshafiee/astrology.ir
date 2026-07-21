@@ -54,8 +54,8 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:51:14 |
 | Sunrise | 07:05:02 |
-| Dhuhr (Noon) | 13:17:34 |
-| Medium Coeli | 13:17:34 |
+| Dhuhr (Noon) | 13:17:35 |
+| Medium Coeli | 13:17:35 |
 | Sunset | 19:30:03 |
 | Maghrib | 19:46:42 |
 | Isha (Night) | 20:27:40 |
@@ -70,8 +70,8 @@ __Muslim World League Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:49:55 |
 | Sunrise | 07:05:02 |
-| Dhuhr (Noon) | 13:17:34 |
-| Medium Coeli | 13:17:34 |
+| Dhuhr (Noon) | 13:17:35 |
+| Medium Coeli | 13:17:35 |
 | Sunset | 19:30:03 |
 | Maghrib | 19:31:00 |
 | Isha (Night) | 20:40:43 |
@@ -102,8 +102,8 @@ __Egyptian General Authority of Survey Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:43:21 |
 | Sunrise | 07:05:02 |
-| Dhuhr (Noon) | 13:17:34 |
-| Medium Coeli | 13:17:34 |
+| Dhuhr (Noon) | 13:17:35 |
+| Medium Coeli | 13:17:35 |
 | Sunset | 19:30:03 |
 | Maghrib | 19:31:00 |
 | Isha (Night) | 20:42:54 |
@@ -118,8 +118,8 @@ __University of Islamic Sciences, Karachi Calculation Method__
 |-|:-:|
 | Fajr (Dawn) | 05:49:55 |
 | Sunrise | 07:05:02 |
-| Dhuhr (Noon) | 13:17:35 |
-| Medium Coeli | 13:17:35 |
+| Dhuhr (Noon) | 13:17:34 |
+| Medium Coeli | 13:17:34 |
 | Sunset | 19:30:03 |
 | Maghrib | 19:31:00 |
 | Isha (Night) | 20:45:05 |
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'57.51" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|5°37'29.98" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°58'4.63" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|3°1'16.01" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°42'52.31" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|16°30'48.65" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|22°3'37.70" |Sagittarius|Baldah|Saturn|
+|♂ Mars|Direct|18°58'4.99" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|3°1'9.86" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|17°42'40.47" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|16°30'43.62" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|21°58'6.90" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
