@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:01:47 |
+| Fajr (Dawn) | 05:01:46 |
 | Sunrise | 06:23:09 |
 | Dhuhr (Noon) | 12:09:16 |
 | Medium Coeli | 12:09:16 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'57.72" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°37'56.27" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°59'25.93" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°44'57.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°37'56.35" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°59'25.96" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|3°3'9.37" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|17°44'58.72" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°31'11.05" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|22°30'53.44" |Scorpio|Shaulah|Venus|
+|♀ Venus|Direct|17°44'58.74" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°31'11.04" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|22°30'53.43" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'57.72" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°37'56.27" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°59'25.93" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|14°44'57.70" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°37'56.35" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°59'25.96" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|3°3'9.37" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°44'58.72" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|16°31'11.05" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|22°30'53.44" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°44'58.74" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|16°31'11.04" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|22°30'53.43" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

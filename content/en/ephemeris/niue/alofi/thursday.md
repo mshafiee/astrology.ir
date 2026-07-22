@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'46.53" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°21'18.60" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°8'5.95" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°44'46.51" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°21'18.68" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°8'5.98" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|1°51'25.89" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°24'56.20" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|16°24'56.23" |Leo|Zubrah|Jupiter|
 |☿ Mercury|Retrograde|16°20'56.16" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|7°50'1.57" |Scorpio|Akleel|Mars|
+|☾ Moon|Direct|7°50'1.72" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'46.53" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°21'18.60" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°8'5.95" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|14°44'46.51" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°21'18.68" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°8'5.98" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|1°51'25.89" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°24'56.20" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|16°24'56.23" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|16°20'56.16" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|7°50'1.57" |Sagittarius|NaAaem|Mercury|
+|☾ Moon|Direct|7°50'1.72" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
+|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: Alofi, Alofis, Alofo, Pasjolak Alofi, a luo fei, alaphi, allopi, alophi, alopi, alwfy, arofi, xalofi, Αλόφι, Алофи, Алофі, Пасёлак Алофі, الوفی, अलोफी, അലാഫി, อาโลฟี, ალოფი, アロフィ, 阿洛菲, 알로피

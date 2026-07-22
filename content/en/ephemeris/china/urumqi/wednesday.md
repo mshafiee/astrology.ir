@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'13.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|4°57'29.90" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|16°54'21.56" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|0°8'41.65" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|14°29'39.02" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°22'0.31" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|16°38'48.65" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|14°44'13.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|4°57'30.22" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|16°54'21.05" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|0°8'42.39" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|14°29'41.69" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°22'0.43" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|16°52'48.52" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Moon|Cancer|Moon|Moon|
 |♀ Venus|Moon|Sun|Capricorn|Sun|Sun|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Saturn|Saturn|Aries|Moon|Moon|
+|☾ Moon|Saturn|Jupiter|Aries|Moon|Moon|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'13.77" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|4°57'29.90" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|16°54'21.56" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|0°8'41.65" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|14°29'39.02" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|14°44'13.75" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|4°57'29.98" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|16°54'21.58" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|0°8'41.66" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|14°29'39.06" |Virgo|Awwa|Venus|
 |☿ Mercury|Retrograde|16°22'0.31" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|16°38'48.65" |Scorpio|Qalb|Sun|
+|☾ Moon|Direct|16°38'48.92" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

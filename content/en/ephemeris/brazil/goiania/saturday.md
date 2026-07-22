@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'59.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°43'23.55" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|19°16'14.66" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|3°26'40.77" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°11'9.00" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°36'33.35" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|27°22'55.60" |Scorpio|Shaulah|Venus|
+|♃ Jupiter|Direct|5°43'23.63" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|19°16'14.68" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|3°26'40.74" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|18°11'10.87" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°36'32.37" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|27°31'30.66" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Saturn|Sagittarius|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Virgo|Sun|Sun|
+|☾ Moon|Jupiter|Jupiter|Libra|Sun|Sun|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'59.30" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°43'23.55" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|19°16'14.66" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|14°44'59.28" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°43'23.63" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|19°16'14.68" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|3°26'40.77" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|18°11'9.00" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|16°36'33.35" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|27°22'55.60" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|18°11'9.02" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|16°36'33.34" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|27°22'55.45" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

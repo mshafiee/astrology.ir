@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'50.48" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°25'50.84" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|18°22'7.50" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|2°10'59.66" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|16°46'49.14" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°22'45.84" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|12°0'26.07" |Scorpio|Qalb|Sun|
+|♃ Jupiter|Direct|5°25'51.28" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|18°22'9.53" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|2°11'2.40" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|16°46'49.15" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°22'50.73" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|11°37'5.20" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'50.48" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°25'50.84" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|18°22'7.50" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|2°10'59.66" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°46'49.14" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°22'45.84" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|12°0'26.07" |Sagittarius|NaAaem|Moon|
+|♃ Jupiter|Direct|5°25'51.28" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|18°22'9.53" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|2°11'2.40" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|16°46'49.15" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°22'50.73" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|11°37'5.20" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Venus|Jupiter|Saturn|Saturn|
 |☿ Mercury|Mercury|Mercury|Mars|Moon|
-|☾ Moon|Venus|Venus|Mars|Mercury|
+|☾ Moon|Jupiter|Venus|Mars|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|

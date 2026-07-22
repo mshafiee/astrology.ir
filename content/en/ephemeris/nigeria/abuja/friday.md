@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'39.02" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°14'23.15" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|17°46'41.02" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°21'34.24" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°51'29.83" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°19'24.03" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|1°37'20.62" |Scorpio|Akleel|Mars|
+|♃ Jupiter|Direct|5°14'20.48" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|17°46'34.59" |Taurus|Dabaran|Moon|
+|☉ Sun|Direct|1°21'17.01" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°51'15.28" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°18'59.45" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|2°29'23.66" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'39.02" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°14'23.15" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|17°46'41.02" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°21'34.24" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|15°51'29.83" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°19'24.03" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|1°37'20.62" |Sagittarius|Shaulah|Mercury|
+|♄ Saturn|Retrograde|14°44'39.00" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°14'23.23" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|17°46'41.04" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°21'34.25" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|15°51'29.86" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°19'24.02" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°37'20.77" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'59.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|5°49'42.05" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|19°35'40.44" |Taurus|Dabaran|Moon|
+|♄ Saturn|Retrograde|14°44'59.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|5°49'42.13" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|19°35'40.46" |Taurus|Dabaran|Moon|
 |☉ Sun|Direct|3°53'53.56" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|18°41'22.42" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°44'2.20" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°58'59.04" |Sagittarius|Shaulah|Mercury|
+|♀ Venus|Direct|18°41'7.63" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°43'50.87" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|3°33'24.24" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Moon|Sun|Leo|Moon|Moon|
 |♀ Venus|Saturn|Mercury|Pisces|Moon|Venus|
 |☿ Mercury|Jupiter|Jupiter|Sagittarius|Moon|Jupiter|
-|☾ Moon|Jupiter|Mars|Capricorn|Sun|Jupiter|
+|☾ Moon|Jupiter|Venus|Capricorn|Sun|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'59.81" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°49'42.05" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|19°35'40.44" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|14°44'59.79" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|5°49'42.13" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|19°35'40.46" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|3°53'53.56" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|18°41'22.42" |Virgo|Simak|Venus|
-|☿ Mercury|Retrograde|16°44'2.20" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°58'59.04" |Capricorn|SaadAlDhabib|Jupiter|
+|♀ Venus|Direct|18°41'22.44" |Virgo|Simak|Venus|
+|☿ Mercury|Retrograde|16°44'2.19" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|2°58'58.68" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|14°44'38.61" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|5°14'3.93" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|17°45'41.31" |Taurus|Dabaran|Moon|
-|☉ Sun|Direct|1°19'54.19" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|15°49'44.56" |Leo|Zubrah|Jupiter|
-|☿ Mercury|Retrograde|16°18'56.91" |Gemini|HanAh|Mars|
-|☾ Moon|Direct|2°25'34.86" |Scorpio|Akleel|Mars|
+|☉ Sun|Direct|1°20'10.98" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|15°49'56.53" |Leo|Zubrah|Jupiter|
+|☿ Mercury|Retrograde|16°19'21.94" |Gemini|HanAh|Mars|
+|☾ Moon|Direct|1°20'12.18" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'38.61" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|5°14'3.93" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|17°45'41.31" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|1°19'54.19" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|15°49'44.56" |Virgo|Awwa|Venus|
-|☿ Mercury|Retrograde|16°18'56.91" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|2°25'34.86" |Sagittarius|Shaulah|Mercury|
+|♃ Jupiter|Direct|5°14'2.40" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|17°45'39.28" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|1°20'2.75" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|15°49'46.86" |Virgo|Awwa|Venus|
+|☿ Mercury|Retrograde|16°19'11.59" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|1°25'30.00" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub> |<sub>□ Square|<sub> |<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>□ Square|<sub> |<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>△ Trine|<sub>△ Trine|<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
+|<sub>**☾ Moon**|<sub> |<sub>□ Square|<sub> |<sub>□ Square|<sub>✱ Sextile|<sub>△ Trine</sub>|
 
 ---
 Alternate Names: Fort-Lamy, Indschamina, Ingamina, Injamina, Injamīnā, Inǧamīnā, Lamy, N'Djamena, NDJ, Ndjamena, Ndjemena, Ndzamena, Ndzhamena, Ndżamena, Ndžamena, Nigamina, Niǧāmīnā, Njameno, Nĵameno, N’Djamena, N’Dj·amèna, Tzamena, Yamena, anjamna, anjamyna, anjmyna, en jia mei na, eunjamena, fwr lamy, ng'mnh, ngmynʾ, njamena, njamyna, njamێna, njmyna, Τζαμένα, Нджамена, נג'מנה, أنجمينا, إنجامينا, انجامنا, انجمينا, فور لامي, نجامينا, نجامینا, نجامێنا, نجمینا, ܢܓܡܝܢܐ, ንጃሜና, ンジャメナ, 恩賈梅納, 은자메나
