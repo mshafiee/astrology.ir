@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:43:44 |
+| Fajr (Dawn) | 03:43:43 |
 | Sunrise | 05:26:54 |
 | Dhuhr (Noon) | 12:41:41 |
 | Medium Coeli | 12:41:41 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°43'33.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|6°59'36.07" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|23°9'57.81" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|8°55'33.30" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|24°12'22.43" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|19°38'12.42" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|8°29'57.05" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|14°43'32.89" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|6°59'37.73" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|23°9'58.86" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|8°55'42.53" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|24°12'36.67" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|19°38'20.14" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|7°16'50.84" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Libra|Moon|Moon|
 |♀ Venus|Jupiter|Mars|Taurus|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Taurus|Sun|Saturn|
+|☾ Moon|Jupiter|Jupiter|Aries|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°9'58.86" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|8°55'42.53" |Leo|Zubrah|Saturn|
 |♀ Venus|Direct|24°12'36.67" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|19°38'20.14" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|19°38'20.14" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|7°16'50.84" |Pisces|FarghAlMuakhar|Saturn|
 
 

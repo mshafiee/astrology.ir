@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'6.28" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|6°44'26.27" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|22°23'35.35" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°50'6.81" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|23°1'15.80" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|18°46'15.17" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|22°46'44.85" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|14°44'6.27" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|6°44'23.84" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|22°23'30.06" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°49'51.68" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|23°1'1.65" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|18°45'57.92" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|24°21'47.53" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Mercury|Moon|Libra|Sun|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'6.28" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|6°44'26.27" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|22°23'35.35" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°44'6.27" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|6°44'26.35" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|22°23'35.38" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|7°50'6.80" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|23°1'15.81" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|18°46'15.15" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|18°46'15.15" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|22°46'44.53" |Aquarius|FarghAlMuqaddam|Moon|
 
 

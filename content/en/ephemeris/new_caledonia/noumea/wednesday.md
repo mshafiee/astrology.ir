@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'32.50" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|6°28'38.49" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|21°35'15.42" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|6°41'54.81" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|21°46'42.05" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|18°0'24.13" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|8°15'40.63" |Capricorn|SaadAlDhabib|Jupiter|
+|♄ Saturn|Retrograde|14°44'32.48" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|6°28'36.86" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|21°35'11.50" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|6°41'44.96" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|21°46'33.91" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|18°0'12.07" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|9°17'4.32" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Virgo|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Aries|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Jupiter|Jupiter|Aries|Moon|Saturn|
+|☾ Moon|Mars|Jupiter|Aries|Moon|Saturn|
 
 
 {{< /tab >}}
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'32.50" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|6°28'38.49" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|21°35'15.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|6°41'54.81" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|14°44'32.48" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|6°28'38.57" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|21°35'15.44" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|6°41'54.80" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|21°46'42.06" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|18°0'24.11" |Cancer|Tarf|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|18°0'24.11" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|8°15'39.83" |Aquarius|SaadAlSaud|Venus|
 
 

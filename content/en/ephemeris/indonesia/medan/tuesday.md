@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:31:52 |
 | Medium Coeli | 12:31:52 |
 | Sunset | 18:40:28 |
-| Maghrib | 18:54:51 |
+| Maghrib | 18:54:50 |
 | Isha (Night) | 19:37:27 |
 | Sharia Midnight | 23:59:06 |
 | Imum Coeli | 00:31:51 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°44'45.66" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|6°17'32.13" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|21°1'10.57" |Taurus|Dabaran|Saturn|
-|☉ Sun|Direct|5°53'56.63" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|20°54'1.63" |Leo|Zubrah|Mars|
-|☿ Mercury|Direct|17°33'17.53" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|27°58'36.73" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|6°17'32.26" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|21°1'11.04" |Taurus|Dabaran|Saturn|
+|☉ Sun|Direct|5°53'57.14" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|20°54'1.44" |Leo|Zubrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|17°33'18.49" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|27°54'22.54" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'45.67" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|6°17'32.21" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|21°1'10.60" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|5°53'56.62" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|20°54'1.43" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°33'18.50" |Cancer|Tarf|Mercury|
-|☾ Moon|Direct|27°58'35.76" |Capricorn|SaadAlSaud|Sun|
+|♄ Saturn|Retrograde|14°44'45.66" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|6°17'32.26" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|21°1'11.04" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|5°53'57.14" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|20°54'1.44" |Virgo|Simak|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|17°33'18.49" |Cancer|Tarf|Mercury|
+|☾ Moon|Direct|27°54'22.54" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
