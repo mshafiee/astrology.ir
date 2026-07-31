@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°44'13.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|6°40'39.83" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|22°12'2.91" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|7°33'48.25" |Cancer|Nathrah|Venus|
-|♀ Venus|Direct|22°43'28.32" |Leo|Sarfrah|Mars|
-|☿ Mercury|Post-Retrograde Shadow|18°34'30.30" |Gemini|Dhira|Mars|
-|☾ Moon|Direct|19°23'59.80" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|14°44'13.70" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|6°40'37.24" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|22°11'57.54" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|7°33'32.87" |Cancer|Nathrah|Venus|
+|♀ Venus|Direct|22°43'13.79" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|18°34'12.71" |Gemini|Dhira|Mars|
+|☾ Moon|Direct|21°1'17.25" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Jupiter|Moon|Saturn|
 |♀ Venus|Mercury|Jupiter|Mars|Mars|
 |☿ Mercury|Mars|Venus|Venus|Mars|
-|☾ Moon|Venus|Saturn|Venus|Mars|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Libra|Moon|Moon|
 |♀ Venus|Jupiter|Venus|Taurus|Moon|Venus|
 |☿ Mercury|Mars|Jupiter|Capricorn|Moon|Jupiter|
-|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|22°12'2.91" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|7°33'48.25" |Leo|Jabhah|Saturn|
 |♀ Venus|Direct|22°43'28.32" |Virgo|Simak|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|18°34'30.30" |Cancer|Tarf|Mercury|
+|☿ Mercury|Direct|18°34'30.30" |Cancer|Tarf|Mercury|
 |☾ Moon|Direct|19°23'59.80" |Aquarius|SaadAlAkhbia|Mercury|
 
 

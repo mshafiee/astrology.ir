@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 11:49:43 |
 | Medium Coeli | 11:49:43 |
 | Sunset | 19:46:35 |
-| Maghrib | 19:48:52 |
-| Isha (Night) | 21:18:52 |
+| Maghrib | 19:48:53 |
+| Isha (Night) | 21:18:53 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 23:49:40 |
 {{< /tab >}}
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|24°26'31.81" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|10°44'17.09" |Cancer|Nathrah|Mercury|
 |♀ Venus|Direct|26°9'51.77" |Leo|Sarfrah|Mars|
-|☿ Mercury|Post-Retrograde Shadow|21°21'29.40" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|21°21'29.40" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|1°54'4.78" |Pisces|FarghAlMuqaddam|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|24°26'31.81" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°44'17.09" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|26°9'51.77" |Virgo|Simak|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|21°21'29.40" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|21°21'29.40" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|1°54'4.78" |Aries|Sharatain|Mars|
 
 

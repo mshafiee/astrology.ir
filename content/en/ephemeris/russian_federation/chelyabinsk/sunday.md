@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 05:03:32 |
 | Dhuhr (Noon) | 13:00:34 |
 | Medium Coeli | 13:00:34 |
-| Sunset | 20:56:21 |
+| Sunset | 20:56:22 |
 | Maghrib | 21:30:35 |
 | Isha (Night) | 23:21:36 |
 | Sharia Midnight | Circumpolar Angle |
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:03:32 |
 | Dhuhr (Noon) | 13:00:34 |
 | Medium Coeli | 13:00:34 |
-| Sunset | 20:56:21 |
+| Sunset | 20:56:22 |
 | Maghrib | 21:00:41 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -88,10 +88,10 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 05:03:32 |
 | Dhuhr (Noon) | 13:00:34 |
 | Medium Coeli | 13:00:34 |
-| Sunset | 20:56:21 |
+| Sunset | 20:56:22 |
 | Maghrib | 21:00:41 |
 | Isha (Night) | 23:40:11 |
-| Sharia Midnight | 23:38:54 |
+| Sharia Midnight | 23:38:55 |
 | Imum Coeli | 01:00:32 |
 {{< /tab >}}
 
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:03:32 |
 | Dhuhr (Noon) | 13:00:34 |
 | Medium Coeli | 13:00:34 |
-| Sunset | 20:56:21 |
+| Sunset | 20:56:22 |
 | Maghrib | 21:00:41 |
 | Isha (Night) | Circumpolar Angle |
 | Sharia Midnight | Circumpolar Angle |
@@ -136,7 +136,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 05:03:32 |
 | Dhuhr (Noon) | 13:00:34 |
 | Medium Coeli | 13:00:34 |
-| Sunset | 20:56:21 |
+| Sunset | 20:56:22 |
 | Maghrib | 21:00:41 |
 | Isha (Night) | 22:30:41 |
 | Sharia Midnight | Circumpolar Angle |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|23°44'45.09" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|9°44'58.13" |Cancer|Nathrah|Venus|
 |♀ Venus|Direct|25°5'56.55" |Leo|Sarfrah|Mars|
-|☿ Mercury|Post-Retrograde Shadow|20°22'32.64" |Gemini|Dhira|Sun|
+|☿ Mercury|Direct|20°22'32.64" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|18°24'31.58" |Aquarius|SaadAlAkhbia|Mercury|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|23°44'45.09" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|9°44'58.13" |Leo|Zubrah|Saturn|
 |♀ Venus|Direct|25°5'56.55" |Virgo|Simak|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|20°22'32.64" |Cancer|Tarf|Moon|
+|☿ Mercury|Direct|20°22'32.64" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|18°24'31.58" |Pisces|Rescha|Jupiter|
 
 
