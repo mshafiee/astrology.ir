@@ -122,7 +122,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Medium Coeli | 11:45:46 |
 | Sunset | 18:42:22 |
 | Maghrib | 18:43:33 |
-| Isha (Night) | 20:21:31 |
+| Isha (Night) | 20:21:32 |
 | Sharia Midnight | 22:56:19 |
 | Imum Coeli | 23:45:43 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'43.21" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|7°35'14.25" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|24°58'26.35" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°29'41.38" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|26°58'33.87" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|22°10'44.89" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|12°18'37.97" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|14°41'43.20" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|7°35'14.31" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|24°58'26.23" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°29'41.25" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|26°58'34.00" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°10'44.66" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|12°17'42.20" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'43.21" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|7°35'14.25" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|24°58'26.35" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°41'43.20" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|7°35'14.33" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|24°58'26.37" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°29'41.38" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°58'33.87" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°10'44.89" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°17'42.20" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|26°58'33.90" |Virgo|Simak|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|22°10'44.88" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°18'38.82" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

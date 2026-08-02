@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'41.83" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|7°35'36.40" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|24°59'35.14" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°31'16.86" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°0'12.86" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|22°12'33.77" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|13°6'31.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|14°41'41.84" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|7°35'36.45" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|24°59'33.95" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°31'17.35" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°0'16.73" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°12'32.92" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|12°43'14.09" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Venus|Scorpio|Moon|Moon|
 |♀ Venus|Mars|Jupiter|Gemini|Moon|Venus|
 |☿ Mercury|Sun|Mars|Aquarius|Moon|Jupiter|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'41.83" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|7°35'36.54" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|24°59'33.97" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°41'41.84" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|7°35'36.45" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|24°59'33.95" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°31'17.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|27°0'16.76" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°12'32.91" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|12°43'14.94" |Aries|Sharatain|Sun|
+|♀ Venus|Direct|27°0'16.73" |Virgo|Simak|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|22°12'32.92" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|12°43'14.09" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

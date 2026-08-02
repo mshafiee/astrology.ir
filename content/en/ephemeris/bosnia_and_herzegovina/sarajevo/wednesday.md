@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mercury|The ruler of the night: Sun|
 |Duration of the day: 14:25:48|Night duration: 09:35:18|
-|Every hour of day duration: 01:12:09|Every hour of night duration: 00:47:56|
+|Every hour of day duration: 01:12:09|Every hour of night duration: 00:47:57|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|14°40'32.85" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|7°52'49.76" |Cancer|Nathrah|Venus|
 |♂ Mars|Direct|25°51'52.34" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|12°45'50.99" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|28°19'47.42" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|23°41'14.72" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|0°43'19.79" |Aries|Sharatain|Mars|
+|☉ Sun|Direct|12°45'51.86" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|28°19'50.47" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|23°41'14.77" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|0°26'32.83" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°40'32.85" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|7°52'49.76" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|25°51'52.34" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|12°45'51.86" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|28°19'50.47" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|23°41'14.77" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°26'32.83" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|7°52'49.59" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|25°51'52.93" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|12°45'50.99" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|28°19'47.39" |Virgo|Simak|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|23°41'14.72" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|0°43'18.98" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:12:43 |
 | Dhuhr (Noon) | 13:10:56 |
 | Medium Coeli | 13:10:56 |
-| Sunset | 20:08:40 |
+| Sunset | 20:08:39 |
 | Maghrib | 20:27:37 |
 | Isha (Night) | 21:24:50 |
-| Sharia Midnight | 00:26:53 |
+| Sharia Midnight | 00:26:52 |
 | Imum Coeli | 01:10:54 |
 {{< /tab >}}
 
@@ -56,7 +56,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Sunrise | 06:12:43 |
 | Dhuhr (Noon) | 13:10:56 |
 | Medium Coeli | 13:10:56 |
-| Sunset | 20:08:40 |
+| Sunset | 20:08:39 |
 | Maghrib | 20:30:21 |
 | Isha (Night) | 21:24:50 |
 | Sharia Midnight | 00:21:32 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:12:43 |
 | Dhuhr (Noon) | 13:10:56 |
 | Medium Coeli | 13:10:56 |
-| Sunset | 20:08:40 |
+| Sunset | 20:08:39 |
 | Maghrib | 20:14:17 |
 | Isha (Night) | 21:43:18 |
-| Sharia Midnight | 00:20:35 |
+| Sharia Midnight | 00:20:34 |
 | Imum Coeli | 01:10:54 |
 {{< /tab >}}
 
@@ -88,7 +88,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Sunrise | 06:12:43 |
 | Dhuhr (Noon) | 13:10:56 |
 | Medium Coeli | 13:10:56 |
-| Sunset | 20:08:40 |
+| Sunset | 20:08:39 |
 | Maghrib | 20:14:17 |
 | Isha (Night) | 21:30:54 |
 | Sharia Midnight | 00:29:57 |
@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|24°22'6.51" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|10°38'0.90" |Cancer|Nathrah|Mercury|
 |♀ Venus|Direct|26°3'6.94" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|21°14'58.17" |Gemini|Dhira|Sun|
+|☿ Mercury|Post-Retrograde Shadow|21°14'58.17" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|0°19'12.75" |Pisces|FarghAlMuqaddam|Saturn|
 
 
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|24°22'6.51" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|10°38'0.90" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|26°3'6.94" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|21°14'58.17" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|21°14'58.17" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|0°19'12.75" |Aries|Sharatain|Mars|
 
 

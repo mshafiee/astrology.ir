@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 02:11:44 |
+| Fajr (Dawn) | 02:11:45 |
 | Sunrise | 05:28:22 |
 | Dhuhr (Noon) | 13:06:36 |
 | Medium Coeli | 13:06:36 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'25.15" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|7°40'0.95" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|25°12'57.74" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|14°41'25.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|7°40'0.87" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|25°12'57.71" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|11°50'21.80" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°20'40.94" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|22°34'20.83" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|17°14'36.40" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|27°20'40.91" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°34'20.85" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|17°14'35.51" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'25.15" |Aries|Butain|Sun|
+|♄ Saturn|Retrograde|14°41'25.16" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|7°40'0.95" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|25°12'57.74" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°50'21.80" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|27°20'40.94" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°34'20.83" |Cancer|Tarf|Moon|
+|☿ Mercury|Post-Retrograde Shadow|22°34'20.83" |Cancer|Tarf|Moon|
 |☾ Moon|Direct|17°14'36.40" |Aries|Butain|Sun|
 
 

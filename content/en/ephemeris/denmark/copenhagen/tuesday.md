@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:15:51 |
 | Sunset | 21:10:03 |
 | Maghrib | 21:11:56 |
-| Isha (Night) | 01:05:28 |
+| Isha (Night) | 01:05:27 |
 | Sharia Midnight | Circumpolar Angle |
 | Imum Coeli | 01:15:48 |
 {{< /tab >}}
@@ -300,11 +300,11 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°41'27.57" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|7°39'23.75" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|25°11'3.95" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|11°47'40.98" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°17'49.49" |Leo|Sarfrah|Mars|
-|☿ Mercury|Direct|22°31'11.99" |Gemini|Dhira|Sun|
+|♃ Jupiter|Direct|7°39'23.26" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|25°11'3.26" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|11°47'38.49" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|27°17'46.49" |Leo|Sarfrah|Mars|
+|☿ Mercury|Post-Retrograde Shadow|22°31'11.99" |Gemini|Dhira|Sun|
 |☾ Moon|Direct|16°37'40.48" |Pisces|FarghAlMuakhar|Jupiter|
 
 
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|14°41'27.57" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|7°39'23.26" |Leo|Jabhah|Saturn|
 |♂ Mars|Direct|25°11'3.26" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|11°47'40.98" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|27°17'49.49" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°31'14.29" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|16°25'19.17" |Aries|Butain|Sun|
+|☉ Sun|Direct|11°47'38.49" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|27°17'46.49" |Virgo|Simak|Mercury|
+|☿ Mercury|Post-Retrograde Shadow|22°31'11.99" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|16°37'40.48" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
