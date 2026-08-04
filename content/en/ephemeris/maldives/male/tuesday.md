@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 12:12:05 |
 | Sunset | 18:20:53 |
 | Maghrib | 18:21:49 |
-| Isha (Night) | 19:30:03 |
+| Isha (Night) | 19:30:04 |
 | Sharia Midnight | 23:35:22 |
 | Imum Coeli | 00:12:02 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'32.38" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|7°38'7.86" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|25°7'13.92" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|14°41'32.37" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|7°38'7.95" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|25°7'13.94" |Taurus|HaqAh|Saturn|
 |☉ Sun|Direct|11°42'12.82" |Cancer|Nathrah|Mercury|
-|♀ Venus|Direct|27°11'57.79" |Leo|Sarfrah|Mars|
-|☿ Mercury|Post-Retrograde Shadow|22°24'57.34" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|15°13'37.08" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|27°11'57.82" |Leo|Sarfrah|Mars|
+|☿ Mercury|Direct|22°24'57.33" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|15°13'37.96" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°41'32.38" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|7°38'7.86" |Leo|Jabhah|Saturn|
-|♂ Mars|Direct|25°7'13.92" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°41'32.37" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|7°38'7.95" |Leo|Jabhah|Saturn|
+|♂ Mars|Direct|25°7'13.94" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|11°42'12.82" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|27°11'45.08" |Virgo|Simak|Mercury|
-|☿ Mercury|Post-Retrograde Shadow|22°24'52.95" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|16°16'56.56" |Aries|Butain|Sun|
+|♀ Venus|Direct|27°11'57.82" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|22°24'57.33" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|15°13'37.96" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
