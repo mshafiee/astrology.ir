@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°36'2.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|8°44'52.48" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|28°29'28.89" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|16°31'49.26" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|2°17'24.94" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|29°3'53.17" |Gemini|Dhira|Sun|
-|☾ Moon|Direct|27°24'26.76" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|14°36'2.59" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|8°44'52.29" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|28°29'27.04" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|16°31'48.89" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|2°17'28.87" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Post-Retrograde Shadow|29°3'51.56" |Gemini|Dhira|Sun|
+|☾ Moon|Direct|26°59'21.32" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Saturn|Saturn|Saturn|Jupiter|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Saturn|Mars|Saturn|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°36'2.58" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|8°44'52.38" |Leo|Zubrah|Saturn|
-|♂ Mars|Direct|28°29'27.06" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°36'2.59" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|8°44'52.29" |Leo|Zubrah|Saturn|
+|♂ Mars|Direct|28°29'27.04" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|16°31'48.89" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|2°17'28.90" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|29°3'51.56" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|26°59'21.40" |Gemini|Dhira|Sun|
+|♀ Venus|Direct|2°17'28.87" |Libra|Ghafr|Moon|
+|☿ Mercury|Post-Retrograde Shadow|29°3'51.56" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|26°59'21.32" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
