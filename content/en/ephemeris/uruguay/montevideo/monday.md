@@ -304,7 +304,7 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|0°3'18.70" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|18°47'21.11" |Cancer|Tarf|Mercury|
 |♀ Venus|Direct|4°37'23.80" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|2°51'49.14" |Cancer|Nathrah|Venus|
+|☿ Mercury|Direct|2°51'49.14" |Cancer|Nathrah|Venus|
 |☾ Moon|Direct|1°42'5.43" |Cancer|Nathrah|Venus|
 
 
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°32'35.78" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|9°15'57.56" |Leo|Zubrah|Saturn|
-|♂ Mars|Direct|0°3'13.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|18°47'16.75" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|4°37'27.73" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|2°51'43.27" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|0°55'2.73" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|14°32'36.56" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|9°15'58.38" |Leo|Zubrah|Saturn|
+|♂ Mars|Direct|0°3'18.70" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|18°47'21.11" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|4°37'23.80" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°51'49.14" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|1°42'5.43" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

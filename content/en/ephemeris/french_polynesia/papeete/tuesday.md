@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 11:28:32|Night duration: 12:30:54|
-|Every hour of day duration: 00:57:23|Every hour of night duration: 01:02:34|
+|Every hour of day duration: 00:57:23|Every hour of night duration: 01:02:35|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°30'34.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|9°32'18.77" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|0°52'34.32" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|19°58'43.03" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°50'16.39" |Virgo|Awwa|Sun|
-|☿ Mercury|Post-Retrograde Shadow|5°0'44.00" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|18°19'1.18" |Cancer|Tarf|Mercury|
+|♃ Jupiter|Direct|9°32'21.33" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°52'40.91" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|19°58'58.07" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|5°50'28.30" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|5°0'57.64" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|20°3'15.43" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Mercury|Mars|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Mercury|Mercury|Mars|Moon|
+|☾ Moon|Jupiter|Venus|Jupiter|Mercury|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Jupiter|Aquarius|Sun|Mars|
 |♀ Venus|Moon|Saturn|Scorpio|Moon|Venus|
 |☿ Mercury|Saturn|Sun|Virgo|Moon|Moon|
-|☾ Moon|Sun|Jupiter|Aquarius|Sun|Mars|
+|☾ Moon|Sun|Saturn|Pisces|Sun|Mars|
 
 
 {{< /tab >}}
@@ -343,7 +343,7 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|0°52'40.91" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|19°58'58.07" |Leo|Zubrah|Jupiter|
 |♀ Venus|Direct|5°50'28.30" |Libra|Ghafr|Moon|
-|☿ Mercury|Post-Retrograde Shadow|5°0'57.64" |Leo|Jabhah|Saturn|
+|☿ Mercury|Direct|5°0'57.64" |Leo|Jabhah|Saturn|
 |☾ Moon|Direct|20°3'15.43" |Leo|Zubrah|Mars|
 
 
