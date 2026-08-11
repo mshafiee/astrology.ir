@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°34'38.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|14°34'38.33" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|8°58'12.32" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|29°9'42.90" |Taurus|HaqAh|Saturn|
-|☉ Sun|Direct|17°29'52.62" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|3°17'40.23" |Virgo|Sarfrah|Sun|
-|☿ Mercury|Direct|0°38'39.21" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|12°0'6.01" |Gemini|HanAh|Mars|
+|♂ Mars|Direct|29°9'42.23" |Taurus|HaqAh|Saturn|
+|☉ Sun|Direct|17°29'52.08" |Cancer|Tarf|Mercury|
+|♀ Venus|Direct|3°17'41.02" |Virgo|Sarfrah|Sun|
+|☿ Mercury|Direct|0°38'38.36" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|11°51'33.08" |Gemini|HanAh|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mars|Moon|
 |♀ Venus|Mercury|Mercury|Mercury|Jupiter|
 |☿ Mercury|Mars|Mars|Moon|Saturn|
-|☾ Moon|Venus|Jupiter|Venus|Mars|
+|☾ Moon|Jupiter|Jupiter|Venus|Mars|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°34'38.34" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|8°58'12.32" |Leo|Zubrah|Saturn|
-|♂ Mars|Direct|29°9'42.90" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|14°34'38.33" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|8°58'12.41" |Leo|Zubrah|Saturn|
+|♂ Mars|Direct|29°9'42.92" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|17°29'52.62" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|3°17'40.23" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|0°38'39.21" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|12°0'6.01" |Cancer|Nathrah|Mercury|
+|♀ Venus|Direct|3°17'40.26" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|0°38'39.20" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|12°0'6.42" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

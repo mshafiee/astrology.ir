@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|10°4'14.43" |Cancer|Nathrah|Mercury|
 |♂ Mars|Direct|2°28'40.16" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|22°18'46.89" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|8°11'19.88" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|9°27'16.65" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|23°58'56.82" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|8°11'4.41" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|9°27'6.66" |Cancer|Nathrah|Venus|
+|☾ Moon|Direct|22°38'22.78" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Saturn|Pisces|Sun|Mars|
 |♀ Venus|Moon|Jupiter|Sagittarius|Moon|Venus|
 |☿ Mercury|Jupiter|Mercury|Libra|Moon|Moon|
-|☾ Moon|Jupiter|Mars|Taurus|Moon|Venus|
+|☾ Moon|Jupiter|Venus|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°26'9.85" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|10°4'14.43" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|2°28'40.16" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|22°18'46.89" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|8°11'19.88" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|9°27'16.65" |Leo|Zubrah|Saturn|
-|☾ Moon|Direct|23°58'56.82" |Virgo|Simak|Mercury|
+|♃ Jupiter|Direct|10°4'12.26" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|2°28'36.58" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|22°18'34.33" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|8°11'4.41" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|9°27'6.66" |Leo|Zubrah|Saturn|
+|☾ Moon|Direct|22°38'22.78" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Venus|Aries|Moon|Venus|
 |♀ Venus|Mercury|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mercury|Mercury|Scorpio|Sun|Sun|
-|☾ Moon|Sun|Sun|Gemini|Sun|Moon|
+|☾ Moon|Sun|Moon|Gemini|Sun|Moon|
 
 
 {{< /tab >}}
