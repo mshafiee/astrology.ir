@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°31'32.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|9°24'43.79" |Cancer|Nathrah|Venus|
-|♂ Mars|Direct|0°29'42.27" |Gemini|HaqAh|Jupiter|
+|♄ Saturn|Retrograde|14°31'32.34" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|9°24'43.70" |Cancer|Nathrah|Venus|
+|♂ Mars|Direct|0°29'42.25" |Gemini|HaqAh|Jupiter|
 |☉ Sun|Direct|19°25'37.80" |Cancer|Tarf|Mercury|
-|♀ Venus|Direct|5°16'31.76" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|5°16'31.74" |Virgo|Awwa|Sun|
 |☿ Mercury|Direct|4°0'7.63" |Cancer|Nathrah|Venus|
-|☾ Moon|Direct|11°48'16.44" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|11°48'15.48" |Cancer|Nathrah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°31'32.33" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|9°24'42.71" |Leo|Zubrah|Saturn|
-|♂ Mars|Direct|0°29'36.91" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|19°25'31.34" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|5°16'33.41" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|4°0'0.14" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|10°54'16.34" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|14°31'32.34" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|9°24'43.70" |Leo|Zubrah|Saturn|
+|♂ Mars|Direct|0°29'42.25" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|19°25'37.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|5°16'31.74" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|4°0'7.63" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|11°48'15.48" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Sun|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Venus|Mercury|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
