@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°23'59.80" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|10°18'32.45" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|3°11'40.67" |Gemini|HaqAh|Jupiter|
-|☉ Sun|Direct|23°21'42.30" |Cancer|Tarf|Moon|
-|♀ Venus|Direct|9°13'54.41" |Virgo|Awwa|Sun|
-|☿ Mercury|Direct|11°32'0.02" |Cancer|Nathrah|Mercury|
-|☾ Moon|Direct|8°36'42.28" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|10°18'32.48" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|3°11'40.81" |Gemini|HaqAh|Jupiter|
+|☉ Sun|Direct|23°21'42.50" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|9°13'54.39" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|11°32'0.22" |Cancer|Nathrah|Mercury|
+|☾ Moon|Direct|8°36'40.01" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°23'59.80" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|10°18'30.95" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|3°11'34.72" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|23°21'34.00" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|9°13'53.77" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|11°31'51.99" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|8°31'18.32" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|10°18'32.45" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|3°11'40.67" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|23°21'42.30" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|9°13'54.41" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|11°32'0.02" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|8°36'42.28" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Jupiter|Mars|Taurus|Moon|Venus|
 |♀ Venus|Moon|Jupiter|Capricorn|Sun|Venus|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
