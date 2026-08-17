@@ -85,7 +85,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:08:43 |
-| Sunrise | 04:22:19 |
+| Sunrise | 04:22:18 |
 | Dhuhr (Noon) | 11:47:10 |
 | Medium Coeli | 11:47:10 |
 | Sunset | 19:10:42 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 01:26:46 |
-| Sunrise | 04:22:19 |
+| Sunrise | 04:22:18 |
 | Dhuhr (Noon) | 11:47:10 |
 | Medium Coeli | 11:47:10 |
 | Sunset | 19:10:42 |
@@ -339,9 +339,9 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°17'47.39" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|10°55'54.74" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|5°4'0.14" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|26°6'46.38" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|10°55'54.64" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|5°4'0.13" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|26°6'46.37" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|11°55'27.54" |Libra|Ghafr|Saturn|
 |☿ Mercury|Direct|17°8'58.75" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|14°24'27.10" |Scorpio|Qalb|Sun|
