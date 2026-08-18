@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°9'33.87" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|11°39'30.55" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|7°14'57.26" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°20'42.06" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|15°0'1.53" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°53'24.55" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|24°9'17.42" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|7°14'57.30" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|29°20'42.01" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|15°0'1.32" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°53'24.53" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|24°8'41.79" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°9'33.87" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°39'30.55" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|7°14'57.30" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°20'42.01" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°0'1.32" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|23°53'24.53" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|24°8'41.79" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|11°39'28.06" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|7°14'52.99" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°20'26.90" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°59'41.70" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|23°53'13.08" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°32'58.61" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -364,7 +364,7 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Mercury|Moon|Sagittarius|Sun|Sun|
 |♂ Mars|Saturn|Mercury|Virgo|Moon|Moon|
 |☉ Sun|Mars|Jupiter|Cancer|Moon|Venus|
-|♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
+|♀ Venus|Saturn|Saturn|Pisces|Sun|Venus|
 |☿ Mercury|Jupiter|Mars|Taurus|Moon|Venus|
 |☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
