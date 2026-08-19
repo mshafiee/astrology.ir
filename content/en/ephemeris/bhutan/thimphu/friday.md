@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:11:38 |
-| Sunrise | 05:35:39 |
+| Sunrise | 05:35:38 |
 | Dhuhr (Noon) | 12:04:39 |
 | Medium Coeli | 12:04:39 |
 | Sunset | 18:33:15 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°10'40.49" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|11°33'56.10" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|6°58'12.69" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|28°55'49.06" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|14°36'40.82" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°1'22.94" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|19°6'10.75" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|14°10'40.50" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|11°33'56.00" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|6°58'12.68" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|28°55'49.05" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|14°36'40.76" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°1'22.91" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|19°6'11.66" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°10'40.49" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°33'56.10" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|6°58'12.69" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|28°55'49.06" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°36'40.82" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|23°1'22.94" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|19°6'10.75" |Sagittarius|Baldah|Moon|
+|♄ Saturn|Retrograde|14°10'40.50" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|11°33'56.00" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|6°58'12.68" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|28°55'49.05" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°36'40.76" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|23°1'22.91" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|19°6'11.66" |Sagittarius|Baldah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

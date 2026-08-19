@@ -1,6 +1,6 @@
 ---
-date: 2026-08-17T00:00:00+02:00
-lastmod: 2026-08-17T00:00:00+02:00
+date: 2026-08-24T00:00:00+02:00
+lastmod: 2026-08-24T00:00:00+02:00
 title: Longyearbyen Monday
 slug: monday
 categories:
@@ -9,7 +9,7 @@ tags:
   - Ephemeris
   - 
   - Longyearbyen
-description: 🗓 Monday, 17 Aug 2026
+description: 🗓 Monday, 24 Aug 2026
 
 toc: false
 ---
@@ -210,8 +210,8 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour of day duration: 00:00:00|Every hour of night duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour of day duration: 00:00:00|Every hour of night duration: 213503:58:56|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -232,18 +232,18 @@ Timetable of twelve day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|00:00:00|23:59:59|Repelling magic, attracting discharged energy|
-|2|Mercury|Servant|00:00:00|23:59:59|Outer and inner journey|
-|3|Moon|Servant|00:00:00|23:59:59|Marriage connection is good|
-|4|Saturn|Servant|00:00:00|23:59:59|Repelling and destroying enemies and discharging enemy energy|
-|5|Jupiter|Servant|00:00:00|23:59:59|Answering needs, attracting love and wealth|
-|6|Mars|Servant|00:00:00|23:59:59|Summoning the person of interest, love and dominance|
-|7|Sun|Servant|00:00:00|23:59:59|Making promises|
-|8|Venus|Ruler|00:00:00|23:59:59|Reconciliation of two persons, attracting love|
-|9|Mercury|Servant|00:00:00|23:59:59|Attracting and repelling enemies and causing separation|
-|10|Moon|Servant|00:00:00|23:59:59|Good for any task|
-|11|Saturn|Servant|00:00:00|23:59:59|Creating enmity and negative energy|
-|12|Jupiter|Servant|00:00:00|23:59:59|Heart tenderness|
+|1|Venus|Ruler|00:00:00|23:58:55|Repelling magic, attracting discharged energy|
+|2|Mercury|Servant|23:58:56|23:57:51|Outer and inner journey|
+|3|Moon|Servant|23:57:52|23:56:48|Marriage connection is good|
+|4|Saturn|Servant|23:56:49|23:55:44|Repelling and destroying enemies and discharging enemy energy|
+|5|Jupiter|Servant|23:55:45|23:54:41|Answering needs, attracting love and wealth|
+|6|Mars|Servant|23:54:42|23:53:37|Summoning the person of interest, love and dominance|
+|7|Sun|Servant|23:53:38|23:52:33|Making promises|
+|8|Venus|Ruler|23:52:34|23:51:30|Reconciliation of two persons, attracting love|
+|9|Mercury|Servant|23:51:31|23:50:26|Attracting and repelling enemies and causing separation|
+|10|Moon|Servant|23:50:27|23:49:23|Good for any task|
+|11|Saturn|Servant|23:49:24|23:48:19|Creating enmity and negative energy|
+|12|Jupiter|Servant|23:48:20|23:47:15|Heart tenderness|
 
  
  
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 00:00:00|Night duration: 00:00:00|
-|Every hour duration: 00:00:00|Every hour duration: 00:00:00|
+|Duration of the day: 00:00:00|Night duration: 2562047:47:16|
+|Every hour duration: 00:00:00|Every hour duration: 366006:49:37|
 
  
  
@@ -275,13 +275,13 @@ Timetable of septet day and night planetary hours
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|00:00:00|23:59:59|
-|Late evening|Mercury|Servant|00:00:00|23:59:59|
-|Midnight|Moon|Servant|00:00:00|23:59:59|
-|Late at night|Saturn|Servant|00:00:00|23:59:59|
-|Rooster song|Jupiter|Servant|00:00:00|23:59:59|
-|False Dawn|Mars|Servant|00:00:00|23:59:59|
-|Dawn|Sun|Servant|00:00:00|23:59:59|
+|Evening|Venus|Ruler|00:00:00|06:49:35|
+|Late evening|Mercury|Servant|06:49:36|13:39:12|
+|Midnight|Moon|Servant|13:39:13|20:28:49|
+|Late at night|Saturn|Servant|20:28:50|03:18:25|
+|Rooster song|Jupiter|Servant|03:18:26|10:08:02|
+|False Dawn|Mars|Servant|10:08:03|16:57:39|
+|Dawn|Sun|Servant|16:57:40|23:47:15|
 
 {{< /tab >}}
 
@@ -299,14 +299,35 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Retrograde|14°2'37.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°12'32.61" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|8°54'13.85" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|1°48'45.06" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|17°16'41.02" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|29°1'57.53" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°51'51.60" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Jupiter|Mercury|Moon|Sun|
+|♃ Jupiter|Venus|Jupiter|Mars|Moon|
+|♂ Mars|Jupiter|Jupiter|Mercury|Sun|
+|☉ Sun|Jupiter|Saturn|Sun|Venus|
+|♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
+|☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Venus|Mars|Leo|Moon|Jupiter|
+|♃ Jupiter|Jupiter|Venus|Scorpio|Moon|Moon|
+|♂ Mars|Saturn|Jupiter|Virgo|Sun|Mercury|
+|☉ Sun|Sun|Mars|Leo|Sun|Sun|
+|♀ Venus|Mars|Mercury|Pisces|Sun|Moon|
+|☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
+|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -317,14 +338,35 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Retrograde|14°2'37.87" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°12'32.61" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|8°54'13.85" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°48'45.06" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|17°16'41.02" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|29°1'57.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|24°51'51.60" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
 |-|:-:|:-:|:-:|:-:|
+|♄ Saturn|Mercury|Mercury|Sun|Jupiter|
+|♃ Jupiter|Saturn|Mercury|Jupiter|Sun|
+|♂ Mars|Venus|Jupiter|Moon|Saturn|
+|☉ Sun|Mercury|Mercury|Mercury|Jupiter|
+|♀ Venus|Jupiter|Jupiter|Saturn|Venus|
+|☿ Mercury|Mars|Mars|Mars|Mars|
+|☾ Moon|Saturn|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
 |-|:-:|:-:|:-:|:-:|:-:|
+|♄ Saturn|Mercury|Sun|Virgo|Sun|Mars|
+|♃ Jupiter|Mercury|Moon|Sagittarius|Sun|Sun|
+|♂ Mars|Jupiter|Mercury|Libra|Moon|Moon|
+|☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
+|♀ Venus|Jupiter|Jupiter|Aries|Moon|Moon|
+|☿ Mercury|Mars|Jupiter|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Sun|Libra|Sun|Venus|
 
 
 {{< /tab >}}
@@ -337,10 +379,10 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |<sub>**♃ Jupiter**|<sub>△ Trine|<sub>|<sub>|<sub>|<sub>|<sub></sub>|
 |<sub>**♂ Mars**|<sub>□ Square|<sub> |<sub>|<sub>|<sub>|<sub></sub>|
-|<sub>**☉ Sun**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>|<sub>|<sub></sub>|
-|<sub>**♀ Venus**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>|<sub></sub>|
-|<sub>**☿ Mercury**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub>☌ Conjunction|<sub>✱ Sextile|<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile</sub>|
+|<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
+|<sub>**♀ Venus**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub>|<sub></sub>|
+|<sub>**☿ Mercury**|<sub>△ Trine|<sub>☌ Conjunction|<sub> |<sub> |<sub>✱ Sextile|<sub></sub>|
+|<sub>**☾ Moon**|<sub>□ Square|<sub> |<sub>☍ Opposition|<sub>△ Trine|<sub>□ Square|<sub> </sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
