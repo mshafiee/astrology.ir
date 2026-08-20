@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 12:59:05|Night duration: 11:01:24|
+|Duration of the day: 12:59:05|Night duration: 11:01:25|
 |Every hour of day duration: 01:04:55|Every hour of night duration: 00:55:07|
 
  
@@ -243,7 +243,7 @@ Timetable of twelve day and night planetary hours
 |9|Saturn|Servant|01:55:10|02:50:16|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Jupiter|Servant|02:50:17|03:45:23|The moon is in Scorpio, Not suitable for doing anything.|
 |11|Mars|Servant|03:45:24|04:40:30|The moon is in Scorpio, Not suitable for doing anything.|
-|12|Sun|Servant|04:40:31|05:35:37|The moon is in Scorpio, Not suitable for doing anything.|
+|12|Sun|Servant|04:40:31|05:35:38|The moon is in Scorpio, Not suitable for doing anything.|
 
  
  
