@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:33:42 |
 | Dhuhr (Noon) | 12:38:20 |
 | Medium Coeli | 12:38:20 |
-| Sunset | 19:41:50 |
+| Sunset | 19:41:51 |
 | Maghrib | 19:44:22 |
 | Isha (Night) | 21:59:17 |
 | Sharia Midnight | 23:29:49 |
@@ -256,7 +256,7 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 14:08:08|Night duration: 09:53:31|
+|Duration of the day: 14:08:09|Night duration: 09:53:30|
 |Every hour duration: 02:01:10|Every hour duration: 01:24:47|
 
  
@@ -267,18 +267,18 @@ Timetable of septet day and night planetary hours
 |Early morning|Moon|Ruler|05:33:42|07:34:50|
 |Mid-morning|Saturn|Servant|07:34:51|09:36:00|
 |Late morning|Jupiter|Servant|09:36:01|11:37:10|
-|Noon|Mars|Servant|11:37:11|13:38:19|
-|Early afternoon|Sun|Servant|13:38:20|15:39:29|
-|Mid-afternoon|Venus|Servant|15:39:30|17:40:39|
-|Late afternoon|Mercury|Servant|17:40:40|19:41:49|
+|Noon|Mars|Servant|11:37:11|13:38:20|
+|Early afternoon|Sun|Servant|13:38:21|15:39:30|
+|Mid-afternoon|Venus|Servant|15:39:31|17:40:40|
+|Late afternoon|Mercury|Servant|17:40:41|19:41:50|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|19:41:50|21:06:36|
-|Late evening|Mercury|Servant|21:06:37|22:31:23|
-|Midnight|Moon|Servant|22:31:24|23:56:10|
-|Late at night|Saturn|Servant|23:56:11|01:20:58|
+|Evening|Venus|Ruler|19:41:51|21:06:37|
+|Late evening|Mercury|Servant|21:06:38|22:31:24|
+|Midnight|Moon|Servant|22:31:25|23:56:11|
+|Late at night|Saturn|Servant|23:56:12|01:20:58|
 |Rooster song|Jupiter|Servant|01:20:59|02:45:45|
 |False Dawn|Mars|Servant|02:45:46|04:10:32|
 |Dawn|Sun|Servant|04:10:33|05:35:20|

@@ -227,7 +227,7 @@ Timetable of twelve day and night planetary hours
 |9|Jupiter|Servant|15:33:04|16:38:44|The moon is in Scorpio, Not suitable for doing anything.|
 |10|Mars|Servant|16:38:45|17:44:24|Doing evil deeds|
 |11|Sun|Servant|17:44:25|18:50:04|Acceptance of reconciliation between couples|
-|12|Venus|Servant|18:50:05|19:55:45|For gaining dignity|
+|12|Venus|Servant|18:50:05|19:55:45|The moon is in Scorpio, Not suitable for doing anything.|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°6'56.28" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°52'21.74" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|7°53'34.17" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°18'11.30" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|15°53'33.09" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|25°53'29.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°49'37.13" |Capricorn|SaadAlDhabib|Jupiter|
+|♃ Jupiter|Direct|11°52'20.80" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|7°53'29.58" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|0°18'7.09" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|15°53'37.03" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|25°53'25.52" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°43'54.21" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Mercury|Mercury|Jupiter|
 |♀ Venus|Jupiter|Jupiter|Saturn|Venus|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Mercury|Venus|Saturn|Sun|
+|☾ Moon|Mercury|Mercury|Saturn|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mercury|Saturn|Virgo|Moon|Venus|
 |♀ Venus|Saturn|Saturn|Aries|Moon|Moon|
 |☿ Mercury|Mars|Mars|Gemini|Moon|Venus|
-|☾ Moon|Jupiter|Saturn|Pisces|Moon|Saturn|
+|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
 
 
 {{< /tab >}}

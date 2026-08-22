@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 18:48:56 |
 | Isha (Night) | 20:02:57 |
 | Sharia Midnight | 23:44:42 |
-| Imum Coeli | 00:24:24 |
+| Imum Coeli | 00:24:25 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -92,7 +92,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Maghrib | 18:48:56 |
 | Isha (Night) | 19:53:36 |
 | Sharia Midnight | 23:51:43 |
-| Imum Coeli | 00:24:24 |
+| Imum Coeli | 00:24:25 |
 {{< /tab >}}
 
 {{< tab tabName="EGAS" tabActive=false tabTitle="EGAS" >}}
@@ -124,7 +124,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Maghrib | 18:48:56 |
 | Isha (Night) | 20:07:39 |
 | Sharia Midnight | 23:44:42 |
-| Imum Coeli | 00:24:24 |
+| Imum Coeli | 00:24:25 |
 {{< /tab >}}
 
 {{< tab tabName="UMQU" tabActive=false tabTitle="UMQU" >}}

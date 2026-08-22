@@ -84,7 +84,7 @@ __Muslim World League Calculation Method__
 __Islamic Society of North America (ISNA) Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:31:12 |
+| Fajr (Dawn) | 05:31:11 |
 | Sunrise | 06:30:22 |
 | Dhuhr (Noon) | 12:28:33 |
 | Medium Coeli | 12:28:33 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°10'9.06" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|11°36'34.76" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|7°6'9.32" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°7'36.73" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|14°47'45.26" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°26'3.77" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|21°31'40.29" |Scorpio|Shaulah|Venus|
+|♄ Saturn|Retrograde|14°10'9.07" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|11°36'34.67" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|7°6'9.31" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|29°7'36.72" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|14°47'45.21" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°26'3.40" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|21°35'1.80" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°10'9.06" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°36'34.76" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|7°6'9.32" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°7'36.73" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°47'45.26" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|23°26'3.77" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°31'40.29" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|11°36'34.67" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|7°6'9.31" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°7'36.72" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°47'45.21" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|23°26'3.74" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°31'41.06" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|12°12'39.97" |Cancer|Nathrah|Mercury|
 |♂ Mars|Direct|8°54'35.08" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|1°49'19.30" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°16'50.80" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|29°2'48.76" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°45'20.58" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°17'13.37" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|29°3'1.38" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|24°31'17.71" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Jupiter|Jupiter|Saturn|Saturn|
 |☿ Mercury|Saturn|Saturn|Jupiter|Mercury|
-|☾ Moon|Saturn|Mars|Sun|Venus|
+|☾ Moon|Saturn|Saturn|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Mars|Leo|Sun|Sun|
 |♀ Venus|Mars|Mercury|Pisces|Sun|Moon|
 |☿ Mercury|Mercury|Jupiter|Gemini|Sun|Mars|
-|☾ Moon|Saturn|Mars|Libra|Moon|Mercury|
+|☾ Moon|Moon|Mars|Virgo|Moon|Mercury|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°2'36.15" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°12'39.97" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|8°54'30.38" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|1°49'2.45" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|17°16'50.80" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|29°2'48.76" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°45'20.58" |Capricorn|SaadAlSaud|Sun|
+|♃ Jupiter|Direct|12°12'37.32" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|8°54'30.60" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|1°49'2.59" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|17°16'50.49" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|29°2'48.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°43'0.82" |Capricorn|SaadAlSaud|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

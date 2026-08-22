@@ -224,7 +224,7 @@ Timetable of twelve day and night planetary hours
 |6|Mercury|Servant|11:52:45|12:56:14|The moon is in Scorpio, Not suitable for doing anything.|
 |7|Moon|Servant|12:56:15|13:59:43|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Saturn|Ruler|13:59:44|15:03:13|Destruction of enemies|
-|9|Jupiter|Servant|15:03:14|16:06:43|The moon is in Scorpio, Not suitable for doing anything.|
+|9|Jupiter|Servant|15:03:14|16:06:43|All good deeds|
 |10|Mars|Servant|16:06:44|17:10:12|Doing evil deeds|
 |11|Sun|Servant|17:10:13|18:13:42|Acceptance of reconciliation between couples|
 |12|Venus|Servant|18:13:43|19:17:12|For gaining dignity|
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|14°6'37.54" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|11°53'51.71" |Cancer|Nathrah|Mercury|
 |♂ Mars|Direct|7°58'4.43" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|0°24'54.30" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|15°59'46.16" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|26°7'29.41" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|7°10'59.73" |Sagittarius|NaAaem|Mercury|
+|☉ Sun|Direct|0°24'54.31" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|15°59'46.94" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|26°7'29.38" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|7°14'25.33" |Sagittarius|NaAaem|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|14°6'37.54" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|11°53'51.71" |Leo|Zubrah|Jupiter|
 |♂ Mars|Direct|7°58'4.43" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|0°24'54.30" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|15°59'46.16" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|26°7'29.41" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|7°10'59.73" |Capricorn|SaadAlDhabib|Jupiter|
+|☉ Sun|Direct|0°24'54.31" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|15°59'46.94" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|26°7'29.38" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|7°14'25.33" |Capricorn|SaadAlDhabib|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
