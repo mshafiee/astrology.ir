@@ -236,7 +236,7 @@ Timetable of twelve day and night planetary hours
 |2|Moon|Servant|20:43:53|21:34:56|The moon is in Scorpio, Not suitable for doing anything.|
 |3|Saturn|Servant|21:34:57|22:25:59|The moon is in Scorpio, Not suitable for doing anything.|
 |4|Jupiter|Servant|22:26:00|23:17:03|The moon is in Scorpio, Not suitable for doing anything.|
-|5|Mars|Servant|23:17:04|00:08:06|The moon is in Scorpio, Not suitable for doing anything.|
+|5|Mars|Servant|23:17:04|00:08:06|Auspicious|
 |6|Sun|Servant|00:08:07|00:59:10|Writing, swapping and making promises|
 |7|Venus|Servant|00:59:11|01:50:13|Not suitable for any task|
 |8|Mercury|Ruler|01:50:14|02:41:17|Destruction of enemies|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°10'11.84" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|11°36'20.51" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|7°5'26.95" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°6'33.86" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|14°46'46.29" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°23'52.41" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|21°18'56.49" |Scorpio|Qalb|Venus|
+|♄ Saturn|Retrograde|14°10'11.83" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|11°36'20.61" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|7°5'26.96" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|29°6'33.87" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|14°46'46.34" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°23'52.43" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|21°18'55.70" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°10'11.84" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°36'20.51" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|7°5'26.95" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°6'33.86" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°46'46.29" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|23°23'52.41" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|21°18'56.49" |Sagittarius|Baldah|Saturn|
+|♄ Saturn|Retrograde|14°10'11.83" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|11°36'20.61" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|7°5'26.96" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°6'33.87" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°46'46.34" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|23°23'52.43" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|21°18'55.70" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

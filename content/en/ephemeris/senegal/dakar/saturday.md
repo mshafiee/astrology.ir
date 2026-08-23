@@ -234,7 +234,7 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|19:28:35|20:25:54|The moon is in Scorpio, Not suitable for doing anything.|
 |2|Moon|Servant|20:25:55|21:23:14|The moon is in Scorpio, Not suitable for doing anything.|
-|3|Saturn|Servant|21:23:15|22:20:35|The moon is in Scorpio, Not suitable for doing anything.|
+|3|Saturn|Servant|21:23:15|22:20:35|Vengeful and evil deeds|
 |4|Jupiter|Servant|22:20:36|23:17:55|Dominance, judgment and issuing verdict|
 |5|Mars|Servant|23:17:56|00:15:15|Auspicious|
 |6|Sun|Servant|00:15:16|01:12:36|Writing, swapping and making promises|
@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°9'53.27" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|11°37'53.70" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|7°10'6.38" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°13'29.53" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|14°53'16.21" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°38'20.28" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|22°40'54.46" |Scorpio|Shaulah|Venus|
+|♂ Mars|Direct|7°10'6.39" |Gemini|HanAh|Jupiter|
+|☉ Sun|Direct|29°13'29.54" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|14°53'16.26" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°38'20.31" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|23°12'40.49" |Scorpio|Shaulah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,9 +338,9 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°9'53.28" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°37'53.61" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|7°10'6.38" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|14°9'53.27" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|11°37'53.70" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|7°10'6.39" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|29°13'29.54" |Leo|Sarfrah|Mars|
 |♀ Venus|Direct|14°53'16.26" |Libra|Jubana|Saturn|
 |☿ Mercury|Direct|23°38'20.31" |Leo|Sarfrah|Mars|

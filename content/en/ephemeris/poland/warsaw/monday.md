@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 05:33:42 |
 | Dhuhr (Noon) | 12:38:20 |
 | Medium Coeli | 12:38:20 |
-| Sunset | 19:41:50 |
+| Sunset | 19:41:51 |
 | Maghrib | 20:05:40 |
 | Isha (Night) | 21:22:46 |
-| Sharia Midnight | 23:39:16 |
+| Sharia Midnight | 23:39:17 |
 | Imum Coeli | 00:38:12 |
 {{< /tab >}}
 
@@ -72,7 +72,7 @@ __Muslim World League Calculation Method__
 | Sunrise | 05:33:42 |
 | Dhuhr (Noon) | 12:38:20 |
 | Medium Coeli | 12:38:20 |
-| Sunset | 19:41:50 |
+| Sunset | 19:41:51 |
 | Maghrib | 19:44:22 |
 | Isha (Night) | 21:49:39 |
 | Sharia Midnight | 23:29:49 |
@@ -120,7 +120,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 05:33:42 |
 | Dhuhr (Noon) | 12:38:20 |
 | Medium Coeli | 12:38:20 |
-| Sunset | 19:41:51 |
+| Sunset | 19:41:50 |
 | Maghrib | 19:44:22 |
 | Isha (Night) | 21:59:17 |
 | Sharia Midnight | 23:29:49 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°4'55.81" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°1'54.02" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|8°22'13.97" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|14°4'55.82" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°1'53.92" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|8°22'13.96" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|1°0'56.73" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°32'59.32" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°22'35.91" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°39'8.23" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|16°32'59.28" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°22'35.89" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|14°39'7.89" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,12 +338,12 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°4'55.81" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°1'54.02" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|8°22'13.97" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|14°4'55.82" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°1'53.92" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|8°22'13.96" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°0'56.73" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|16°32'59.32" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|27°22'35.91" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|16°32'59.28" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|27°22'35.89" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|14°39'8.23" |Capricorn|SaadAlBula|Mars|
 
 

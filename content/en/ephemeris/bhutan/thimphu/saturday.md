@@ -241,7 +241,7 @@ Timetable of twelve day and night planetary hours
 |7|Venus|Servant|00:04:26|00:59:47|The moon is in Scorpio, Not suitable for doing anything.|
 |8|Mercury|Ruler|00:59:48|01:55:09|The moon is in Scorpio, Not suitable for doing anything.|
 |9|Moon|Servant|01:55:10|02:50:30|The moon is in Scorpio, Not suitable for doing anything.|
-|10|Saturn|Servant|02:50:31|03:45:52|The moon is in Scorpio, Not suitable for doing anything.|
+|10|Saturn|Servant|02:50:31|03:45:52|Doing evil deeds|
 |11|Jupiter|Servant|03:45:53|04:41:14|The moon is in Scorpio, Not suitable for doing anything.|
 |12|Mars|Servant|04:41:15|05:36:36|For gaining dignity|
 
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|14°8'4.21" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|11°46'52.57" |Cancer|Nathrah|Mercury|
 |♂ Mars|Direct|7°37'5.19" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°53'37.95" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|15°30'45.39" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|25°2'13.46" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|0°49'39.54" |Sagittarius|Shaulah|Mercury|
+|☉ Sun|Direct|29°53'24.46" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|15°30'29.02" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|25°2'3.19" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|1°26'12.37" |Sagittarius|Shaulah|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°8'4.21" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°46'50.32" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|7°37'0.89" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°53'24.47" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|15°30'29.06" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|25°2'3.22" |Leo|Sarfrah|Mars|
+|♃ Jupiter|Direct|11°46'50.23" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|7°37'0.88" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°53'24.46" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|15°30'29.02" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|25°2'3.19" |Leo|Sarfrah|Mars|
 |☾ Moon|Direct|1°26'12.58" |Capricorn|SaadAlDhabib|Jupiter|
 
 

@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:20:29 |
-| Sunrise | 05:46:04 |
+| Sunrise | 05:46:03 |
 | Dhuhr (Noon) | 12:27:46 |
 | Medium Coeli | 12:27:46 |
 | Sunset | 19:08:50 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:08:36 |
-| Sunrise | 05:46:04 |
+| Sunrise | 05:46:03 |
 | Dhuhr (Noon) | 12:27:46 |
 | Medium Coeli | 12:27:46 |
 | Sunset | 19:08:50 |
@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|14°10'23.41" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|11°35'22.31" |Cancer|Nathrah|Mercury|
 |♂ Mars|Direct|7°2'31.75" |Gemini|HanAh|Jupiter|
-|☉ Sun|Direct|29°2'14.12" |Cancer|Jabhah|Moon|
-|♀ Venus|Direct|14°42'43.14" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|23°14'48.13" |Cancer|Tarf|Moon|
-|☾ Moon|Direct|20°26'53.09" |Scorpio|Qalb|Venus|
+|☉ Sun|Direct|29°2'13.75" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|14°42'42.23" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|23°14'47.88" |Cancer|Tarf|Moon|
+|☾ Moon|Direct|20°25'2.62" |Scorpio|Qalb|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|14°10'23.41" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|11°35'22.38" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|7°2'31.71" |Cancer|Nathrah|Venus|
-|☉ Sun|Direct|29°2'14.12" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|14°42'43.14" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|23°14'48.13" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|20°26'53.09" |Sagittarius|Baldah|Saturn|
+|♃ Jupiter|Direct|11°35'22.31" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|7°2'31.75" |Cancer|Nathrah|Venus|
+|☉ Sun|Direct|29°2'13.75" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|14°42'42.23" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|23°14'47.88" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|20°25'2.62" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

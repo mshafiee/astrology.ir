@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 02:47:42 |
-| Sunrise | 06:02:40 |
+| Sunrise | 06:02:41 |
 | Dhuhr (Noon) | 13:28:36 |
 | Medium Coeli | 13:28:36 |
 | Sunset | 20:52:43 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:02:41 |
+| Sunrise | 06:02:40 |
 | Dhuhr (Noon) | 13:28:36 |
 | Medium Coeli | 13:28:36 |
 | Sunset | 20:52:43 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:02:41 |
+| Sunrise | 06:02:40 |
 | Dhuhr (Noon) | 13:28:36 |
 | Medium Coeli | 13:28:36 |
 | Sunset | 20:52:43 |
@@ -117,7 +117,7 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:02:40 |
+| Sunrise | 06:02:41 |
 | Dhuhr (Noon) | 13:28:36 |
 | Medium Coeli | 13:28:36 |
 | Sunset | 20:52:43 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | Circumpolar Angle |
-| Sunrise | 06:02:40 |
+| Sunrise | 06:02:41 |
 | Dhuhr (Noon) | 13:28:36 |
 | Medium Coeli | 13:28:36 |
 | Sunset | 20:52:43 |
@@ -210,20 +210,20 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 14:50:03|Night duration: 09:12:36|
+|Duration of the day: 14:50:02|Night duration: 09:12:36|
 |Every hour of day duration: 01:14:10|Every hour of night duration: 00:46:03|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Jupiter|Ruler|06:02:40|07:16:49|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:16:50|08:30:59|Destruction of enemies|
-|3|Sun|Servant|08:31:00|09:45:09|Attraction of financial and emotional love|
-|4|Venus|Servant|09:45:10|10:59:20|Creating love, connection and marriage|
+|1|Jupiter|Ruler|06:02:41|07:16:50|Attraction of material wealth, earning and prosperity|
+|2|Mars|Servant|07:16:51|08:31:00|Destruction of enemies|
+|3|Sun|Servant|08:31:01|09:45:10|Attraction of financial and emotional love|
+|4|Venus|Servant|09:45:11|10:59:20|Creating love, connection and marriage|
 |5|Mercury|Servant|10:59:21|12:13:30|Indulgence|
-|6|Moon|Servant|12:13:31|13:27:40|Outer and inner journey|
-|7|Saturn|Servant|13:27:41|14:41:50|Achieving status and power|
-|8|Jupiter|Ruler|14:41:51|15:56:01|Attraction of happiness and fortune|
+|6|Moon|Servant|12:13:31|13:27:41|Outer and inner journey|
+|7|Saturn|Servant|13:27:42|14:41:51|Achieving status and power|
+|8|Jupiter|Ruler|14:41:52|15:56:01|Attraction of happiness and fortune|
 |9|Mars|Servant|15:56:02|17:10:11|Reaching status and promotion|
 |10|Sun|Servant|17:10:12|18:24:21|Fulfilling needs|
 |11|Venus|Servant|18:24:22|19:38:31|Attraction of love and hearts|

@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°56'40.43" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°38'51.05" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|10°13'20.07" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°47'29.17" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|19°3'25.20" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|3°6'18.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|19°27'30.18" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|13°56'40.42" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°38'50.29" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|10°13'15.86" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°47'25.69" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|19°3'29.65" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|3°6'15.48" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|20°1'32.25" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Jupiter|Saturn|Sun|Venus|
 |♀ Venus|Jupiter|Saturn|Saturn|Saturn|
 |☿ Mercury|Jupiter|Saturn|Sun|Venus|
-|☾ Moon|Venus|Saturn|Venus|Mars|
+|☾ Moon|Venus|Saturn|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°56'40.43" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°38'51.05" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|10°13'20.07" |Cancer|Nathrah|Mercury|
+|♃ Jupiter|Direct|12°38'51.15" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|10°13'20.08" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|3°47'29.17" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|19°3'25.20" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|3°6'18.07" |Virgo|Sarfrah|Sun|
+|♀ Venus|Direct|19°3'25.24" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|3°6'18.08" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|19°27'30.18" |Aquarius|SaadAlAkhbia|Mercury|
 
 
