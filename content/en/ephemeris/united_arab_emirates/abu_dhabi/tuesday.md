@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 19:05:28 |
 | Isha (Night) | 19:48:57 |
 | Sharia Midnight | 23:45:24 |
-| Imum Coeli | 00:24:25 |
+| Imum Coeli | 00:24:24 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°2'19.32" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°13'56.62" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|8°58'25.78" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|14°2'19.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°13'56.72" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|8°58'25.79" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|1°55'4.62" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|17°22'27.33" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|29°14'56.66" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|25°42'35.51" |Sagittarius|Baldah|Saturn|
+|♀ Venus|Direct|17°22'27.36" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|29°14'56.68" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|25°42'35.84" |Sagittarius|Baldah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°2'19.32" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°13'56.62" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|8°58'25.78" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|14°2'19.31" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°13'56.72" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|8°58'25.79" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|1°55'4.62" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|17°22'27.33" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|29°14'56.66" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°42'35.51" |Capricorn|SaadAlBula|Sun|
+|♀ Venus|Direct|17°22'27.36" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|29°14'56.68" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°42'35.84" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

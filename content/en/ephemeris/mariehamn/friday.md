@@ -73,7 +73,7 @@ __Muslim World League Calculation Method__
 | Dhuhr (Noon) | 13:41:30 |
 | Medium Coeli | 13:41:30 |
 | Sunset | 20:56:38 |
-| Maghrib | 20:58:33 |
+| Maghrib | 20:58:32 |
 | Isha (Night) | 23:54:37 |
 | Sharia Midnight | 00:03:27 |
 | Imum Coeli | 01:41:21 |
@@ -89,7 +89,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Dhuhr (Noon) | 13:41:30 |
 | Medium Coeli | 13:41:30 |
 | Sunset | 20:56:38 |
-| Maghrib | 20:58:33 |
+| Maghrib | 20:58:32 |
 | Isha (Night) | 23:23:58 |
 | Sharia Midnight | 00:28:08 |
 | Imum Coeli | 01:41:21 |
@@ -137,8 +137,8 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Dhuhr (Noon) | 13:41:30 |
 | Medium Coeli | 13:41:30 |
 | Sunset | 20:56:38 |
-| Maghrib | 20:58:33 |
-| Isha (Night) | 22:28:33 |
+| Maghrib | 20:58:32 |
+| Isha (Night) | 22:28:32 |
 | Sharia Midnight | 23:58:00 |
 | Imum Coeli | 01:41:21 |
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°53'17.45" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°53'4.78" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|10°56'13.04" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|4°51'56.83" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|20°0'0.34" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|5°17'38.12" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|4°26'5.30" |Pisces|FarghAlMuakhar|Saturn|
+|♃ Jupiter|Direct|12°53'5.66" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|10°56'12.28" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|4°52'3.84" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|20°0'17.70" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|5°17'43.41" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|3°42'48.41" |Pisces|FarghAlMuqaddam|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Libra|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

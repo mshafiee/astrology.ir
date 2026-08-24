@@ -90,7 +90,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 | Medium Coeli | 13:22:39 |
 | Sunset | 20:48:45 |
 | Maghrib | 20:50:43 |
-| Isha (Night) | 23:26:09 |
+| Isha (Night) | 23:26:08 |
 | Sharia Midnight | 00:04:15 |
 | Imum Coeli | 01:22:31 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°5'0.29" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°1'33.03" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|8°21'11.02" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|14°5'0.31" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°1'32.93" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|8°21'11.01" |Gemini|HanAh|Jupiter|
 |☉ Sun|Direct|0°59'22.36" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|16°31'32.46" |Virgo|Awwa|Venus|
-|☿ Mercury|Direct|27°19'20.61" |Cancer|Jabhah|Moon|
-|☾ Moon|Direct|14°23'17.63" |Sagittarius|NaAaem|Moon|
+|♀ Venus|Direct|16°31'32.42" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|27°19'20.59" |Cancer|Jabhah|Moon|
+|☾ Moon|Direct|14°23'17.29" |Sagittarius|NaAaem|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|14°5'0.29" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°1'33.03" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|8°21'11.02" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|14°5'0.31" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°1'32.93" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|8°21'11.01" |Cancer|Nathrah|Venus|
 |☉ Sun|Direct|0°59'22.36" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|16°31'32.46" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|27°19'20.61" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|14°23'17.63" |Capricorn|SaadAlBula|Mars|
+|♀ Venus|Direct|16°31'32.42" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|27°19'20.59" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|14°23'17.29" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
