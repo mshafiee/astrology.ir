@@ -52,7 +52,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 04:22:09 |
+| Fajr (Dawn) | 04:22:08 |
 | Sunrise | 05:31:51 |
 | Dhuhr (Noon) | 11:30:19 |
 | Medium Coeli | 11:30:19 |

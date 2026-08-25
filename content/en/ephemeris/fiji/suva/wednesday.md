@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°57'27.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°35'26.14" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|10°3'4.12" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°31'58.01" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|18°49'37.38" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|2°34'51.19" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°42'42.94" |Capricorn|SaadAlBula|Mars|
+|♄ Saturn|Retrograde|13°57'27.75" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°35'28.15" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|10°3'9.74" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°32'10.30" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|18°49'47.91" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|2°35'0.35" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|16°21'23.04" |Capricorn|SaadAlBula|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Sun|Mars|Virgo|Sun|Sun|
-|☾ Moon|Venus|Mercury|Leo|Sun|Venus|
+|☾ Moon|Sun|Venus|Cancer|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°57'27.74" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°35'28.25" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|10°3'9.75" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|13°57'27.75" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°35'28.15" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|10°3'9.74" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|3°32'10.30" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|18°49'47.95" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|2°35'0.37" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|16°21'23.06" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|18°49'47.91" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|2°35'0.35" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|16°21'23.04" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
