@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°56'16.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°40'32.76" |Cancer|Nathrah|Mercury|
-|♂ Mars|Direct|10°18'27.39" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|3°55'7.78" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|19°10'7.70" |Virgo|Simak|Venus|
-|☿ Mercury|Direct|3°22'1.67" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|21°36'8.14" |Capricorn|SaadAlBula|Sun|
+|♄ Saturn|Retrograde|13°56'16.46" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°40'33.46" |Cancer|Nathrah|Mercury|
+|♂ Mars|Direct|10°18'28.25" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|3°55'12.82" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|19°10'16.21" |Virgo|Simak|Venus|
+|☿ Mercury|Direct|3°22'5.41" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|21°8'27.88" |Capricorn|SaadAlBula|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Sun|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Mercury|Aries|Sun|Moon|
 |☿ Mercury|Sun|Venus|Virgo|Sun|Sun|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Venus|
+|☾ Moon|Venus|Moon|Virgo|Sun|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°56'16.45" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|12°40'33.56" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|13°56'16.46" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|12°40'33.46" |Leo|Zubrah|Jupiter|
 |♂ Mars|Direct|10°18'28.25" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|3°55'12.82" |Virgo|Sarfrah|Sun|
-|♀ Venus|Direct|19°10'16.24" |Libra|Jubana|Saturn|
-|☿ Mercury|Direct|3°22'5.43" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|21°8'27.86" |Aquarius|SaadAlAkhbia|Moon|
+|♀ Venus|Direct|19°10'10.99" |Libra|Jubana|Saturn|
+|☿ Mercury|Direct|3°22'4.56" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|21°10'20.96" |Aquarius|SaadAlAkhbia|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

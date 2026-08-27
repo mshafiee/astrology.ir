@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°53'12.16" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|12°53'27.42" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|10°57'17.58" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|4°53'43.00" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|20°1'44.80" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|5°21'2.40" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|3°55'31.61" |Aquarius|SaadAlSaud|Venus|
+|♄ Saturn|Retrograde|13°53'12.17" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|12°53'27.32" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|10°57'17.57" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|4°53'33.67" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|20°1'23.36" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|5°20'55.37" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|4°54'2.82" |Aquarius|SaadAlSaud|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Venus|Virgo|Sun|Sun|
 |♀ Venus|Mars|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Venus|Venus|Libra|Sun|Sun|
-|☾ Moon|Saturn|Mars|Pisces|Sun|Saturn|
+|☾ Moon|Jupiter|Mars|Pisces|Sun|Saturn|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|10°57'17.58" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|4°53'43.00" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|20°1'44.80" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|5°21'2.40" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|3°55'31.61" |Pisces|FarghAlMuqaddam|Saturn|
+|☿ Mercury|Direct|5°20'55.36" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|4°54'3.00" |Pisces|FarghAlMuakhar|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Saturn|Libra|Moon|Venus|
 |♀ Venus|Jupiter|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Moon|Saturn|Scorpio|Moon|Venus|
-|☾ Moon|Jupiter|Sun|Aries|Moon|Jupiter|
+|☾ Moon|Mars|Sun|Aries|Moon|Jupiter|
 
 
 {{< /tab >}}

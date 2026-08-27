@@ -210,7 +210,7 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Saturn|The ruler of the night: Mercury|
-|Duration of the day: 11:45:46|Night duration: 12:13:32|
+|Duration of the day: 11:45:46|Night duration: 12:13:31|
 |Every hour of day duration: 00:58:49|Every hour of night duration: 01:01:08|
 
  
@@ -234,16 +234,16 @@ Timetable of twelve day and night planetary hours
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Mercury|Ruler|18:00:47|19:01:53|Related to talismans, amulets and responses|
 |2|Moon|Servant|19:01:54|20:03:01|Peace among people|
-|3|Saturn|Servant|20:03:02|21:04:09|Vengeful and evil deeds|
-|4|Jupiter|Servant|21:04:10|22:05:16|Dominance, judgment and issuing verdict|
-|5|Mars|Servant|22:05:17|23:06:24|Auspicious|
-|6|Sun|Servant|23:06:25|00:07:32|Writing, swapping and making promises|
-|7|Venus|Servant|00:07:33|01:08:39|Not suitable for any task|
-|8|Mercury|Ruler|01:08:40|02:09:47|Destruction of enemies|
-|9|Moon|Servant|02:09:48|03:10:55|All good deeds|
-|10|Saturn|Servant|03:10:56|04:12:02|Doing evil deeds|
-|11|Jupiter|Servant|04:12:03|05:13:10|Acceptance of reconciliation between couples|
-|12|Mars|Servant|05:13:11|06:14:18|For gaining dignity|
+|3|Saturn|Servant|20:03:02|21:04:08|Vengeful and evil deeds|
+|4|Jupiter|Servant|21:04:09|22:05:16|Dominance, judgment and issuing verdict|
+|5|Mars|Servant|22:05:17|23:06:23|Auspicious|
+|6|Sun|Servant|23:06:24|00:07:31|Writing, swapping and making promises|
+|7|Venus|Servant|00:07:32|01:08:39|Not suitable for any task|
+|8|Mercury|Ruler|01:08:40|02:09:46|Destruction of enemies|
+|9|Moon|Servant|02:09:47|03:10:54|All good deeds|
+|10|Saturn|Servant|03:10:55|04:12:01|Doing evil deeds|
+|11|Jupiter|Servant|04:12:02|05:13:09|Acceptance of reconciliation between couples|
+|12|Mars|Servant|05:13:10|06:14:17|For gaining dignity|
 
  
  
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°50'3.74" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°6'16.18" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|13°50'3.72" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°6'16.29" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|11°35'53.28" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|5°52'1.49" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|20°52'20.65" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|7°18'33.07" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°1'23.39" |Aquarius|SaadAlAkhbia|Mercury|
+|♀ Venus|Direct|20°52'20.68" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|7°18'33.08" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°1'22.89" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°50'3.74" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|13°6'16.18" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|13°50'3.72" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°6'16.29" |Leo|Zubrah|Jupiter|
 |♂ Mars|Direct|11°35'53.28" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|5°52'1.49" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|20°52'20.65" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|7°18'33.07" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|17°1'23.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♀ Venus|Direct|20°52'20.68" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|7°18'33.08" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|17°1'22.89" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
