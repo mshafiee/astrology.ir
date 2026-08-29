@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:52:29 |
 | Medium Coeli | 12:52:29 |
 | Sunset | 19:04:52 |
-| Maghrib | 19:21:10 |
+| Maghrib | 19:21:11 |
 | Isha (Night) | 20:01:06 |
 | Sharia Midnight | 00:16:28 |
 | Imum Coeli | 00:52:20 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°49'52.40" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°7'1.44" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|11°38'8.89" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|5°55'28.10" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|20°55'20.35" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|7°25'25.32" |Leo|Jabhah|Saturn|
-|☾ Moon|Direct|17°36'16.68" |Aquarius|SaadAlAkhbia|Mercury|
+|♄ Saturn|Retrograde|13°49'52.41" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°7'1.38" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|11°38'9.29" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|5°55'28.16" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|20°55'19.29" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|7°25'25.33" |Leo|Jabhah|Saturn|
+|☾ Moon|Direct|17°36'53.81" |Aquarius|SaadAlAkhbia|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°49'52.40" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|13°7'1.48" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|11°38'9.30" |Cancer|Nathrah|Mercury|
+|♄ Saturn|Retrograde|13°49'52.41" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°7'1.38" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|11°38'9.29" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|5°55'28.16" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|20°55'19.32" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|7°25'25.34" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|17°36'53.29" |Pisces|Rescha|Jupiter|
+|♀ Venus|Direct|20°55'19.29" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|7°25'25.33" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|17°36'53.81" |Pisces|Rescha|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

@@ -57,7 +57,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Dhuhr (Noon) | 12:45:18 |
 | Medium Coeli | 12:45:18 |
 | Sunset | 19:14:52 |
-| Maghrib | 19:34:21 |
+| Maghrib | 19:34:20 |
 | Isha (Night) | 20:22:44 |
 | Sharia Midnight | 00:01:40 |
 | Imum Coeli | 00:45:09 |
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°47'39.90" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|13°15'48.04" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|12°4'36.09" |Cancer|Nathrah|Mercury|
-|☉ Sun|Direct|6°35'32.73" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|21°29'41.45" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|8°45'29.36" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|26°42'19.83" |Pisces|Rescha|Mars|
+|♃ Jupiter|Direct|13°15'48.28" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|12°4'37.04" |Cancer|Nathrah|Mercury|
+|☉ Sun|Direct|6°35'33.10" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|21°29'39.63" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|8°45'29.57" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|26°43'55.00" |Pisces|Rescha|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

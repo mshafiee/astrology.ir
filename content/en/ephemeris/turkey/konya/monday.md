@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°43'42.68" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|13°31'7.69" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|12°50'50.33" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|7°45'44.64" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|22°28'56.57" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|11°4'21.74" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|12°59'37.10" |Pisces|FarghAlMuakhar|Jupiter|
+|♄ Saturn|Retrograde|13°43'42.67" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|13°31'7.52" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|12°50'48.90" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|7°45'44.31" |Leo|Jabhah|Saturn|
+|♀ Venus|Direct|22°28'59.95" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|11°4'21.65" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|12°50'17.53" |Pisces|FarghAlMuakhar|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Sun|Moon|Taurus|Sun|Moon|
 |☿ Mercury|Mercury|Moon|Sagittarius|Sun|Sun|
-|☾ Moon|Venus|Venus|Leo|Moon|Jupiter|
+|☾ Moon|Sun|Venus|Leo|Moon|Jupiter|
 
 
 {{< /tab >}}
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|12°50'50.33" |Cancer|Nathrah|Mercury|
 |☉ Sun|Direct|7°45'44.64" |Virgo|Awwa|Sun|
 |♀ Venus|Direct|22°28'56.57" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|11°4'21.74" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|12°59'37.10" |Aries|Butain|Sun|
+|☿ Mercury|Direct|11°4'21.66" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|12°50'16.72" |Aries|Sharatain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Moon|Jupiter|Sagittarius|Moon|Venus|
 |♀ Venus|Mars|Mars|Gemini|Moon|Moon|
 |☿ Mercury|Saturn|Mars|Capricorn|Moon|Venus|
-|☾ Moon|Mercury|Moon|Virgo|Sun|Mars|
+|☾ Moon|Venus|Moon|Virgo|Sun|Mars|
 
 
 {{< /tab >}}
