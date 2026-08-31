@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 12:09:27 |
 | Sunset | 18:06:28 |
 | Maghrib | 18:10:48 |
-| Isha (Night) | 19:16:10 |
+| Isha (Night) | 19:16:11 |
 | Sharia Midnight | 23:30:17 |
 | Imum Coeli | 00:09:17 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°33'18.92" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°9'19.45" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|14°46'14.74" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|10°42'1.66" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|24°52'46.06" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|16°45'11.91" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|25°21'30.64" |Aries|Butain|Venus|
+|♄ Saturn|Retrograde|13°33'18.93" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°9'19.34" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°46'14.73" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|10°42'1.65" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|24°52'46.02" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|16°45'11.89" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|25°21'29.42" |Aries|Butain|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°33'18.92" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|14°9'19.45" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|14°46'14.74" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|10°42'1.66" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|24°52'46.06" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|16°45'11.91" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|25°21'30.64" |Taurus|HaqAh|Saturn|
+|♄ Saturn|Retrograde|13°33'18.93" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°9'19.34" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|14°46'14.73" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|10°42'1.65" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|24°52'46.02" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|16°45'11.89" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|25°21'29.42" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
