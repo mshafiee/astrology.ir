@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|13°52'36.36" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|13°55'41.41" |Gemini|HanAh|Mars|
 |☉ Sun|Direct|9°24'36.92" |Leo|Zubrah|Saturn|
-|♀ Venus|Direct|23°50'31.56" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|14°16'57.41" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|6°33'25.90" |Aries|Sharatain|Mars|
+|♀ Venus|Pre-Retrograde Shadow|23°50'23.60" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|14°16'48.71" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|6°43'16.84" |Aries|Sharatain|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Mercury|Scorpio|Sun|Sun|
 |♀ Venus|Sun|Sun|Gemini|Sun|Moon|
 |☿ Mercury|Moon|Sun|Capricorn|Sun|Sun|
-|☾ Moon|Sun|Venus|Gemini|Sun|Mars|
+|☾ Moon|Sun|Mercury|Gemini|Sun|Mars|
 
 
 {{< /tab >}}
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°37'57.65" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|13°52'36.36" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|13°55'41.41" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|9°24'36.92" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|23°50'31.56" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|14°16'57.41" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|6°33'25.90" |Taurus|Thurayya|Mercury|
+|♃ Jupiter|Direct|13°52'33.96" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|13°55'34.20" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|9°24'24.33" |Virgo|Awwa|Sun|
+|♀ Venus|Pre-Retrograde Shadow|23°50'23.60" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|14°16'48.71" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|6°43'16.84" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Jupiter|Sagittarius|Moon|Venus|
 |♀ Venus|Mars|Venus|Cancer|Moon|Moon|
 |☿ Mercury|Jupiter|Venus|Aquarius|Moon|Venus|
-|☾ Moon|Mercury|Saturn|Cancer|Moon|Venus|
+|☾ Moon|Mercury|Jupiter|Cancer|Moon|Venus|
 
 
 {{< /tab >}}

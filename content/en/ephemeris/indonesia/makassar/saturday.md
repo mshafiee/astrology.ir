@@ -41,7 +41,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Dhuhr (Noon) | 12:01:04 |
 | Medium Coeli | 12:01:04 |
 | Sunset | 18:02:05 |
-| Maghrib | 18:15:46 |
+| Maghrib | 18:15:47 |
 | Isha (Night) | 18:56:09 |
 | Sharia Midnight | 23:29:48 |
 | Imum Coeli | 00:00:54 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°23'22.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°43'27.88" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°29'42.93" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|13°21'24.77" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°56'5.23" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|21°43'17.22" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|4°47'44.01" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|13°23'22.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°43'27.77" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°29'42.92" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|13°21'24.76" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|26°56'5.18" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|21°43'17.19" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|4°47'43.23" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°23'22.37" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|14°43'27.88" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|16°29'42.93" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|13°21'24.77" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|26°56'5.23" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|21°43'17.22" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|4°47'44.01" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|13°23'22.39" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°43'27.77" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|16°29'42.92" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|13°21'24.76" |Virgo|Awwa|Venus|
+|♀ Venus|Pre-Retrograde Shadow|26°56'5.18" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|21°43'17.19" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|4°47'43.23" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

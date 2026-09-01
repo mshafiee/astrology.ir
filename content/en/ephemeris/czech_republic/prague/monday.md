@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:14:55 |
-| Sunrise | 06:15:19 |
+| Sunrise | 06:15:20 |
 | Dhuhr (Noon) | 13:02:38 |
 | Medium Coeli | 13:02:38 |
 | Sunset | 19:48:56 |
@@ -69,7 +69,7 @@ __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:12:29 |
-| Sunrise | 06:15:19 |
+| Sunrise | 06:15:20 |
 | Dhuhr (Noon) | 13:02:38 |
 | Medium Coeli | 13:02:38 |
 | Sunset | 19:48:56 |
@@ -101,7 +101,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:00:00 |
-| Sunrise | 06:15:19 |
+| Sunrise | 06:15:20 |
 | Dhuhr (Noon) | 13:02:38 |
 | Medium Coeli | 13:02:38 |
 | Sunset | 19:48:56 |
@@ -133,7 +133,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 04:08:23 |
-| Sunrise | 06:15:19 |
+| Sunrise | 06:15:20 |
 | Dhuhr (Noon) | 13:02:38 |
 | Medium Coeli | 13:02:38 |
 | Sunset | 19:48:56 |
@@ -302,8 +302,8 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|13°43'34.97" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|13°31'37.23" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|12°52'19.30" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|7°48'0.45" |Leo|Jabhah|Saturn|
-|♀ Venus|Direct|22°30'52.42" |Virgo|Simak|Mercury|
+|☉ Sun|Direct|7°47'59.63" |Leo|Jabhah|Saturn|
+|♀ Venus|Pre-Retrograde Shadow|22°30'49.21" |Virgo|Simak|Mercury|
 |☿ Mercury|Direct|11°8'48.68" |Leo|Zubrah|Jupiter|
 |☾ Moon|Direct|13°24'31.82" |Pisces|FarghAlMuakhar|Jupiter|
 
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°43'34.97" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|13°31'37.23" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|12°52'19.30" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|7°47'59.63" |Virgo|Awwa|Sun|
-|♀ Venus|Direct|22°30'49.21" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|11°8'47.98" |Virgo|Awwa|Venus|
-|☾ Moon|Direct|13°35'28.94" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|13°31'37.31" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|12°52'18.84" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|7°48'0.45" |Virgo|Awwa|Sun|
+|♀ Venus|Pre-Retrograde Shadow|22°30'52.42" |Libra|Jubana|Jupiter|
+|☿ Mercury|Direct|11°8'48.68" |Virgo|Awwa|Venus|
+|☾ Moon|Direct|13°24'31.82" |Aries|Butain|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

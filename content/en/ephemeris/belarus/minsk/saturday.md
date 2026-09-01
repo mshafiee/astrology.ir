@@ -100,7 +100,7 @@ __Islamic Society of North America (ISNA) Calculation Method__
 __Egyptian General Authority of Survey Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:56:33 |
+| Fajr (Dawn) | 03:56:34 |
 | Sunrise | 06:24:46 |
 | Dhuhr (Noon) | 13:08:27 |
 | Medium Coeli | 13:08:27 |
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'13.98" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°33'49.76" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°0'32.42" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|12°36'10.80" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|26°21'31.79" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|20°19'51.82" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|24°1'36.87" |Taurus|HaqAh|Saturn|
+|♃ Jupiter|Direct|14°33'51.20" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°0'33.28" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|12°36'21.78" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|26°21'54.93" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|20°20'0.40" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|23°34'41.08" |Taurus|HaqAh|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -342,9 +342,9 @@ Position of planets based on tropical calculations at sunrise
 |♃ Jupiter|Direct|14°33'51.20" |Leo|Zubrah|Jupiter|
 |♂ Mars|Direct|16°0'33.28" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|12°36'21.78" |Virgo|Awwa|Venus|
-|♀ Venus|Direct|26°21'31.79" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|20°19'51.82" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|24°1'36.87" |Gemini|Dhira|Sun|
+|♀ Venus|Pre-Retrograde Shadow|26°21'54.93" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|20°20'0.40" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|23°34'41.08" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Jupiter|Saturn|Venus|Moon|
-|☾ Moon|Saturn|Mars|Saturn|Jupiter|
+|☾ Moon|Mars|Mars|Saturn|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
