@@ -36,7 +36,7 @@ The following tables show the calculated Sharia times for various methods. These
 __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 03:57:19 |
+| Fajr (Dawn) | 03:57:18 |
 | Sunrise | 06:01:39 |
 | Dhuhr (Noon) | 12:46:58 |
 | Medium Coeli | 12:46:58 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°19'27.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°56'22.74" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°8'57.31" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|14°22'11.88" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|27°41'17.57" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|23°34'28.56" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|19°54'3.65" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|13°19'27.11" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°56'22.63" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°8'57.29" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|14°22'11.87" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|27°41'17.53" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|23°34'28.53" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|19°54'2.86" |Gemini|Dhira|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,10 +338,10 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°19'27.10" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|14°56'22.74" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|17°8'57.31" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|14°22'11.88" |Virgo|Awwa|Venus|
+|♄ Saturn|Retrograde|13°19'27.11" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°56'22.63" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|17°8'57.29" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|14°22'11.87" |Virgo|Awwa|Venus|
 |♀ Venus|Pre-Retrograde Shadow|27°41'17.57" |Libra|Akleel|Jupiter|
 |☿ Mercury|Direct|23°34'28.56" |Virgo|Simak|Mercury|
 |☾ Moon|Direct|19°54'3.65" |Cancer|Tarf|Mercury|

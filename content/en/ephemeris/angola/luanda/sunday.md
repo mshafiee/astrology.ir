@@ -40,7 +40,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:05:59 |
 | Dhuhr (Noon) | 12:05:25 |
 | Medium Coeli | 12:05:25 |
-| Sunset | 18:04:59 |
+| Sunset | 18:04:58 |
 | Maghrib | 18:18:47 |
 | Isha (Night) | 18:59:25 |
 | Sharia Midnight | 23:33:56 |
@@ -72,10 +72,10 @@ __Muslim World League Calculation Method__
 | Sunrise | 06:05:59 |
 | Dhuhr (Noon) | 12:05:25 |
 | Medium Coeli | 12:05:25 |
-| Sunset | 18:04:59 |
+| Sunset | 18:04:58 |
 | Maghrib | 18:06:10 |
 | Isha (Night) | 19:11:35 |
-| Sharia Midnight | 23:29:53 |
+| Sharia Midnight | 23:29:52 |
 | Imum Coeli | 00:05:15 |
 {{< /tab >}}
 
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:05:59 |
 | Dhuhr (Noon) | 12:05:25 |
 | Medium Coeli | 12:05:25 |
-| Sunset | 18:04:59 |
+| Sunset | 18:04:58 |
 | Maghrib | 18:06:10 |
 | Isha (Night) | 19:15:39 |
-| Sharia Midnight | 23:29:53 |
+| Sharia Midnight | 23:29:52 |
 | Imum Coeli | 00:05:15 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°22'16.14" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°47'7.86" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|16°40'50.96" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|13°38'38.29" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|27°9'0.08" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|22°14'56.26" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|9°4'24.98" |Gemini|HanAh|Jupiter|
+|♄ Saturn|Retrograde|13°22'16.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|14°47'7.75" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|16°40'50.95" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|13°38'38.28" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|27°9'0.04" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|22°14'56.23" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|9°4'24.22" |Gemini|HanAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°22'16.14" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|14°47'7.48" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|16°40'52.83" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|13°38'33.77" |Virgo|Awwa|Venus|
-|♀ Venus|Pre-Retrograde Shadow|27°8'43.78" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|22°14'52.11" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|9°38'38.37" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|13°22'16.16" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°47'7.75" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|16°40'50.95" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|13°38'38.28" |Virgo|Awwa|Venus|
+|♀ Venus|Pre-Retrograde Shadow|27°9'0.04" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|22°14'56.23" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|9°4'24.22" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
