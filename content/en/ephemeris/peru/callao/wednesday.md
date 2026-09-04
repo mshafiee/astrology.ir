@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°32'17.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°12'55.15" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|14°57'8.26" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|10°58'43.02" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|25°5'59.96" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°17'4.62" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|29°12'26.14" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|14°12'57.32" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°57'14.12" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|10°58'53.68" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|25°5'46.69" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°17'1.75" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|0°2'53.36" |Taurus|Thurayya|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Venus|Mercury|Jupiter|Sun|
 |♀ Venus|Mars|Mars|Venus|Moon|
 |☿ Mercury|Saturn|Venus|Jupiter|Sun|
-|☾ Moon|Saturn|Saturn|Jupiter|Saturn|
+|☾ Moon|Venus|Venus|Venus|Moon|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Moon|Sagittarius|Sun|Sun|
 |♀ Venus|Sun|Sun|Cancer|Sun|Moon|
 |☿ Mercury|Saturn|Mercury|Aquarius|Moon|Venus|
-|☾ Moon|Jupiter|Jupiter|Pisces|Moon|Saturn|
+|☾ Moon|Venus|Saturn|Taurus|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,8 +338,8 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°32'17.23" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|14°12'57.21" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|13°32'17.22" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|14°12'57.32" |Leo|Zubrah|Jupiter|
 |♂ Mars|Direct|14°57'14.12" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|10°58'53.68" |Virgo|Awwa|Venus|
 |♀ Venus|Pre-Retrograde Shadow|25°6'7.84" |Libra|Jubana|Jupiter|

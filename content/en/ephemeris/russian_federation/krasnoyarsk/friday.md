@@ -37,7 +37,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:51:36 |
-| Sunrise | 05:57:45 |
+| Sunrise | 05:57:44 |
 | Dhuhr (Noon) | 12:47:38 |
 | Medium Coeli | 12:47:38 |
 | Sunset | 19:36:14 |
@@ -53,7 +53,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Moment | Time |
 |-|:-:|
 | Fajr (Dawn) | 03:34:38 |
-| Sunrise | 05:57:45 |
+| Sunrise | 05:57:44 |
 | Dhuhr (Noon) | 12:47:38 |
 | Medium Coeli | 12:47:38 |
 | Sunset | 19:36:14 |
@@ -210,18 +210,18 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Venus|The ruler of the night: Mars|
-|Duration of the day: 13:38:29|Night duration: 10:23:28|
+|Duration of the day: 13:38:30|Night duration: 10:23:28|
 |Every hour of day duration: 01:08:12|Every hour of night duration: 00:51:57|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Venus|Ruler|05:57:45|07:05:56|Love, creating love and attracting hearts|
-|2|Mercury|Servant|07:05:57|08:14:08|Attracting auspiciousness|
-|3|Moon|Servant|08:14:09|09:22:21|Attracting misfortune, no task is suitable|
-|4|Saturn|Servant|09:22:22|10:30:33|Unfortunate hour|
-|5|Jupiter|Servant|10:30:34|11:38:46|Achieving position and status and attracting job fortune|
-|6|Mars|Servant|11:38:47|12:46:58|Creating attraction and acceptance among dignitaries|
+|1|Venus|Ruler|05:57:44|07:05:55|Love, creating love and attracting hearts|
+|2|Mercury|Servant|07:05:56|08:14:08|Attracting auspiciousness|
+|3|Moon|Servant|08:14:09|09:22:20|Attracting misfortune, no task is suitable|
+|4|Saturn|Servant|09:22:21|10:30:33|Unfortunate hour|
+|5|Jupiter|Servant|10:30:34|11:38:45|Achieving position and status and attracting job fortune|
+|6|Mars|Servant|11:38:46|12:46:58|Creating attraction and acceptance among dignitaries|
 |7|Sun|Servant|12:46:59|13:55:10|Promotion and attracting wealth|
 |8|Venus|Ruler|13:55:11|15:03:23|Auspicious and ultimate happiness and fortune|
 |9|Mercury|Servant|15:03:24|16:11:35|Causing separation and homelessness|
@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'54.44" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°31'33.61" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|15°53'37.80" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|12°25'37.28" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|26°13'35.11" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|20°0'4.13" |Leo|Zubrah|Mars|
-|☾ Moon|Direct|21°18'6.24" |Taurus|Dabaran|Saturn|
+|♃ Jupiter|Direct|14°31'33.85" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|15°53'36.81" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|12°25'39.22" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|26°13'42.59" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|20°0'5.94" |Leo|Zubrah|Mars|
+|☾ Moon|Direct|20°54'59.58" |Taurus|Dabaran|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -340,11 +340,11 @@ Position of planets based on tropical calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°26'54.45" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|14°31'33.74" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|15°53'37.81" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|12°25'37.28" |Virgo|Awwa|Venus|
-|♀ Venus|Pre-Retrograde Shadow|26°13'35.11" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|20°0'4.13" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|21°18'6.24" |Gemini|Dhira|Sun|
+|♂ Mars|Direct|15°53'36.79" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|12°25'39.20" |Virgo|Awwa|Venus|
+|♀ Venus|Pre-Retrograde Shadow|26°13'42.54" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|20°0'5.91" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|20°54'58.63" |Gemini|Dhira|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

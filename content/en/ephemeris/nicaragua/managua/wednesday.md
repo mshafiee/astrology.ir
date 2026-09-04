@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°32'13.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|14°13'8.22" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|14°57'45.50" |Gemini|HanAh|Mars|
-|☉ Sun|Direct|10°59'45.08" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|25°6'56.61" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|17°18'57.10" |Leo|Zubrah|Jupiter|
-|☾ Moon|Direct|28°53'42.21" |Aries|Thurayya|Venus|
+|♃ Jupiter|Direct|14°13'9.86" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|14°57'51.93" |Gemini|HanAh|Mars|
+|☉ Sun|Direct|10°59'52.47" |Leo|Zubrah|Jupiter|
+|♀ Venus|Pre-Retrograde Shadow|25°6'55.06" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|17°19'1.65" |Leo|Zubrah|Jupiter|
+|☾ Moon|Direct|29°41'54.10" |Aries|Thurayya|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|14°57'51.93" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|10°59'52.47" |Virgo|Awwa|Venus|
 |♀ Venus|Pre-Retrograde Shadow|25°6'55.06" |Libra|Jubana|Jupiter|
-|☿ Mercury|Direct|17°19'1.65" |Virgo|Simak|Venus|
-|☾ Moon|Direct|29°41'54.10" |Taurus|HaqAh|Saturn|
+|☿ Mercury|Direct|17°18'52.45" |Virgo|Simak|Venus|
+|☾ Moon|Direct|0°43'39.98" |Gemini|HaqAh|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -355,7 +355,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Venus|Venus|Saturn|Saturn|
 |♀ Venus|Venus|Mars|Mercury|Sun|
 |☿ Mercury|Jupiter|Jupiter|Saturn|Saturn|
-|☾ Moon|Mars|Mars|Saturn|Venus|
+|☾ Moon|Mercury|Mercury|Mercury|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Saturn|Mars|Capricorn|Moon|Venus|
 |♀ Venus|Mars|Venus|Leo|Moon|Moon|
 |☿ Mercury|Mars|Mercury|Pisces|Sun|Moon|
-|☾ Moon|Sun|Mercury|Aries|Sun|Saturn|
+|☾ Moon|Mercury|Venus|Gemini|Sun|Mercury|
 
 
 {{< /tab >}}
