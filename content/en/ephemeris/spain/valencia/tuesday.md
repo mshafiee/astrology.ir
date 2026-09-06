@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
-|Duration of the day: 12:45:50|Night duration: 11:15:05|
-|Every hour duration: 01:49:24|Every hour duration: 01:36:26|
+|Duration of the day: 12:45:50|Night duration: 11:15:06|
+|Every hour duration: 01:49:24|Every hour duration: 01:36:27|
 
  
  
@@ -276,12 +276,12 @@ Timetable of septet day and night planetary hours
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Evening|Saturn|Ruler|20:21:45|21:58:10|
-|Late evening|Jupiter|Servant|21:58:11|23:34:36|
-|Midnight|Mars|Servant|23:34:37|01:11:03|
-|Late at night|Sun|Servant|01:11:04|02:47:29|
-|Rooster song|Venus|Servant|02:47:30|04:23:56|
-|False Dawn|Mercury|Servant|04:23:57|06:00:22|
-|Dawn|Moon|Servant|06:00:23|07:36:49|
+|Late evening|Jupiter|Servant|21:58:11|23:34:37|
+|Midnight|Mars|Servant|23:34:38|01:11:03|
+|Late at night|Sun|Servant|01:11:04|02:47:30|
+|Rooster song|Venus|Servant|02:47:31|04:23:56|
+|False Dawn|Mercury|Servant|04:23:57|06:00:23|
+|Dawn|Moon|Servant|06:00:24|07:36:50|
 
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°14'34.58" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°12'2.71" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|17°56'38.10" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|15°36'19.91" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|28°35'0.11" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|25°48'12.33" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|8°21'38.73" |Cancer|Nathrah|Venus|
+|♄ Saturn|Retrograde|13°14'34.57" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°12'2.83" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|17°56'38.11" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|15°36'19.92" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|28°35'0.15" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|25°48'12.37" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|8°21'39.46" |Cancer|Nathrah|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°14'34.58" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°12'2.71" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|17°56'38.10" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|15°36'19.91" |Virgo|Awwa|Venus|
-|♀ Venus|Pre-Retrograde Shadow|28°35'0.11" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|25°48'12.33" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|8°21'38.73" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°14'34.57" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°12'2.83" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|17°56'38.11" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|15°36'19.92" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|28°35'0.15" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|25°48'12.37" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|8°21'39.46" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

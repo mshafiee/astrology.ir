@@ -68,7 +68,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 __Muslim World League Calculation Method__
 | Moment | Time |
 |-|:-:|
-| Fajr (Dawn) | 05:06:05 |
+| Fajr (Dawn) | 05:06:06 |
 | Sunrise | 06:17:44 |
 | Dhuhr (Noon) | 12:25:07 |
 | Medium Coeli | 12:25:07 |
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°9'54.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°26'41.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°41'17.49" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|13°9'54.16" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°26'41.51" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°41'17.50" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|16°46'1.53" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|29°23'58.63" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|27°52'7.23" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|25°27'26.33" |Cancer|Tarf|Moon|
+|♀ Venus|Direct|29°23'58.66" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|27°52'7.27" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|25°27'26.64" |Cancer|Tarf|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°9'54.17" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°26'41.39" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|18°41'17.49" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|13°9'54.16" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°26'41.51" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|18°41'17.50" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|16°46'1.53" |Virgo|Awwa|Venus|
-|♀ Venus|Pre-Retrograde Shadow|29°23'58.63" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|27°52'7.23" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|25°27'26.33" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|29°23'58.66" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|27°52'7.27" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|25°27'26.64" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

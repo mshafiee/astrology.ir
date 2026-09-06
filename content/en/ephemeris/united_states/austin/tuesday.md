@@ -211,7 +211,7 @@ Timetable of twelve day and night planetary hours
 |-|-|
 |The ruler of the day: Mars|The ruler of the night: Saturn|
 |Duration of the day: 12:33:30|Night duration: 11:27:02|
-|Every hour of day duration: 01:02:48|Every hour of night duration: 00:57:15|
+|Every hour of day duration: 01:02:47|Every hour of night duration: 00:57:15|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°9'35.33" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°27'39.60" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°44'15.24" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|13°9'35.32" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°27'39.72" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°44'15.25" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|16°50'39.60" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|29°27'10.93" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|28°0'17.84" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|26°35'44.40" |Cancer|Jabhah|Moon|
+|♀ Venus|Direct|29°27'10.97" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|28°0'17.87" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|26°35'44.68" |Cancer|Jabhah|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°9'35.33" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°27'39.60" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|18°44'15.24" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|13°9'35.32" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°27'39.72" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|18°44'15.25" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|16°50'39.60" |Virgo|Awwa|Venus|
-|♀ Venus|Pre-Retrograde Shadow|29°27'10.93" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|28°0'17.84" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|26°35'44.40" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|29°27'10.97" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|28°0'17.87" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|26°35'44.68" |Leo|Sarfrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

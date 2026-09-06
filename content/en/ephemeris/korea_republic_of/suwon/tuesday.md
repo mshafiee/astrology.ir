@@ -75,7 +75,7 @@ __Muslim World League Calculation Method__
 | Sunset | 18:51:14 |
 | Maghrib | 18:52:33 |
 | Isha (Night) | 20:16:26 |
-| Sharia Midnight | 23:44:30 |
+| Sharia Midnight | 23:44:31 |
 | Imum Coeli | 00:29:35 |
 {{< /tab >}}
 
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°12'3.36" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°19'59.17" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|18°20'50.36" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|16°14'4.47" |Leo|Zubrah|Jupiter|
-|♀ Venus|Pre-Retrograde Shadow|29°1'42.61" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|26°55'31.75" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|17°38'44.01" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|13°12'3.35" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°19'59.29" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|18°20'50.37" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|16°14'4.48" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|29°1'42.65" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|26°55'31.79" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|17°39'7.39" |Cancer|Tarf|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°12'3.36" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°19'59.17" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|18°20'50.36" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|16°14'4.47" |Virgo|Awwa|Venus|
-|♀ Venus|Pre-Retrograde Shadow|29°1'42.61" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|26°55'31.75" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|17°39'6.85" |Leo|Zubrah|Jupiter|
+|♄ Saturn|Retrograde|13°12'3.35" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°19'59.29" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|18°20'50.37" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|16°14'4.48" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|29°1'42.65" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|26°55'31.79" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|17°39'7.39" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
