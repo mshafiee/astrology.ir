@@ -302,10 +302,10 @@ Position of planets based on sidereal calculations at sunrise
 |♄ Saturn|Retrograde|12°57'50.28" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|16°2'59.45" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|20°32'24.00" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°40'35.14" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°19'46.72" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°54'57.58" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°37'37.57" |Virgo|Awwa|Sun|
+|☉ Sun|Direct|19°40'18.72" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°19'21.56" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°54'45.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°54'56.29" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Libra|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: Road Town, Rod Taunas, Rod-Taun, Rod-Tauno, Rod-Taŭno, Roount Taoun, Roud Taun, lodeutaun, luo de cheng, rodotaun, rotu tavun, rwd tawn, Ρόουντ Τάουν, Род-Таун, Род-Таўн, Роуд Таун, רואוד טאון, رود تاون, روڈ ٹاون, ரோடு டவுன், როუდ-ტაუნი, ロードタウン, 罗德城, 로드타운

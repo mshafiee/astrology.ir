@@ -303,9 +303,9 @@ Position of planets based on sidereal calculations at sunrise
 |♃ Jupiter|Direct|16°2'50.28" |Cancer|Tarf|Mercury|
 |♂ Mars|Direct|20°31'55.85" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°39'50.63" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°19'17.96" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°53'38.96" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°2'18.16" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|1°19'18.40" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°53'41.81" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|6°26'53.64" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BGI, Bridgetown, Bridzhtaun, Bridztaun, Bridztaunas, Bridžtaunas, The Bridge Town, beulijitaun, brydj tawn, bu li qi dun, burijjitaun, Бриджтаун, Бриџтаун, ברידג'טאון, بريدج تاون, ብርጅታውን, ブリッジタウン, 布里奇敦, 브리지타운

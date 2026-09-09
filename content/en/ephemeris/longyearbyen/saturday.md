@@ -300,10 +300,10 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°59'1.31" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°59'31.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°21'45.99" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°23'46.64" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°9'1.05" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|15°59'30.98" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°21'47.90" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°23'40.98" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°8'41.29" |Libra|Ghafr|Moon|
 |☿ Mercury|Direct|2°26'13.95" |Virgo|Sarfrah|Sun|
 |☾ Moon|Direct|1°38'3.94" |Virgo|Sarfrah|Sun|
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: LYR, Long'ir, Longijur, Longir, Longjerbiene, Longjir, Longjirbjuen osh, Longjyrbienas, Longjērbīene, Longyearbyen, Longyearbyur, Longyearbýur, Lonqyirbyuen, lang yi er cheng, langayrbyn, langyrbyn, lanyiyarpiyan, lanګyrbyn, long-ieobien, long-wiealeubwien, longiri, lwnghyarbyn, lwngyyrbyn, lwnqyyrbyn, lxng yeiy r beiyn, rongui~erubin, Лонгийър, Лонгйир, Лонгйирбюен ош, Лонгйір, Лонгьир, Лонгїр, Лонгјир, לונגיירבין, لانګیربین, لانگایربین, لانگیربین, لونغياربين, لونقييربين, லாங்யியர்பியன், ลองเยียร์เบียน, ლონგირი, ロングイェールビーン, 朗伊爾城, 롱위에아르뷔엔, 롱이어비엔
