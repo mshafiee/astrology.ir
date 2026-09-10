@@ -304,8 +304,8 @@ Position of planets based on sidereal calculations at sunrise
 |♂ Mars|Direct|20°51'34.33" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|20°10'52.64" |Leo|Zubrah|Mars|
 |♀ Venus|Direct|1°38'48.82" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|3°46'26.47" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|13°27'33.72" |Virgo|Awwa|Venus|
+|☿ Mercury|Direct|3°46'26.52" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|13°28'7.62" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -341,10 +341,10 @@ Position of planets based on tropical calculations at sunrise
 |♄ Saturn|Retrograde|12°55'41.76" |Aries|Butain|Sun|
 |♃ Jupiter|Direct|16°9'13.99" |Leo|Zubrah|Jupiter|
 |♂ Mars|Direct|20°51'34.33" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|20°10'52.61" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|1°38'48.54" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|3°46'26.47" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|13°27'33.72" |Libra|Jubana|Saturn|
+|☉ Sun|Direct|20°10'52.64" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|1°38'48.82" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|3°46'26.52" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|13°28'7.62" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Lam-leng-chhi, Lâm-lêng-chhī, NNG, Nam Ninh, Nam-nen-su, Namzningz, Nan'nin, Nan-ning, Nan-ning-shih, Nang-ning, Nanin, Naning, Naningas, Naningo, Nannin, Nannina, Nanning, Nanning Shi, Naņnina, Nàm-nèn-sṳ, Nàng-nìng, Yung-ning, Yung-ning-hsien, hnan hning, nan ning, nan ning shi, nananinga, nanning si, nannyng, nanyng, nanyngh, Нанин, Нанинг, Наньнин, Наньнін, ناننینگ, نانينغ, نانینگ, نان‌نینگ, نەننىڭ شەھىرى, नाननींग, หนานหนิง, ནན་ཉིང་གྲོང་ཁྱེར།, 南宁, 南宁市, 南寧, 南寧市, 난닝 시

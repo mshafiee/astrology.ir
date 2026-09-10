@@ -339,11 +339,11 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°57'41.95" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°3'21.53" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°33'31.87" |Cancer|Tarf|Moon|
+|♃ Jupiter|Direct|16°3'23.81" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°33'38.79" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|19°42'33.24" |Virgo|Simak|Venus|
 |♀ Venus|Direct|1°21'1.55" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°58'11.96" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°58'18.86" |Libra|Ghafr|Moon|
 |☾ Moon|Direct|7°4'35.76" |Libra|Ghafr|Moon|
 
 
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: City of Nassau, NAS, Nasau, Nasauo, Nasaŭo, Naso, Nassaou, Nassau, Nassau City, Nassau pa Bahamas, Nassau på Bahamas, Nasáu, na sao, nasa'u, nasau, nasaw, nasayw, nasea, naso, nasso, neco, nsaw, Νασσάου, Насау, Нассау, Նասաու, נסאו, ناسائو, ناساو, نساؤ, नासाउ, নাসাউ, ਨਸਾਊ, நேசோ, നാസോ, แนสซอ, ན་སའོ།, ნასაუ, ናሶ, ナッソー, 拿騷, 拿骚, 나사우, 나소

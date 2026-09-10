@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°58'39.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°0'36.12" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°25'4.11" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°29'0.80" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°12'25.05" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°35'12.80" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°57'57.68" |Virgo|Sarfrah|Sun|
+|♄ Saturn|Retrograde|12°58'39.21" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°0'36.14" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°25'4.31" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°29'0.75" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°12'24.35" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°35'12.68" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°57'1.98" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°58'39.17" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°0'33.43" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°24'58.71" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°28'43.61" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°11'57.58" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°35'0.42" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°7'35.08" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|16°0'36.12" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°25'4.11" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°29'0.80" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°12'25.05" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°35'12.80" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°57'57.68" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Venus|Venus|Scorpio|Sun|Venus|
-|☾ Moon|Venus|Venus|Libra|Sun|Venus|
+|☾ Moon|Venus|Mars|Scorpio|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: ABV, Abodza, Abodža, Abouja, Abuca, Abudz, Abudza, Abudzha, Abudża, Abudž, Abudža, Abugia, Abugo, Abuja, Abuya, Abuzha, Abuĝo, Abùjá, Ampouza, a bu gu, a bu jia, abuja, abwja, apuja, xabu ca, yەbwwja, ʼbwgh, Αμπούζα, Абуджа, Абужа, Абуџа, Абуҷа, Աբուջա, אבוגה, אבודזשא, آبوجا, أبوجا, ئەبووجا, ابوجا, अबुजा, আবুজা, ਅਬੁਜਾ, ଅବୁଜା, அபுஜா, അബുജ, อาบูจา, ཨ་པུ་ཅ།, အဘူဂျာမြို့, აბუჯა, አቡጃ, アブジャ, 阿布賈, 阿布贾, 아부자

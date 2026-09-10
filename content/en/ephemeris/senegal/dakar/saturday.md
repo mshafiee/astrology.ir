@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°58'22.41" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°1'24.33" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°27'30.73" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°32'55.98" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°15'1.90" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°41'58.51" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|4°44'48.07" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|16°1'25.29" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°27'35.01" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°32'58.97" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°14'56.95" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°41'59.43" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|4°53'20.96" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: DKR, Dacar, Dacár, Dakaa, Dakar, Dakara, Dakaras, Dakaro, Ndakaaru, Ntakar, da ka er, dakaleu, dakar, dakara, dakaru, dqr, takkar, Ντακάρ, Дакар, Դակար, דאקאר, דקר, داكار, داکار, ڈا کار, ڈاکار, डकार, ডাকার, ਡਾਕਾਰ, டக்கார், ഡാക്കർ, ดาการ์, ཌ་ཀར།, დაკარი, ዳካር, ダカール, 達喀爾, 다카르

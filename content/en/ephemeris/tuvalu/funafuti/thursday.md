@@ -301,11 +301,11 @@ Position of planets based on sidereal calculations at sunrise
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|13°4'38.51" |Pisces|FarghAlMuakhar|Jupiter|
 |♃ Jupiter|Direct|15°42'46.46" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°30'26.68" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|18°3'1.94" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°16'17.62" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|0°7'2.83" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|13°50'1.05" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|19°30'19.99" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|18°2'53.22" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°16'15.48" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|0°6'57.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|12°45'16.58" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Venus|Jupiter|Sun|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Saturn|Venus|Jupiter|Sun|
+|☾ Moon|Saturn|Mercury|Jupiter|Sun|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Saturn|Virgo|Moon|Venus|
-|☾ Moon|Moon|Sun|Capricorn|Sun|Sun|
+|☾ Moon|Mercury|Moon|Capricorn|Sun|Sun|
 
 
 {{< /tab >}}

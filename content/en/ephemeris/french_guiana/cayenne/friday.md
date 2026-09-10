@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°57'58.02" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°2'36.03" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°31'11.27" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°38'42.90" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°18'40.12" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°51'50.08" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|6°2'50.86" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|16°2'36.86" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°31'14.67" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°38'45.46" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°18'36.77" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°51'50.96" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|6°10'15.10" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: CAY, Caiena, Caienna, Cajen-a, Cajena, Cayena, Cayene, Cayenne, Kaena, Kaenna, Kagien, Kajen, Kajena, Kajenna, Kajennae, Kajenneh, Kajeno, Kayen, Kayene, Kayenna, kai yun, kaien'nu, kaiyana, kayen, kayena, kayn, kayyn, Καγιέν, Каена, Кайен, Кайеннæ, Кайенна, Кайеннэ, Каєнна, Кајена, Կայեննա, קאיין, كايين, کائین, کاین, कायेन, ਕੈਯਨ, கயேன், กาแยน, კაიენა, カイエンヌ, 開雲, 카옌
