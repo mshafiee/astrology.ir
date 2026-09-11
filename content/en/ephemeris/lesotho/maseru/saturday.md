@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°58'51.10" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°0'2.03" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°23'21.14" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°26'13.76" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°10'29.82" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°30'28.14" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|3°2'29.26" |Virgo|Sarfrah|Sun|
+|♃ Jupiter|Direct|16°0'1.53" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°23'18.38" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°26'12.37" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°10'34.57" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°30'28.02" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|3°0'10.48" |Virgo|Sarfrah|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -339,12 +339,12 @@ Position of planets based on tropical calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°58'51.10" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°0'1.53" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°23'18.38" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°26'12.37" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°10'34.57" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°30'28.02" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|3°0'10.48" |Libra|Ghafr|Moon|
+|♃ Jupiter|Direct|16°0'2.03" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°23'21.14" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°26'13.76" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°10'29.82" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°30'28.14" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|3°2'29.26" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: MSU, Maserou, Maseru, Maseruo, Maserú, Mazerou, ma sai lu, ma se ru, ma xie lu, maceru, maselu, maseru, masrw, masyrw, msrw, Μαζέρου, Μασερού, Масеру, Մասերու, מאסערו, מסרו, ماسرو, ماسيرو, ماسیرو, ماسێرو, मासेरू, ਮਸੇਰੂ, மசேரு, มาเซรู, མ་སི་རུ།, მასერუ, መሴሩ, マセル, 馬些盧, 马塞卢, 마세루

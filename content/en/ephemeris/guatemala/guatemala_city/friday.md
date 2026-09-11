@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°57'32.22" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°3'52.30" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°35'6.23" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°44'51.24" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°22'28.79" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|3°2'14.04" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|7°35'27.22" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|12°57'32.24" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°3'52.18" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°35'6.22" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°44'51.23" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°22'28.75" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|3°2'14.00" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|7°35'27.75" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°57'32.22" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°3'52.30" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°35'6.23" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°44'51.24" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°22'28.79" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|3°2'14.04" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|7°35'27.22" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|12°57'32.24" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|16°3'52.18" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°35'6.22" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°44'51.23" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°22'28.75" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|3°2'14.00" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|7°35'27.75" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Cidade da Guatemala, Citta del Guatemala, Città del Guatemala, Ciudad Guatemala, Ciudad de Guatemala, Ciutat de Guatemala, GUA, Guate, Guatemala, Guatemala City, Guatemala Hiria, Guatemala by, Guatemala la Nueva, Guatemala-Stadt, Guatemala-Urbo, Guatemala-stad, Gvatemala, Gvatemalurbo, Gwatemala, New Guatemala, Nueva Guatemala, Nueva Guatemala de la Asuncion, Nueva Guatemala de la Asunción, Pole tes Gouatemalas, Santiago de Guatimala, gua de ma la shi, guatemarashiti, gwatemalla si, gwatemallasiti, kawtemalasiti, mdynt ghwatymala, shhr gwatmala, Πόλη της Γουατεμάλας, Гватемала, גואטמלה סיטי, גוואטמלה סיטי, شهر گواتمالا, مدينة غواتيمالا, กัวเตมาลาซิตี, グアテマラシティ, 瓜地馬拉市, 과테말라 시, 과테말라시티

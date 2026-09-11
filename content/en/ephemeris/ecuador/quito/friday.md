@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°57'39.69" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°3'30.56" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°33'59.54" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|12°57'39.71" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°3'30.44" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°33'59.53" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°43'5.60" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°21'21.38" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°59'14.68" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|7°7'48.90" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|1°21'21.34" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°59'14.64" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|7°7'49.44" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°57'39.69" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°3'30.56" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°33'59.54" |Cancer|Tarf|Moon|
+|♄ Saturn|Retrograde|12°57'39.71" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|16°3'30.44" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°33'59.53" |Cancer|Tarf|Moon|
 |☉ Sun|Direct|19°43'5.60" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°21'21.38" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°59'14.68" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|7°7'48.90" |Libra|Ghafr|Moon|
+|♀ Venus|Direct|1°21'21.34" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°59'14.64" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|7°7'49.44" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Kita, Kitas, Kito, Kitu, Kuito, Quito, Quitu, Quitum, San Francisco de Quito, UIO, ji duo, ki to, kito, kitto, kvirrea, kvito, kwytw, kytw, qytw, Κίτο, Кито, Кіта, Кіто, Կիտո, קיטא, קיטו, كىتو, كيتو, کوئتو, کیتو, کیٹو, क्वितो, क्वीटो, ਕੀਤੋ, கித்தோ, ക്വിറ്റോ, กีโต, ཁེ་ཐོ།, კიტო, ኪቶ, キト, 基多, 키토

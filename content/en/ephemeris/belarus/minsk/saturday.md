@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°58'56.88" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°59'44.06" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°22'24.65" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°24'48.88" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°9'43.30" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°28'3.20" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|2°54'8.66" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|12°58'56.89" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°59'43.94" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°22'24.64" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°24'48.87" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°9'43.26" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°28'3.17" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|2°54'9.20" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: MSQ, Mins'k, Minsc, Minscum, Minsk, Minsk - Minsk, Minsk - Мінск, Minsk osh, Minska, Minskaj, Minskas, Minsko, Minszk, Mińsk, Myensk, Myenyesk, Mînsk, ming si ke, ming si ke shi, minseukeu, minsk, minsuku, mnsk, mynsk, mynsq, mynysky, Μινσκ, Минск, Минск ош, Минскай, Мінск, Мінськ, Мѣньскъ, Մինսկ, מינסק, منسک, مىنىسكى, مينسك, مینسک, मिन्‍स्‍क, மின்ஸ்க், ಮಿನ್ಸ್ಕ್, മിൻസ്ക്, มินสก์, མིན་སིཀ།, მინსკი, ミンスク, 明斯克, 明斯克市, 민스크

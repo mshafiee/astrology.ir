@@ -343,8 +343,8 @@ Position of planets based on tropical calculations at sunrise
 |♂ Mars|Direct|19°17'56.26" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|17°43'24.96" |Virgo|Simak|Venus|
 |♀ Venus|Direct|0°3'9.80" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|29°32'51.54" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|9°18'17.94" |Virgo|Awwa|Sun|
+|☿ Mercury|Direct|29°32'51.56" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|9°18'3.61" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

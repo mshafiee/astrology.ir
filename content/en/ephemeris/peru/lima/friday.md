@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°57'40.37" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°3'26.69" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°33'48.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°42'46.12" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°21'4.88" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°58'53.38" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°3'9.74" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|12°57'40.39" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°3'28.61" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°33'54.05" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°42'56.45" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°21'14.66" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°58'59.91" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|7°0'24.91" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Mercury|Jupiter|Jupiter|Sun|
 |♀ Venus|Saturn|Saturn|Venus|Mercury|
 |☿ Mercury|Mercury|Mercury|Mercury|Jupiter|
-|☾ Moon|Mercury|Mercury|Mercury|Jupiter|
+|☾ Moon|Venus|Venus|Mercury|Jupiter|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°57'40.37" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°3'26.69" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°33'48.42" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°42'46.12" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°21'4.88" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|2°58'53.38" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|6°3'9.74" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|12°57'40.39" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|16°3'28.61" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°33'54.05" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°42'56.45" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°21'14.66" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|2°58'59.91" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|7°0'24.91" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Venus|Venus|Scorpio|Sun|Venus|
-|☾ Moon|Mercury|Mars|Sagittarius|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Sagittarius|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: LIM, Lim, Lima, Limae, Limaq, Lime, Limma, Limo, Lioma, Lungsod ng Lima, Lìmma, Líma, Líoma, Lîma, li ma, lima, lyma, lymh, rima, Λίμα, Лимæ, Лима, Лиме, Ліма, Լիմա, לימא, לימה, لىما, ليما, لیما, लिमा, लीमा, লিমা, ਲੀਮਾ, ଲିମା, லிமா, ലിമ, ลิมา, ལི་མ།, ლიმა, ሊማ, リマ, 利馬, 리마

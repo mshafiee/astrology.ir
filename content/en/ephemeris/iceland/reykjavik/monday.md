@@ -74,7 +74,7 @@ __Muslim World League Calculation Method__
 | Medium Coeli | 13:23:07 |
 | Sunset | 19:57:18 |
 | Maghrib | 19:59:22 |
-| Isha (Night) | 22:53:04 |
+| Isha (Night) | 22:53:05 |
 | Sharia Midnight | 23:48:07 |
 | Imum Coeli | 01:22:57 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°50'5.24" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°25'19.42" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|21°41'5.62" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|21°29'20.38" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|2°26'31.75" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|5°58'23.61" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|0°34'1.23" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|12°50'5.26" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°25'19.30" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|21°41'5.61" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|21°29'20.37" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|2°26'31.71" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|5°58'23.57" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|0°34'1.26" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°50'5.24" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|16°25'19.42" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|21°41'5.62" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|21°29'20.38" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|2°26'31.75" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|5°58'23.61" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|0°34'1.23" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|12°50'5.26" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|16°25'19.30" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|21°41'5.61" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|21°29'20.37" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|2°26'31.71" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|5°58'23.57" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|0°34'1.26" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

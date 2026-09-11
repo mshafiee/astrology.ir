@@ -44,7 +44,7 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Maghrib | 18:07:17 |
 | Isha (Night) | 19:06:32 |
 | Sharia Midnight | 22:43:38 |
-| Imum Coeli | 23:28:55 |
+| Imum Coeli | 23:28:54 |
 {{< /tab >}}
 
 {{< tab tabName="IGUT" tabActive=false tabTitle="IGUT" >}}
@@ -60,7 +60,7 @@ __Institute of Geophysics, University of Tehran Calculation Method__
 | Maghrib | 18:10:11 |
 | Isha (Night) | 19:06:32 |
 | Sharia Midnight | 22:38:18 |
-| Imum Coeli | 23:28:55 |
+| Imum Coeli | 23:28:54 |
 {{< /tab >}}
 
 {{< tab tabName="MWL" tabActive=false tabTitle="MWL" >}}
@@ -76,7 +76,7 @@ __Muslim World League Calculation Method__
 | Maghrib | 17:50:00 |
 | Isha (Night) | 19:25:04 |
 | Sharia Midnight | 22:37:22 |
-| Imum Coeli | 23:28:55 |
+| Imum Coeli | 23:28:54 |
 {{< /tab >}}
 
 {{< tab tabName="ISNA" tabActive=false tabTitle="ISNA" >}}
@@ -140,7 +140,7 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Maghrib | 17:50:00 |
 | Isha (Night) | 19:20:00 |
 | Sharia Midnight | 22:35:46 |
-| Imum Coeli | 23:28:55 |
+| Imum Coeli | 23:28:54 |
 {{< /tab >}}
 
 {{< /tabs >}}
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°47'33.14" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|16°32'28.95" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|22°3'10.14" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|22°4'25.86" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|2°47'8.25" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|6°56'41.87" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|8°8'10.35" |Scorpio|Akleel|Mars|
+|♄ Saturn|Retrograde|12°47'33.07" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|16°32'28.81" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|22°3'9.42" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|22°4'25.63" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|2°47'9.72" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|6°56'41.97" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°12'51.00" |Scorpio|Akleel|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

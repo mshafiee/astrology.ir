@@ -40,10 +40,10 @@ __Shia Ithna Ashari, Leva Research Institute, Qum Calculation Method__
 | Sunrise | 06:31:25 |
 | Dhuhr (Noon) | 12:18:02 |
 | Medium Coeli | 12:18:02 |
-| Sunset | 18:05:19 |
+| Sunset | 18:05:18 |
 | Maghrib | 18:23:25 |
 | Isha (Night) | 19:16:46 |
-| Sharia Midnight | 23:36:30 |
+| Sharia Midnight | 23:36:29 |
 | Imum Coeli | 00:17:52 |
 {{< /tab >}}
 
@@ -104,7 +104,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 06:31:25 |
 | Dhuhr (Noon) | 12:18:02 |
 | Medium Coeli | 12:18:02 |
-| Sunset | 18:05:19 |
+| Sunset | 18:05:18 |
 | Maghrib | 18:06:30 |
 | Isha (Night) | 19:35:35 |
 | Sharia Midnight | 23:27:03 |
@@ -120,10 +120,10 @@ __University of Islamic Sciences, Karachi Calculation Method__
 | Sunrise | 06:31:25 |
 | Dhuhr (Noon) | 12:18:02 |
 | Medium Coeli | 12:18:02 |
-| Sunset | 18:05:19 |
+| Sunset | 18:05:18 |
 | Maghrib | 18:06:30 |
 | Isha (Night) | 19:38:17 |
-| Sharia Midnight | 23:31:07 |
+| Sharia Midnight | 23:31:06 |
 | Imum Coeli | 00:17:52 |
 {{< /tab >}}
 
@@ -136,10 +136,10 @@ __Umm al-Qura University, Makkah Calculation Method__
 | Sunrise | 06:31:25 |
 | Dhuhr (Noon) | 12:18:02 |
 | Medium Coeli | 12:18:02 |
-| Sunset | 18:05:19 |
+| Sunset | 18:05:18 |
 | Maghrib | 18:06:30 |
 | Isha (Night) | 19:36:30 |
-| Sharia Midnight | 23:29:46 |
+| Sharia Midnight | 23:29:45 |
 | Imum Coeli | 00:17:52 |
 {{< /tab >}}
 
@@ -210,34 +210,34 @@ Timetable of twelve day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Jupiter|The ruler of the night: Moon|
-|Duration of the day: 11:33:54|Night duration: 12:24:25|
+|Duration of the day: 11:33:53|Night duration: 12:24:26|
 |Every hour of day duration: 00:57:49|Every hour of night duration: 01:02:02|
 
  
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Jupiter|Ruler|06:31:25|07:29:13|Attraction of material wealth, earning and prosperity|
-|2|Mars|Servant|07:29:14|08:27:03|Destruction of enemies|
-|3|Sun|Servant|08:27:04|09:24:52|Attraction of financial and emotional love|
-|4|Venus|Servant|09:24:53|10:22:42|Creating love, connection and marriage|
-|5|Mercury|Servant|10:22:43|11:20:31|Indulgence|
-|6|Moon|Servant|11:20:32|12:18:21|Outer and inner journey|
-|7|Saturn|Servant|12:18:22|13:16:10|Achieving status and power|
-|8|Jupiter|Ruler|13:16:11|14:14:00|Attraction of happiness and fortune|
-|9|Mars|Servant|14:14:01|15:11:49|Reaching status and promotion|
-|10|Sun|Servant|15:11:50|16:09:39|Fulfilling needs|
-|11|Venus|Servant|16:09:40|17:07:28|Attraction of love and hearts|
-|12|Mercury|Servant|17:07:29|18:05:18|Attracting misfortune, not suitable for any task|
+|2|Mars|Servant|07:29:14|08:27:02|Destruction of enemies|
+|3|Sun|Servant|08:27:03|09:24:52|Attraction of financial and emotional love|
+|4|Venus|Servant|09:24:53|10:22:41|Creating love, connection and marriage|
+|5|Mercury|Servant|10:22:42|11:20:31|Indulgence|
+|6|Moon|Servant|11:20:32|12:18:20|Outer and inner journey|
+|7|Saturn|Servant|12:18:21|13:16:09|Achieving status and power|
+|8|Jupiter|Ruler|13:16:10|14:13:59|Attraction of happiness and fortune|
+|9|Mars|Servant|14:14:00|15:11:48|Reaching status and promotion|
+|10|Sun|Servant|15:11:49|16:09:38|Fulfilling needs|
+|11|Venus|Servant|16:09:39|17:07:27|Attraction of love and hearts|
+|12|Mercury|Servant|17:07:28|18:05:17|Attracting misfortune, not suitable for any task|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|Congruence|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Moon|Ruler|18:05:19|19:07:20|Attraction of material wealth, earning and prosperity|
-|2|Saturn|Servant|19:07:21|20:09:22|Destruction of enemies|
-|3|Jupiter|Servant|20:09:23|21:11:24|Attraction of financial and emotional love|
-|4|Mars|Servant|21:11:25|22:13:26|Creating love, connection and marriage|
-|5|Sun|Servant|22:13:27|23:15:28|Indulgence|
-|6|Venus|Servant|23:15:29|00:17:30|Outer and inner journey|
+|1|Moon|Ruler|18:05:18|19:07:19|Attraction of material wealth, earning and prosperity|
+|2|Saturn|Servant|19:07:20|20:09:21|Destruction of enemies|
+|3|Jupiter|Servant|20:09:22|21:11:23|Attraction of financial and emotional love|
+|4|Mars|Servant|21:11:24|22:13:25|Creating love, connection and marriage|
+|5|Sun|Servant|22:13:26|23:15:27|Indulgence|
+|6|Venus|Servant|23:15:28|00:17:30|Outer and inner journey|
 |7|Mercury|Servant|00:17:31|01:19:32|Achieving status and power|
 |8|Moon|Ruler|01:19:33|02:21:34|Attraction of happiness and fortune|
 |9|Saturn|Servant|02:21:35|03:23:36|Reaching status and promotion|
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°4'33.77" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°43'1.27" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°31'12.51" |Gemini|Dhira|Mars|
+|♄ Saturn|Retrograde|13°4'33.79" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°43'1.15" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°31'12.50" |Gemini|Dhira|Mars|
 |☉ Sun|Direct|18°4'12.03" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°17'1.17" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|0°9'8.38" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|13°43'5.71" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°17'1.14" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|0°9'8.35" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|13°43'5.99" |Leo|Zubrah|Jupiter|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°4'33.77" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°43'1.27" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|19°31'12.51" |Cancer|Tarf|Mercury|
+|♄ Saturn|Retrograde|13°4'33.79" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°43'1.15" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|19°31'12.50" |Cancer|Tarf|Mercury|
 |☉ Sun|Direct|18°4'12.03" |Virgo|Simak|Venus|
-|♀ Venus|Direct|0°17'1.17" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|0°9'8.38" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|13°43'5.71" |Virgo|Awwa|Venus|
+|♀ Venus|Direct|0°17'1.14" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|0°9'8.35" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|13°43'5.99" |Virgo|Awwa|Venus|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

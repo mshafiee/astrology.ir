@@ -104,10 +104,10 @@ __Egyptian General Authority of Survey Calculation Method__
 | Sunrise | 05:27:09 |
 | Dhuhr (Noon) | 11:29:42 |
 | Medium Coeli | 11:29:42 |
-| Sunset | 17:32:18 |
+| Sunset | 17:32:17 |
 | Maghrib | 17:33:11 |
 | Isha (Night) | 18:40:03 |
-| Sharia Midnight | 22:51:37 |
+| Sharia Midnight | 22:51:36 |
 | Imum Coeli | 23:29:31 |
 {{< /tab >}}
 
@@ -256,8 +256,8 @@ Timetable of septet day and night planetary hours
 |Day|Night|
 |-|-|
 |The ruler of the day: Moon|The ruler of the night: Venus|
-|Duration of the day: 12:05:09|Night duration: 11:54:24|
-|Every hour duration: 01:43:36|Every hour duration: 01:42:03|
+|Duration of the day: 12:05:08|Night duration: 11:54:25|
+|Every hour duration: 01:43:35|Every hour duration: 01:42:04|
 
  
  
@@ -265,22 +265,22 @@ Timetable of septet day and night planetary hours
 |Hours of the day|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
 |Early morning|Moon|Ruler|05:27:09|07:10:43|
-|Mid-morning|Saturn|Servant|07:10:44|08:54:19|
-|Late morning|Jupiter|Servant|08:54:20|10:37:54|
-|Noon|Mars|Servant|10:37:55|12:21:30|
-|Early afternoon|Sun|Servant|12:21:31|14:05:05|
-|Mid-afternoon|Venus|Servant|14:05:06|15:48:41|
-|Late afternoon|Mercury|Servant|15:48:42|17:32:17|
+|Mid-morning|Saturn|Servant|07:10:44|08:54:18|
+|Late morning|Jupiter|Servant|08:54:19|10:37:54|
+|Noon|Mars|Servant|10:37:55|12:21:29|
+|Early afternoon|Sun|Servant|12:21:30|14:05:05|
+|Mid-afternoon|Venus|Servant|14:05:06|15:48:40|
+|Late afternoon|Mercury|Servant|15:48:41|17:32:16|
 
  
 |Hours of the night|Ruler|Rank|Start Time|Finish Time|
 |:-:|:-:|:-:|:-:|:-:|
-|Evening|Venus|Ruler|17:32:18|19:14:20|
-|Late evening|Mercury|Servant|19:14:21|20:56:23|
-|Midnight|Moon|Servant|20:56:24|22:38:27|
-|Late at night|Saturn|Servant|22:38:28|00:20:30|
-|Rooster song|Jupiter|Servant|00:20:31|02:02:34|
-|False Dawn|Mars|Servant|02:02:35|03:44:37|
+|Evening|Venus|Ruler|17:32:17|19:14:19|
+|Late evening|Mercury|Servant|19:14:20|20:56:23|
+|Midnight|Moon|Servant|20:56:24|22:38:26|
+|Late at night|Saturn|Servant|22:38:27|00:20:30|
+|Rooster song|Jupiter|Servant|00:20:31|02:02:33|
+|False Dawn|Mars|Servant|02:02:34|03:44:37|
 |Dawn|Sun|Servant|03:44:38|05:26:41|
 
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'33.47" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°38'3.68" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|22°20'23.24" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|22°31'51.77" |Leo|Sarfrah|Mars|
-|♀ Venus|Direct|3°2'56.21" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|7°42'1.85" |Virgo|Awwa|Sun|
-|☾ Moon|Direct|14°0'20.54" |Libra|Jubana|Saturn|
+|♄ Saturn|Retrograde|12°45'33.49" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°38'3.56" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|22°20'23.23" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|22°31'51.76" |Leo|Sarfrah|Mars|
+|♀ Venus|Direct|3°2'56.16" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|7°42'1.81" |Virgo|Awwa|Sun|
+|☾ Moon|Direct|14°0'20.32" |Libra|Jubana|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°45'33.47" |Aries|Sharatain|Sun|
-|♃ Jupiter|Direct|16°38'3.68" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|22°20'23.24" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|22°31'51.77" |Virgo|Simak|Mercury|
-|♀ Venus|Direct|3°2'56.21" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|7°42'1.85" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|14°0'20.54" |Scorpio|Qalb|Sun|
+|♄ Saturn|Retrograde|12°45'33.49" |Aries|Sharatain|Sun|
+|♃ Jupiter|Direct|16°38'3.56" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|22°20'23.23" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|22°31'51.76" |Virgo|Simak|Mercury|
+|♀ Venus|Direct|3°2'56.16" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|7°42'1.81" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|14°0'20.32" |Scorpio|Qalb|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

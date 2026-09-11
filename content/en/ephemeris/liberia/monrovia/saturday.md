@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°58'26.54" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°1'13.22" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°26'57.98" |Gemini|Dhira|Sun|
+|♄ Saturn|Retrograde|12°58'26.56" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°1'13.11" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°26'57.97" |Gemini|Dhira|Sun|
 |☉ Sun|Direct|19°32'0.39" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°14'19.39" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°40'19.68" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|4°38'17.93" |Virgo|Awwa|Sun|
+|♀ Venus|Direct|1°14'19.35" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°40'19.64" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|4°38'18.47" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: MLW, Manrovija, Monrobia, Monrofia, Monrovi, Monrovia, Monrovii, Monrovija, Monrovio, Monroviya, Monrowia, Monròvia, Monróvia, Monróvía, manarobhiya, manroweiy, manrwwya, meng luo wei ya, monarovi'a, monlobia, monrobia, monrovhiya, monrovia, monroviya, mwnrwbyh, mwnrwfya, mwnrwwya, Μονρόβια, Манровія, Монрови, Монровия, Монровија, Монровія, Մոնրովիա, מאנראוויע, מונרוביה, مانروویا, مونروفيا, مونروویا, مۆنرۆڤیا, मोन्रोव्हिया, মনরোভিয়া, ਮੋਨਰੋਵੀਆ, மொன்றோவியா, มันโรเวีย, མོང་རོ་ཝི་ཡ།, მონროვია, ሞንሮቪያ, モンロビア, 蒙罗维亚, 蒙羅維亞, 몬로비아

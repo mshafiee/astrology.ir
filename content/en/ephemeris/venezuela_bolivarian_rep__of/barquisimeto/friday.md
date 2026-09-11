@@ -300,12 +300,12 @@ Position of planets based on sidereal calculations at sunrise
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
 |♄ Saturn|Retrograde|12°57'46.56" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°3'10.39" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°32'57.58" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°41'28.03" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°20'20.04" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|2°56'27.92" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|6°48'30.22" |Virgo|Awwa|Sun|
+|♃ Jupiter|Direct|16°3'7.80" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°32'51.97" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°41'12.29" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°19'56.65" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|2°56'16.84" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|5°11'1.74" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -327,7 +327,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Mercury|Pisces|Moon|Venus|
 |♀ Venus|Venus|Venus|Libra|Sun|Venus|
 |☿ Mercury|Mercury|Saturn|Libra|Moon|Venus|
-|☾ Moon|Moon|Jupiter|Scorpio|Moon|Venus|
+|☾ Moon|Moon|Saturn|Scorpio|Moon|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
+|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
 
 ---
 Alternate Names: BRM, Barkisimeta, Barkisimetas, Barkisimeto, Barquisimeto, Barquisimetum, Barquisimito, ba ji xi mei tuo, baleukisimeto, barkysymtw, barukishimeto, brqysymtw, Баркисимето, Баркісімета, Баркісімето, ברקיסימטו, بارکیسیمتو, ბარკისიმეტო, バルキシメト, 巴基西梅托, 바르키시메토

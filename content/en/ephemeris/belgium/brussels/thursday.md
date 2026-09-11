@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°6'46.99" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°36'16.51" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°10'35.29" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|17°31'43.35" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|29°54'57.58" |Virgo|Simak|Mercury|
-|☿ Mercury|Direct|29°12'33.80" |Leo|Sarfrah|Mars|
-|☾ Moon|Direct|5°44'55.96" |Leo|Jabhah|Saturn|
+|♄ Saturn|Retrograde|13°6'46.87" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°36'16.20" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°10'33.08" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|17°31'51.06" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|29°55'22.97" |Virgo|Simak|Mercury|
+|☿ Mercury|Direct|29°12'40.89" |Leo|Sarfrah|Mars|
+|☾ Moon|Direct|6°20'10.56" |Leo|Jabhah|Saturn|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -316,7 +316,7 @@ Position of planets based on sidereal calculations at sunrise
 |☉ Sun|Saturn|Venus|Jupiter|Sun|
 |♀ Venus|Saturn|Mars|Venus|Moon|
 |☿ Mercury|Mars|Mars|Mars|Mars|
-|☾ Moon|Jupiter|Saturn|Sun|Venus|
+|☾ Moon|Venus|Mercury|Sun|Venus|
 
 
 |Planet|Seventh Part|Ninth Part|Twelfth Part|Half Part|Portion|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°6'46.99" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°36'16.51" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|19°10'34.22" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|17°31'51.43" |Virgo|Simak|Venus|
-|♀ Venus|Direct|29°55'20.61" |Libra|Akleel|Jupiter|
-|☿ Mercury|Direct|29°12'40.84" |Virgo|Simak|Mercury|
-|☾ Moon|Direct|6°25'50.37" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|13°6'47.01" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°36'16.40" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|19°10'34.21" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|17°31'51.42" |Virgo|Simak|Venus|
+|♀ Venus|Direct|29°55'20.58" |Libra|Akleel|Jupiter|
+|☿ Mercury|Direct|29°12'40.81" |Virgo|Simak|Mercury|
+|☾ Moon|Direct|6°25'50.43" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

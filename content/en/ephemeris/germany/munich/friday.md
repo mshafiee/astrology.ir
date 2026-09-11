@@ -106,7 +106,7 @@ __Egyptian General Authority of Survey Calculation Method__
 | Medium Coeli | 13:10:20 |
 | Sunset | 19:34:46 |
 | Maghrib | 19:39:37 |
-| Isha (Night) | 21:21:42 |
+| Isha (Night) | 21:21:43 |
 | Sharia Midnight | 00:10:06 |
 | Imum Coeli | 01:10:09 |
 {{< /tab >}}
@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°2'50.07" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|15°48'12.99" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|19°47'6.89" |Gemini|Dhira|Mars|
-|☉ Sun|Direct|18°29'11.99" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|0°33'35.05" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|0°52'24.07" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|20°3'22.43" |Leo|Zubrah|Mars|
+|♄ Saturn|Retrograde|13°2'49.86" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|15°48'12.88" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|19°47'6.88" |Gemini|Dhira|Mars|
+|☉ Sun|Direct|18°29'11.98" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|0°33'35.01" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|0°52'24.04" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|20°3'22.84" |Leo|Zubrah|Mars|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|13°2'49.86" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|15°48'12.76" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|19°47'5.61" |Cancer|Tarf|Mercury|
-|☉ Sun|Direct|18°29'11.93" |Virgo|Simak|Venus|
-|♀ Venus|Direct|0°33'38.50" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|0°52'24.46" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|20°2'57.85" |Virgo|Simak|Mercury|
+|♄ Saturn|Retrograde|13°2'49.88" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|15°48'12.65" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|19°47'5.60" |Cancer|Tarf|Mercury|
+|☉ Sun|Direct|18°29'11.92" |Virgo|Simak|Venus|
+|♀ Venus|Direct|0°33'38.46" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|0°52'24.43" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|20°2'58.27" |Virgo|Simak|Mercury|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|

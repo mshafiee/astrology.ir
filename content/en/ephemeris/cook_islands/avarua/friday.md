@@ -299,13 +299,13 @@ Position of planets based on sidereal calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°56'43.17" |Pisces|FarghAlMuakhar|Jupiter|
-|♃ Jupiter|Direct|16°6'15.87" |Cancer|Tarf|Mercury|
-|♂ Mars|Direct|20°42'27.42" |Gemini|Dhira|Sun|
-|☉ Sun|Direct|19°56'26.81" |Leo|Zubrah|Jupiter|
-|♀ Venus|Direct|1°29'44.76" |Libra|Ghafr|Moon|
-|☿ Mercury|Direct|3°21'59.71" |Virgo|Sarfrah|Sun|
-|☾ Moon|Direct|9°58'48.38" |Virgo|Awwa|Sun|
+|♄ Saturn|Retrograde|12°56'43.18" |Pisces|FarghAlMuakhar|Jupiter|
+|♃ Jupiter|Direct|16°6'15.76" |Cancer|Tarf|Mercury|
+|♂ Mars|Direct|20°42'27.41" |Gemini|Dhira|Sun|
+|☉ Sun|Direct|19°56'26.80" |Leo|Zubrah|Jupiter|
+|♀ Venus|Direct|1°29'44.72" |Libra|Ghafr|Moon|
+|☿ Mercury|Direct|3°21'59.67" |Virgo|Sarfrah|Sun|
+|☾ Moon|Direct|9°58'48.89" |Virgo|Awwa|Sun|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -338,13 +338,13 @@ Position of planets based on tropical calculations at sunrise
 
 |Planet|Apparent Motion|Degree|Sign|Lunar Station|Face|
 |-|:-:|:-:|:-:|:-:|:-:|
-|♄ Saturn|Retrograde|12°56'43.17" |Aries|Butain|Sun|
-|♃ Jupiter|Direct|16°6'15.87" |Leo|Zubrah|Jupiter|
-|♂ Mars|Direct|20°42'27.42" |Cancer|Tarf|Moon|
-|☉ Sun|Direct|19°56'26.81" |Virgo|Simak|Venus|
-|♀ Venus|Direct|1°29'44.76" |Scorpio|Akleel|Mars|
-|☿ Mercury|Direct|3°21'59.71" |Libra|Ghafr|Moon|
-|☾ Moon|Direct|9°58'48.38" |Libra|Ghafr|Moon|
+|♄ Saturn|Retrograde|12°56'43.18" |Aries|Butain|Sun|
+|♃ Jupiter|Direct|16°6'13.55" |Leo|Zubrah|Jupiter|
+|♂ Mars|Direct|20°42'22.91" |Cancer|Tarf|Moon|
+|☉ Sun|Direct|19°56'12.19" |Virgo|Simak|Venus|
+|♀ Venus|Direct|1°29'20.77" |Scorpio|Akleel|Mars|
+|☿ Mercury|Direct|3°21'49.13" |Libra|Ghafr|Moon|
+|☾ Moon|Direct|8°27'25.47" |Libra|Ghafr|Moon|
 
 
 |Planet|Egyptian Term|Ptolemaic Term|Darigan|Ardagan|
@@ -366,7 +366,7 @@ Position of planets based on tropical calculations at sunrise
 |☉ Sun|Mars|Mercury|Aries|Sun|Moon|
 |♀ Venus|Mars|Moon|Scorpio|Moon|Mars|
 |☿ Mercury|Venus|Mars|Scorpio|Sun|Venus|
-|☾ Moon|Moon|Jupiter|Capricorn|Sun|Venus|
+|☾ Moon|Mercury|Jupiter|Capricorn|Sun|Venus|
 
 
 {{< /tab >}}
@@ -382,7 +382,7 @@ Position of planets based on tropical calculations at sunrise
 |<sub>**☉ Sun**|<sub> |<sub> |<sub>✱ Sextile|<sub>|<sub>|<sub></sub>|
 |<sub>**♀ Venus**|<sub> |<sub>□ Square|<sub>△ Trine|<sub>✱ Sextile|<sub>|<sub></sub>|
 |<sub>**☿ Mercury**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub></sub>|
-|<sub>**☾ Moon**|<sub>☍ Opposition|<sub>✱ Sextile|<sub>□ Square|<sub> |<sub> |<sub>☌ Conjunction</sub>|
+|<sub>**☾ Moon**|<sub> |<sub> |<sub>✱ Sextile|<sub>☌ Conjunction|<sub>✱ Sextile|<sub> </sub>|
 
 ---
 Alternate Names: Avaroua, Avarua, Avaruo, Avarúa, RAR, a wa lu a, abalua, abarua, avarua, avaruva, avharu'a, awarwa, awarya, xa wa raw, Αβαρούα, Аваруа, Ավարուա, אוורואה, آواروآ, آواریا, अव्हारुआ, அவாருவா, อะวารัว, ཨ་ཝ་རུ་ཨ།, ავარუა, アバルア, 阿瓦鲁阿, 아바루아
